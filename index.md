@@ -1,2 +1,7 @@
+---
+layout: default
+title: Homepage
+---
+
 # Main name
-This is the main page 2
+Homepage
