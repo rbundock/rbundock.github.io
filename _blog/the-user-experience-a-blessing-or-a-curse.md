@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "The User Experience – a blessing or a curse"
