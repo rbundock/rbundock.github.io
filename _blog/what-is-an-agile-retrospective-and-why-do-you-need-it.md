@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The User Experience – a blessing or a curse"
+title:  "What is an agile retrospective and why do you need it?"
 date:   2023-01-21
 ---
 
@@ -37,11 +37,11 @@ It’s not always pleasant, considering the fact that you’re supposed to discu
 
 It’s necessary for a scrum master or project manager to plan it and prepare some kind of scenario. You should definitely remember about:
 
-- Setting the stage
-- Gathering data
-- Generating insights
-- Deciding what to do
-- Closing
+- Setting the stage – each person says a few words about how they’re feeling working on a new project, whether everything is okay and if not – what is the problem; it’s also the point when you should all discuss the results from the last retrospective,
+- Gathering data – it’s important that every team member discusses the good and bad sides of the project and the process of working on it,
+- Generating insights – once you have all expressed your feelings, you should find what they’ve got in common, where they’re coming from and how they’re influencing your work,
+- Deciding what to do – the whole team tries to find a solution and decide who should take care of what and when,
+- Closing – summing up the meeting is always a great idea, each of the team members should provide the moderator with their own personal view of the retrospective.
 
 ## What can you do to make the team engage and cooperate?
 
