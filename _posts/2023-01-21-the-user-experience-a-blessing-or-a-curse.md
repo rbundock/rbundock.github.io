@@ -1,14 +1,11 @@
 
 ---
 layout: post
-title:  "Welcome to My Blog"
-date:   2023-09-12
-categories: jekyll update
+title:  "The User Experience – a blessing or a curse"
+date:   2023-01-21
 ---
 
 # The User Experience – a blessing or a curse
-
-**Tag:** user experience
 
 Most business owners have encountered the term 'user experience' at some point in their businesses lifetime. However, for many the user experience, or UX as it's otherwise known, is still an area they lack knowledge or experience in. This can often mean that your business misses out on all of the magical elements that need to come together in order for your customers to make a purchase from you.
 
