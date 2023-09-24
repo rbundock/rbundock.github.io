@@ -3,12 +3,12 @@ layout: default
 title: Blog
 ---
 
-<h1>All Posts</h1>
+<h1>All Blog Entries</h1>
 <ul>
-{% for post in site.posts %}
+{% for entry in site.blog %}
     <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        <small>{{ post.date | date: '%B %d, %Y' }}</small>
+        <a href="{{ entry.url }}">{{ entry.title }}</a>
+        <small>{{ entry.date | date: '%B %d, %Y' }}</small>
     </li>
 {% endfor %}
 </ul>
