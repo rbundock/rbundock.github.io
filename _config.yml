@@ -8,3 +8,6 @@ collections:
   blog:
     output: true
     permalink: /blog/:path/
+  services:
+    output: true
+    permalink: /blog/:path/
