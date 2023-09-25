@@ -1,7 +1,10 @@
 ---
-layout: default
+layout: homepage
 title: Homepage
 ---
 
+# HEADER
+
 # Main name
 Homepage
+
