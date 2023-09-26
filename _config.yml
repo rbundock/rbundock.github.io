@@ -10,7 +10,7 @@ collections:
     permalink: /blog/:path/
   services:
     output: true
-    permalink: /services/:path/
+    permalink: /:path/
   stories: 
     output: true
     permalink: /stories/:path/
