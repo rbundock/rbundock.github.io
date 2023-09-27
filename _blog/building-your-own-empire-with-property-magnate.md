@@ -43,24 +43,25 @@ Gamers can top up their credits through the app itself to buy more property and 
 
 Post-launch, the game will be enhanced with additional features such as:
 
-Members’ area 
+## Members’ area 
 It will be created on the games website, enabling gamers to trade their game credits with each other.
-Naming rights
+## Naming rights
 The games Estate Agencies will be badged with real-life agencies to enhance the effect and feel of the game. Gamers will also be able to visit the actual websites of those agencies.
-Off-plan developments
+## Off-plan developments
 Real developers and their developments will be added to the game allowing gamers to buy property “off-plan” and to visit those developers’ websites and view the developments coming on stream.
-Banking division
+## Banking division
 A banking arm is to be added to the game enabling gamers to leverage their portfolio and thus increase their portfolio size and growth.
-Property auctions
+## Property auctions
 A property auction agency is to be added, enabling gamers to both buy and sell property through a timed auction.
-Chat room
+## Chat room
 A chat room is to be added, enabling gamers to communicate with each other and sell the property to each other in discrete transactions.
-Trophy assets 
+## Trophy assets 
 A specialist agency is to be added to sell and trade-in trophy assets such as London Bridge, Buckingham Palace, The Shard, etc. A trophy asset tally will be added to the leader board so gamers can see who has the most.
-Alternative assets
+## Alternative assets
 Alternative assets of interest to high net worth investors such as antiques, jewellery, classic cars, sports cars, yachts and the like will be added through a specialist auction site and trading agency enabling gamers to further demonstrate their wealth and skill and emulate the lifestyle of real high rolling property entrepreneurs.
-Property development
+## Property development
 A specialist land and new homes agency will be added listing Greenfield Sites and property suitable for development enabling gamers to trade in and develop their assets to increase their wealth.
-Overseas properties
+## Overseas properties
 An overseas property agency is to be added, enabling gamers to buy in crucial overseas property areas and in time it is proposed that the game will be rolled out to full international status.
+
 Property Magnate is an exciting, real-life game that will bring tremendous enjoyment to its gamers and develop future property investors’ skills. You can find more information about the game here.
