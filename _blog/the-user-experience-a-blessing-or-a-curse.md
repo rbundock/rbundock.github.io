@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "The User Experience – a blessing or a curse"
-date:   2023-01-21
 ---
 
 # The User Experience – a blessing or a curse
@@ -41,3 +40,6 @@ The entire UX process is something that business owners should consider as a bas
 In the old days, web design decisions as they pertain to function were made according to what the designer thought was best for the brand, as well as what looked good. Today’s technology allows us to move far beyond just making websites functional and aesthetically-pleasing for their users. Today’s websites can get their message across to visitors using several elements such as dynamic content, rich features and interactivity.
 
 User interaction is no longer based on what the designer assumes will ‘work’. UX breaks through those barriers, giving both customers and businesses a place where accessibility, marketing, design, ergonomics and many other elements seamlessly combine.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzcyNzU4NzM5XX0=
+-->
