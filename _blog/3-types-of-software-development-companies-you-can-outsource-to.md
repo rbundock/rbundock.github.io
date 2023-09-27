@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "3 types of software development companies you can outsource to"
+---
 
 # 3 types of software development companies you can outsource to
 
