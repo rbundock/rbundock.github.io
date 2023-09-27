@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "4 signs your business needs systems integration"
+---
 
 # 4 signs your business needs systems integration
 Nowadays, digitalisation is an inevitable step for a business if they want to remain competitive. More and more companies are using online platforms and software solutions in order to boost their productivity and thus improve their service. Also, it is a great way to reach more customers. However, buying a tool is not enough – you need to know how to use it.
