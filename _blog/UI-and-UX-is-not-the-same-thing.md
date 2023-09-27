@@ -2,7 +2,7 @@
 layout: post
 title:  "UI and UX are not the same thing"
 ---
-# UI and UX are not the same thing
+
 If you are having your website or software developed, the term ‘design’ no longer provides a sufficient explanation. Technology has been evolving and this forces us to adapt to constantly growing expectations. That is why we increasingly hear of mysterious acronyms like UI and UX. But what do they mean? 
 
 The most common mistake while looking for a job, or having a conversation with someone outside of the software environment, is combining those two terms into one. Although User Interface (UI) and User Experience (UX) have many similarities, a key one being working on improving customer satisfaction, they should be seen separately.
