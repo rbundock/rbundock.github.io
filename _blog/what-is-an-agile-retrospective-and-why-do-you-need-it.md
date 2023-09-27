@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "What is an agile retrospective and why do you need it?"
-date:   2023-01-21
 ---
 
 # What is an agile retrospective and why do you need it?
@@ -54,5 +53,6 @@ The hardest thing for everyone is to open up. Discussing the problems is never c
 ## To sum up, why do you need retrospective meetings?
 
 They serve as some kind of catharsis. The team analyses issues they’re facing and what makes them feel safe and supported. You as a project manager or scrum master have a better view on both the project and the way your team works.
-
-## Thank you, Paul!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTUxMzg5MzU0XX0=
+-->
