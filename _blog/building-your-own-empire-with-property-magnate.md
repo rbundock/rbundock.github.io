@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Building your own empire with property magnate"
+---
+
+
 # Building your own empire with property magnate
 
 ## It is the ideal solution for would-be property tycoons
