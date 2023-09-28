@@ -17,16 +17,15 @@ Depending on the type of business, there are several kinds of enterprise softwar
 ## Benefits of enterprise software
 Implementing enterprise software enables multiple departments to function as one unit. Once your company starts using this solution, you will notice the following:
  
-
-### Saved time – with technology on board, you no longer have to spend hours on typing all the necessary data up. A software solution can be integrated with multiple internal systems from which it automatically generates insightful information, allowing you to complete a task with a single click and focus on more challenging tasks.
+***Saved time***  – with technology on board, you no longer have to spend hours on typing all the necessary data up. A software solution can be integrated with multiple internal systems from which it automatically generates insightful information, allowing you to complete a task with a single click and focus on more challenging tasks.
  
-### Reduced costs – automating administrative work is a great way to reduce operating costs, but enterprise software allows you to regain control of your expenses as well. With accurate insight into all of your invoices, whether you run a manufacturing firm or an estate agency, you can quickly spot any accounting errors.
+***Reduced costs***  – automating administrative work is a great way to reduce operating costs, but enterprise software allows you to regain control of your expenses as well. With accurate insight into all of your invoices, whether you run a manufacturing firm or an estate agency, you can quickly spot any accounting errors.
  
-### Improved communication – an instant access to all business data, which is updated automatically, allows employees to improve their collaboration within their teams and departments. As well as this, centralised communication enables employees to work from anywhere at any time.
+***Improved communication***  – an instant access to all business data, which is updated automatically, allows employees to improve their collaboration within their teams and departments. As well as this, centralised communication enables employees to work from anywhere at any time.
  
-### Eliminated paperwork – creating and storing all of the business documents is not only troublesome but also highly time and cost consuming. Luckily, enterprise software allows its users to automatically generate multiple documents and store them online in the cloud. This way, no document is missing or doubled.
+***Eliminated paperwork*** – creating and storing all of the business documents is not only troublesome but also highly time and cost consuming. Luckily, enterprise software allows its users to automatically generate multiple documents and store them online in the cloud. This way, no document is missing or doubled.
  
-### Increased efficiency – information visibility and transparency within an organisation make decision-making processes more accurate and thus drives sales. Additionally, employees can easily track their overall performance to spot any inefficiencies and discover new opportunities.
+***Increased efficiency*** – information visibility and transparency within an organisation make decision-making processes more accurate and thus drives sales. Additionally, employees can easily track their overall performance to spot any inefficiencies and discover new opportunities.
  
 ## Types of enterprise software
 Depending on the goal your company wants to achieve, you can choose from multiple enterprise software solutions, which all offer automation and great support to your team, but do so with different tools. The most popular enterprise software solutions are:
