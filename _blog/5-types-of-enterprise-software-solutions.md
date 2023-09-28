@@ -31,7 +31,7 @@ Implementing enterprise software enables multiple departments to function as one
 Depending on the goal your company wants to achieve, you can choose from multiple enterprise software solutions, which all offer automation and great support to your team, but do so with different tools. The most popular enterprise software solutions are:
  
 
-### 1.Customer Relationship Management (CRM)
+### [1.Customer Relationship Management](https://headchannel.co.uk/blog/what-is-a-crm-and-its-benefits/) (CRM)
 This technology solution enables you to better manage all of your external relationships and interactions with both existing and potential customers. The purpose is to improve sales by improving customer experience.
 
 You can store all customer information in one central location in order to gain a clear view of your clients and be able to identify sales opportunity. The visibility allows every team member to check the entire history of a given customer and analyse it in order to improve future interactions.
@@ -43,19 +43,19 @@ Before driving sales, you first have to attract potential customers online and g
 There is no need for you to know anything about programming and you still can create and publish amazing content online. It allows you to drive search traffic and gain better visibility. As well as this, you can save hours of work by using templates and thus improving the design of your website.
  
 
-### 3.Supply Chain Management (SCM)
+### 3.[Supply Chain Management](https://headchannel.co.uk/blog/what-is-a-scm-and-its-benefits/) (SCM)
 Without measuring their performance, manufacturing companies might be wasting great amounts of money on raw materials they will never use. The software enables you to thoroughly plan and manage every phase of producing and manufacturing their product to meet the needs of their customers.
 
 Introducing all business data into one system and following all of the sourcing, production and shipping processes online allow you to gain better visibility of your company. You are able to save money on supplying and managing multiple warehouses and provide your customers with a product of a much better quality in a much shorter period of time.
  
 
-### 4.Ecommerce
+### 4.[Ecommerce](https://headchannel.co.uk/blog/what-is-ecommerce-software-and-its-benefits/)
 Buying online may seem simple and comfortable, but there is a wide range of complex processes which make it possible. Ecommerce software solution makes running an online store easy by automating and analysing multiple processes, including managing products, customer service and accounting.
 
 The solution allows you to run your store from one place, enabling you to integrate with multiple internal systems such as social media. Every action you take, including publishing offers, shipping a product and calculating taxes, is archived, which allows you to analyse and improve your overall performance and to meet the requirements of your customers better.
  
 
-### 5.Enterprise Resource Planning (ERP)
+### 5.[Enterprise Resource Planning](https://headchannel.co.uk/blog/what-is-an-erp-and-its-benefits/) (ERP)
 Regardless of the industry, the communication between multiple departments is often the key to success. An Enterprise Resource Planning improves the collaboration by integrating various systems from different departments including marketing, human resources and warehouse into one solution.
 
 By improving the visibility of data, you improve the overall performance of your company. When all departments stay updated, you are able to provide better customer service and make better business decisions in a shorter period of time.
