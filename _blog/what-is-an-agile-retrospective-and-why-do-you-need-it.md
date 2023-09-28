@@ -36,11 +36,15 @@ It’s not always pleasant, considering the fact that you’re supposed to discu
 
 It’s necessary for a scrum master or project manager to plan it and prepare some kind of scenario. You should definitely remember about:
 
-- Setting the stage – each person says a few words about how they’re feeling working on a new project, whether everything is okay and if not – what is the problem; it’s also the point when you should all discuss the results from the last retrospective,
-- Gathering data – it’s important that every team member discusses the good and bad sides of the project and the process of working on it,
-- Generating insights – once you have all expressed your feelings, you should find what they’ve got in common, where they’re coming from and how they’re influencing your work,
-- Deciding what to do – the whole team tries to find a solution and decide who should take care of what and when,
-- Closing – summing up the meeting is always a great idea, each of the team members should provide the moderator with their own personal view of the retrospective.
+***Setting the stage*** – each person says a few words about how they’re feeling working on a new project, whether everything is okay and if not – what is the problem; it’s also the point when you should all discuss the results from the last retrospective,
+
+***Gathering data*** – it’s important that every team member discusses the good and bad sides of the project and the process of working on it,
+
+***Generating insights*** – once you have all expressed your feelings, you should find what they’ve got in common, where they’re coming from and how they’re influencing your work,
+
+***Deciding what to do*** – the whole team tries to find a solution and decide who should take care of what and when,
+
+***Closing*** – summing up the meeting is always a great idea, each of the team members should provide the moderator with their own personal view of the retrospective.
 
 ## What can you do to make the team engage and cooperate?
 
@@ -53,6 +57,4 @@ The hardest thing for everyone is to open up. Discussing the problems is never c
 ## To sum up, why do you need retrospective meetings?
 
 They serve as some kind of catharsis. The team analyses issues they’re facing and what makes them feel safe and supported. You as a project manager or scrum master have a better view on both the project and the way your team works.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzg5MzU0XX0=
--->
+
