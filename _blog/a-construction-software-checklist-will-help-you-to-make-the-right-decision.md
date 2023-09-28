@@ -36,9 +36,13 @@ This is partly why having the right project management tool can make a significa
 Once you have answered those questions, here are a few features that you should also look out for when picking a system.
 
 ***Real-time Updates***: As well as needing to be able to keep track of what’s going on around your project instantaneously, stakeholders should also be able to estimate the construction project completion time. The system should give you the ability to monitor the progress of your project at any moment.
+
 ***Easy to use reporting tools***: The system should have a simple reporting tool in order to empower communication between all sides. This will increase productivity within the project and simplify task management.
+
 ***Unlimited accessibility***: While working on a construction project, unhindered access to the project is key. It is therefore essential that the system can be accessed through a mobile platform. You have to be able to use your mobile on-site and report on project updates.
+
 ***Secure Cloud Hosting***: The system should be able to securely store all your information. Top level security for all your data is crucial.
+
 ***Issue Tracking***: You should be able to track issues easily within the system by documenting them so that stakeholders are able to follow up.
 
 Once you have researched the project management tools out there, go over the questions and key features listed above and ask yourself whether there is anything missing. This will help you to find a solution that can save your business a lot of time and money. At Headchannel we have strong experience building bespoke software solutions within the construction industry, not only helping our clients streamline their workflow and complete projects smoothly, but ensuring they have a long-lasting tool which caters to all their unique business needs. Furthermore, we provide assistance with training, user adoption and tool maintenance, to help clients get the most out of their project management tool.
