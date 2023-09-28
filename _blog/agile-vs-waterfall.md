@@ -13,7 +13,7 @@ Whether a project management methodology used by a software development company 
  
 
 ## What is the Waterfall methodology
-Rather classical, the waterfall methodology is a linear and plan-driven approach which assumes that the software development would be completed sequentially, that is by finishing one stage before starting the next one. Requirements must be gathered and discussed upfront to estimate the scope of work accurately, but that is the only phase in which you need to get involved. This methodology is recommended for smaller projects where the requirements are clear and where, preferably, both parties have decided to choose a fixed-price contract.
+Rather classical, the waterfall methodology is a linear and plan-driven approach which assumes that the software development would be completed sequentially, that is by finishing one stage before starting the next one. Requirements must be gathered and discussed upfront to estimate the scope of work accurately, but that is the only phase in which you need to get involved. This methodology is recommended for smaller projects where the requirements are clear and where, preferably, both parties have decided to choose a [fixed-price contract](https://headchannel.co.uk/blog/team-extension-managed-services-and-fixed-price-projects-for-whom-how-much-when-and-why/).
  
 
 ## Advantages of the Waterfall methodology
