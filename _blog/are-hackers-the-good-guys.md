@@ -7,7 +7,7 @@ Back in 2015, director Sam Esmail turned the world upside down with his new asto
  
 
 ## What is a hacker
-As the term hacker has been misused for years, only few people know its older meaning. Until around 1975 the word did not refer to someone who gains unauthorized access to computer records, but rather to someone who enjoys programming for its own sake. The Jargon File, the most popular glossary of computer programmer slang, defines a hacker as “a person who enjoys exploring the details of programmable systems and how to stretch their capabilities, as opposed to most users, who prefer to learn only the minimum necessary“. As you can see, the definition says nothing about breaking the law. Who does then?
+As the term hacker has been misused for years, only few people know its older meaning. Until around 1975 the word did not refer to someone who gains unauthorized access to computer records, but rather to someone who enjoys programming for its own sake. [The Jargon File](http://catb.org/jargon/html/index.html), the most popular glossary of computer programmer slang, defines a hacker as “a person who enjoys exploring the details of programmable systems and how to stretch their capabilities, as opposed to most users, who prefer to learn only the minimum necessary“. As you can see, the definition says nothing about breaking the law. Who does then?
  
 
 ## What a hacker is not
@@ -17,7 +17,7 @@ The very first students from the Massachusetts Institute of Technology may be ju
  
 
 ## Hacker ethics
-What most people might not be aware of is there are various kinds of hackers and the differences between them are nowhere near subtle. The most popular division of the hacker society is into so called white hats and black hats and the easiest way to understand those two is as ethical and non-ethical hackers, because yes, hacker ethics do exist. As Robert Steele, CEO of Open Source Solution said in an interview in PBS: “Hacking is a very important skill set in our society, because these are the experts in how the systems work and how the systems fail. The people who use that expertise for bad are bad people. People who use that expertise for good are good people“.
+What most people might not be aware of is there are various kinds of hackers and the differences between them are nowhere near subtle. The most popular division of the hacker society is into so called white hats and black hats and the easiest way to understand those two is as ethical and non-ethical hackers, because yes, hacker ethics do exist. As Robert Steele, CEO of Open Source Solution said in an [interview in PBS](https://www.pbs.org/wgbh/pages/frontline/shows/hackers/whoare/outlaws.html): “Hacking is a very important skill set in our society, because these are the experts in how the systems work and how the systems fail. The people who use that expertise for bad are bad people. People who use that expertise for good are good people“.
  
 
 ## White hats
@@ -29,10 +29,10 @@ If I was to describe black hats with just one word, it would be criminals. This 
  
 
 ## Grey hats
-As I have already mentioned earlier, the world is never black and white and it is the same in hacker society. It is hard to identify some hackers as white or black hats as they do not necessarily look for their own gratification, but still break the law. This group of hackers is called grey hats and the best way to understand what they are is to think of Anonymous. This group of activists from all over the globe has hacked a lot of government websites and security corporations, but they do that in order to fight corruption, ISIS or Ku Klux Klan whose Twitter account the Anonymous have broken into after the KKK had threatened protesters in Ferguson, Missouri.
+As I have already mentioned earlier, the world is never black and white and it is the same in hacker society. It is hard to identify some hackers as white or black hats as they do not necessarily look for their own gratification, but still break the law. This group of hackers is called grey hats and the best way to understand what they are is to think of Anonymous. This group of activists from all over the globe has hacked a lot of government websites and security corporations, but they do that in order to fight corruption, ISIS or [Ku Klux Klan](https://www.theguardian.com/technology/2014/nov/17/anonymous-takes-over-ku-klux-klans-twitter-account?CMP=fb_gu) whose Twitter account the Anonymous have broken into after the KKK had threatened protesters in Ferguson, Missouri.
  
 
 ## How to become a hacker
-Starting with “learn how to programme” may sound ridiculous, but the fundamental skills are usually the most important ones. Eric Steven Raymond, the author of The Jargon File, has created a great offline guidebook for newbies and hacking enthusiasts, gathering all important answers and questions in one place. The job, however, is never easy as we are living in a technological era where new solutions are invented every single day, especially when it comes to cyber security.
+Starting with “learn how to programme” may sound ridiculous, but the fundamental skills are usually the most important ones. Eric Steven Raymond, the author of The Jargon File, has created a great [offline guidebook](http://catb.org/~esr/faqs/hacker-howto.html) for newbies and hacking enthusiasts, gathering all important answers and questions in one place. The job, however, is never easy as we are living in a technological era where new solutions are invented every single day, especially when it comes to cyber security.
 
 ### Hopefully, you now know the difference between good and bad hackers and see how essential the job of white hats is. Coming back to Mr Robot, which hat do you think Elliot wore?
