@@ -5,11 +5,11 @@ title:  "8 advantages of bespoke software (part 2)"
 
 The undeniable advantages of bespoke software solutions are attracting more and more companies. The system is designed and developed to meet all of your specific requirements and thus to help your business to succeed. However, many people still believe custom software are dedicated to unique industries only. As bespoke software development specialists, we want to show you that every business can benefit from it.
 
-As opposed to tailor-made solutions, there are off-the-shelf products. Such software are developed for the mass market to meet the needs of as many companies as possible. Unfortunately, the most popular functionalities are not always enough, this is why it is sometimes better not to go with the flow. I have explained the differences between off-the-shelf and bespoke software solutions here.       
+As opposed to tailor-made solutions, there are off-the-shelf products. Such software are developed for the mass market to meet the needs of as many companies as possible. Unfortunately, the most popular functionalities are not always enough, this is why it is sometimes better not to go with the flow. I have explained the differences between off-the-shelf and bespoke software solutions [here](https://headchannel.co.uk/blog/bespoke-software-vs-off-the-shelf-software/).       
 
  
 ## How bespoke software help you on a daily basis
-In part one, I have discussed the advantages of tailor-made solutions which enable your company to grow in the long term. With proper features, you and your employees can learn to manage your time better and save money, which helps your business to remain competitive and prosper. Now, I would like to explain how bespoke software solutions can help you to become more productive and thus improve the general workflow of your organisation.
+In [part one](https://headchannel.co.uk/blog/8-benefits-of-bespoke-software/), I have discussed the advantages of tailor-made solutions which enable your company to grow in the long term. With proper features, you and your employees can learn to manage your time better and save money, which helps your business to remain competitive and prosper. Now, I would like to explain how bespoke software solutions can help you to become more productive and thus improve the general workflow of your organisation.
  
 ### 5.Control
 The hardest part of running a business is actually owning it. When you are not feeling stable, things may very easily get out of control. Luckily, a bespoke software can help in gaining it back because of:
