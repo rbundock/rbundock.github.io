@@ -40,9 +40,9 @@ With systems integration, there is no need to worry. The information flows betwe
 
 
 ## Check out our selected projects related to systems integration
-### Salesforce and Smartsheet systems integration for Smiley World
-### CRM and student records systems integration for Bedford College
-### Integration with DIMONA for bespoke staffing management software
+- Salesforce and Smartsheet systems integration for Smiley World
+- CRM and student records systems integration for Bedford College
+- Integration with DIMONA for bespoke staffing management software
 If you have noticed that your company is experiencing any of the signs above, system integration is the solution. Nowadays, regular data flow is crucial for your business to succeed. It enables your employees to focus on performing more challenging activities and developing new skills, it also reduces the risk of errors that happen often when entering data manually. Systems integration allows you to build a team of experienced and skilled professionals who can grow along with your company and help you to save money.
 
 If you would like to talk about how HeadChannel can help you improve the workflow of your company, contact us. We have performed countless systems integrations and every one of them has made a huge difference for the company.
