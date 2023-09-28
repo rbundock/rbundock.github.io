@@ -6,7 +6,7 @@ title:  "What is an agile retrospective and why do you need it?"
 # What is an agile retrospective and why do you need it?
 ## What is an agile retrospective? Who arranges it, when and what for?
 
-According to PWC’s [20th CEO Survey]([https://www.pwc.com/gx/en/issues/technology/emea-cloud-business-survey](https://www.pwc.com/gx/en/issues/technology/emea-cloud-business-survey.html) , almost a quarter of CEOs singled out innovation as their top priority for 2017. I asked our Project Manager Paul Klich for his opinion.
+According to PWC’s [20th CEO Survey]([https://www.pwc.com/gx/en/issues/technology/emea-cloud-business-survey](https://www.pwc.com/gx/en/issues/technology/emea-cloud-business-survey.html , almost a quarter of CEOs singled out innovation as their top priority for 2017. I asked our Project Manager Paul Klich for his opinion.
 
 ## Can focusing on innovation itself make you succeed?
 
