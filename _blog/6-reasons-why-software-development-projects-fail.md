@@ -10,14 +10,14 @@ Gathering requirements is the very first step of the entire process of software 
 
 Solution
 
-Write down your specific requirements and prepare relevant documents upfront in order to improve the process of business analysis. You can find tips on what to pay attention to during this phase here.
+Write down your specific requirements and prepare relevant documents upfront in order to improve the process of business analysis. You can find tips on what to pay attention to during this phase [here](https://headchannel.co.uk/blog/things-to-pay-close-attention-to-during-business-analysis/).
 
 ## 2. Unrealistic expectations
 Customers don’t need to know what the process of software development looks like and, more importantly, how long it may last, which is why they usually ask for their project to be delivered as soon as possible, at the lowest cost and highest quality. No matter how unrealistic those expectations are, some companies tend to agree to such requirements as long as they win the project. What follows next is, unsurprisingly, disappointment. After all, money and time play a vital role in the eventual success or failure of a project, which is why committing to poor budgeting and scheduling before all the requirements are gathered and analysed always ends in failure.
 
 Solution
 
-If you want your future software to be of good quality, be realistic about the budget and timing. Complex projects take time. If you have a limited budget or simply are in a hurry, choose a payment method that suits you. You can read more about the two most popular of them here.
+If you want your future software to be of good quality, be realistic about the budget and timing. Complex projects take time. If you have a limited budget or simply are in a hurry, choose a payment method that suits you. You can read more about the two most popular of them [here](https://headchannel.co.uk/blog/time-material-vs-fixed-price/).
 
 ## 3. Poor communication
 When we talk about effective and seamless communication, we focus on communicating externally with customers, but internal communication between the departments is equally important, especially when they work on the same project. Not having a healthy work environment is another thing which may lead your project to failure because when the team manages to share knowledge and exchange information and ideas openly and willingly, they are more likely to create strong business relationships with their customers. However, rather than assuming things you should ask as many questions as you need in order to fully understand the situation. 
@@ -38,7 +38,7 @@ Even though IT is one of the fastest-growing industries, and the number of tools
 
 Solution
 
-Depending on how clear your requirements are, you can find a vendor whose workflow suits your project. If you are still struggling to determine your needs, a company using Agile practices should be your choice. You can find more on different software development methodologies here. 
+Depending on how clear your requirements are, you can find a vendor whose workflow suits your project. If you are still struggling to determine your needs, a company using Agile practices should be your choice. You can find more on different software development methodologies [here](https://headchannel.co.uk/blog/agile-vs-waterfall/). 
 
 ## 6. Poor testing
 When a software development company struggles to deliver the product on time, it’s always the testing that suffers. Tests are performed in a hurry and thus inaccurately, which results in a product filled with bugs which are not necessarily detected right away. One of the best practices which ensure customer satisfaction is to enable customer experience testing. That way, a software development company knows not only that the end product is bugless, but more importantly that the client is comfortable with the software.  Additionally, it cuts the time you most probably will have to spend on learning how to use it.
