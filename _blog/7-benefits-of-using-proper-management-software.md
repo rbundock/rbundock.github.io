@@ -3,14 +3,14 @@ layout: post
 title:  "7 benefits of using proper management software"
 ---
 
-For many property managers, handling their routine tasks consists of a large number of juggling tasks around. Manually performing such business operations as tracking rent payments and managing maintenance requests is highly time-consuming and often overwhelming, and these processes form only a small part of what property managers face on a daily basis. Luckily, there is a solution that is attracting more and more companies: property management software.
+For many property managers, handling their routine tasks consists of a large number of juggling tasks around. Manually performing such business operations as tracking rent payments and managing maintenance requests is highly time-consuming and often overwhelming, and these processes form only a small part of what property managers face on a daily basis. Luckily, there is a solution that is attracting more and more companies: [property management software](https://headchannel.co.uk/).
 
 Property management software enables its users to automate multiple business operations which usually require hours of work. What is more, the benefits coming from implementing such software go far beyond saving time. If you wonder how your company can benefit from having property management software designed and developed, we provide the answer.
 
 ## Bespoke property management software
 You can find various ready-to-use property management software solutions. Their main disadvantage is the fact that they are produced for the mass market, which means they contain a wide range of functionalities to meet the needs of as many property managers as possible. However, you may find a lot of these functionalities unnecessary and useless, and there is no point in paying for features your business will never use. That is why it is beneficial to use custom property management software developed especially to suit your requirements.
 
-Read also a case study –  Property maintenance portal for Hamways 
+Read also a case study –  [Property maintenance portal for Hamways](https://headchannel.co.uk/stories/property-maintenance-portal/) 
 
 ## Main problems of property managers
 The best way to build a perfect property management software is to know exactly what problems it should be solving. Things that most property managers struggle with on a daily basis are:
