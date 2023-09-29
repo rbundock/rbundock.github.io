@@ -33,13 +33,9 @@ In May 2017, at the Google I / O conference, it was announced that Kotlin would 
 According to the TIOBE index (https://www.tiobe.com/tiobe-index/), Kotlin is already 35th in the ranking. When in August he was 80th. Among the brands that use Kotlin in their products, we can find companies such as Amazon Web Services, Netflix, Uber, Square, Trello, or Evernote.
 
 ## Science
-It is best to start learning the basin at https://kotlinlang.org. All the necessary materials are there.
+It is best to start learning the basics at https://kotlinlang.org. All the necessary materials are there.
 
 Another site that you can actively use to learn the Kotlin language is https://play.kotlinlang.org
-
-It is best to start learning the basin at https://kotlinlang.org. All the necessary materials are there.
-
-Another site that you can actively use to learn the Kotlin language is https://play.kotlinlang.org/.
 
 There is also an “Examples” tab with a description of the syntax that you can immediately run.
 
