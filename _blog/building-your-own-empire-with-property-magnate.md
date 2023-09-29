@@ -55,7 +55,7 @@ A property auction agency is to be added, enabling gamers to both buy and sell p
 - **Chat room**
 A chat room is to be added, enabling gamers to communicate with each other and sell the property to each other in discrete transactions.
 
--**Trophy assets**
+- **Trophy assets**
 A specialist agency is to be added to sell and trade-in trophy assets such as London Bridge, Buckingham Palace, The Shard, etc. A trophy asset tally will be added to the leader board so gamers can see who has the most.
 
 - **Alternative assets**
