@@ -19,16 +19,16 @@ For true digital transformation, colleges and universities need a unified IT sol
 ## Key benefits of digital transformation
 True digital transformation delivers a number of key benefits to a tertiary institution, including significant advantages from the outset on stakeholder time and productivity. Less time is spent on ‘manual data synchronisation’, and activities are both more inclusive and more efficient.
 
-- ### 1. Time savings, improved productivity
+- ### 1.  Time savings, improved productivity
 Staff, faculty and students no longer need to spend time on manual and repetitive tasks, leading to lower productivity and compromising the time they have to tackle true value-adding duties. Activities such as data input can be done by end users, and once data is received, it can be used whenever needed.
 
-- ### 2. Security and error reduction
+- ### 2.  Security and error reduction
 Storing data in a central, secure repository not only augments security and resistance to breaches, but also eliminates the errors and losses that creep in when data is transitioned manually between several systems.
 
-- ### 3. Improved agility and futureproofing
+- ### 3.  Improved agility and futureproofing
 Digital transformation renders tertiary education institutions better able to address the needs of digital-native student bodies, attract more overseas students and offer more distanced learning options as they move into the future.
 
-- ### 4. Better decision making
+- ### 4.  Better decision making
 One of the core benefits of digital transformation is the enhanced visibility it provides into business performance. Centrally stored and well-organised real-time data is the foundation of high-quality analytics. Consequently, leaders can make well-informed, accurate decisions faster.
 
 
