@@ -22,11 +22,11 @@ The simplest way to describe cloud computing is to say that it is similar to Saa
 
 There are several different kinds of cloud computing options in use by business. These include:
 
-### Private Cloud – where the cloud computing service is built within a business’s walls. This option is managed by an internal IT department, and is ideal for companies wanting greater control over the cloud.
+- **Private Cloud** – where the cloud computing service is built within a business’s walls. This option is managed by an internal IT department, and is ideal for companies wanting greater control over the cloud.
 
-### Public Cloud – where the cloud platform is built on an external platform and run by a provider, who offers security, maintenance and system resources in exchange for a fee. Businesses looking for a greater degree of cost-effectiveness and elasticity, as well as access to the latest technology may find the public cloud to be their ideal solution.
+- **Public Cloud** – where the cloud platform is built on an external platform and run by a provider, who offers security, maintenance and system resources in exchange for a fee. Businesses looking for a greater degree of cost-effectiveness and elasticity, as well as access to the latest technology may find the public cloud to be their ideal solution.
 
-### Hybrid Cloud – The hybrid cloud uses both private and public clouds to provide its services to businesses.
+- **Hybrid Cloud** – The hybrid cloud uses both private and public clouds to provide its services to businesses.
 
 Part of the cloud may be managed in-house by an IT department, while the rest is managed by a provider. Companies wanting to manage more private information themselves while storing other, non-sensitive data elsewhere may find the hybrid cloud model to be useful.
  
@@ -34,25 +34,26 @@ Part of the cloud may be managed in-house by an IT department, while the rest is
 ## Payroll/accounting software
 Software to manage payroll and accounting departments is crucial to every business. Whether large or small, any business can benefit from payroll and accounting software. However, before any brand of software is chosen, the business must first evaluate its needs.
 
-### Any of the following are signs that accounting software could help your business:
-The business is growing or you plan to expand it
-You’ve just started your business
-Your operations need streamlining
-You want to comply with regulations
-You want on-demand access to information
+#### Any of the following are signs that accounting software could help your business:
+- The business is growing or you plan to expand it
+- You’ve just started your business
+- Your operations need streamlining
+- You want to comply with regulations
+- You want on-demand access to information
+  
 Any business that does not want to do their accounting themselves, but needs an efficient way to manage finances will find that implementing software is the way to go.
  
 
 ## HR software
 HR software allows for the storage of employee information in a single location. It can also allow for the easy tracking of employee history, and quick retrieval of employee information.
 
-It can also help with the organisation of the following:
-
-Benefits
-Wages
-Time off
-Incidents
-Documents
+#### It can also help with the organisation of the following:
+- Benefits
+- Wages
+- Time off
+- Incidents
+- Documents
+  
 In addition to the ability to organise virtually all manner of employee information, HR software also allows for the increased security of personnel files, as access levels can be set and restrictions can be set on the information accessed.
  
 
