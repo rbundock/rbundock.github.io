@@ -15,7 +15,7 @@ There are several types of businesses that you can work with. Always make sure t
 ## 1. Sole traders
 You will have no trouble finding freelance developers all over the world. Some of them work independently and some as a part of small teams of self-employed developers.
 
-## Advantages
+### Advantages
 
 **Low cost**  – Independent professionals often offer lower prices than bigger companies, especially on small projects. You can also negotiate to lower the price even more.
 
@@ -23,7 +23,7 @@ You will have no trouble finding freelance developers all over the world. Some o
 
 **Personalised customer service** – While working with sole traders you can count on more intense contact and a higher degree of personalised customer service.
 
-## Disadvantages
+### Disadvantages
 
 **No backup** – If the developers encounter any problems there is usually no other colleague who can take care of further development.
 
@@ -34,7 +34,7 @@ You will have no trouble finding freelance developers all over the world. Some o
 ## 2. Large corporate developer
 The biggest development companies claim to have the biggest areas of experience, skills and competitive prices but the reality is sometimes far from perfection and what you would hope for.
 
-## Advantages
+### Advantages
 
 **Big project capacity** – huge corporations have an ability to take care of many projects simultaneously. They can also take care of huge projects or very complicated ones.
 
@@ -51,7 +51,7 @@ The biggest development companies claim to have the biggest areas of experience,
 ## 3. Offshore software development house
 There are a number of IT and development companies based outside of the UK, not only in India or China but literally all over the world. Carefully chosen partners can be a huge ally.
 
-## Advantages
+### Advantages
 
 **Low cost** – offshore agencies often offer far lower prices than competitors from the UK. It is sometimes caused by less rigorous processes or lower employment costs. A lower price does not mean lower quality.
 
@@ -59,7 +59,7 @@ There are a number of IT and development companies based outside of the UK, not 
 
 **Choice** – There are hundreds of different offshore agencies to choose from. You should be able to find exactly what you need in terms of skills, experience and other requirements.
 
-## Disadvantages
+### Disadvantages
 
 **Misunderstandings** – sometimes there might occur a problem of misunderstanding especially when the people designing the solution are not familiar with the customer’s culture.
 
