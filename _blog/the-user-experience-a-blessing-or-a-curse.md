@@ -33,13 +33,10 @@ Contrary to popular belief, the cost to hire a UX professional is far less than 
 
 Thinking that you don’t need assistance when sculpting your site’s UX can sometimes end up costing you more. The truth of the matter is that no business sets out to provide customers with a bad UX. However, seeing that customers are having a bad experience and doing nothing about it can spell disaster.
 
-The entire UX process is something that business owners should consider as a base requirement for their company’s success, and not an addition to what they may already be doing. Experts warn that thinking of UX as a low priority option can result in ideas for products and services becoming stagnant.
+The entire UX process is something that business owners should consider as a base [requirement](https://headchannel.co.uk/blog/a-guide-to-requirement-gathering/) for their company’s success, and not an addition to what they may already be doing. Experts warn that thinking of UX as a low priority option can result in ideas for products and services becoming stagnant.
 
 ## Graphics with UX
 
 In the old days, web design decisions as they pertain to function were made according to what the designer thought was best for the brand, as well as what looked good. Today’s technology allows us to move far beyond just making websites functional and aesthetically-pleasing for their users. Today’s websites can get their message across to visitors using several elements such as dynamic content, rich features and interactivity.
 
 User interaction is no longer based on what the designer assumes will ‘work’. UX breaks through those barriers, giving both customers and businesses a place where accessibility, marketing, design, ergonomics and many other elements seamlessly combine.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyNzU4NzM5XX0=
--->
