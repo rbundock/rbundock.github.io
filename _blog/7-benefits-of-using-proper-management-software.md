@@ -32,8 +32,7 @@ Running financial records manually is highly prone to errors. Not only is remind
 
 Automation, which follows implementing property management software, solves most of the problems that property managers struggle with on a daily basis. It does so by enabling you to achieve the following:
  
-
- ### 1. Real-time access to information
+### 1. Real-time access to information
 
 You either keep all the necessary information on spreadsheets on your laptop or in great piles of documents, which disables you from working anywhere else but your office.
 
