@@ -9,7 +9,7 @@ title:  "Building your own empire with property magnate"
 ## It is the ideal solution for would-be property tycoons
 Potential property tycoons can start building their empire thanks to a significant new app launched on iOS and Android via the Google Play Store and App Store.
 
-Property Magnate is the most realistic virtual reality property and investment trading game designed to emulate the building of a real property portfolio on a virtual reality platform. It uses real properties (under licence) from the Zoopla database and creates a real-life environment enabling gamers to search for and buy real-life residential and commercial property on the market created by the game.
+[Property Magnate](https://headchannel.co.uk/stories/real-estate-mobile-game/) is the most realistic virtual reality property and investment trading game designed to emulate the building of a real property portfolio on a virtual reality platform. It uses real properties (under licence) from the Zoopla database and creates a real-life environment enabling gamers to search for and buy real-life residential and commercial property on the market created by the game.
 
 It is the ideal solution for would-be property tycoons
 
@@ -64,4 +64,4 @@ A specialist land and new homes agency will be added listing Greenfield Sites an
 ## Overseas properties
 An overseas property agency is to be added, enabling gamers to buy in crucial overseas property areas and in time it is proposed that the game will be rolled out to full international status.
 
-Property Magnate is an exciting, real-life game that will bring tremendous enjoyment to its gamers and develop future property investors’ skills. You can find more information about the game here.
+Property Magnate is an exciting, real-life game that will bring tremendous enjoyment to its gamers and develop future property investors’ skills. You can find more information about the game [here](https://headchannel.co.uk/stories/real-estate-mobile-game/).
