@@ -14,21 +14,21 @@ Basically, your first step should be to recognize whether you really need the ma
 If you have carefully thought through all of the above issues, and you continue to believe that big data is definitely worth your company’s investment before you actually get started, you also have to check what the advantages and disadvantages of Big Data implementation are:
 
 ## Profits
-### Knowledge – information brings power, if there is a possibility to know more about the market or customers than your competitors do, there is a chance to be one step ahead of them.
+- **Knowledge** – information brings power, if there is a possibility to know more about the market or customers than your competitors do, there is a chance to be one step ahead of them.
 
-### Capabilities – Big Data provides many new and interesting capabilities, if you have an opportunity to analyse more information, you will have many more ideas on how you can use it.
+- **Capabilities** – Big Data provides many new and interesting capabilities, if you have an opportunity to analyse more information, you will have many more ideas on how you can use it.
  
-### Expansion – when you aspire to invest in a large sector of the economy, you need new employees. Job creation provides an opportunity for a company to grow significantly and increase revenue.
+- **Expansion** – when you aspire to invest in a large sector of the economy, you need new employees. Job creation provides an opportunity for a company to grow significantly and increase revenue.
  
-### Prestige – maybe it is not as important as the other advantages, but companies using Big Data are seen as far more complex, having more influence and business opportunities, as well as more respect and significance on the market.
+- **Prestige** – maybe it is not as important as the other advantages, but companies using Big Data are seen as far more complex, having more influence and business opportunities, as well as more respect and significance on the market.
 
 ## Risks
-### Money – really, Big Data is a huge investment. Of course there is open-source software available on the market, but you will have to pay for servers, employees, trainings and other smaller changes like updating your website or your commercial offer.
+- **Money** – really, Big Data is a huge investment. Of course there is open-source software available on the market, but you will have to pay for servers, employees, trainings and other smaller changes like updating your website or your commercial offer.
 
-### Employees – as mentioned in the previous paragraph, one thing that is very important to remember is the systems and architecture that your developers have worked with so far. It is possible that you will have to purchase all sorts of training courses to make it possible for your employees to master certain topics.
+- **Employees** – as mentioned in the previous paragraph, one thing that is very important to remember is the systems and architecture that your developers have worked with so far. It is possible that you will have to purchase all sorts of training courses to make it possible for your employees to master certain topics.
 
-### Utility – in order for something to actually create profit, it must be skilfully used, you need to use available opportunities to the fullest. Unfortunately, Big Data is quite complicated, also it does not work that well in each industry.
+- **Utility** – in order for something to actually create profit, it must be skilfully used, you need to use available opportunities to the fullest. Unfortunately, Big Data is quite complicated, also it does not work that well in each industry.
  
-### Competition – As mentioned, this topic is currently very ‘hot’ and that causes a sharp increase in competition. As a company that will enter this industry, you must be careful because your opponents may simply not allow you to succeed, by capturing your customers or surpassing your offer.
+- **Competition** – As mentioned, this topic is currently very ‘hot’ and that causes a sharp increase in competition. As a company that will enter this industry, you must be careful because your opponents may simply not allow you to succeed, by capturing your customers or surpassing your offer.
  
 In summary, you need to come up with a strategy. Start by researching the market, especially the major companies with which you are competing. Then make a list of pros and cons. Ask yourself the following questions. Seriously think about the technology that you want to use, keeping in mind its broad spectrum – SQL, NoSQL, NewSQL, and Hybrid Database. Which one is better, Hadoop or MPP? Why do we need Big Data? What will we use it for? Will it increase our income? After you have answered all of these questions you are ready to get down to work, good luck!
