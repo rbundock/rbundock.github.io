@@ -29,24 +29,24 @@ An interesting fact about chatbots is that, according to the Chatbot Consumer Re
 Even though chatbots may seem to be one of many quick-passing trends and marketing hypes, they will probably become one of the most vital communications channels for various industries.
 
 ## In general, a chatbot enables ypur company to:
-### Automate customer support
+- ### Automate customer support
 
 A chatbot allows you to introduce automated answers to the most frequently asked questions. It works for many industries when website visitors are curious about, for example, how much it will take to develop their software solution. Still, it is especially useful for e-commerce owners as customers might be interested in different sizes and models of a product you are offering, costs of shipment, the return policy in your company, etc. With a chatbot on board, your website visitors no longer need to search for this information or wait days for an e-mail response. Moreover, they are more likely to engage with your company as a result.
 
 
-### Build a brand
+- ### Build a brand
 When the process of acquiring a product or a service or merely finding information on your website takes too long, most visitors start looking at other companies. A powerful chatbot allows you to keep visitors on your website and shorten the ordering process at the same time. If your clients need a solution which requires minimum effort, a chatbot can help you stand out from the crowd and beat your competitors by providing an excellent user experience, and this makes engaging with your company much more straightforward.
 
 
-### Save money
+- ### Save money
 Building a chatbot is not only cheaper than developing a mobile application or a website. It is also more beneficial as, according to The State of Chatbots Report, chatbots are more often associated with quick responses to both simple and complex questions, as well as with providing a 24/7 service. This one-time investment and its surprisingly low maintenance costs allow you to save money, in comparison to hiring and training social support employees, and to boost profits by gaining new customers.
 
 
-### Streamline business operations
+- ### Streamline business operations
 Investing in a chatbot for your company is yet another way to automate various business operations which allow your human employees to increase their productivity. Even though dealing with customer requests is not a complicated process, it is often a highly time-consuming one. With a chatbot providing 24/7 customer support, your team can easily focus on different tasks, for example, completing new orders.
 
 
-### Improve user experience (make engaging easier)
+- ### Improve user experience (make engaging easier)
 A chatbot is excellent at answering both simple and complex questions, but it also streamlines the process of asking questions and gathering data. When looking for a specific service which requires further human interaction, a chatbot can easily collect and synchronise information. For example, we built a recruitment chatbot for one of the biggest staff management companies in the UK. The solution contains personal details from a candidate and helps them open an account where they can find temporary jobs matching their profiles.
 
 
