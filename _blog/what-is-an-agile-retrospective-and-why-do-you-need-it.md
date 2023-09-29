@@ -4,7 +4,8 @@ title:  "What is an agile retrospective and why do you need it?"
 ---
 
 # What is an agile retrospective and why do you need it?
-## What is an agile retrospective? Who arranges it, when and what for?
+
+What is an agile retrospective? Who arranges it, when and what for?
 
 According to PWC’s [20th CEO Survey](https://www.pwc.com/gx/en/issues/technology/emea-cloud-business-survey.html). , almost a quarter of CEOs singled out innovation as their top priority for 2017. I asked our Project Manager Paul Klich for his opinion.
 
@@ -47,14 +48,11 @@ It’s necessary for a scrum master or project manager to plan it and prepare so
 ***Closing*** – summing up the meeting is always a great idea, each of the team members should provide the moderator with their own personal view of the retrospective.
 
 ## What can you do to make the team engage and cooperate?
-
 You should definitely set an example yourself, show the team you’re engaged and that you’re supporting each and every one of them and they will feel engaged as well. There’s a lot of things you can do to improve the flow of the meeting and one of them is definitely painting on the board.
 
 ## Is there anything you should avoid during a retrospective?
-
 The hardest thing for everyone is to open up. Discussing the problems is never comfortable, but it gets easier and easier with every meeting. You’ve got to make the team feel comfortable and remember to discuss all the issues.
 
 ## To sum up, why do you need retrospective meetings?
-
-They serve as some kind of catharsis. The team analyses issues they’re facing and what makes them feel safe and supported. You as a project manager or scrum master have a better view on both the project and the way your team works.
+They serve as some kind of catharsis. The team analyses issues they’re facing and what makes them feel safe and supported. You as a project manager or scrum master have a better view on both the project and the way your team works. Obviously, each team is different and you should always look for what works best for you. That’s exactly what a retrospective meeting can help you with.
 
