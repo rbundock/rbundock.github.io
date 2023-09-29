@@ -10,7 +10,7 @@ Wise implementation of technology is a way to go for manufacturing companies to 
 
 To get a better understanding of the situation, we took a deep dive into two, recently published reports:
 
-- Fighting for the future of UK Manufacturing – An Industrial Strategy published by the Unite Manufacturing Combine
+- Fighting for the future of UK Manufacturing – An Industrial Strategy published by the Unite Manufacturing Combine.
 - Disrupting the Manufacturing Industry – A Breakdown on Startup Driven Innovation, published by StartUs Insights.
 
 While the first, in-depth publication, scrutinizes the industry from the trade unions, employees, and British economy perspective, the second one emphasizes particular types of technology associated with the industry.
@@ -18,13 +18,13 @@ While the first, in-depth publication, scrutinizes the industry from the trade u
 That said, let’s take a look at the highlights from Unite’s report:
 
 - According to the authors, the UK economy is far from OK. It’s a critical moment in the country’s history, experiencing an economic slump, unprecedented wage stagnation, and yawning wealth disproportions.
-
+  
 - After years of austerity and underfunding, it’s necessary for the state to start investing in the sector to revive and support sustainable and diverse economic growth.
-
+  
 - The state should take action to protect strategic industries, such as steel, transport, communication, or energy, and embrace the “Build Local / Buy UK” approach.
-
+  
 - There is a strong need to boost future-oriented education, where employees have a chance to up-skill or re-skill as the technology keeps on evolving and creating a growing skills gap. Developing new skills and making the most of new technology will both be paramount to ensure a bright future for the manufacturing landscape.
-
+  
 - Automation, Artificial Intelligence, Robotics, and other technological milestones are regarded as an opportunity for business and a threat for workers at the same time. But it’s a matter of maintaining a wise approach to employ those advancements in the best way.
 
 With regard to the last point – Introducing Industry 4.0 and its automation features should align with protecting jobs and preventing pay cuts, promoting shorter working time, and up-skilling and re-skilling the British workforce.
@@ -40,17 +40,17 @@ Since we got to know the broader perspective delivered by Unite’s report, it�
 Remember the vision of the smart manufacturing market to be worth $445 billion in 2024? Well, adopting the technologies below will not only improve productivity, but it will bring us closer to this upcoming Eldorado:
 
 - Robotics will play a vital role in creating smart factories. Putting collaborative robots (co-bots) into action will take challenging and mundane tasks off human workers’ shoulders and speed up the production and supply chain processes. We are also talking about cutting costs, taking quality to a higher level, and better productivity.
-
+  
 - Composite materials such as ceramic, glass, or carbon fibres are expected to grow rapidly during this decade, especially for the automotive and construction sectors, but some of them can also be applied in gas turbines or military rockets.
 
 - Nano-engineering, which is also the way to game-changing improvements to increase the lifecycle of components and mechanical parts. Investing in nanomaterials can help manufacturing players save time and cost and manage their water and power storage.
-
+  
 - Additive manufacturing or 3D printing can be invaluable for production planning so that an end product can find its way to a potential customer much faster. How? Instead of creating multiple individual parts in the process, 3D printing can already print multi-material parts, and shortly – will be able to print larger components or machines.
 
 - The Industrial Internet of Things (IIoT) is the term smart factories can’t ignore. Staying in control of upgrading efficiency and productivity is at stake here. How about better performance management, predicting product failures, and sending mobile alerts in real-time? It can all come to reality, thanks to the adoption of IIoT.
-
+  
 - Simulation software, which provides motion simulation and animated prototyping tools is a brilliant way to virtually test a product before a factory decides to spend time, money, and resources to produce it. Imagine that you are sure how a prototype product will perform before you build it. An excellent way of minimizing risks and cutting down costs!
-
+  
 - Finally – the famous Artificial Intelligence (AI). Similar to the aforementioned simulation tools, AI can be of use to improve product quality and prevent possible engineering failures. Diagnosis is where AI supplies a magic ingredient and provides companies with essential data to make the right business decisions.
 essential data
 
