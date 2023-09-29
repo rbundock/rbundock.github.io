@@ -9,22 +9,22 @@ Kotlin is a relatively young programming language. It’s great for creating mob
 
 ### The following properties characterize Kotlin language:
 
-#### 1.Expressiveness
+#### 1. Expressiveness
 Kotlin’s innovative language features, such as support for type-safe constructors and delegated properties, help create sophisticated and easy-to-use abstractions.
 
-#### 2.Scalability
+#### 2. Scalability
 Kotlin helps build server-side applications that scale to a massive number of clients with modest hardware requirements.
 
-#### 3.Interoperability
+#### 3. Interoperability
 Kotlin is fully compatible with all Java-based frameworks, which allows you to stay on a known technology stack while benefiting from a more modern language.
 
-#### 4.Migration
+#### 4. Migration
 Kotlin supports step-by-step migration of large codebases from Java to Kotlin. You can start writing new code in Kotlin, keeping older parts of the system in Java.
 
-#### 5.Tooling
+#### 5. Tooling
 In addition to excellent IDE support, Kotlin offers framework-specific tooling (for example, Spring) in the IntelliJ IDEA Ultimate plugin.
 
-#### 6.Learning curve
+#### 6. Learning curve
 For Java programmers, getting started with Kotlin is very easy. The automated Java to Kotlin converter included in the Kotlin plugin helps in the first steps. Kotlin Koans offers a guide on crucial language functions along with a series of interactive exercises.
 
 ## The future of language
