@@ -10,23 +10,23 @@ In the software development environment, Agile has already won the race for main
 ## Good reason to switch to agile testing
 Applying agile practices to assure product quality reduces a lot of friction and complexities. With a continuous emphasis on flexibility and the result, the teams are reshaping their company standards to work more effectively. Here are a few ways how agile testing can make a positive difference:
  
-### BUGS GET EASIER TO FIX
+- ### BUGS GET EASIER TO FIX
 
 Testers can now give immediate feedback to the developers who can fix the code while it’s fresh. It makes the whole process faster, and the developer does not have to fix the bugs of one project while already working on another.
  
-### ALL TEAM MEMBERS ARE RESPONSIBLE FOR QUALITY
+- ### ALL TEAM MEMBERS ARE RESPONSIBLE FOR QUALITY
 
 In agile teams, developers often have to think like testers and check their own code for bugs. At the same time, testers often have to think like developers and get involved in the creative process themselves. They all have a single goal and thus have to cooperate closely together regardless of their roles.
  
-### ENHANCED COMMUNICATION
+- ### ENHANCED COMMUNICATION
 
 An agile environment enables everyone involved in the process to communicate more easily without having to wait until the development stage is over to start the testing stage. In the same way, if a bug report lacks details, the developer can ask the tester about that at any time and get an immediate response.
  
-### NEW REQUIREMENTS ENHANCE PRODUCT QUALITY
+- ### NEW REQUIREMENTS ENHANCE PRODUCT QUALITY
 
 Testing is flexible in an agile environment, giving birth to new enhancements and a higher quality final result. Moreover, it allows unplanned features to be added, and the existing ones can easily be modified.
  
-### TESTING IS AN INEVITABLE PART OF THE PROCESS
+- ### TESTING IS AN INEVITABLE PART OF THE PROCESS
 
 In other methodologies, it was sometimes common to avoid testing to meet deadlines. In Agile, testing is performed throughout the whole process and thus cannot be cut in any way.
  
