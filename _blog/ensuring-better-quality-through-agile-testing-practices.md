@@ -43,7 +43,7 @@ In other methodologies, it was sometimes common to avoid testing to meet deadlin
 
 - ***Preparation in Advance*** – Before the developer starts coding, it’s helpful to show him how the product will be tested. It will help with eliminating a number of design and structure mistakes. Additionally, a tester can prepare a list of tasks for the developer to test himself.
   
--***Clear Definition of Done*** – The whole team should respect the criteria of a ready product and agree on it in advance.
+- ***Clear Definition of Done*** – The whole team should respect the criteria of a ready product and agree on it in advance.
  
 - ***Test Automation*** – If some tests take too much time, it’s worth trying to automate them. Generate test cases out of testing needs as soon as possible. Make sure your test cases illustrate real business needs. Use various automation tools to ease the process significantly.
   
