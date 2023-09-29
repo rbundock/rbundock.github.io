@@ -47,4 +47,4 @@ You can also use ready-made “Hands-on” templates that show you how to build,
 
 You can also start learning Kotlin by reading the following books:
 
-### “Kotlin in Action” – teaches you how to use the Kotlin language in production-quality applications. This vibrant example book, written for experienced Java programmers, goes beyond most language books and covers interesting topics. The book was written by Dmitry Jemerov and Svetlana Isakova, programmers from the Kotlin band.
+***“Kotlin in Action”*** – teaches you how to use the Kotlin language in production-quality applications. This vibrant example book, written for experienced Java programmers, goes beyond most language books and covers interesting topics. The book was written by Dmitry Jemerov and Svetlana Isakova, programmers from the Kotlin band.
