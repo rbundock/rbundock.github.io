@@ -15,10 +15,10 @@ Chatbot mimics your online interactions with customers and thus improves the cus
 
 ### There are two types of chatbots:
 
-#### Command Based Chatbot
+- ***Command Based Chatbot***
 They rely only on a database of replies matched to a given question. They might provide more accurate responses, yet find it impossible to answer questions outside of the database.
 
-#### Intelligent Chatbot
+- **Intelligent Chatbot**
 
 Powered by Artificial Intelligence and multiple natural language processing tools, they understand the question and then match the answer. They become more and more intelligent with every item they answer as they gather and analyse given information.
 
@@ -28,8 +28,9 @@ An interesting fact about chatbots is that, according to the Chatbot Consumer Re
 
 Even though chatbots may seem to be one of many quick-passing trends and marketing hypes, they will probably become one of the most vital communications channels for various industries.
 
-## In general, a chatbot enables ypur company to:
-- ### Automate customer support
+## In general, a chatbot enables your company to:
+
+- **Automate customer support**
 
 A chatbot allows you to introduce automated answers to the most frequently asked questions. It works for many industries when website visitors are curious about, for example, how much it will take to develop their software solution. Still, it is especially useful for e-commerce owners as customers might be interested in different sizes and models of a product you are offering, costs of shipment, the return policy in your company, etc. With a chatbot on board, your website visitors no longer need to search for this information or wait days for an e-mail response. Moreover, they are more likely to engage with your company as a result.
 
