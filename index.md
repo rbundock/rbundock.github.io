@@ -1,8 +1,7 @@
 ---
 layout: homepage
 title: Homepage
+description: HeadChannel make software better. 
 ---
 
-# Main name
-Homepage
 
