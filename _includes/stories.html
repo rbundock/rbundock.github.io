@@ -1,0 +1,12 @@
+
+<h3>We are particularly proud of these software solutions</h3>
+<p>Some of the best software products we have designed and developed with our clients.</p>
+
+<uL>
+{% for entry in site.stories limit 3 %}
+    <li>
+        <a href="{{ entry.url }}">{{ entry.title }}</a>
+        <small>{{ entry.date | date: '%B %d, %Y' }}</small>
+    </li>
+{% endfor %}
+</uL>
