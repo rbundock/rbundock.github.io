@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "Why you need Agile software development tools"
+---
 # Why you need Agile software development tools
 Agile software development tools
 Remember Titanic? Who doesn’t! Beside telling one of the greatest love stories of our time, the movie reminds us of an extremely important metaphor — the one of an iceberg. You have most probably heard that only 10% of its volume is visible and the rest lies below the water. It works the same way in life, doesn’t it? Not everything that you see is what you get and that is exactly why you may sometimes need some help, that is also why software development teams working with the agile methodology may need some tools. Why? Time to find out below!
@@ -20,9 +24,11 @@ the most important thing in developing software solutions while using the agile 
 ## 2. Identification – 
 another core value of the Agile Manifesto is to value responding to change over following a plan. The agile methodology allows development teams to become more flexible than ever, but in order to do that you need to make sure everything is clear and everyone knows what to do and what you’re doing.
 
-## 3. Reporting – being flexible is very demanding and that is why a feature allowing you and your team members to report any change should be your top priority when choosing the appropriate tool. Time tracking and progress reporting will most definitely improve the flow of your work.
+## 3. Reporting – 
+being flexible is very demanding and that is why a feature allowing you and your team members to report any change should be your top priority when choosing the appropriate tool. Time tracking and progress reporting will most definitely improve the flow of your work.
 
-## 4. Analytics – developing software solutions is a long process and you never stop learning. Analyzing one project, how much time it took to deliver it, what obstacles you have had to deal with, may be beneficial when you and your team start working on another product.
+## 4. Analytics – 
+developing software solutions is a long process and you never stop learning. Analyzing one project, how much time it took to deliver it, what obstacles you have had to deal with, may be beneficial when you and your team start working on another product.
 
 As you can see, all three metrics are very similar and they complement each other, however, using them does not equal succeeding. You can find lots of other features including sprint review or multi-project support that some development teams will find relevant and helpful, while others won’t.
 
