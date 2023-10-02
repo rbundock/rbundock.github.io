@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "5 types of enterprise software solutions"
+---
 # Why you should outsource your software development to Poland
 Key factors that help to decide
 According to Statista.com, in 2017 almost 65% of companies outsourced their software application development and half of the respondents decided to also outsource software application maintenance. The decision to outsource a vital part of the business is always hard to make, however IT is one of the most frequently outsourced business tasks and there are a few key reasons as to why.
