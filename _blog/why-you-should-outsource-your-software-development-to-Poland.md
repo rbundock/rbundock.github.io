@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "5 types of enterprise software solutions"
+title:  "Why you should outsource your software development to Poland"
 ---
 # Why you should outsource your software development to Poland
 Key factors that help to decide
