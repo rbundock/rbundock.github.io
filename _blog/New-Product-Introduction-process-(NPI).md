@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "New Product Introduction process (NPI)"
+---
 # New Product Introduction process (NPI)
 If a business wants to succeed in today’s highly competitive economy, it needs to remain competitive and relevant in the eyes of its customers. It needs to be able to develop just the right product or service that the public needs. There is no shortcut to getting it right. The most successful companies in the world today have gone through such phases of development because they recognise their importance. This process, the New Product Introduction (NPI), can set apart a successful business from a failure and successful companies know and recognise its importance.
 
