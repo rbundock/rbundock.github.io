@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Why your business needs an online customer portal"
+---
+
+
 # Why your business needs an online customer portal
 These days, in a world that is rapidly changing and is moving towards full automation and technological self-sufficiency everything evolves. Technologies change almost on a daily basis and sometimes customers have to adapt to the innovations or they will fall off the digital rollercoaster. But in most cases it is the exact opposite, the product must fit the customer needs and evolve with them. It concerns almost all industries, goods and services. It is the same with customer service. The expectations change with generations, habits and norms.
 
