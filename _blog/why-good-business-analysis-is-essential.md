@@ -1,4 +1,9 @@
-Why good business analysis is essential
+---
+layout: post
+title:  "Why good business analysis is essential"
+---
+
+# Why good business analysis is essential
 business analysis
 When you hear the words Business Analyst, a big company with a complex hierarchical structure most probably comes to your mind. However, severe market demands challenge both small and big companies to meet the criteria of mess-free process management and facilitated communication. This can all be achieved through implementing strong business analysis skills.
 
