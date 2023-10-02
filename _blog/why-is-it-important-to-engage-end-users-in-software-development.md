@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "Why is it important to engage end-users in software development?"
+---
 # Why is it important to engage end-users in software development?
 This is it. You decided to have bespoke software designed and developed to suit your exact needs. You found the right vendor and prepared all the necessary documents. You know the solution will automate various processes in your company and boost up the speed of your business. Unfortunately, if you yourself are not the end-user of a product, then it is not your needs which should be valued most. This matter is often ignored by many managers and business executives responsible for providing a software development company with requirements. They may think they have enough experience and business knowledge to determine what their colleagues or customers need but the reality turns out to be quite the opposite. In this article, I discuss why being user-conscious always ends in success.
 
