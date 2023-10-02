@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "Why digital adoption is so important"
+---
 # Why digital adoption is so important
 The recent rise in the development of business services has drastically changed the way in which organisational infrastructures are built. Nowadays almost everything can be outsourced or treated as a service due to the high digitalisation of tasks. Companies rely less on on-premise services and instead shift to online or cloud-based solutions. Easy access to mobile devices and their ubiquity means that now employees can have access to their systems and data from any place in the world.
 
