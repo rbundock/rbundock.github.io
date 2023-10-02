@@ -13,21 +13,21 @@ Simply speaking, feedback is a system that is crucial for proper communication. 
 ## Tricks or tips
 Complimenting someone sounds easy, but how can you criticise your worker without discouraging him? Here are some tips that we have been working on and found essential:
 
-**Be helpful*** – you often need to say something out loud to get it out of your head, but feedback is not all about you. It is about the other person whom you are trying to help. The best way to be as helpful as possible is to write your message down. That way, you will exactly know what you want to say and find an appropriate way of saying it.
+**Be helpful** – you often need to say something out loud to get it out of your head, but feedback is not all about you. It is about the other person whom you are trying to help. The best way to be as helpful as possible is to write your message down. That way, you will exactly know what you want to say and find an appropriate way of saying it.
 
-***Be immediate** – there is no need to wait for a perfect moment. That way you will forget half of the things you wanted to say and the other person will not remember the situation you are referring to. Feel free to talk right after an event has taken place, however taking that advice too literally is not always a good idea. Instead of coming out of nowhere and surprising the person with some criticism, ask him or her to set up a time to talk. That way, both of you can prepare.
+**Be immediate** – there is no need to wait for a perfect moment. That way you will forget half of the things you wanted to say and the other person will not remember the situation you are referring to. Feel free to talk right after an event has taken place, however taking that advice too literally is not always a good idea. Instead of coming out of nowhere and surprising the person with some criticism, ask him or her to set up a time to talk. That way, both of you can prepare.
 
-***Be specific*** – that is something we find tough to achieve. You can easily be too vague and not say what you want as you don’t want to hurt someone’s feelings or be also direct, hurting them anyway. Try to connect what you want to say with some positive information, say for example “you are so smart, I would love to hear what you have to say in our meetings!” instead of “you don’t talk to people”
+**Be specific** – that is something we find tough to achieve. You can easily be too vague and not say what you want as you don’t want to hurt someone’s feelings or be also direct, hurting them anyway. Try to connect what you want to say with some positive information, say for example “you are so smart, I would love to hear what you have to say in our meetings!” instead of “you don’t talk to people”
 
-***Be communicative*** – feedback is that it is not a monologue. A conversation is the most effective way in which to improve the way our company works. That is why it is so important to know how to receive feedback properly. 
+**Be communicative** – feedback is that it is not a monologue. A conversation is the most effective way in which to improve the way our company works. That is why it is so important to know how to receive feedback properly. 
 
 Don’t worry. We prepared some advice that can work for you:
 
-***Be open*** – whatever your opinion is about yourself, it is not what everyone else thinks, especially your boss. If you want feedback to work – and you should – you need to be prepared to hear the criticism and use it to improve your work instead of fighting it.
+**Be open** – whatever your opinion is about yourself, it is not what everyone else thinks, especially your boss. If you want feedback to work – and you should – you need to be prepared to hear the criticism and use it to improve your work instead of fighting it.
 
-***Be focused*** – to hear feedback you need to listen carefully. Try to imagine how hard it must be for the other person to say all those things. Make sure he or she knows you are a good listener. 
+**Be focused** – to hear feedback you need to listen carefully. Try to imagine how hard it must be for the other person to say all those things. Make sure he or she knows you are a good listener. 
 
-***Be active*** – you should feel free to ask questions. Make sure you understand what the other person is saying and react. Remember not to be too aggressive, though.
+**Be active** – you should feel free to ask questions. Make sure you understand what the other person is saying and react. Remember not to be too aggressive, though.
 
 Now you should be ready to put feedback into practice and finally understand its purpose. Communicating openly and honestly creates that unique bond between people. It works the same way when it comes to colleagues. Once you find friends in your workplace, you go there more willingly, work more efficiently and, the most crucial thing, become more productive.
 
