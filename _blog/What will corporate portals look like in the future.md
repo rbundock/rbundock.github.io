@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "What will corporate portals look like in the future?"
+---
 # What will corporate portals look like in the future?
 corporate portals
 These days, it seems that cloud based systems are becoming more common and this is encouraging a changing dynamic within the workplace. It isn’t just individuals who are getting on board; businesses are beginning to realise that a physical headquarters and 40-hour work week are quickly becoming obsolete. Today’s employee wants to be able to increase remote working so that a work-life balance can be established.
