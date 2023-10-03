@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "What is UX – a UX guide"
+---
 # What is UX – a UX guide
 What is UX
 There is no universal definition of UX design. UX is an umbrella term encompassing the different components of User Experience, stemming from a variety of disciplines. Most notably, this includes Interaction design, Information Architecture and User Research. According to a study from the ‘Oxford Journal Interacting with Computers’, UX in business sets out to “improve customer satisfaction and loyalty through the utility, ease of use, and pleasure provided in the interaction with a product”.
