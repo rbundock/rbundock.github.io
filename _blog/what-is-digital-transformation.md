@@ -22,30 +22,37 @@ digital trends
 
 – Artificial Intelligence is a technology that allows computers to update their own algorithms to include new data on their own. It has many uses in a variety of different industries such as aviation and education. An example is the use of virtual chatbots for customer service that are constantly learning.
 AI
+
 **IoT** 
 
 – Internet of Things creates a large ecosystem of data generating sensors and devices that allows businesses to generate huge amounts of information that can be used in many different ways to increase performance and efficiency.
 IoT
+
 **Cloud**
 
 – Storing data in a cloud enables it to be accessed any time and from anywhere. It also gives you the possibility to integrate your systems easily which increases efficiency. A number of different types of clouds are being created which allow you to adjust the technology to a business plan or an idea of innovation accordingly.
 cloud
+
 **Business Analytics**
 
 – Business Intelligence allows you to analyse data under certain criteria and helps to give businesses a competitive advantage. It enables you to spot trends and create detailed reports. With this tool, you can make the best data-driven decisions.
 Business Analytics 
+
 **5G** 
 
 – Mobile networks areconstantly changing and have changed the world by offering a constant connection to the rest of the world. The next generation 5G mobile network will be even better, providing wireless Gigabit connectivity in the near future.
 5G 
+
 **DevOps** 
 
 – a unified approach to software development and its implementation along with quality and security. DevOps is a modern approach to developing software that requires a big dose of cultural change.
 DevOps
+
 **Augmented reality** 
 
 – Virtual Reality is a hot trend that gives you multiple possibilities, however it is hard to implement it to the business due to its hardware requirements and limitations.
 augmented reality
+
 **Fog computing**
 
 – Many businesses nowadays depend on a cloud computing model. Fog computing is an attempt to bring analytic computing to the edge of the network. It allows you to spot data trends sooner and work more efficiently.
