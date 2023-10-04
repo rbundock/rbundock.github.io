@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "What is Jira and how can it benefit in your company?"
+---
 # What is Jira and how can it benefit in your company?
 
 ## What is Jira?
