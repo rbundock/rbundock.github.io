@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "What is perfume AI, and how technology can create fragrance a human will love?"
+---
 # What is perfume AI, and how technology can create fragrance a human will love?
 Originally, perfumes were used to seduce partners, display wealth and communicate with the Gods. While modern perfumery developed in the 19th century, it was not until the 1950s that perfume transformed into an everyday essential. Today, individuals buy and wear perfumes to express themselves, attract partners, indicate status and even evoke certain feelings and moods.
 
