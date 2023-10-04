@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "What is rapid applications development (RAD) and how to use it?"
+---
 # What is rapid applications development (RAD) and how to use it?
 
 ## What is RAD?
