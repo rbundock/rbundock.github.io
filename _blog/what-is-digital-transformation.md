@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "What is digital transformation?"
+---
 # What is digital transformation?
 The technology industry is constantly driving change, especially in the business world. It has become an endless race to have a competitive advantage. As the world faces new inventions, solutions, and technologies every month, the intensity of the race has become even greater.
 
