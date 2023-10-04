@@ -8,6 +8,7 @@ Originally, perfumes were used to seduce partners, display wealth and communicat
 Globally, the fragrance market is worth $48 billion per Euromonitor. This market has been predicted to grow at a CAGR of 5.5% between 2020 and 2025. While the perfume industry has taken an inevitable hit during the 2020 pandemic, the market has started to re-open again. It is important now more than ever for retailers across all sectors to resist becoming too comfortable, and instead focus on innovating and creating new products that keep up to date with changing market trends. Perfume AI has been the answer to this call to innovation.
 
 artificial intelligence
+
 ## The first AI perfume
 In 2019, the cosmetics company O Boticàrio became the first business to sell a fragrance developed perfume AI. O Boticàrio achieved this by working alongside IBM Research and Symrise to create the first AI apprentice, Philyria.
 
@@ -28,12 +29,15 @@ Maison 21g is a highly personalised perfume designed to capture the essence of t
 
 ## Reactions to perfume AI
 Reactions to perfume AI
+
 **1 Machines can’t ‘feel’**
 
 Unsurprisingly, there have been mixed reactions to the infiltration of AI into the perfume industry. Many point out that scents are detected and experienced by humans, not machines. Humans therefore will always be in the best position to develop the best fragrances. This is especially as, according to scientists, our sense of smell is the most powerful sense for triggering memories, emotions and moods; a profoundly human reaction that machines cannot begin to comprehend. This highly emotive experience is why perfumery is often classed as an ‘art’. Those that wish to study the art of perfumery must train as ‘noses’ for years before they have the chance of developing fragrances and evoking emotions through scents. Therefore, while AI can understand that different scents appeal to different people, it cannot understand why. This is reflected in the mistakes that AI machines often make. Claire Viola, vice president of digital strategy fragrance at Symrise- describes how AI produced perfumes rely on “… machine-learning and sometimes the results have been wrong… It constantly needs training. You have to qualify every new material, so it understands the difference between different florals and oriental scents, for example”. Following this line of argument, there is no place in the perfume industry for unthinking and unfeeling machines.
+
 **2 Machines may not be able to feel, but they can learn how to evoke feelings**
 
 AI operates by mimicking a human-style learning of the art of perfumery. Richard Goodwin, a research scientist at IBM describes how “Just like an apprentice would learn from a master what combinations of ingredients would work well… machine learning will create a fragrance based off which formula worked best”. This suggests that perhaps we don’t need humans to implement the human process of learning. Margaux Caron, global beauty analyst for colour cosmetics and fragrance at Mintel, supports this viewpoint. She describes how “Technology and science are sometimes pictured and perceived as cold and rational, but the fragrance category is displaying a warm, emotional, human approach to it. The partnership between AI and perfumers is anchored in this philosophy.” Further, although AI often makes mistakes at the beginning, the more it is used the more accurate and helpful it becomes.
+
 **3 A partnership instead of a replacement**
 
 AI is useful for building the skeleton and main body of a fragrance,” describes Julia Zangrilli, the founder of the customer fragrance company ‘Nova’. While the real creative process should lie at the hands of the perfumer, AI is useful for large companies to identify new combinations of scents. Richard Goodwin also points out that AI can analyse formulas and data at a far greater speed than any perfumer. It should be taken advantage of for these purposes. This is especially as new scents are needed at a faster rate to keep up to date with changing market trends. AI could even help companies to use protected scents without exposing trade secrets, by tweaking formulas slightly. Claire Viola, Vice President of Digital Strategy Fragrance at Symrise describes how AI should be used as a partner to the perfumer, instead of a replacement. She describes how “It’s a man-machine collaboration…It’s helping [the perfumer] to be better faster and creative, and freeing them from boring tasks. It still starts and ends with the perfumer. They’re the ones with the intuition, emotion and feeling and guiding the machine to better results”.
