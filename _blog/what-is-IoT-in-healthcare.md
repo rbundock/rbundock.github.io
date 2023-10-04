@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "What is IoT in healthcare?"
+---
 # What is IoT in healthcare?
 Wellness is not a problem that only concerns what happens in hospitals because patients get sick outside the places where the doctors are. This is why it is necessary to prevent rather than cure, and this is where the term IoT in healthcare comes into play.
 
@@ -27,6 +31,7 @@ By employing technologies most healthcare users use today for their daily life, 
 Diagnostic errors are reduced. Thanks to shared knowledge in cloud storage and AI development, it is possible to optimise healthcare; even leading to discoveries and devices, such as the IoT in healthcare examples below.
 ## IoT in healthcare examples
 **Smart pills**
+
 Ability MyCite is known as the “first smart pill”. Developed by Otsuka Pharmaceutical Co. and Ltd. and Proteus Digital Health, it is an aripiprazole medication intended for schizophrenia, bipolar disorder, and adjunct to antidepressants.
 
 The pill contains a digital sensor. When swallowed, it sends a signal from the stomach to a phone app, indicating what time the medicine was taken. Such devices help to monitor patients’ adherence to their prescribed medication. Ability MyCite was approved by the US Food and Drug Administration last November, opening the door for other companies to start developing more sensor medication.
