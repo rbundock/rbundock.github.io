@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "What is FaceID and how can we use it"
+---
 # What is FaceID and how can we use it
 What is FaceID
 Much of our digital lives are stored electronically, such as on an iPhone or iPad, and it’s important to protect that information. In the same way that many biometric security technologies and Touch ID systems have revolutionized authentication using a fingerprint, Face ID does the same using facial recognition. Face ID provides an intuitive and secure authentication enabled by a state-of-the-art TrueDepth camera system with advanced technology to map the geometry of your face accurately.
