@@ -11,15 +11,15 @@ James Barksdale, former CEO of Netscape, once said, “If we have data, let’s 
 ## Benefits of making data-driven decisions
 There are many factors that enable companies to succeed, including skilled employees, a healthy work environment and favourable market conditions. However, the real secret of a successful business is making data-driven decisions. Using business intelligence tools enables companies, regardless of their industry, to:
 
-## Gain flexibility –
+#### Gain flexibility –
 gaining a wide range of business knowledge enables you to become more agile and adjust your company to the ever-evolving market. You can easily follow your business operations as well as the market trends in general and thus be ready to innovate.
 
 flexibility
-## Improve customer experience – 
+#### Improve customer experience – 
 with a deeper insight into your customers and their behaviours at every step of their journey, you can effortlessly become more customer-focused and provide excellent customer service to make sure they are willing to build a long-lasting relationship with your company.
 
 customer experience
-## Drive sales – 
+#### Drive sales – 
 gaining access to real-time business data allows you to provide your clients with exactly what they are looking for. By determining what the most popular products or services you offer are, you can refocus your marketing campaigns and thus gain more clients.
 
 drive sales
