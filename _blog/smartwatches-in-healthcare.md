@@ -21,7 +21,7 @@ Once the baby is born, you do your best to keep it safe and protect it. We all k
 
 **3. For having a good night’s sleep**
 
-It might be hard to find balance in such a busy world we all live in. There is a reason why everyone is talking about healthy habits all the time, with sleeping at the very top of the list, as the way you sleep (or not) may influence the rest of your day. [Sleep as Android]https://sleep.urbandroid.org/) is a fantastic app for those of you who have trouble sleeping. The app tracks your sleep and then shows you an analysis, it also records you talking in your sleep, but the best thing about it is the alarm. The app learns your sleep cycle and if you’re in your deep sleep, it wakes you up a bit earlier so you don’t feel awful in the morning.
+It might be hard to find balance in such a busy world we all live in. There is a reason why everyone is talking about healthy habits all the time, with sleeping at the very top of the list, as the way you sleep (or not) may influence the rest of your day. [Sleep as Android](https://sleep.urbandroid.org/) is a fantastic app for those of you who have trouble sleeping. The app tracks your sleep and then shows you an analysis, it also records you talking in your sleep, but the best thing about it is the alarm. The app learns your sleep cycle and if you’re in your deep sleep, it wakes you up a bit earlier so you don’t feel awful in the morning.
  
 
 **4. For monitoring your glucose**
