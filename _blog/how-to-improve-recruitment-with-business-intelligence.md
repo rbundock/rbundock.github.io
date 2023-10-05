@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "How to improve recruitment with business intelligence"
------
+title:  ""How to improve recruitment with business intelligence""
+---
 
 ## Predict changes
 The 2018 Global Recruiting Trends report reveals that only 50% of talent professionals and hiring managers say that data is the top trend impacting how they hire. The number is surprisingly low, given the fact that big data has had a tremendous impact on decision-making processes in various industries, including recruitment. Luckily, the number of recruiters using data in their work is growing, and it is said that it will grow even more in the next few years. One of the greatest and simplest ways to gain easy access to real-time data is to implement business intelligence tools. Modern technologies allow for data analyses in larger volumes and at a higher speed. However, the most significant benefit is that these tools enable you to not only track changes, but more importantly predict them. How can business intelligence help you improve the hiring processes in your company?
