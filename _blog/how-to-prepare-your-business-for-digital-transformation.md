@@ -19,7 +19,9 @@ Not everything at once! After conducting the business analysis, you will have an
 **These are:**
 
 **Big Data** – it transforms vast quantities of raw data into predictive and actionable insights
+
 **The cloud** – improves the accessibility to data for the whole company and is very scalable
+
 **IoT (Internet of Things)** – provides operational intelligence and connects all the parts of the company
 
 These are necessary but very important parts of digital transformation. After implementing them, you can focus on more specific technologies such as business intelligence or integrating all your internal systems.
