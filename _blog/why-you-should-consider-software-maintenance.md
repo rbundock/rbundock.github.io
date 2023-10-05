@@ -17,17 +17,17 @@ Put simply, this term includes all of the activities which take place once the d
 Implementing a bespoke software solution is likely to have a tremendous impact on the workflow of your company but it is software maintenance which enables endless business growth. Software support and maintenance is important because it allows you to:
  
 
-## 1. Ensure continuous work
+#### 1. Ensure continuous work
 
 Make sure your business never stops and that you can always enjoy the benefits of your software solution. By detecting and removing bugs upfront, software maintenance prevents the system from experiencing any vulnerabilities and thus allows for a continuous operational improvement.
 
 
-## 2. Fix bugs
+#### 2. Fix bugs
 
 Unfortunately, some bugs are still inevitable, that is why software support teams are always there to fix them and thus make sure nothing stops you from achieving success. Fixing bugs without engaging maintenance engineers is possible, however, it can hurt other functionalities.
 
 
-## 3. Gain flexibility
+#### 3. Gain flexibility
 
 Your software evolves with use every single day. When growing your business, you can easily adapt the system to an evolving business environment instead of implementing a new solution and learning it from scratch. Thanks to its flexibility, it always remains up-to-date and thus saves you both time and money.
 
@@ -37,12 +37,12 @@ Your software evolves with use every single day. When growing your business, you
 It is easy to not only add new features to your bespoke software solution but also to remove the outdated and unwanted ones. They all occupy space in the solution and thus hurt its efficiency. By regularly updating your software and replacing useless elements with new functionalities, you increase the productivity of your company even more.
 
 
-## 5. Improve user experience
+#### 5. Improve user experience
 
 When it comes to software development, it is the end-user whose feedback is the most valuable. If their requirements were not taken into consideration during the development process, it is still possible to improve the solution in order to meet the requirements of either your colleagues or your customers thanks to software maintenance.
 
 
-## 6. Secure your data
+#### 6. Secure your data
 
 Did you know that bespoke software is far less vulnerable to being hacked than off-the-shelf solutions? By having a software vendor take care of the technical issues, you can focus on your core business activities and protect your company from harmful activities like hacking at the same time.
 
