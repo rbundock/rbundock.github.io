@@ -9,9 +9,9 @@ While it is the hottest technology topic, cloud computing still remains a myster
  
 You can obviously use cloud computing as an individual, but there are several ways it can be applied when it comes to running a company and they are:
 
-- 1. **SaaS meaning Software as a Service**.Being designed for end-users, SaaS applications are delivered over the web which eliminates the need for downloading or installing anything on individual computers. You are provided with ready to go software or an application and its configurations or updates are taken care of by the supplier.
-- 2. **PaaS meaning Platform as a Service**. By purchasing this kind of cloud computing you get access to a set of tools and services enabling you to create web applications quickly and easily. Being analogous to SaaS, PaaS is bigger and allows you to create more than just one application.
-- 3. **IaaS meaning Infrastructure as a Service**. As a bespoke software company, we find this last method the most attractive one and so should you if you are running a small to mid-size company. Half of what was taken care of by the provider is now your responsibility – or should we say a possibility – allowing your business to migrate workloads to a virtual machine.
+ 1. **SaaS meaning Software as a Service**.Being designed for end-users, SaaS applications are delivered over the web which eliminates the need for downloading or installing anything on individual computers. You are provided with ready to go software or an application and its configurations or updates are taken care of by the supplier.
+ 2. **PaaS meaning Platform as a Service**. By purchasing this kind of cloud computing you get access to a set of tools and services enabling you to create web applications quickly and easily. Being analogous to SaaS, PaaS is bigger and allows you to create more than just one application.
+ 3. **IaaS meaning Infrastructure as a Service**. As a bespoke software company, we find this last method the most attractive one and so should you if you are running a small to mid-size company. Half of what was taken care of by the provider is now your responsibility – or should we say a possibility – allowing your business to migrate workloads to a virtual machine.
  
 It has been estimated that by the end of 2016 more than 90% of UK-based companies will be using at least one cloud computing solution. If you are still wondering why your business should be in that majority, let us provide the answers.
 
