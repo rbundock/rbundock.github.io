@@ -23,10 +23,10 @@ customer experience
 gaining access to real-time business data allows you to provide your clients with exactly what they are looking for. By determining what the most popular products or services you offer are, you can refocus your marketing campaigns and thus gain more clients.
 
 drive sales
-## Detect new opportunities – 
+#### Detect new opportunities – 
 by collecting and analysing valuable information about your company, its operations and the industry in general, you may find it easier to detect possible errors and spot new or missed business opportunities. Next time they occur, your company will be ready to take them.
 
-## Streamline employee collaboration – 
+#### Streamline employee collaboration – 
 when all employees have access to historical and present business data, you can easily build a transparent and healthy work environment. Your team can now reach the same level of business knowledge and improve cooperation.
 
 Streamline collaboration
