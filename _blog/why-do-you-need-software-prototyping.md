@@ -27,15 +27,15 @@ functionalities
 ## Key stages of software prototyping
 When you know what you can gain from prototyping you should also get to know what the stages of the prototyping process are:
 
-## 1. Requirements gathering
+#### 1. Requirements gathering
 Building a prototype should always start with gathering data and requirements. It is one of the reasons for prototyping – to check if the functionalities and requirements of the clients meet the vision of the developers. That is why everything should be gathered and analysed deeply to be consistent in the first place. That is why everything should be gathered and analysed deeply to be consistent in the first place.
 
 Key stages of software prototyping
-## 2. Creating the prototype
+#### 2. Creating the prototype
 With the help of tools and cutting-edge visualisations, developers create the functioning model of software that corresponds with the requirements and the consistent vision
 
 Creating the prototype
-## 3. Review and revise
+#### 3. Review and revise
 Once the prototype has been developed it is time to show it to the client, discuss the possible changes and accept the feedback. Together both partners, customer and developer, should discuss the possibilities and come to conclusions. To finalise this process the developer should make any revisions to the prototype based on gathered feedback and proceed to the next stages of the software development process with new, powerful knowledge.
 
 stages of the software development process
