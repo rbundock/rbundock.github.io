@@ -1,5 +1,7 @@
-
-
+---
+layout: post
+title: "Time for the future of retail: how stores introduce touchless technology"
+-----
 
 This year has been extraordinary and challenging, to say the least. Although the pandemic triggered an exponential growth for some sectors like e-commerce or video conferencing and significantly accelerated digitalisation processes in other businesses, the retail industry has been having a hard time in 2020.
 
