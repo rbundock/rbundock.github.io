@@ -15,7 +15,6 @@ With the discovery of new diseases, the advent of modern techniques becomes impe
 
 Nano means one-billionth of something. In plain words, it is 40,000 times thinner than the diameter of human hair. Nanotechnology medicine involves the applications of nanoparticles for delivering drugs, light, or heat to specific cell types such as cancer cells. The nanoparticles are designed in such a way that they get attracted to the diseased cells, which ensures direct treatment of the damaged cells. Nanotechnology minimises the risk of damage to healthy cells and allows earlier detection of problems.
 
-Nanotechnology medicine
 ## What is nanomedicine?
 It refers to the domain of science that blends nanotechnology with diagnostic molecules or drugs to enhance the ability to target particular tissues or cells. Engineered on a nanoscale level, these materials are safer to institute into the body. The technology has wide usage and applications today. From diagnosis and imaging to drug delivery, the technique helps medical experts treat numerous diseases.
 
@@ -30,7 +29,6 @@ Healthcare nanotechnology has the potency to enable early detection as well as t
 
 Nanomedicine has hundreds of products in clinical trials covering major issues related to musculoskeletal, neurodegenerative, and cardiovascular genres. Nanomedicine accounts for about 80 marketed products enabling technology in most healthcare areas. It covers a wider horizon from pharmaceutical and nano delivery to medical imaging, biomaterials, and diagnostics.
 
-The potency of nanomedicine
 ## How nanotechnology medicine works
 Nanotechnology medicine opens horizons for manipulating properties and structures at the nanoscale. It provides medical experts with a nano lab to address cell components, pieces of DNA, or viruses using an array of tiny tools such as tubes, robots, and others.
 
@@ -53,7 +51,6 @@ The idea of triggered release can be obtained from outside the body or within th
 
 Currently, efforts are directed to understand the release of drugs and diagnostic molecules from liposomes using heat and micro-bubbles from the ultrasound. A breakthrough in this area will boost medicine efficacy. With better results, many surgeries could be substituted by medicine.
 
-medical sector
 ## Nanomedicine examples
 Cancer treatments cover the largest area for nanomedicines. Patients now benefit from modified chemotherapy that uses nanocarriers to reduce systemic toxicity and boost therapeutic efficacy. Doxil and Abraxane are notable examples of cancer nanomedicines that attained clinical success.
 
