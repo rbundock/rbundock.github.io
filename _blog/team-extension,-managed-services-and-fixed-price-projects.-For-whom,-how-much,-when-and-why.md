@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "Team extension, managed services and fixed price projects. For whom, how much, when and why?"
+---
 # Team extension, managed services and fixed price projects. For whom, how much, when and why?
 eam extension managed services fixed price projects
 ## Outsourcing managed teams. Costs and conditions
