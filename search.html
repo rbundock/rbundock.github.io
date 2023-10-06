@@ -19,14 +19,23 @@
         class Posts {
             constructor() {
                 this.posts = [];
-                this.index = lunr(function() {
-                    this.ref('id');
-                    this.field('url');
-                    this.field('title', { boost: 10 });
-                    this.field('categories', { boost: 5 });
-                    this.field('excerpt');
-                });
-                console.log(this.index);
+                this.index = null; // Initialize as null for now
+                this.builder = new lunr.Builder();
+                
+                this.builder.pipeline.add(
+                    lunr.trimmer,
+                    lunr.stopWordFilter,
+                    lunr.stemmer
+                );
+
+                this.builder.searchPipeline.add(
+                    lunr.stemmer
+                );
+
+                this.builder.ref('id');
+                this.builder.field('title', { boost: 10 });
+                this.builder.field('categories', { boost: 5 });
+                this.builder.field('excerpt');
             }
 
             fetch() {
@@ -34,10 +43,10 @@
                     .then(response => response.json())
                     .then(data => {
                         this.posts = this.parse(data);
-                        this.posts.forEach(post => {
-                            console.log(post);  // Debug line
-                            this.index.add(post);
-                        });
+                        this.posts.forEach(post => this.builder.add(post));
+                        
+                        // After all documents are added, build the index
+                        this.index = this.builder.build();
                     })
                     .catch(error => {
                         console.error("There was an error fetching the posts:", error);
