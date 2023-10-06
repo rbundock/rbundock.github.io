@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The future has arrived"
------
+---
  
 For a long time, many people, like visionaries, scientists or sci-fi writers, have been thinking about the future and how it will look. There are many topics worth mentioning, like the economy, people, cities, space travel and colonization. A big breakthrough in these thoughts and conceptions was the “Star Wars” film. We could see colossal “planet-cities” there, with fully automated buildings and platforms, that floated in the skies and were controlled by voice. When the first part of the film was released, no one believed that the human race was capable of creating something like that. But now, we are getting really close. A wise man once said “Everything that man invents, he is able to create – the only barrier is the time”. What can we say – the time has come.
 
