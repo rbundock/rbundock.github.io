@@ -66,9 +66,10 @@
     </div>
 </script>
 </body>
+
 <script>
     var SearchResult = Backbone.View.extend({
-    template: _.template($('#search-results').html().trim()),
+    template: _.template($('.search-results').html().trim()),
     render: function() {
         this.$el.html(this.template(this.model.attributes));
         return this;
