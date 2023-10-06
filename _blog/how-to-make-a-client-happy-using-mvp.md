@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to make a client happy using MVP"
------
+---
 
 ## Save time, save money
 We are all busy. We are all in a constant rush. The world is looking for quick and easy solutions that will simplify our lives. Every day we can download new applications that are supposed to think, remember or count for us. There is an app that reminds you about eating your meals or another one that counts how long you brush your teeth. The way the world runs forces us to abandon simple everyday activities so that we can keep up with everyone else. This same can be applied to most businesses today.
