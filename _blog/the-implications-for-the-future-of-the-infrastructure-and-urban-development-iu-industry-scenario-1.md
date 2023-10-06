@@ -2,7 +2,7 @@
 ---
 layout: post
 title:  "The implications for the future of the infrastructure and urban development (IU) industry: scenario 1"
------
+---
 
 ## Building in a virtual world
 Technology is continually changing the world. The likes of cloud technology, automation, and artificial intelligence (AI) already play an important role in various industries. As these and other technological advances become more refined, the more they fuel economic growth and replace the need for most forms of manual labour.
