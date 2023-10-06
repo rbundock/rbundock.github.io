@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The implications for the future of the infrastructure and urban development (IU) industry: scenario 3"
------
+---
 
 ## A green reboot
 In this scenario, the planet has been devastated due to diminishing natural resources and decades of turning a blind eye to climate change. Rather than letting the situation continue on a steep decline, various powerful countries form a group with one sole intention: to promote sustainability and revitalise the environment. To achieve this goal, the group launches a global fund that finances sustainability education and research. They also impose strict environmental regulations on a global scale – including taxes on waste, high CO2 emissions, and other harmful by-products.
