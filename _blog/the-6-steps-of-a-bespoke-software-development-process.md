@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "The 6 steps of a bespoke software development process"
