@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "The implications for the future of the infrastructure and urban development (IU) industry: scenario 1"
