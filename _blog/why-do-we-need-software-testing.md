@@ -2,11 +2,11 @@
 layout: post
 title:  "Why do we need software testing?"
 ---
-# Why do we need software testing?
+
 Some of us follow recipes, some create new flavours. No matter in which group we are, we all taste our meal before serving it to our guests. It might be hard when it comes to baking, but once you try the taste of a proper dough, you are ready to go and start a bakery. This example can easily be reflected in every area of our life. We all test things before doing something, especially in business. That is why every company needs software testing.
  
 
-Humans make mistakes, there is no shame in that. That is the way we learn. However, the fact that we all try to avoid making mistakes cannot be ignored. We are rather more cautious than brave, always minding the fact that we can make a fool out of ourselves and that can stick with us forever. When it comes to business, one mistake can ruin our company and make us lose potential clients. Therefore, we should not be surprised to see more and more IT companies hiring software testing specialists. What does this kind of person do?
+Humans make mistakes, there is no shame in that. That is the way we learn. However, the fact that we all try to avoid making mistakes cannot be ignored. We are rather more cautious than brave, always minding the fact that we can make a fool out of ourselves and that can stick with us forever. When it comes to business, one mistake can ruin our company and make us lose potential clients. Therefore, we should not be surprised to see more and more IT companies hiring **software testing specialists**. What does this kind of person do?
  
 
 The answer may seem obvious to some of you. Software testing is nothing other than a process of investigating a software item before providing it to a client in order to detect any potential differences between what we have and what we are expected to achieve. Ensuring that both versions correspond with each other may be a crucial element of our company functioning properly. How can we do it?
@@ -29,4 +29,4 @@ The last answer might be simple, but should never be ignored. People all around 
 
 If you need more, let us convince you using just one word – money. Having the product tested may cost you a little more of both money and time, but it helps you save great amounts of money in the long term, avoiding detecting a potential bug that requires removing or repairing, but also protecting your reputation. Each of your products represents you and if you cannot provide proper software to your client, he or she will lose confidence and go to another company, letting others know on the way
 
-## Manual or automated, software testing is a crucial part of creating a prospering software. It can both ruin and make the company famous. If you are sensible, you are in the middle of making a call to the company ordering some test now.
+**Manual or automated, software testing is a crucial part of creating a prospering software. It can both ruin and make the company famous. If you are sensible, you are in the middle of making a call to the company ordering some test now**.
