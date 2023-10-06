@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Innovative childcare solutions"
------
+---
 
 There is no doubt that children are our future. We do our best to bring them up to be responsible and organized people. We also try to pay them as much attention as possible. Unfortunately, sometimes it is not so simple. There are many other time-consuming responsibilities that we cannot avoid or leave for later. We need to go to work and earn money for basic needs like food, clothes, and medicines or pick up Grandma from the airport.
 
