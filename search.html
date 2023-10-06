@@ -69,7 +69,7 @@
 
 <script>
     var SearchResult = Backbone.View.extend({
-    template: _.template($('.search-results').html().trim()),
+    template: _.template($('#search-results').html().trim()),
     render: function() {
         this.$el.html(this.template(this.model.attributes));
         return this;
@@ -82,7 +82,7 @@
 
     $('.search-input').on('change', function() {
         var results = posts.filter($(this).val().trim()),
-            $resultsContainer = $('.search-results').empty();
+            $resultsContainer = $('#search-results').empty();
 
         _(results).each(function(r) {
             $resultsContainer.append(new SearchResult({model: r}).render().$el);
