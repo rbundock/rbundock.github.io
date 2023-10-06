@@ -1,12 +1,10 @@
 <html>
 <head>
-
-
-
+    <script src="/js/underscore-min.js"></script>
+    <script src="/js/backbone-min.js"></script>
+    <script src="/js/lunr.min.js"></script>
 </head>
-<script src="/js/underscore-min.js"></script>
-<script src="/js/backbone-min.js"></script>
-<script src="/js/lunr.min.js"></script>
+
 <script>
     var Posts = Backbone.Collection.extend({
     url: '/json/posts.json', // when we fetch, we get the JSON data Jekyll built for us
