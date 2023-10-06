@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to keep your online business secured"
------
+---
 
 The Internet and technology becoming more and more popular and advanced have created a large spectrum of possibilities for both individuals and businesses. There are, however, two sides to every coin. Along with knowledge and entertainment, there comes danger and, ignoring that fact, may lead to catastrophic results.
 
