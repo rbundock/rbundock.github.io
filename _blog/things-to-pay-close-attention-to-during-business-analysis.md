@@ -2,7 +2,7 @@
 ---
 layout: post
 title:  "Things to pay close attention to during business analysis"
------
+---
 
 When having bespoke software designed and developed to suit your exact needs, a thorough business analysis often plays the most important part in the entire process. Without it, a software development company is not able to establish what kind of problem you are dealing with and what solution they should offer you. You may know your business but, at the same time, you are not expected to know the peculiarities of modern technology, especially those of bespoke software solutions, which is why the process of gathering and then analysing your requirements by experienced professionals is so important.
 
