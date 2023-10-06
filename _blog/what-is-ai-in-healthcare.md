@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is AI in healthcare?"
------
+---
 
 Artificial intelligence (AI) is everywhere today. Applications of AI include banking, social media platforms, education, online shopping, and many other aspects of everyday life. What exactly is AI?
 
