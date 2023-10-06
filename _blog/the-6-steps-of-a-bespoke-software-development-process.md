@@ -2,7 +2,7 @@
 ---
 layout: post
 title:  "The 6 steps of a bespoke software development process"
------
+---
  
 Buying off-the-shelf software and developing bespoke solutions from scratch differ in many aspects. The two most important ones are the wait time and the costs, which are the vital factors for many companies. Organisations prefer to use a commercial product because they can start using it right away, however, there is a reason why bespoke software solution development takes both time and money.
 
