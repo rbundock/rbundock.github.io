@@ -8,11 +8,11 @@ Customer service is highly important in today’s changing world. Customers need
 
 You should take into consideration three factors while making that decision:
 
-**Your team** (their capacity, skills, and interests).
+- **Your team** (their capacity, skills, and interests).
 
-**Your customers** (their capacity, skills, and interests).
+- **Your customers** (their capacity, skills, and interests).
 
-**Your industry** (trends and norms you need to be aware of).
+- **Your industry** (trends and norms you need to be aware of).
 
 It’s better for your customers, your team, and your business to focus on a few support channels than it is to spread yourselves thin and provide an inconsistent service across all of them. Customer service will be faster and more efficient if your employees focus on carefully selected channels and master them.
 
