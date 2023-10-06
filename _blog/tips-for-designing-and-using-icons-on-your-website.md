@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tips for designing and using icons on your website"
------
+---
 
 This article puts forward major website icon trends and tips for designing good icons, as well as principles for using them on a website.
 
