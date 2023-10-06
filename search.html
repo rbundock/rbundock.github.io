@@ -10,7 +10,7 @@
     <div>
         <label for="search">Enter your search term:</label>
         <input type="text" id="search">
-        <button onclick="performSearch()">Search</button>
+        <!-- <button onclick="performSearch()">Search</button> -->
     </div>
     
     <div id="results"></div>
@@ -76,6 +76,8 @@
             const results = myPosts.filter(searchTerm);
             displayResults(results);
         }
+
+        document.getElementById('search').addEventListener('input', performSearch);
 
         function displayResults(posts) {
             const resultsDiv = document.getElementById('results');
