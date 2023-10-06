@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Things to pay close attention to during business analysis"
