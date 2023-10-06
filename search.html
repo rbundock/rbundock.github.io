@@ -21,6 +21,7 @@
                 this.posts = [];
                 this.index = lunr(function() {
                     this.ref('id');
+                    this.field('url');
                     this.field('title', { boost: 10 });
                     this.field('categories', { boost: 5 });
                     this.field('excerpt');
