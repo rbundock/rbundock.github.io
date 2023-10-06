@@ -2,7 +2,7 @@
 ---
 layout: post
 title:  "Trends in business: Freemium"
------
+---
 
 Freemium – this word was used for the first time in 2006. It is a portmanteau neologism created from two words – “free” and “premium”. Freemium is a business model, based on a product that is provided free of charge but includes additional paid features or functionality. Its origin comes from ‘shareware’.
 
