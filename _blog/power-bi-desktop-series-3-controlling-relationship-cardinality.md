@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Controlling relationship cardinality. Power BI desktop series"
