@@ -2,15 +2,15 @@
 layout: post
 title:  "What is scrum methodology in agile?"
 ---
-# What is scrum methodology in agile?
 
 Scrum is an agile management framework that uses an adaptive approach, and focuses on team collaboration. Scrum was created to help resolve complex issues. It is the most frequently chosen framework to manage and develop IT projects. Organisations often deal with situations during the development process when a project’s scope, requirements, and goals change; scrum is designed to facilitate work within these changing environments. Using Scrum, a team is well prepared to embrace change, and use it to their advantage.
 
 The Scrum framework was based on three pillars:
 
-Transparency – work items and processes need to be visible to the Scrum team and project stakeholders.
-Inspection – progress must be inspected to prevent and detect potential issues.
-Adaptation – a team must adapt to a new situation and embrace the changes needed to achieve project goals.
+- Transparency – work items and processes need to be visible to the Scrum team and project stakeholders.
+- Inspection – progress must be inspected to prevent and detect potential issues.
+- Adaptation – a team must adapt to a new situation and embrace the changes needed to achieve project goals.
+  
 Teamwork is fundamental to working with Scrum. The scrum team is small (10 or less members) and cross-functional. This is vital to maintain seamless and fluent communication between team members, achieve better productivity, and help to identify present and future obstacles. Each member possesses the skills needed to provide value to the project. The Scrum team decides internally who should handle a particular part of work, what tools are required, and which work items should be prioritised. The team is responsible for making decisions, raising issues and proposing solutions.
 
 Organisations often use “Scrum” and “agile” interchangeably. It is important to emphasise that they are distinct from each other.
@@ -18,7 +18,6 @@ Organisations often use “Scrum” and “agile” interchangeably. It is impor
 Agile is a set of principles and values. By following the agile methodology, you apply a new mind-set that impacts all spheres within your organisation. This includes methods of communication, co-operation, and overcoming obstacles.
 
 Scrum is based on agile principles, but it uses its elements (specific roles, events and artefact) to provide value. Additionally, Scrum is a significantly stricter process than agile. In the following paragraphs, we will present this process and explain its elements.
-
 
 ## Scrum roles, events and artefacts
 Scrum is a framework with a strictly prescribed process flow involving several roles, and defined events and artefacts. The primary goal of this framework is to facilitate and guide a team through the Scrum process.
@@ -52,15 +51,15 @@ Increment – The increment outcome is a usable end product from a Sprint that m
 ## Scrum workflow process
 We have described Scrum’s foundations, roles, events and artefacts. Now we will show you how it works step by step:
 
-At the beginning of a project, a Product Owner gathers all requirements and creates a list of everything that is needed to finish the product. This is how a Product Backlog is created.
-The Development Team then reviews the Product Backlog during the Sprint Planning meeting. They estimate the time needed to finish each work item, and choose which elements should be completed first.
-The Sprint Backlog is then created.
-Once everything is set in place, the Sprint begins.
-The team works together through iterations to deliver all workpieces added to the Sprint Backlog.
-Every day during the Sprint, teams gather for Daily Scrum meetings.
-The Scrum Master facilitates events, and supports the Product Owner and team to use Scrum. At the end of the Sprint, the team is gathered for a Sprint Review. The Product Owner gathers stakeholders, and asks for their feedback regarding the developed part of the product. In Scrum, this is called the ‘Potentially Shippable Product Increment’.
-The final part of the Sprint is a Sprint Retrospective meeting. The team tries to identify what can be improved.
-When a Sprint ends the new Sprint begins, starting with a Sprint planning meeting.
+1. At the beginning of a project, a Product Owner gathers all requirements and creates a list of everything that is needed to finish the product. This is how a Product Backlog is created.
+2. The Development Team then reviews the Product Backlog during the Sprint Planning meeting. They estimate the time needed to finish each work item, and choose which elements should be completed first.
+3. The Sprint Backlog is then created.
+4. Once everything is set in place, the Sprint begins.
+5. The team works together through iterations to deliver all workpieces added to the Sprint Backlog.
+6. Every day during the Sprint, teams gather for Daily Scrum meetings.
+7. The Scrum Master facilitates events, and supports the Product Owner and team to use Scrum. At the end of the Sprint, the team is gathered for a Sprint Review. The Product 8. Owner gathers stakeholders, and asks for their feedback regarding the developed part of the product. In Scrum, this is called the ‘Potentially Shippable Product Increment’.
+8. The final part of the Sprint is a Sprint Retrospective meeting. The team tries to identify what can be improved.
+9. When a Sprint ends the new Sprint begins, starting with a Sprint planning meeting.
 
 ## The main benefits of Scrum methodology in agile
 Using Scrum can provide significant value and help you to manage your projects.
@@ -70,17 +69,19 @@ However, like all methodologies, Scrum has its pros and cons. These should be co
 To help you make this decision, we prepared a list of these pros and cons:
 
 ## Pros:
-Scrum embraces change – When requirements change during a project’s development, Scrum is designed to deal with these situations by adapting to those changes and moving forward.
-Provides the product piece by piece – product development is therefore easier to trace.
-Handles large, vast and complicated projects.
-Effective use of resources – allows a team to better plan their work, and trace their results.
-The team has the power to decide how much work can be achieved within the Sprint based on their judgement and capabilities. This allows the team to deliver more, and deliver faster with sustained quality.
-The team knows what should be done, and how this can be achieved. In Scrum, the team is empowered to decide this.
+- Scrum embraces change – When requirements change during a project’s development, Scrum is designed to deal with these situations by adapting to those changes and moving forward.
+- Provides the product piece by piece – product development is therefore easier to trace.
+- Handles large, vast and complicated projects.
+- Effective use of resources – allows a team to better plan their work, and trace their results.
+- The team has the power to decide how much work can be achieved within the Sprint based on their judgement and capabilities. This allows the team to deliver more, and deliver faster with sustained quality.
+- The team knows what should be done, and how this can be achieved. In Scrum, the team is empowered to decide this.
+  
 ## Cons:
-Needs to be facilitated by a dedicated Scrum Master.
-For teams that are not familiar with Scrum, it may become difficult to get to grips with. Since Scum is based on a strict, rigid process, it is important to thoroughly understand how it works.
-Since all team members are empowered to lead and make decisions, a lack of leadership might emerge and become an issue.
-In some cases, meetings can become very time-consuming if they are not properly executed.
+- Needs to be facilitated by a dedicated Scrum Master.
+- For teams that are not familiar with Scrum, it may become difficult to get to grips with. Since Scum is based on a strict, rigid process, it is important to thoroughly understand how it works.
+- Since all team members are empowered to lead and make decisions, a lack of leadership might emerge and become an issue.
+- In some cases, meetings can become very time-consuming if they are not properly executed.
+
 Scrum is an ideal choice if you need to manage a project without a fixed scope, and if you are working in a constantly changing environment. It also helps to manage large projects, and provides a step-by-step process.
 
 At HeadChannel, we are always thinking about the customer’s needs first. Our team members possess vast knowledge of Scrum. We are supported by expertise provided by the Scrum Master, and we have earned Product Owner certificates. We have even delivered several Scrum projects ourselves. We have the experience and expertise needed to choose the methodology and framework to ensure the best results for our clients.
