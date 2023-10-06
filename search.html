@@ -1,99 +1,81 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <script src="/js/underscore-min.js"></script>
-    <script src="/js/backbone-min.js"></script>
-    <script src="/js/lunr.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Posts</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
 </head>
-
-<script>
-    class Posts {
-        constructor() {
-            this.posts = [];
-            this.index = lunr(function() {
-                this.field('title', { boost: 10 });
-                this.field('categories', { boost: 5 });
-                this.field('excerpt');
-                this.ref('id');
-            });
-        }
-
-        fetch() {
-            fetch('/data/posts.json')
-                .then(response => response.json())
-                .then(data => {
-                    this.posts = this.parse(data);
-                    this.posts.forEach(post => this.index.add(post));
-                })
-                .catch(error => {
-                    console.error("There was an error fetching the posts:", error);
-                });
-        }
-
-        parse(posts) {
-            return posts.map(post => {
-                post.categories = post.categories.replace(/\s+/g, '').split(',');
-                return post;
-            });
-        }
-
-        filter(term) {
-            let results = this.index.search(term);
-            return results.map(result => {
-                return this.posts.find(post => post.id === result.ref);
-            });
-        }
-    }
-
-    let myPosts = new Posts();
-    myPosts.fetch();
-</script>
 <body>
-<form class="search-form" onkeydown="return event.key != 'Enter';">
-    <label class="sr-only" for="search">Enter your search term...</label>
-    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
-</form>
-
-<script type="text/template" id="search-results">
-    <div class="result">
-      <h3><a href="<%= url %>"><%= title %></a></h3>
-      <p><%= excerpt.substr(0, 120) + '...' %></p>
-      <div class="categories">
-        <% for (var i = 0; i < categories.length; i++) { %>
-            <span class="category pill"><%= categories[i] %></span>
-        <% } %>
-      </div>
+    <div>
+        <label for="search">Enter your search term:</label>
+        <input type="text" id="search">
+        <button onclick="performSearch()">Search</button>
     </div>
-</script>
-</body>
+    
+    <div id="results"></div>
 
-<script>
-    var SearchResult = Backbone.View.extend({
-        initialize: function() {
-            // Using vanilla JS to get the template content
-            this.template = _.template(document.getElementById('search-results').innerHTML.trim());
-        },
-        render: function() {
-            this.el.innerHTML = this.template(this.model.attributes);
-            return this;
+    <script>
+        class Posts {
+            constructor() {
+                this.posts = [];
+                this.index = lunr(function() {
+                    this.field('title', { boost: 10 });
+                    this.field('categories', { boost: 5 });
+                    this.field('excerpt');
+                    this.ref('id');
+                });
+            }
+
+            fetch() {
+                return fetch('/data/posts.json')
+                    .then(response => response.json())
+                    .then(data => {
+                        this.posts = this.parse(data);
+                        this.posts.forEach(post => this.index.add(post));
+                    })
+                    .catch(error => {
+                        console.error("There was an error fetching the posts:", error);
+                    });
+            }
+
+            parse(posts) {
+                return posts.map(post => {
+                    post.categories = post.categories.replace(/\s+/g, '').split(',');
+                    return post;
+                });
+            }
+
+            filter(term) {
+                let results = this.index.search(term);
+                return results.map(result => {
+                    return this.posts.find(post => post.id === result.ref);
+                });
+            }
         }
-    });
 
-    var posts = new Posts();
-    posts.fetch();
+        const myPosts = new Posts();
+        myPosts.fetch();
 
-    // Use vanilla JS to add an event listener
-    document.getElementById('search').addEventListener('change', function() {
-        var results = posts.filter(this.value.trim());
-        
-        // Use vanilla JS to clear the container
-        var resultsContainer = document.getElementById('search-results');
-        resultsContainer.innerHTML = '';
-        
-        results.forEach(function(r) {
-            // Append results to the container using vanilla JS
-            resultsContainer.appendChild(new SearchResult({model: r}).render().el);
-        });
-    });
-</script>
+        function performSearch() {
+            const searchTerm = document.getElementById('search').value;
+            const results = myPosts.filter(searchTerm);
+            displayResults(results);
+        }
 
+        function displayResults(posts) {
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = '';
+            posts.forEach(post => {
+                resultsDiv.innerHTML += `
+                    <div>
+                        <h3>${post.title}</h3>
+                        <p>${post.excerpt}</p>
+                        <p><strong>Categories:</strong> ${post.categories.join(', ')}</p>
+                    </div>
+                `;
+            });
+        }
+    </script>
+</body>
 </html>
