@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to use business intelligence to drive sales"
------
+---
 
 ## Increase retention rate and drive up revenue
 Modern technologies have transformed the way we acquire information, it is no longer a matter of using educated guesswork or relying on client feedback in order to understand your market. Business intelligence (BI) plays a crucial part in understanding both the market and your customers in order to offer compelling prices and build effective marketing campaigns. Furthermore, it allows you to suitably address the needs of your customers and win business.
