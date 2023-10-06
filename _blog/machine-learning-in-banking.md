@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Machine learning in banking"
------
+---
 
 Over recent years there has been a significant increase in the application of machine learning to improve the efficiency and management of many banking infrastructures as well as to provide new opportunities. There are many different ways machine learning can be applied to banking such as; trading, real-time transaction analysis, anti-money laundering, personalised recommendations, credit application, chatbots and investment research.
 
