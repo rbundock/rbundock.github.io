@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Main roles and responsibilities in the software development cycle"
------
+---
 
 Software development is a challenge for any development company. The IT world is vast. The range of possibilities, technologies, programming languages and tools is broad and complex. Planning, communication, and collaboration are critical ingredients for the successful delivery of the final product. Each project is different, and the development team must be ready to face a variety of obstacles. One of the critical factors determining failure or success in software development is a cross-functional, skilful and experienced development team; an interdisciplinary team made up of different roles and specialisations. Each member has their own responsibilities and methods of adding value to a project.
 
