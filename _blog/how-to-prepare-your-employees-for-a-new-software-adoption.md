@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to prepare your employees for a new software adoption"
------
+---
 
 ## Win comfort, productivity and efficiency
 Bringing new digital tools into your organisation can be highly beneficial, no matter what the industry is. But often it is a time and money consuming process rather than just another task to complete. Defining what your company truly needs and then finding the right vendor usually takes up to several months. Luckily, once the software goes live, its implementation and adoption should go smoothly. How difficult may it be to make your employees use the new software? It turns out that these last phases are often the most important ones as they determine whether the project is, in fact, successful. Making your employees use the solution may result in a productivity drop if they do not see the reason behind the implementation and do not find it comfortable. It is thus important to convince your employees that the software serves to help them. How can you prepare your employees for successful software adoption?
