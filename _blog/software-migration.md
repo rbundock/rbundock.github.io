@@ -1,7 +1,7 @@
 ---
 layout:  post
 title:  "Software migration"
------
+---
 
 The software industry is undergoing constant development. Accompanying this change are the growing needs of your organisation, which can only be met with the most efficient software infrastructure solutions. Regardless of whether or not you have started to automate your operations, or reach the next level of your organisational complexity, you will inevitably find that the topic of software migration is challenging both for your management and the agility of your organization as a whole. This article aims to act as your guide through the software migration process, and provide expertise to help you achieve better infrastructure solutions.
 
