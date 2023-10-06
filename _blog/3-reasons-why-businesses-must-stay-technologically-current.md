@@ -27,7 +27,6 @@ That is why, as a business owner, it is incumbent upon you to watch out for new 
 
 Take the ‘cloud’, for example. Since the cloud revolution began, some small businesses have successfully transitioned all of their work to a tablet, forgoing the more expensive and cumbersome desktop and laptops altogether. The cloud has saved them significant money in computer hardware, and the employees are completely mobile, if necessary. Those are the kind of changes that can result from keeping tabs on technology.
 
-cloud revolution
 The more time and money saved on production costs, the more time and money you have to invest into further improving your business. Some of the savings could then be passed onto your leads, clients and customers in the form of promotions. This further exposes your brand, as promotions are good conversion tools.
 
 Technology does not have to be synonymous with the expense. Many programs, apps, and much of the hardware that is available are well within the reach of even small businesses. The nominal upfront cost will also pay off over and over in an expanded customer base and enhanced user experience, along with improved employee performance and output. Keeping up with technology, and implementing the software and hardware that are right for your needs, is an efficient, highly effective way to grow and sustain your business.
