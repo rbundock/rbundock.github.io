@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Small shift or a game-changing effect. Why does your company need a business analyst?"
------
+---
 Many companies today still do not cater for the role of a business analyst, instead they assume that this work can be taken on by a project manager or web developer. It is as a result of this that many projects fail, as there lacks any proper communication between a client and the developers. It is thus essential for businesses to carve out space for a business analyst within their team and hire someone who will be experienced in transforming the relationship between client and developer.
 
 ## The role of a business analyst
