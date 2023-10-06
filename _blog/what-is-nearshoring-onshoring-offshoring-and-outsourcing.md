@@ -2,7 +2,7 @@
 layout: post
 title:  "What is nearshoring, onshoring, offshoring and outsourcing?"
 ---
-# What is nearshoring, onshoring, offshoring and outsourcing?
+
 Nearshoring is a business approach that involves third-party offering services from a completely different geographic area, comparatively closer to the company’s location. Nearshore takes place when a company chooses to transfer a portion of its work to a company or a group of companies that are less expensive and lie geographically nearer.
 
 The nearshoring definition can be elaborated with an example. Suppose you own a consulting firm in Italy. You need to automate some processes within the company or provide online solutions. Your project needs a robust team of developers with a strong base of IT knowledge. Unfortunately, you do not have such a team at your disposal.
@@ -11,7 +11,6 @@ One of your company partners brings in the news that there is a company in Franc
 
 To comprehend the nearshoring meaning in a better way, it is important to draw a clear comparison between nearshoring and other business approaches. This will help you in understanding how it is different from onshoring, offshoring and outsourcing.
 
-IT knowledge
 ## Nearshoring and onshoring
 Onshoring happens when a company outsources its work to another city within the same country. By using such a business approach, companies can avoid the risks related to foreign taxing policies and cultural differences. Instead, this leads to investments that strengthen the economy of the country. However, at times, onshoring involves dealing with expensive price ranges as compared to other options.
 
@@ -21,7 +20,6 @@ Offshoring refers to the transfer of business activities to countries that have 
 ## Nearshoring and outsourcing
 Outsourcing is a broad concept. It involves onshoring, offshoring and nearshoring. It is a kind of agreement where a company enlists another company that stands responsible for an existing or a planned activity that might take place within the organization. Companies generally undertake outsourcing as a cost-reducing measure.
 
-Nearshoring and outsourcing
 ## When should you choose nearshoring?
 Having a thorough knowledge about the benefits of nearshoring would help you in finding out the true nearshoring meaning:
 
