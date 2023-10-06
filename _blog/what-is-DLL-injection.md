@@ -2,18 +2,18 @@
 layout: post
 title:  "What is ‘DLL injection’?"
 ---
-# What is ‘DLL injection’?
 
 To understand DLL injection, we need to understand what the dynamic-link library is. DLL is a file that allows users to share code with other resources (programs) to perform specific tasks. It is an external library of functions, and it holds information that can be accessed by different types of software. Using DLL helps users to save memory, as it is only loaded when needed, and it can be used by multiple programs simultaneously.
 
 The starting process loads libraries from several places in physical memory. The locations from which DLLs are loaded by the process include:
 
-Application path directory
-Windows directory path returned by GetWindowsDirectory
-System directory path in Windows directory
-Windows directory returned after call GetSystemDirectory
-Current process directory
-Directories path in environment variables
+1. Application path directory
+2. Windows directory path returned by GetWindowsDirectory
+3. System directory path in Windows directory
+4. Windows directory returned after call GetSystemDirectory
+5. Current process directory
+6. Directories path in environment variables
+   
 DLL Injection is a technique that allows users to run any code in the memory of another process, by forcing the process to load a foreign DLL file. To attach DLL to a process, we need to use the software ‘Injector’ to mount libraries in memory, which is allocated by a program. DLL Injection is commonly used to reverse engineering applications without using source code, when the need modifications or behavior of those applications change. Additionally, it is useful in hot-patching because it allows users to update part of a code without shutting down and restarting the process. Users should keep in mind that many computer viruses can use the DLL injection to obtain user information like malware software. Most antiviruses should prevent this from happening, but less careful users should be wary of suspicious software.
 
 
