@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The hybrid mobile application"
------
+---
 
 Many business owners express confusion when confronted with the possibility of launching their mobile app through multiple different methods. Traditionally, the decision was less complex, as there were only two apps to choose from: the native app, and web apps. Today, however, there is a new addition to the list: the hybrid app.
 
