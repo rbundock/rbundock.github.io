@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  " What is ecommerce software and its benefits"
------
+title:  "What is ecommerce software and its benefits"
+---
 
 One of the greatest advantages of modern technology is the possibility to shop without leaving home. Purchasing goods and services with a single click enables you as a customer to streamline the buying process, but this is only a minuscule part of the entire sales path. Successfully managing the back-end of an online store is vital for completing an order. In fact, what stands behind driving the company forward is a powerful ecommerce software solution.
  
