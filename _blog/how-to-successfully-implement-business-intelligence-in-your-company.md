@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to successfully implement business intelligence in your company"
------
+---
 ## Analyse, prioritise, implement
 Your organisation has gone through a lot to get to the point of having a newly implemented business intelligence solution and you are ready to take your business to the next level. This will cause significant changes to occur within your company so you will need to tackle adoption amongst employees early on. No matter how good the solution is, it is now your job to make everything work and introduce the new solution to your company and employees.
 
