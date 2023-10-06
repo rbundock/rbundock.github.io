@@ -2,7 +2,7 @@
 ---
 layout: post
 title:  "Controlling relationship cardinality. Power BI desktop series"
------
+---
 
 ## A short article on how to manage relationship cardinality. Power BI Desktop series.
 Power BI Desktop is the primary tool for building models that back visualisations and other analysis on top of user-defined data sets. Some defaults and conventions used during import and connecting the data might not be as obvious as expected from a visual tool.
