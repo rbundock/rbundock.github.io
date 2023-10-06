@@ -1,8 +1,7 @@
-
 ---
 layout: post
 title:  "The benefits of outsourcing your software project to Poland"
------
+---
 ## 2020 Developers Survey does not lie
 The Polish technology industry has gone through a significant transformation over the past decade. Poland is now home to one of the most advanced software development communities in the world, with an increasing number of companies realising the benefits of outsourcing their software projects to Poland due largely to the high quality and low cost. The 2020 Developer Survey which was conducted by Stack Overflow further reinforces how Polish developers have risen through global ranks in the past few years.
 
