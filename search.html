@@ -34,7 +34,10 @@
                     .then(response => response.json())
                     .then(data => {
                         this.posts = this.parse(data);
-                        this.posts.forEach(post => this.index.add(post));
+                        this.posts.forEach(post => {
+                            console.log(post);  // Debug line
+                            this.index.add(post);
+                        });
                     })
                     .catch(error => {
                         console.error("There was an error fetching the posts:", error);
