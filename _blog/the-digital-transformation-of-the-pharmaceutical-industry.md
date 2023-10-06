@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The digital transformation of the pharmaceutical industry"
------
+---
  
 The digital transformation of the pharmaceutical industry has been accelerated and pushed into the spotlight in the wake of the pandemic. National requirements for people to stay at home, new regulations over working conditions, and the urgent need for innovation to treat and manage the coronavirus has driven a digital revolution. Some even say that the last few months of the pandemic has resulted in the equivalent of ten years’ worth of digital progress for the pharmaceutical industry.
 
