@@ -2,7 +2,7 @@
 ---
 layout: post
 title:  "The hybrid SaaS model explained"
------
+---
 
 With such importance being placed on cloud computing, there is no better time than now to define the hybrid SaaS model. However, first, it is important to define what SaaS means in practice.
  
