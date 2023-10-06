@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Top 4 business intelligence features for small businesses"
------
+---
 
 Nowadays, business intelligence is widely used in an increasing number of industries and in different types of companies and it can, without a doubt, also benefit your business. Knowledge is power and thanks to business intelligence software you can gain the most crucial data for your company and use it to form an advanced data-informed analysis that will help guide your business strategy.
 
