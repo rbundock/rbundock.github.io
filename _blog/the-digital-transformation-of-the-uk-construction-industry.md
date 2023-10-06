@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The digital transformation of the UK construction industry"
------
+---
  
 ## The very best is yet to come
 The Covid-19 pandemic, and lockdown, in particular, has taken an undeniable toll on the UK construction industry. The Construction Products Association estimates that construction output overall could fall by as much as 25% in the year 2020. While travel restrictions have hit the aviation and transport industry the hardest, construction projects across the board have been paused, delayed or abandoned due to the government’s stay-at-home guidance.
