@@ -19,12 +19,11 @@
         class Posts {
             constructor() {
                 this.posts = [];
-                this.index = lunr(function() {
-                    this.field('title', { boost: 10 });
-                    this.field('categories', { boost: 5 });
-                    this.field('excerpt');
-                    this.ref('id');
-                });
+                this.index = new lunr.Index;
+                this.index.field('title', { boost: 10 });
+                this.index.field('categories', { boost: 5 });
+                this.index.field('excerpt');
+                this.index.ref('id');
             }
 
             fetch() {
