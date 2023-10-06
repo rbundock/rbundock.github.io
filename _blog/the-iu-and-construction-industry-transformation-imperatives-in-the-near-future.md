@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The IU and construction industry transformation imperatives in the near future"
------
+---
 
 The world is rapidly changing and everything can only work best for those who change with it. There are so many challenges that are confronting people daily. These challenges include climate change, resource scarcity and urbanisation. This is why sectors such as the Infrastructure and Urban Development (IU) industry must come up with innovative ways to fight off some of these challenges. This is where tools such as construction estimate software can play a role.
 
