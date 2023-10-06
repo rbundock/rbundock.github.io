@@ -1,8 +1,7 @@
-
 ---
 layout: post
 title:  "How to prepare a request for proposal"
------
+---
 
 ## The “must” not only for the best
 A request for proposal (RFP) is generally used for complex projects, and it helps specify the nature of the project. It discloses the evaluation criteria for proposals in order to select the best IT company for the job. It serves as a project funding announcement by a business or organisation, and from there, IT companies can place bids to complete the project. An RFP is generally sent to a handful of outsourcing companies shortlisted as potential candidates for the particular project. An RFP makes it easier to create long-term business relationships where both parties can meet each other’s expectations.
