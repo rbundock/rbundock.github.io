@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is an agile kanban methodology?"
------
+---
 
 Kanban is a methodology that stems from the Agile family. Davis J. Anderson described Kanban as a method for defining, managing, and improving services that deliver knowledge work, such as professional services, creative endeavors, and the design of both physical and software products. Kanban focuses on providing services by organising a team’s workload, and ensuring that employees have everything they need to meet customers’ expectations.
 
