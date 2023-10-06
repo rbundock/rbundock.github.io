@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to rescue a failing software project"
------
+---
 
 # How to rescue a failing software project
 
