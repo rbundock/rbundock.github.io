@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to improve your mobile app visibility"
------
+---
 
 ## Tips and tricks
 When thinking about developing a mobile application for your business, the first thing that comes to mind may be management software to help with scheduling tasks or a business calendar, allowing you to keep track of progress. But mobile applications are so much more. They can be used in many ways to communicate with your customers or attract the attention of new ones. There are so many more ideas waiting to be reformed into working applications.
