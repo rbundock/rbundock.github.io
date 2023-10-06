@@ -48,6 +48,11 @@
     });
 </script>
 <body>
+<form class="search-form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">Enter your search term...</label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+</form>
+
 <script type="text/template" id="search-result">
     <div class="result">
       <h3><a href="<%= url %>"><%= title %></a></h3>
@@ -73,7 +78,7 @@
 
     posts.fetch();
 
-    $('.some-search-input').on('change', function() {
+    $('.search-input').on('change', function() {
         var results = posts.filter($(this).val().trim()),
             $resultsContainer = $('.search-results').empty();
 
