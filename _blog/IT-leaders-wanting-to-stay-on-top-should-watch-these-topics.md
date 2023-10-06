@@ -1,5 +1,7 @@
-# IT leaders wanting to stay on top should watch these topics
-IT leaders
+---
+layout: post
+title:  "IT leaders wanting to stay on top should watch these topics"
+---
 IT leaders are expected to keep abreast on the goings-on in the industry. But with so many new products, processes and theories being developed, it can be difficult to know what deserves their attention most. Here is a list of topics that commonly cause a buzz.
 
 ## The cloud
