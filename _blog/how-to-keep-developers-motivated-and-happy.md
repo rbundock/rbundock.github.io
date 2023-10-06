@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to keep developers motivated and happy"
------
+---
 ## Stay passionate
 Before developers even realise it, they can find themselves in a pool of chores at home, kids to take to football practice and the other aspects of daily life that can interrupt the creative flow. In a developer’s day-to-day, many things change. This can make excuses incredibly easy to come upon. But the following may help any developer to stay passionate about what they do.
 
