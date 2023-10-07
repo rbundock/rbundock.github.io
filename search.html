@@ -16,95 +16,132 @@
     <div id="results"></div>
 
     <script>
+        // Posts class manages the fetching, parsing, and searching of blog posts
         class Posts {
+            // Constructor sets up an empty array for posts and initializes Lunr.js settings
             constructor() {
-                this.posts = [];
-                this.index = null; // Initialize as null for now
-                this.builder = new lunr.Builder();
+                this.posts = [];  // An array to store the fetched posts
+                this.index = null; // Will hold the Lunr index once built
+                this.builder = new lunr.Builder();  // Create a new Lunr Builder
                 
+                // Pipeline functions to process text data before it gets indexed
+                // Trimmer removes leading and trailing whitespace
+                // Stop Word Filter removes common words
+                // Stemmer reduces words to their root form
                 this.builder.pipeline.add(
                     lunr.trimmer,
                     lunr.stopWordFilter,
                     lunr.stemmer
                 );
-
+    
+                // Define Lunr search pipeline to stem words in the search queries
                 this.builder.searchPipeline.add(
                     lunr.stemmer
                 );
-
-                this.builder.ref('id');
-                this.builder.field('title', { boost: 10 });
-                this.builder.field('categories', { boost: 5 });
-                this.builder.field('excerpt');
+    
+                // Define which fields will be included in the index and their importance (boost level)
+                this.builder.ref('id');  // 'id' field will be used as the reference for each document
+                this.builder.field('title', { boost: 10 });  // 'title' gets higher priority in search
+                this.builder.field('categories', { boost: 5 }); // 'categories' gets medium priority
+                this.builder.field('excerpt');  // 'excerpt' gets default priority
             }
-
+    
+            // Fetch posts data from a JSON file and populate the Lunr index
             fetch() {
                 return new Promise((resolve, reject) => {
+                    // Fetch the posts JSON data
                     fetch('/data/posts.json')
                         .then(response => response.json())
                         .then(data => {
+                            // Parse and clean up the fetched data
                             this.posts = this.parse(data);
+                            
+                            // Add each post to the Lunr Builder for indexing
                             this.posts.forEach(post => this.builder.add(post));
                             
-                            // After all documents are added, build the index
+                            // Build the Lunr index for future searching
                             this.index = this.builder.build();
                             
-                            resolve(); // Resolve the promise
+                            resolve();  // Successfully completed the operation, resolve the promise
                         })
                         .catch(error => {
                             console.error("There was an error fetching the posts:", error);
-                            reject(error); // Reject the promise
+                            reject(error);  // If an error occurs, reject the promise
                         });
                 });
             }
-
+    
+            // Parse post data to prepare it for indexing
             parse(posts) {
                 return posts.map(post => {
+                    // Remove spaces and convert categories to an array
                     post.categories = post.categories.replace(/\s+/g, '').split(',');
                     return post;
                 });
             }
-
+    
+            // Search the posts based on a given term using the Lunr index
             filter(term) {
                 let results = this.index.search(term);
                 return results.map(result => {
+                    // Map search results to their corresponding posts
                     return this.posts.find(post => post.id === result.ref);
                 });
             }
         }
-
+    
+        // Instantiate the Posts class and fetch the initial set of posts
         const myPosts = new Posts();
         myPosts.fetch();
-
+    
+        // Function to execute a search based on the value in the search input box
         function performSearch() {
+            // Get the search term from the input box
             const searchTerm = document.getElementById('search').value;
+    
+            // Use the filter method to search the posts
             const results = myPosts.filter(searchTerm);
+    
+            // Display the search results
             displayResults(results);
         }
-
+    
+        // When the DOM is fully loaded, setup the search functionality
         document.addEventListener('DOMContentLoaded', function() {
-            myPosts.fetch().then(() => { // Wait for fetch to complete
+            myPosts.fetch().then(() => {
+                // Check if there's an initial query parameter 'q' and execute search if it exists
                 const initialQuery = getQueryParameter('q');
                 
                 if (initialQuery) {
                     document.getElementById('search').value = initialQuery;
                     performSearch();
                 }
-
+    
+                // Listen to the input event on the search box to execute search dynamically
                 document.getElementById('search').addEventListener('input', performSearch);
             }).catch(error => {
                 console.error("There was an error initializing:", error);
             });
         });
-
+    
+        // Function to get query parameters from the current URL
         function getQueryParameter(name) {
+            // Create a URLSearchParams object based on the current URL
             const urlParams = new URLSearchParams(window.location.search);
+    
+            // Get the value of a specific query parameter
             return urlParams.get(name);
         }
-
+    
+        // Function to update the UI with search results
         function displayResults(posts) {
+            // Get the 'results' div to display the search results
             const resultsDiv = document.getElementById('results');
+            
+            // Clear any existing content
             resultsDiv.innerHTML = '';
+    
+            // Populate the 'results' div with new search results
             posts.forEach(post => {
                 resultsDiv.innerHTML += `
                     <div>
