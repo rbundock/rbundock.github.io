@@ -41,6 +41,7 @@
     
                 // Define which fields will be included in the index and their importance (boost level)
                 this.builder.ref('id');  // 'id' field will be used as the reference for each document
+                this.builder.field('type'), // 'type' is the type of content (blog, story, service)
                 this.builder.field('title', { boost: 10 });  // 'title' gets higher priority in search
                 this.builder.field('categories', { boost: 5 }); // 'categories' gets medium priority
                 this.builder.field('excerpt');  // 'excerpt' gets default priority
