@@ -37,63 +37,38 @@ At the beginning of our partnership with Pulse Informatics, we held in-depth dis
 When challenges are sent to a provider, our PiHealth tool allows **Commissioners** to:
 
 1. Assign challenges to a provider.
-
 2. Maintain provider contact details.
-
 3. Indicate whether a provider should be challenged.
-
 4. Initiate, schedule, or reschedule challenges.
-
 5. Re-run challenges for single or multiple providers.
-
 6. Send (via email) single or multiple challenges to providers.
-
 7. Send a recall email to invalidate a previous email.
-
 8. Download challenge emails & challenges for all providers.
-
 9. Agree, disagree, or counter-challenge provider responses.
-
 10. Add comments to challenge emails and challenges.
-
 11. Track the current status of a challenge and indicate which party the pending action rests upon
-
 12. View daily notifications that summarise provider responses.
-
 13. View and download previous months’ challenge emails and challenges that were either won, lost, or disputed.
-
 14. View challenge timetables for all providers.
-
 15. Retrieve SLAM reports that providers have uploaded to a SLAM report repository.
 
 Our tool also allows **providers** to:
 
 1. View and download their challenges from all commissioners.
-
 2. Accept, accept with an adjusted value or reject challenges.
-
 3. Add comments to challenges.
-
 4. Track the current status of a challenge and indicate which party the pending action rests upon.
-
 5. View daily notifications that summarise commissioner responses.
-
 6. View and download previous months’ challenge emails and challenges that were either won, lost, or disputed.
-
 7. View their challenge timetable.
 
 Lastly, our tool gives **Providers and Commissioners** additional options to:
 
 1. View a Plan vs Actual vs Challenge graph and table.
-
 2. Search for a spell or patient, and see the patient spell history and spell challenge status (if challenged).
-
 3. Manage their user profile and change their login password.
-
 4. View a challenging library that defines the logic of each challenge.
-
 5. Upload their SLAM reports to a SLAM repository.
-
 
 ## Outcome
 Our invoice validation tool has successfully transformed Pulse Informatics’ idea and ambition into a reality. The tool supports NHS commissioners to create a more cost-effective service by:
