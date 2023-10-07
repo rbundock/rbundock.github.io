@@ -39,18 +39,23 @@
             }
 
             fetch() {
-                return fetch('/data/posts.json')
-                    .then(response => response.json())
-                    .then(data => {
-                        this.posts = this.parse(data);
-                        this.posts.forEach(post => this.builder.add(post));
-                        
-                        // After all documents are added, build the index
-                        this.index = this.builder.build();
-                    })
-                    .catch(error => {
-                        console.error("There was an error fetching the posts:", error);
-                    });
+                return new Promise((resolve, reject) => {
+                    fetch('/data/posts.json')
+                        .then(response => response.json())
+                        .then(data => {
+                            this.posts = this.parse(data);
+                            this.posts.forEach(post => this.builder.add(post));
+                            
+                            // After all documents are added, build the index
+                            this.index = this.builder.build();
+                            
+                            resolve(); // Resolve the promise
+                        })
+                        .catch(error => {
+                            console.error("There was an error fetching the posts:", error);
+                            reject(error); // Reject the promise
+                        });
+                });
             }
 
             parse(posts) {
@@ -78,14 +83,18 @@
         }
 
         document.addEventListener('DOMContentLoaded', function() {
-            const initialQuery = getQueryParameter('q');
-            
-            if (initialQuery) {
-                document.getElementById('search').value = initialQuery;
-                performSearch();
-            }
+            myPosts.fetch().then(() => { // Wait for fetch to complete
+                const initialQuery = getQueryParameter('q');
+                
+                if (initialQuery) {
+                    document.getElementById('search').value = initialQuery;
+                    performSearch();
+                }
 
-            document.getElementById('search').addEventListener('input', performSearch);
+                document.getElementById('search').addEventListener('input', performSearch);
+            }).catch(error => {
+                console.error("There was an error initializing:", error);
+            });
         });
 
         function getQueryParameter(name) {
