@@ -145,7 +145,7 @@
             // Populate the 'results' div with new search results
             posts.forEach(post => {
                 resultsDiv.innerHTML += `
-                    <div>
+                    <div class="${post.type}">
                         <a href="${post.url}"><h3>${post.title}</h3></a>
                         <p>${post.excerpt}</p>
                         <p><strong>Categories:</strong> ${post.categories.join(', ')}</p>

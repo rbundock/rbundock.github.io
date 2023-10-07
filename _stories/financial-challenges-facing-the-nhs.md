@@ -2,6 +2,7 @@
 layout: story
 title:  "Financial challenges facing the NHS"
 date:   2023-01-21
+categories: NHS health
 ---
 
 ## How to fully understand the costs of the NHS
