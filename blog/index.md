@@ -7,7 +7,7 @@ title: Blog
 <ul>
 {% for entry in site.blog %}
     <li>
-        <img href="/assets/images/{{ entry.image }}"/>
+        <img href="{{ entry.image }}"/>
         <a href="{{ entry.url }}">{{ entry.title }}</a>
         <small>{{ entry.date | date: '%B %d, %Y' }}</small>
     </li>

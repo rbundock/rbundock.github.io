@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The User Experience – a blessing or a curse"
-image: the-user-experience-a-blessing-or-a-curse.jpg
+image: /assets/img/the-user-experience-a-blessing-or-a-curse.jpg
 ---
 
 # The User Experience – a blessing or a curse
