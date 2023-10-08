@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""How to improve recruitment with business intelligence""
+title:  "How to improve recruitment with business intelligence"
 ---
 
 ## Predict changes
