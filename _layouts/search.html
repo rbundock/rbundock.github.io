@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    {% include head_tags.html %}
-    
-    <script src="/js/lunr.min.js"></script>
-</head>
+{% include head_tags.html %}
 <body>
     {% include nav.html %}
     <header>
@@ -28,7 +24,7 @@
         // |  _  |  __/ (_| | (_| | |___| | | | (_| | | | | | | |  __/ |
         // |_| |_|\___|\__,_|\__,_|\____|_| |_|\__,_|_| |_|_| |_|\___|_|
                                                               
-        // Posts class manages the fetching, parsing, and searching of blog posts
+        // Posts class manages the fetching, parsing, and searching of content on the site.
         class Posts {
             // Constructor sets up an empty array for posts and initializes Lunr.js settings
             constructor() {
@@ -62,8 +58,8 @@
             // Fetch posts data from a JSON file and populate the Lunr index
             fetch() {
                 return new Promise((resolve, reject) => {
-                    // Fetch the posts JSON data
-                    fetch('/data/posts.json')
+                    // Fetch the content JSON data
+                    fetch('/data/content.json')
                         .then(response => response.json())
                         .then(data => {
                             // Parse and clean up the fetched data
