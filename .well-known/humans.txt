@@ -1,0 +1,20 @@
+/* TEAM */
+Your title: Cohaesus Group/HeadChannel
+Site: HeadChannel.co.uk
+Twitter: @headchannel
+From: Katowice, Poland
+Role: Your role (e.g., Front-End Developer, Designer)
+
+/* THANKS */
+Name: ...
+
+/* SITE */
+Last update: YYYY/MM/DD
+Standards: HTML5, CSS3, JavaScript
+Components: jQuery, Bootstrap
+Software: Your text editor/IDE
+
+/* TECHNOLOGY */
+Web Server: GitHub Pages
+Database: None
+Languages: JavaScript
