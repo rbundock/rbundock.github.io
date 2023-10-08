@@ -3,6 +3,8 @@ title: HC
 description: Bookmark this to keep an eye on my project updates!
 
 collections:
+  clients:
+    output: false
   blog:
     output: true
     permalink: /blog/:path/
