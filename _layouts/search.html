@@ -3,17 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Search Posts</title>
+    <title>{{ page.title }}</title>
     <script src="/js/lunr.min.js"></script>
 </head>
 <body>
-    <div>
-        <label for="search">Enter your search term:</label>
-        <input type="text" id="search">
-        <!-- <button onclick="performSearch()">Search</button> -->
-    </div>
-    
-    <div id="results"></div>
+    {% include nav.html %}
+    <header>
+        <div>
+            <label for="search">Enter your search term:</label>
+            <input type="text" id="search">
+            <!-- <button onclick="performSearch()">Search</button> -->
+        </div>
+    </header>
+
+    <section>
+        <div id="results"></div>
+    </scetion>
 
     <script>
         // Posts class manages the fetching, parsing, and searching of blog posts
