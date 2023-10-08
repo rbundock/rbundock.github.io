@@ -3,7 +3,7 @@ layout: default
 title: Blog
 ---
 
-<h1>All Blog Entries</h1>
+<h1>Blog</h1>
 <ul>
 {% for entry in site.blog %}
     <li>
