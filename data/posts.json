@@ -8,4 +8,8 @@
     {% for entry in site.stories %}
       {% include json_story.json %}{% unless forloop.last %},{% endunless %}
     {% endfor %}
+    ,
+    {% for entry in site.services %}
+      {% include json_story.json %}{% unless forloop.last %},{% endunless %}
+    {% endfor %}
 ]
