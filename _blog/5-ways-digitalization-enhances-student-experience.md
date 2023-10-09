@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "5 ways digitalization enhances the student experience"
+image: /assets/img/5-ways-digitalization-enhances-student-experience.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
+
 We are in the age of digital transformation, and if you’re not embracing it, you’ll probably be left behind. For schools, this transformation or advancement towards a more technology-centred environment where knowledge can be imparted through the click of a button is the logical next step.
 
 Why would you want students spending hours searching through books to extract relevant information on any subject when all that could be done much quicker? Digitalization has taken the world by storm for good reason; it brings with its agility, innovation and novelty.
