@@ -1,21 +1,20 @@
 ---
 layout: post
 title:  "3 types of software development companies you can outsource to"
+image: /assets/img/3-types-of-software-development-companies-you-can-outsource-to.jpg
 ---
-
-# 3 types of software development companies you can outsource to
+![{{ page.title }}]({{ page.image }})
 
 There are a number of different types of software solutions that you can adapt to your business. It is you who should decide which one will be the most suitable. You can choose from ready-made software that needs only to be installed and used, or bespoke software tailored especially for your current needs. There is also a mixture of these two types and systems integration which can significantly increase your performance. As you can see there are many options, you can learn more about how to choose the right software type for your business here.
 
 But the type of software is not the only thing you should pay attention to while acquiring a new software solution for your company. Equally important is your outsourcing partner – a company that will make sure that your software is your ally, not a disruption.
-
 
 There are several types of businesses that you can work with. Always make sure that your partner offers the service you need.
 
 ## 1. Sole traders
 You will have no trouble finding freelance developers all over the world. Some of them work independently and some as a part of small teams of self-employed developers.
 
-### Advantages
+**Advantages**
 
 **Low cost**  – Independent professionals often offer lower prices than bigger companies, especially on small projects. You can also negotiate to lower the price even more.
 
@@ -23,7 +22,7 @@ You will have no trouble finding freelance developers all over the world. Some o
 
 **Personalised customer service** – While working with sole traders you can count on more intense contact and a higher degree of personalised customer service.
 
-### Disadvantages
+**Disadvantages**
 
 **No backup** – If the developers encounter any problems there is usually no other colleague who can take care of further development.
 
@@ -34,7 +33,7 @@ You will have no trouble finding freelance developers all over the world. Some o
 ## 2. Large corporate developer
 The biggest development companies claim to have the biggest areas of experience, skills and competitive prices but the reality is sometimes far from perfection and what you would hope for.
 
-### Advantages
+**Advantages**
 
 **Big project capacity** – huge corporations have an ability to take care of many projects simultaneously. They can also take care of huge projects or very complicated ones.
 
@@ -51,7 +50,7 @@ The biggest development companies claim to have the biggest areas of experience,
 ## 3. Offshore software development house
 There are a number of IT and development companies based outside of the UK, not only in India or China but literally all over the world. Carefully chosen partners can be a huge ally.
 
-### Advantages
+**Advantages**
 
 **Low cost** – offshore agencies often offer far lower prices than competitors from the UK. It is sometimes caused by less rigorous processes or lower employment costs. A lower price does not mean lower quality.
 
@@ -59,7 +58,7 @@ There are a number of IT and development companies based outside of the UK, not 
 
 **Choice** – There are hundreds of different offshore agencies to choose from. You should be able to find exactly what you need in terms of skills, experience and other requirements.
 
-### Disadvantages
+**Disadvantages**
 
 **Misunderstandings** – sometimes there might occur a problem of misunderstanding especially when the people designing the solution are not familiar with the customer’s culture.
 
