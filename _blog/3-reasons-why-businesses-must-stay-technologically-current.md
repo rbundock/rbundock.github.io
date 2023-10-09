@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "3 reasons why businesses must stay technologically current"
+image: /assets/img/3-reasons-why-businesses-must-stay-technologically-current.jpg
 ---
-# 3 reasons why businesses must stay technologically current
+
+![{{ page.title }}]({{ page.image }})
+
 More and more, success in business hinges on our ability to adapt to technology. Those who are unable to evolve suffer from stagnant growth and fall behind, unable to keep up. Simply because a business has a website doesn’t make it safe from peril either. The speed and fluidity with which technology advances requires that business owners do much more. Hiring a web designer is only the beginning if you want to take full advantage of what technology offers, and use it to grow your business. Here are three critical reasons why it’s so important to stay ahead of trends in technology.
 
 
