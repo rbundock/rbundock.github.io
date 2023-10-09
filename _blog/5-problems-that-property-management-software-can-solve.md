@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "5 problems that property management software can solve"
+image: /assets/img/5-problems-that-property-management-software-can-solve.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 # 5 problems that property management software can solve
 Software solutions for property management are also becoming more popular and its many helpful features should definitely be considered to acquire for any business in this industry. There are a number of different benefits of using appropriate property management software solutions and you can check out a few of them in this article. Every property manager is struggling with a number of issues at the same time but a well-designed and tailored software solution can be helpful in solving them and ensure your company further prosperity. Below you will find a list of 5 examples of problems that might be solved thanks to property management software.
