@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "7 key types of healthcare software"
+image: /assets/img/surgeons-performing-surgery-2324837-2048x1365.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 A wide spectrum of benefits
 Choosing the right software for a health facility is the same process as for any other company but the choices may be slightly different. It can sometimes seem confusing but several categories will be presented in further detail in this post. Consider all of them, establish what your company needs, and find out which features would be the best for you.
