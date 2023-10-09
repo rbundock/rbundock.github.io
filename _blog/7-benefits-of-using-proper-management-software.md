@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "7 benefits of using proper management software"
+image: /assets/img/7-benefits-of-using-property-management-software.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 For many property managers, handling their routine tasks consists of a large number of juggling tasks around. Manually performing such business operations as tracking rent payments and managing maintenance requests is highly time-consuming and often overwhelming, and these processes form only a small part of what property managers face on a daily basis. Luckily, there is a solution that is attracting more and more companies: [property management software](https://headchannel.co.uk/).
 
