@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "8 benefits of using recruitment software"
+image: /assets/img/8-benefits-of-using-recruitment-software.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 In an ever-evolving job market, recruitment is a continuous process. Both recruitment companies and HR departments are always on the lookout for new talent. However, the growing need to identify and hire more and more qualified and experienced employees may significantly harm the efficiency of your business. Luckily, there is a solution suitable and accessible for every company: recruitment software.
 
