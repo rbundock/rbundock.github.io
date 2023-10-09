@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3 reasons why businesses must stay technologically current"
-image: /assets/img/3-reasons-why-businesses-must-stay-technologically-current.jpg
+image: /assets/img/[3-reasons-why-businesses-must-stay-technologically-current.jpg](https://headchannel.co.uk/wp-content/uploads/2021/11/sm_3-reasons-why-businesses-must-stay-technologically-current.jpg)
 ---
 
 ![{{ page.title }}]({{ page.image }})
