@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "7 reasons why software development projects succeed"
+image: /assets/img/sm_7-reasons-why-software-development-projects-succeed.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## Focusing on success instead of assuming failure upfront
 The number of articles discussing the reasons why software development projects fail has recently been growing, you can find one of them on our blog as well. This should come as no surprise, given the research conducted by the Standish Group which shows that over 30% of projects are anticipated to be closed before ever being completed and over 50% of projects will cost twice as much as it was originally estimated. Whilst there has been a great deal of analysis focused around what makes a great number of projects end in failure and how to overcome this problem, little has been said about shifting your mind-set and focusing on success instead of assuming failure upfront, which is why this article explains how to ensure project success in the first place.
