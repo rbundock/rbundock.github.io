@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "5 types of enterprise software solutions"
+image: /assets/img/5-types-of-enterprise-software-solution-1.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 There are several factors which contribute to the success of a company. Regardless of the industry, every business needs key aspects such as unique ideas, efficient operations management and experienced employees in order to achieve their goals. Nowadays, there seems to be another key factor for a successful organisation, which is automation. Automating multiple business processes which were performed manually allows companies to save hours of work by integrating core functions of their business and to thus achieve more accurate results.
 
