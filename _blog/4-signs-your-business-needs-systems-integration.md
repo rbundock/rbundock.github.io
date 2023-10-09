@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "4 signs your business needs systems integration"
+image: /assets/img/4-signs-your-business-needs-systems-integration.jpg
 ---
 
-# 4 signs your business needs systems integration
+![{{ page.title }}]({{ page.image }})
+
 Nowadays, digitalisation is an inevitable step for a business if they want to remain competitive. More and more companies are using online platforms and software solutions in order to boost their productivity and thus improve their service. Also, it is a great way to reach more customers. However, buying a tool is not enough – you need to know how to use it.
 
 Some organisations do not find it necessary to acquire an entire system right away and they prefer to use independent tools instead. It may be a good idea to start your business journey with this. However, it is essential to remember that the more tools you use, the less effective they become. They may work well separately, but they will not function as an integrated whole without actually being integrated. As a consequence, you may be wasting both your money and time on tools that do not give you the expected results. Luckily, it is easy to recognise the moment your business should have its systems integrated.
