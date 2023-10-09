@@ -3,6 +3,7 @@ layout: post
 title:  "3 types of software development companies you can outsource to"
 image: /assets/img/3-types-of-software-development-companies-you-can-outsource-to.jpg
 ---
+
 ![{{ page.title }}]({{ page.image }})
 
 There are a number of different types of software solutions that you can adapt to your business. It is you who should decide which one will be the most suitable. You can choose from ready-made software that needs only to be installed and used, or bespoke software tailored especially for your current needs. There is also a mixture of these two types and systems integration which can significantly increase your performance. As you can see there are many options, you can learn more about how to choose the right software type for your business here.
