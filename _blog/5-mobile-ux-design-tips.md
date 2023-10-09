@@ -1,6 +1,10 @@
 ---
 layout: post
 title:  "5 mobile UX design tips"
+image: /assets/img/5-mobile-ux-design-tips.jpg
+---
+
+![{{ page.title }}]({{ page.image }})
 ---
 # 5 mobile UX design tips
 
