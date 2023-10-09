@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "A comparison of leading complete business intelligence suites"
+image: /assets/img/comparison-of-leading-complete-business-intelligence-suites.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## Collecting data, transforming it into information, and knowing how to use it may bring your company great benefits
 As we grow older we realise that running a company is nowhere near as easy as we once thought it would be. The success we all desire seems to be hard to achieve, especially nowadays when the technology which runs the world is continuously evolving, forcing us constantly to adapt and to change our processes. That is why people often come up with unexpected solutions.
