@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "A construction software checklist will help you to make the right decision"
+image: /assets/img/are-you-looking-for-a-new-construction-software-1.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## Are you looking for a new construction software?
 Many challenges lie ahead for the industry post lockdown. Right from availability of workforce, supply of raw materials, monitoring workers’ health at the site, are a few issues to name.
