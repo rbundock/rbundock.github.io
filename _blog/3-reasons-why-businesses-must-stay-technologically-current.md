@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3 reasons why businesses must stay technologically current"
-image: /assets/img/[3-reasons-why-businesses-must-stay-technologically-current.jpg]
+image: /assets/img/3-reasons-why-businesses-must-stay-technologically-current.jpg
 ---
 
 ![{{ page.title }}]({{ page.image }})
