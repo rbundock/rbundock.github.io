@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Agile vs. waterfall"
+image: /assets/img/agile-vs-waterfall.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 When looking for a software development company whom you would like to cooperate with, it is essential to go through their portfolio and read customer reviews to establish whether you will be able to build a strong relationship and communicate easily, which ensures the success of the project. It is also important to work out which of the project management methodologies the organisation uses. This way, you can be sure their approach suits your requirements. Most companies follow the two most popular project management methodologies, which are Waterfall and Agile. Which one will work better for the development of your software?
  
