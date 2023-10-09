@@ -6,7 +6,6 @@ image: /assets/img/5-mobile-ux-design-tips.jpg
 
 ![{{ page.title }}]({{ page.image }})
 ---
-# 5 mobile UX design tips
 
 The user interface design of a mobile website or app should focus first on the user experience (UX). Not only because ease-of-use keeps visitors on your site longer, but because the nature of mobile devices means that people use them while they’re on the go. That means regular interruptions. A mobile UX design that emphasises speed and simplicity, however, increases the odds that the consumer will be able to complete a CTA or other transaction process before having to switch his attention elsewhere. Here are five simple mobile design tips that will help maximise the user experience and help increase conversion rates.
 
