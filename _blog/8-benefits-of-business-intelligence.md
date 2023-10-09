@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "8 benefits of business intelligence"
+image: /assets/img/8-benefits-of-business-intelligence.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## Without collecting and properly analysing data about your business, you may soon lose your customers and be left behind
 Living in a technology-driven world, you can observe and experience how quickly everything that surrounds you, including your competitors, undergoes a digital transformation. What most companies find essential when it comes to regaining their competitive advantage is data. Without collecting and properly analysing data about your business, you may soon lose your customers and be left behind. Luckily, there is a tool that can help you and it is business intelligence. If you want to better understand how business intelligence can help you to remain competitive, continue reading.
