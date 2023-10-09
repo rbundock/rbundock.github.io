@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "4 skills every software developer should have"
+image: /assets/img/4-skills-every-software-developer-should-have.jpg
 ---
-# 4 skills every software developer should have
+
+![{{ page.title }}]({{ page.image }})
+
 The software industry is now one of the most rapidly developing industries and it seems that this will not change in the near future. Information technology is everywhere and is becoming increasingly important across all industries. Production lines are operated by robots that need to be programmed. Online stores, to work the most efficiently, need properly created websites and systems that manage orders, warehousing etc. Stationery shops need similar software solutions that will help them manage their inventory. Huge international enterprises operate on complicated, integrated and comprehensive systems. These are just some examples of how software is important in the current business world but there are more. But who creates these software solutions?
 
 The increase in demand for computer software has created rapid employment growth for software developers, projected to increase by 17% through 2024
