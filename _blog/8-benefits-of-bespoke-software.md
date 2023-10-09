@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "8 benefits of bespoke software"
+image: /assets/img/8-benefits-of-bespoke-software.jpg
 ---
-# 8 benefits of bespoke software
+
+![{{ page.title }}]({{ page.image }})
+
 Over the years, software solutions have become a necessity when it comes to running a business efficiently and thus making it succeed. They owe their popularity to the outstanding possibilities operating systems are able to offer to a company, no matter the size or industry. If you have been considering acquiring software for your business, you have two options: an off-the-shelf package produced for the mass market or a bespoke solution developed especially for your company to meet all of its needs.
 
 ## Off-the-shelf software
