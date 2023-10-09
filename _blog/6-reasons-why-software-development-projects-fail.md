@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "6 reasons why software development projects fail"
+image: /assets/img/6-reasons-why-software-development-projects-fail.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 Back in 2011, a study examining why software development companies continue to struggle to provide their customers with software solutions which meet their requirements was conducted. A few years later, the results, with a surprising 75% of IT executives assuming their project may end in failure, remain an actuality. Nowadays modern technology is used even in small corner shops and automation speeds up the workflow of almost every company in the world, software development companies should thus know all of the possible obstacles upfront in order to painlessly and effortlessly prevent each of them. It turns out that a lack of confidence, or rather faith in the project, is not the only factor which leads software development projects to fail on a daily basis. What are the most common reasons why software projects fail?
 
