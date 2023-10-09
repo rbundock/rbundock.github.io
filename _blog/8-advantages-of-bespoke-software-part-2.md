@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "8 advantages of bespoke software (part 2)"
+image: /assets/img/8-advantages-of-bespoke-software-part-2.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 The undeniable advantages of bespoke software solutions are attracting more and more companies. The system is designed and developed to meet all of your specific requirements and thus to help your business to succeed. However, many people still believe custom software are dedicated to unique industries only. As bespoke software development specialists, we want to show you that every business can benefit from it.
 
