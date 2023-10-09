@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "A guide to requirement gathering"
+image: /assets/img/a-guide-to-requirement-gathering.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 “Knowledge is Power” may be an overused adage, but it still rings as true today as when it was first used. Success in a project is directly proportional to the amount of information you have to work with. The more you know, the better prepared you can be. Gathering practical information is vital to the relationship you have with your clients, and it is essential in the trust building process, especially early on. The more you know about the company you are working with, the better chance your relationship has of succeeding.
 
