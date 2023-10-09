@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "6 signs your business needs business intelligence"
+image: /assets/img/couple-watching-movie-on-laptop-3912438-2048x1365.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
+
 To remain competitive, more and more companies are collecting data. It is a great way to gain a better understanding of your business and to better estimate its future. However, collecting data is not enough, you need to analyse it as well. This process is rather complicated and often requires more advanced tools, such as business intelligence. There are many factors that indicate that you may be wasting the potential of your data, what follows is some of the most prominent ones.
 
 ## What is business intelligence?
