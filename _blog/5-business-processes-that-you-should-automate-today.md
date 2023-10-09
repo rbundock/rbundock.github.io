@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "5 business processes that you should automate today"
+image: /assets/img/5-business-processes-that-you-should-automate-today.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 # 5 business processes that you should automate today
 Your company needs to evolve all the time and you need to lead it to success. Nowadays, the market and the whole working environment is changing rapidly and to stay competitive you should keep up the pace. Automating your processes should be one of your vital goals. It can help you increase efficiency and save a lot of time that can be used by employees to get involved in the crucial processes. Statistics are cruel but you should be familiar with them to better understand the problem. [50% of sales](https://www.carlajohnson.co/) time is wasted on unproductive prospecting. [40% of productivity](https://www.wrike.com/blog/high-cost-of-multitasking-for-productivity/) is lost to task-switching. Reports are full of numbers and statistics and you can see that there is a lot to work to do. These and many other problems can be solved by automating the processes in your company. Below you will find a few examples of processes you should automate in your company.
