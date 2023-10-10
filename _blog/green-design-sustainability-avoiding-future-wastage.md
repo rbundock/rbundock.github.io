@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "Green design sustainability: avoiding future wastage"
+image: /assets/img/green-design-sustainability-avoiding-future-wastage.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
+
 
 ## The need for green design sustainability
 Over the past 100 years, harmful trends in capitalism and our linear economy have resulted in an urgent need for a new way to live and work. While capitalism has provided many benefits, it has also played a major role in designing a culture of always striving for bigger, better, newer, and more. Our linear economy has worked alongside capitalism to feed our insatiable thirst for anything ‘new’.
