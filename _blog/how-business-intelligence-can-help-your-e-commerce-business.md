@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "How business intelligence can help your e-commerce business"
+image: /assets/img/how-business-intelligence-can-help-your-e-commerce-business-1.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## Turn data into insights
 Business needs to collect and analyse data. Without it, no business cannot gain a competitive advantage. However, the manual process of gathering and then interpreting information is time-consuming and error-prone, which is why it is wiser to use a tool to perform the process automatically. The best and most popular solution is, without a doubt, business intelligence.
