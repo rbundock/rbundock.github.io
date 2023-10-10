@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "Finding women in the Information System environment"
+image: /assets/img/finding-women-in-the-information-systems-environment.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
+
 
 ## Ways to locate the talented female coders you seek
 There is a marked gap between the number of male and female students enrolled in computer science in schools. That means very few women are entering into a computing career. This is a concern because of the lack of women in information systems careers can, actually, slow down the economy. Not only that, but the risk trickles down to companies who are missing out on the more diverse teams that studies say will make their businesses more successful.
