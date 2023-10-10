@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Benefits of outsourcing your IT project"
+image: /assets/img/pexels-andrea-piacquadio-3801701.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 Outsourcing has been present in a number of industries for years, and nowadays, it is gaining significantly more popularity. Outsourcing means asking a third-party company to cooperate with you when developing a product. There are many different industries where outsourcing can be considered crucial, and IT is one of the most frequently mentioned. In most cases, companies outsource their IT projects to cut costs. Still, nowadays and especially in the IT sector, outsourced specialists provide you with high-quality services, security, essential knowledge and skills..
 
