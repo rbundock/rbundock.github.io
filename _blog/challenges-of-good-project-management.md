@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Challenges of good project management"
+image: /assets/img/background-hoto_agile-project-managementpexels-fauxels-3184325-2048x1365
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## How to plan a project
 When you decide to outsource your software development, there are a couple of questions you need to ask and decisions to make. You should decide what type of software you need and carefully choose your software development partner. If you have not decided yet, this article might help you make up your mind when choosing the right software house. Project management is one of the factors you should take care of. Also, ask your future partner about the project plan, how they are going to create it and what will it contain to ensure the whole project will be in good hands.
