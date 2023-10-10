@@ -1,4 +1,4 @@
 ---
-title: "Business Intelligence"
-logo: 
+layout: topic
+topic: "business-intelligence"
 ---

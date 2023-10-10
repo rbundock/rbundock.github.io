@@ -1,4 +1,4 @@
 ---
-title: "Bespoke Software"
-logo: 
+layout: topic
+topic: "bespoke-software"
 ---
