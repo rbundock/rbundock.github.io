@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "Digital transformation trends in healthcare"
+image: /assets/img/pexels-artem-podrez-5716001.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
+
 
 ## IT technologies could save lives
 Digital transformation turns out to be omnipresent, especially today, in our post-outbreak reality. Healthcare companies digitalise processes, introduce new technologies or solutions. The progress in digitalisation will certainly not stop now. We should adjust to it, understand it more and adopt the solutions.
