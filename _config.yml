@@ -9,7 +9,8 @@ collections:
   clients:
     output: false
   topics:
-    output: false
+    output: true
+    permalink: /topics/:path/
   blog:
     output: true
     permalink: /blog/:path/
