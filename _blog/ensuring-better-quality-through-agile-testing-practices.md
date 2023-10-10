@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "Ensuring better quality through Agile testing practices"
+image: /assets/img/ensuring-better-quality-through-agile-testing-practices.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
+
 
 What is agile testing? How to do it right? Why is it becoming more and more valuable?
 
