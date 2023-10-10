@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "Bespoke software vs. off-the-shelf software"
+image: /assets/img/jira-2048x1365.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
+
 
 With the world rushing by, many businesses decide to invest in a software that would help them differentiate their company from the competitors and thus succeed. When looking for a software solution, you have two options – buying an off-the-shelf software produced for the mass-market or have a bespoke software designed and developed to meet all of your requirements. Your choice depends on the type of your business, its specifications, your budget and many more factors. If you want to know which solution is the best option for your company and why, keep on reading.
 
