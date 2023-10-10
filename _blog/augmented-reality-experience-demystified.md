@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Augmented Reality experience demystified"
+image: /assets/img/augmented-reality-experience-demystified.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## 15 best practices to apply in the expanded world of perception
 Any technology description wouldn’t be complete without some advice and recommendations regarding methods of use and common pitfalls. Here we will list the 15 best practices to apply in the expanded world of perception. Not all of them refer to an AR experience, but some aspects may still appear as the experience evolves with new ideas.
