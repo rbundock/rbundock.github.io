@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Challenges of good project management"
-image: /assets/img/background-hoto_agile-project-managementpexels-fauxels-3184325-2048x1365
+image: /assets/img/background-hoto_agile-project-managementpexels-fauxels-3184325-2048x1365.jpg
 ---
 
 ![{{ page.title }}]({{ page.image }})
