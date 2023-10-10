@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Blockchain without mystery"
+image: /assets/img/briefly-about-blockchain.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 “Blocks” otherwise known as a list of digital records are secured by cryptography creating a ledger of transactions, once verified the record enters the chain and cannot be changed. Leading players in the world of blockchain are the likes of IBM, Microsoft, and Intel although there are many other high profile companies with an ever-expanding interest in the technology.
 
