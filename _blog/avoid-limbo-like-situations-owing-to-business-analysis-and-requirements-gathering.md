@@ -5,7 +5,7 @@ image: /assets/img/business-analysis-and-requirements-gathering.jpg
 ---
 
 ![{{ page.title }}]({{ page.image }})
----
+
 
 ## Ensure requirements, secure details
 Every application regardless of scope or size should involve the gathering of requirements from the client, because this is what allows both the client and the IT team to understand exactly what an application will deliver, and avoid the costly downtime of rejecting applications or adding new requirements.
