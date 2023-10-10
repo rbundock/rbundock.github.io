@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Don’t forget about UX in cross-platform designing"
+image: /assets/img/pexels-rodnae-productions-5915202.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## Appearances and experiences, though sometimes deceptive, matter
 There are a few factors that help you make up your mind about a new restaurant you have just visited. You can easily divide those factors into two groups: one would be what you see and the other – what you experience. An interesting thing to remember is that they are not equally important, as the design, along with the table setting and the way food is served, may mean nothing when compared with what the food tastes like and how lovely the waiters are. It works the same way when it comes to designing web-based apps.
