@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Is Kanban another Rocky Balboa of programming?"
+image: /assets/img/another-rocky-balboa-of-programming-kotlin-wades-its-way-to-success-2.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## Kotlin wades its way to success
 Kotlin wades its way to success
