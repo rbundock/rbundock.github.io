@@ -8,6 +8,8 @@ plugins:
 collections:
   clients:
     output: false
+  topics:
+    output: false
   blog:
     output: true
     permalink: /blog/:path/
