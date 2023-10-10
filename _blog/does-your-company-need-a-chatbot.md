@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "Does your company need a chatbot?"
+image: /assets/img/does-your-company-need-a-chatbot-1.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
+
 
 ## Take care of omnichannel communication with clients
 
