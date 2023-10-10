@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "Eliminate the inefficient, implement the best"
---- 
+image: /assets/img/how-technology-can-improve-construction-industry.jpg
+---
+
+![{{ page.title }}]({{ page.image }})
+
 As it stands only 5.5% of construction professionals surveyed have full integration across all their software applications, 30% have no software integration whatsoever and 36% only 1 or 2 applications integrated.
 
 Construction is one of the global economy’s largest industries. Global Construction 2030 has forecast that the volume of construction output will grow by 85% to $15.5 trillion worldwide by 2030. However, the construction industry continues to lag behind other industries when it comes to improving its productivity.
