@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Breaking down technology’s subservience to culture"
+image: /assets/img/breaking-down-technologys-subservience-to-culture.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## ‘Chicken or egg’ causality dilemma
 The idea of technological determinism, in particular, reinforces the notion that through the current technology that exists in the world we can envision our future. This belief sides with the notion that technology has played a big part in influencing society and culture today, for instance, there is a common perception that the introduction of the internet has changed the way in which people behave across the globe. Even more transformational is the smartphone, allowing us to connect with others or gain information instantaneously, 24/7, anywhere in the world.
