@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Are hackers the good guys?"
-image: /assets/img/pexels-rodnae-productions-5915202.jpg
+image: /assets/img/are-hackers-the-good-guys.jpg
 ---
 
 ![{{ page.title }}]({{ page.image }})
