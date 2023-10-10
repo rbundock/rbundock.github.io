@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "Building your own empire with property magnate"
+image: /assets/img/building-your-own-empire-with-property-magnate.jpg
 ---
 
+![{{ page.title }}]({{ page.image }})
 
-# Building your own empire with property magnate
+
 
 ## It is the ideal solution for would-be property tycoons
 Potential property tycoons can start building their empire thanks to a significant new app launched on iOS and Android via the Google Play Store and App Store.
