@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "Expand the world of perception"
+image: /assets/img/expand-the-world-of-perception.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
+
 ## An overview of the new possibilities in iOS 13
 iOS devices have had access to Augmented reality (AR) for some time now. When Apple started integrating specialised chips inside iPhones and iPads, iOS appeared to be the best-augmented reality platform of our time. Millions of iOS users gained the opportunity to experience the apps of the future. The increased developers’ tendencies to extend the apps beyond familiar interfaces to augmented ones that aim at blurring the border between the real and virtual worlds. Regardless of whether it is a game or a utility app, you can place 2D and 3D objects inside the user’s surroundings. The immersive experience gives the user an impression of operating inside the real-world and stirs the imagination. It opens up a multitude of possibilities for creating apps that can be used both in a commercial or non-commercial way.
 
