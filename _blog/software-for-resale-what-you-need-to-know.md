@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Software for resale – what you need to know"
-categories: bespoke-software 
+title: "Software for resale – what you need to know"
+category: bespoke-software 
 ---
 
 In today’s world, an increasing number of companies that develop customer specific software have adapted, focusing instead on developing and selling product software. There are many benefits to this approach, such as recurring revenue and reducing business risk. 
