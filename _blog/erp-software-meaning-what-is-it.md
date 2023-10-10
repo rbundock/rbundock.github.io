@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "ERP software. What is it?"
+image: /assets/img/erp-software-meaning-what-is-it.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 An Enterprise Resource Planning (ERP) system is composed of multiple resource planning applications, which share data. Each application is usually focused on the needs of one department within a business, such as logistics or finance. Relevant applications are then integrated to meet the specific needs of a business. Instead of using different interfaces and applications to access the IT systems for each department, ERP allows employees of a company to access the IT system of all departments using one application and one interface. Integration is an important requirement for facilitating successful resource management. It also improves the efficiency and utility of the multiple IT systems used throughout a company. For these reasons, ERP software applications are key systems within a company’s IT infrastructure.
 
