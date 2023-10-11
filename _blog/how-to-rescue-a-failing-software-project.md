@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "How to rescue a failing software project"
+image: /assets/img/how-to-rescue-failing-software-project.jpg
 ---
 
+![{{ page.title }}]({{ page.image }})
 # How to rescue a failing software project
 
 There are many reasons why plans and projects fail, but in the world of software development, this can sometimes be more complex in that it can be more difficult to fix mistakes and save a project. It is possible but it requires certain knowledge, patience, and motivation to rescue and complete a project instead of abandoning it. If you see that your software development project might fail, evaluate your decisions and processes, learn from these mistakes and get your project back on track. Begin with figuring out the reason why your project has got to this certain point. You can find a few of the most common reasons below.
