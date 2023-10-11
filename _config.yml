@@ -10,7 +10,7 @@ collections:
     output: false
   topics:
     output: true
-    permalink: /topics/:path/
+    permalink: /blog/topics/:path/
   blog:
     output: true
     permalink: /blog/:path/
