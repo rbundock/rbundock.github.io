@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Understanding telehealth and telemedicine"
+image: /assets/img/understanding-telehealth-and-telemedicine.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 The beginnings of utilising telecommunications technology to bridge the distance between a patient and his doctor started more than a century ago. It was in 1905 when Dr. Willem Einthoven used the readily available telephone technology to transmit an electrocardiogram report to a hospital that is a mile away. Today, we see new and inventive ways to utilise telecommunications technology in the medical field.
 
