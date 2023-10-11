@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Ideas for business mobile apps"
+image: /assets/img/ideas-for-business-mobile-apps.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## How not to lose the important out of sight
 Have you ever wondered how some businesses seem to have more visibility than others when it comes to marketing channels? While you may suspect it’s due to a big marketing budget, this couldn’t be further from the truth.
