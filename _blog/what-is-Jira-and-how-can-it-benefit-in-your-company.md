@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "What is Jira and how can it benefit in your company?"
+image: /assets/img/what-is-jira-and-how-can-it-benefit-in-your-company.jpg
 ---
-# What is Jira and how can it benefit in your company?
+
+![{{ page.title }}]({{ page.image }})
 
 ## What is Jira?
 Jira was developed in 2002 to offer a bug and issue tracking platform for software developers. Now, it is used more broadly as a project management software, delivering a diverse range of functions. These include scrum and content management, marketing and agile project management. There are three different packages of Jira. This includes ‘Jira Core’; a basic project management software. ‘Jira Software’ combines features of Jira Core with Agile functions and ‘Jira Service Desk’ is specifically designed for professionals working in technology or alternative service desks.
