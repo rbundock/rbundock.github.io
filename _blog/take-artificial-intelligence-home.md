@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Take artificial intelligence home"
+image: /assets/img/FB_IMG_1591602157273.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 Anthropocentrism is not a new trend. For thousands of years, we were convinced humankind was the only reason why the Earth moves around the Sun and why all of the other species even exist. Some of us still believe it is true, the rest of the population are becoming more and more aware of a new form of intelligence that threatens our future – a form we have designed and built ourselves – Artificial Intelligence.
 
