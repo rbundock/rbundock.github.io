@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "What is an ERP and its benefits"
+image: /assets/img/what-is-an-erp-and-its-benefits.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 Every company, regardless of its size or the industry, has a number of departments. They all manage different day-to-day business activities and process large amounts of data, however their goal is the same: to drive the company forward. In order to do so, a constant and flawless cooperation between all of the departments is required. They need to communicate easily and exchange information quickly to be able to make accurate business decisions within minutes. With modern technologies on board, they can enjoy the automation which follows implementing ERP software solutions.
  
