@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Opportunities in real-time apps"
+image: /assets/img/opportunities-in-real-time-apps.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 ## Extraordinary data read and write speed
 Real-Time technology has been developing very dynamically. Many large companies implement modern information transmission technologies to maximise the rate of transmission. Application users are under the impression that data are read and written on the fly, very quickly, virtually unnoticed and in the background. In times when we need and demand speed from technology, “Real-Time” is definitely worth our attention.
 
