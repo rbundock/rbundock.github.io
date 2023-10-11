@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "How to keep your online business secured"
+image: /assets/img/how-to-keep-your-online-business-secured.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 The Internet and technology becoming more and more popular and advanced have created a large spectrum of possibilities for both individuals and businesses. There are, however, two sides to every coin. Along with knowledge and entertainment, there comes danger and, ignoring that fact, may lead to catastrophic results.
 
