@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "How feedback can benefit your company"
+image: /assets/img/how-feedback-can-benefit-your-company.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## Psychology at business service
 We’re all nerds. Not necessarily the nerds typified as those we see on TV with pimples all over their faces and old fashioned glasses on their noses, but as ordinary people who spend time working with his or her eyes fixed on the computer screen. We may be fans of small talk, but having a severe debate scares us to death. A bunch of introverts, some would say. Unfortunately, there is often little room for this kind of person in the business environment. That is why we have to adjust and find a way that will teach us how to talk with each other and help us cooperate.
