@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Post pandemic software solutions for the construction industry"
+image: /assets/img/post-pandemic-software-solutions-for-the-construction-industry.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## Touchless check-in/check-out from the construction site
 As construction companies bring their employees together again and reopen construction sites, numerous calculations need to be made to provide an environment that will keep workers safe, healthy and productive. One area in particular that will need to be updated, is the system employees use to check themselves in and out. Instead, a touchless system can be implemented in order to comply with health and safety, limit the spread of the virus and still retain employee information and data.
