@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "What is an agile retrospective and why do you need it?"
+image: /assets/img/what-is-an-agile-retrospective-and-why-do-you-need-it.jpg
 ---
 
-# What is an agile retrospective and why do you need it?
+![{{ page.title }}]({{ page.image }})
+
 
 What is an agile retrospective? Who arranges it, when and what for?
 
