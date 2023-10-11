@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Smartwatches in healthcare"
+image: /assets/img/smartwatches-in-healthcare.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 Smartphones allow you to keep in touch with friends and family members from all over the world, cloud computing makes it possible for you to work from home or even from the Bahamas, with a little bit of augmented reality you can play a game in the world surrounding you while with the virtual reality headset on you can literally travel to another dimension. For most of us it is hard to imagine life without technology as it has made it far easier and more comfortable than expected, but what makes it even greater is technology can also make your life healthier – thanks to smartwatches.
  
