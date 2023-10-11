@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Rapid prosthetic socket design technique"
+image: /assets/img/rapid-prosthetic-socket-design-technique-1.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 Consortium secures Innovate UK funding to deliver a disruptive, ‘Quick Fit’ prosthetic fit solution for lower limb amputees
 
