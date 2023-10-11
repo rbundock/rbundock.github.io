@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Is the cost of software equal to its initial price?"
+image: /assets/img/is-the-cost-of-software-equal-to-its-initial-price.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 The world is changing rapidly, the digital transformation affects all aspects of life and surrounds us with new technologies, ideas and solutions. There is no other way than to just keep up the pace, change the stereotypical way of thinking and make the differences by yourself. It is especially important for businesses. No matter if the business is big or small, local or international, sooner or later the changes will be necessary. Very important is the moment when businessmen realise that it is time to adopt new solutions and adapt to a new reality.
 
