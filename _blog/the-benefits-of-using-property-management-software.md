@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The benefits of using property management software"
-image: /assets/img/the-benefits-of-using-property-management-software.jpg
+image: /assets/img/the-benefits-of-using-property-management-software(1).jpg
 ---
 
 ![{{ page.title }}]({{ page.image }})
