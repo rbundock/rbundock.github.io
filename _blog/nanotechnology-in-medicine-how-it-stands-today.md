@@ -6,7 +6,6 @@ image: /assets/img/nanotechnology-in-medicine-how-it-stands-today.jpg
 
 ![{{ page.title }}]({{ page.image }})
 
-# How does nanotechnology in medicine stand today?
 Nanotechnology medicine has been around for decades. However, it has garnered more attention in the past few years. With new diseases getting discovered, the need for a better cure process became apparent. Nanomedicine addresses most diseases, even in their current form. With new developments, medical experts expect a further breakthrough in the field.
 
 Scientists and institutions are making attempts to reduce the risks associated with this ever-evolving technique. Studies are underway to ensure more accuracy and more efficiency in treating various diseases using technology. Advanced improvements could treat even highly infectious and deadly ailments such as HIV, diabetes, and hepatitis-B.
