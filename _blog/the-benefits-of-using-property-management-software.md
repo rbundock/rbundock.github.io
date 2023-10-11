@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "The benefits of using property management software"
+image: /assets/img/the-benefits-of-using-property-management-software.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
  
 The article shows the ways in which property management software joins the game and changes real estate business productivity. It explains the most striking reasons why property managers need it so much today.
 
