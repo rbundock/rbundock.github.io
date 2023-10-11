@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Team extension, managed services and fixed price projects. For whom, how much, when and why?"
+image: /assets/img/outsourcing-managed-teams.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## Outsourcing managed teams. Costs and conditions
 Nothing generates as much debate and apprehension as price negotiation. Development begins with the choice of software development contracting and pricing model that the supplier provides. So let’s take a closer look at 3 types of contract in the software outsourcing world.
