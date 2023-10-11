@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "How to prepare your business for digital transformation"
+image: /assets/img/person-using-silver-macbook-pro-1181467-2048x1367.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## Hope for the best and be prepared for the worst
 The world is changing rapidly, and digital transformation affects all aspects of life, providing us with new technologies, ideas, and solutions. It is essential to keep up the pace, change typical ways of thinking and make changes within ourselves. This is all especially important for businesses. No matter if the company is big or small, present on the stock exchange or with limited liability, sooner or later these changes will be necessary. The only difference is the scale of changes and the moment in which a businessman realises that it is time to adopt new solutions and adapt to a new reality.
