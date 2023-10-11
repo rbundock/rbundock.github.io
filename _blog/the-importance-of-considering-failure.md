@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "The importance of considering failure"
+image: /assets/img/the-importance-of-considering-failure-1.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 The surveys show that around 70% of all IT projects failed at some stage, and that somewhere in the region of 17% of all large scale projects with big budgets went so badly that they threatened the very existence of the parent company itself. Additionally, the studies found that many participants on new, large scale IT projects expect them to fail from the off-set. With this in mind, it’s more important than ever for businesses to identify potential problems before a project starts, and also accept that a project may not be successful.
 
