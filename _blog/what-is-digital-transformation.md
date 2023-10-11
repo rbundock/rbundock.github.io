@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "What is digital transformation?"
+image: /assets/img/what-is-digital-transformation-1.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
+
 The technology industry is constantly driving change, especially in the business world. It has become an endless race to have a competitive advantage. As the world faces new inventions, solutions, and technologies every month, the intensity of the race has become even greater.
 
 Digital transformation refers to adopting and implementing new digital technologies to all areas and aspects of a business, changing how the business operates. This powerful concept is being embraced by an increasing number of companies every day. They use the advantages and possibilities technology offers to outrun the competition and strengthen their position in the market. Surveys and studies show that 64% of organisations recognise digital transformation as essential to driving profits.. With each business being unique, the digital transformation process will be different in each case but the need for digital improvements is clearly present.
