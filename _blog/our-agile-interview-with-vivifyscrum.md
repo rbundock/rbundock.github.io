@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Our Agile interview with Vivifyscrum"
+image: /assets/img/our-agile-interview-with-vivifyscrum.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 One of our Project Managers, Kate Witko has recently had an interview with brilliant [Vivifyscrum](https://www.vivifyscrum.com/) about the Agile methodology implemented in our company. They discussed the reasons why we turned Agile, the challenges we have met during this transition and the benefits coming from the methodology. You can find the full interview 
  
