@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Technical leader role specification in a scrum team"
+image: /assets/img/sm_7-reasons-why-software-development-projects-succeed-1.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 Companies have always been searching for something that could improve the way they work, that would help them grow and develop quickly and smoothly. Throughout the years we have managed to distinguish a few interesting methods called “agile methodologies” and one of them that is definitely the most popular is called Scrum. Today we will question its framework but before we do, let us remind you what Scrum really is.
  
