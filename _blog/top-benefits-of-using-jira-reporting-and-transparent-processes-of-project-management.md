@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Top benefits of using JIRA reporting and transparent processes of project management"
+image: /assets/img/top-benefits-of-using-jira-reporting-and-transparent-processes-of-project-management.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## Gaining trust by ensuring your project is visible and transparent
 Project managers ensure that project visibility, work transparency, client trust, and tracking processes are at their maximum potential. We trained our qualified project managers to carry out our clients’ project services at PMO (Project Management Office). We also implemented several tools to create a more interactive and powerful process to support our bespoke development and save costs during the customised web development system implementation. Read on to find out what the top benefits are of using our JIRA reporting, and our transparent process of project management.
