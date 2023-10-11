@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "How software can improve your company culture"
---- 
+image: /assets/img/hand-using-stylus-pen-for-touching-the-digital-tablet-screen-6336-2048x1365.jpg
+---
+
+![{{ page.title }}]({{ page.image }})
 
 ## Do not trust stereotypes
 Many different articles are trying to answer questions around improving the company culture or trying to measure it with various indicators. It is not easy because company culture is a combination of employee behaviour, values, norms, systems, symbols, language, assumptions, beliefs and habits. It is even more difficult since many indicators can be easily affected by each other. All these actions may change specific organisations’ culture, but in huge enterprises, some of these indicators are regulated by internal rules. It is crucial for you and your employees to feel comfortable, and that is why company culture is so influential. It should meet employees’ expectations about the atmosphere in the workplace and at the same time, make the work efficient. The search for this perfect balance is not easy, it takes time and multiple attempts, but it is all about striving for perfection.
