@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "The implications for the future of the infrastructure and urban development (IU) industry: scenario 2"
+image: /assets/img/scenarios-and-implications-for-the-future-of-the-iu-industry-scenario-2-1.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
+
 
 ## Factories run the world
 Picture this scenario: several decades from now, a global financial crisis strikes that surpasses the damage caused by the 2007-2008 economic downturn. Governments around the world struggle with the huge debts incurred, and the situation opens the door for cybercriminals to increase their assaults on private and public data networks. Public trust is eroded as governments fail to solve these problems in a timely manner.
