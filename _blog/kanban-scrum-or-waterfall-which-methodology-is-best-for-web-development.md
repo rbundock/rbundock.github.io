@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Kanban, scrum or waterfall – which methodology is best for web development?"
+image: /assets/img/kanban-scrum-or-waterfall-which-methodology-is-best-for-web-development.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 Important considerations need to be taken when your company embarks on a partnership with a [software development company](https://headchannel.co.uk/). What kind of methodology do you need? What is your project size and scope? What is your primary goal and time to release? Do you wish to use a particular management tool? Ultimately what is best for you, your company and your product?
 
 In this short article, we give you some useful hints and tips to help you identify the most suitable solution to suit your needs.
