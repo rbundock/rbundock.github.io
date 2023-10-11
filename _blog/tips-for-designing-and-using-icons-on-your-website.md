@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Tips for designing and using icons on your website"
+image: /assets/img/tips-for-designing-and-using-icons-on-your-website-1.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 This article puts forward major website icon trends and tips for designing good icons, as well as principles for using them on a website.
 
