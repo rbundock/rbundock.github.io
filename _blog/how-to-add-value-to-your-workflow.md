@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "How to add value to your workflow"
+image: /assets/img/how-to-add-value-to-workflow.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
+
 ## Enriching power of differences
 Businesses are different. This old truth leads to the conclusion that each company is having its unique requirements when it comes to the workflow process. It means that often a business needs to find a cost-effective solution that can adapt to the individual needs of in house business practices, effectively aid in the implementation of various projects, and create a positive and efficient UX experience for both employees and customers.
 
