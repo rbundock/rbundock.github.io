@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "The most common software bugs"
+image: /assets/img/the-most-common-software-bugs.png
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 From time to time, everyone is prone to making mistakes. Sometimes they happen due to poor quality of work, sometimes because of a misunderstanding and sometimes because of a small accident.
 
