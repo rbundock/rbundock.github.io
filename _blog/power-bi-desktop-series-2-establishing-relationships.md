@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Establishing relationships. Power BI desktop series"
+image: /assets/img/power-bi-desktop-series-establishing-relationships.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## A short article about dealing with default relationships – Power BI
 Power BI Desktop is the primary tool for building models that back visualisations and other analysis on top of user-defined data sets. Some defaults and conventions used during import and connecting the data might not be as obvious as expected from a visual tool.
