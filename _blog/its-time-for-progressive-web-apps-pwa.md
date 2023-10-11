@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "It’s time for Progressive Web Apps (PWA)"
+image: /assets/img/its-time-for-progressive-web-apps-pwa.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 ## Numerous advantages of PWA
 Progressive Web Apps (PWA) are web-based, online applications with the characteristics of native apps for mobile devices. Their main strength lies in the ability to start up an application, system or website on a mobile device in a way that imitates running an app installed natively on the device. PWA applications often work almost identically to those installed from an app store. You do not always have to create an app from scratch as per PWA guidelines, instead you can merely add elements from PWA rules to an already existing application.
 
