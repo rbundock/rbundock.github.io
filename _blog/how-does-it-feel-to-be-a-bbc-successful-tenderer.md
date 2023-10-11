@@ -2,6 +2,7 @@
 layout: post
 title:  "How does it feel to be a BBC successful tenderer?"
 ---
+![{{ page.title }}]({{ page.image }})
 
 HeadChannel is an authorised supplier for Digital Marketplace, and an Innovate UK fund winner. Recently, it has been accepted as an authorised supplier to the BBC. We sat down with the Strategy Director, Beata Green, to get her thoughts on the application process and what this acceptance means to the company. Read the interview here to learn more.
 
