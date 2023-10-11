@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "How physical security benefits the safety of your data"
+image: /assets/img/how-physical-security-benefits-the-safety-of-your-data.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 In this day and age, every business and major corporation has some aspect of their company residing on a network that makes said company operate smoothly. This is one of the reasons why business software is becoming more and more prominent. A company’s network is a treasure trove of secure documents and business dealings that need to be kept secure. A major portion of network security entails making sure that the network software is adequately preventing against any data breaches that could lead to the misuse, modification or destruction of any important information.
 
