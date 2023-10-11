@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "How small and medium businesses fared during the pandemic"
+image: /assets/img/how-small-and-medium-businesses-fared-during-the-pandemic.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## Nothing could have prepared the world for the impact of a pandemic
 As the virus evolved to infect the human population, we should now adapt to the changes it caused.
