@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Keep calm and get your cloud under control"
+image: /assets/img/214.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 The article explains the meaning and necessity of controlling the cloud and gives a few useful hints on how to do it right.
 
