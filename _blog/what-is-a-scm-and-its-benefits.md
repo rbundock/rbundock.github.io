@@ -2,7 +2,10 @@
 layout: post
 title: "What is a SCM and its benefits"
 category: bespoke-software 
+image: /assets/img/what-is-a-scm-and-its-benefits.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 Nowadays, goods and services are exchanged on a global scale. Their journey requires accurate planning, thorough demand forecasting, effective procurement, logistical expertise and, more importantly, seamless cooperation between all of those steps, as well as between their coordinators. What plays a vital role in managing these processes is modern technology and, to be more specific, a supply chain management software. What is it and how can your company benefit from implementing such a solution?
  
