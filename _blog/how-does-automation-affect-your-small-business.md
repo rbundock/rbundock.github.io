@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "How does automation affect your small business?"
+image: /assets/img/pexels-rodnae-productions-5921977.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## Be more productive, be more effective
 When thinking of automation, many people see thousands of robots taking over our jobs and starting another era. However, this broad term can be nothing but beneficial to your company. Business processes automation has been here for many years now and works well for all businesses, regardless of their size and industry. According to the 2019 Automation Report, one of many advantages of automation in the workplace is the possibility to become more productive, confirmed by over 80% of respondents. How exactly can automation affect your small business?
