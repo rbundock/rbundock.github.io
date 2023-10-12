@@ -7,7 +7,6 @@ image: /assets/img/why-your-business-needs-an-online-customer-portal.jpg
 ![{{ page.title }}]({{ page.image }})why-your-business-needs-an-online-customer-portal
 
 
-# Why your business needs an online customer portal
 These days, in a world that is rapidly changing and is moving towards full automation and technological self-sufficiency everything evolves. Technologies change almost on a daily basis and sometimes customers have to adapt to the innovations or they will fall off the digital rollercoaster. But in most cases it is the exact opposite, the product must fit the customer needs and evolve with them. It concerns almost all industries, goods and services. It is the same with customer service. The expectations change with generations, habits and norms.
 
 Self-service support has become usual in many companies and now customers demand that form of service. Data gathered by Capterra in 2016 revealed that 75% of customers want to solve product or service issues on their own without having to rely on an agent or manual customer service through telephone or email. The best way to help them find a self-service way to solve their problems is through an online customer portal.
@@ -17,7 +16,7 @@ Online customer portal brings all of the self-service options to one place. The 
 
 
 ## What customers want
-In many cases, customers that don’t have their needs met leave in order to find somebody that will satisfy them. That is why you should listen to your customers and make them happy and according to Microsoft’s 2016 Global State of Multichannel Customer Service Report, 90% of customers worldwide expect businesses to provide online customer self-service portals. What is important, in the UK it has even higher priority because about 94% of respondents answered that they expect to have that type of service provided. Providing an online portal is responding to customer needs and it is important for all businesses. Satisfied customers may recommend a company to friends and family that leads to more business opportunities.
+In many cases, customers that don’t have their needs met leave in order to find somebody that will satisfy them. That is why you should listen to your customers and make them happy and according to [Microsoft’s 2016 Global State of Multichannel Customer Service Report](https://cloudblogs.microsoft.com/dynamics365/bdm/2016/06/24/infographic-2016-state-of-global-customer-service/), 90% of customers worldwide expect businesses to provide online customer self-service portals. What is important, in the UK it has even higher priority because about 94% of respondents answered that they expect to have that type of service provided. Providing an online portal is responding to customer needs and it is important for all businesses. Satisfied customers may recommend a company to friends and family that leads to more business opportunities.
 
 
 ## What customer portal enables
@@ -31,7 +30,5 @@ To be sure that the self-service portal is efficient and does its job well the c
 ## Portal maximise efficiency
 Finally, a brief overview of the benefits for the business that wants to increase the efficiency and keep the customer satisfaction on a high level. Online customer portals can be highly helpful in this field because of automation and self-service. Thanks to these portals, the number of questions to the support team is quite low because customers can find the answer on their own. That increases the efficiency of the support team and significantly reduces the workload. With extra time, your employees can perform different tasks, find new customers or take care of more difficult questions and issues.
 
-
 To keep up with the pace of a changing world you must adapt the innovations. The online customer portal is a must-have in some of the industries and it will be even more important in the future. Give your customers space and let them solve their problems. There is nothing you can lose in this situation but remember to always make wise choices. And if you decide to modernise your software or application and add an online customer portal contact Headchannel and let’s talk about it.
 
-HeadChannel
