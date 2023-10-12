@@ -2,7 +2,6 @@
 layout: story
 title:  "Financial challenges facing the NHS"
 image: /assets/img/NHS.png
-date:   2023-01-21
 categories: Health
 ---
 
