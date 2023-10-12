@@ -5,6 +5,7 @@ image: /assets/img/the-method_logo.svg
 date:   2023-01-21
 categories: health
 ---
+## A Life In A Day: Immersive Patient Experiences
 
 ![{{ page.title }}]({{ page.image }})
 
