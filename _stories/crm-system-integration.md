@@ -6,6 +6,8 @@ date:   2023-01-21
 categories: education
 ---
 
+# CRM and student records systems integration for a college of further education
+
 ![{{ page.title }}]({{ page.image }})
 
 ## Overview
