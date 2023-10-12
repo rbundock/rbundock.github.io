@@ -7,7 +7,7 @@ title: Categories
 <ul>
 {% for entry in site.category %}
     <li>    
-        <a href="/blog/topics/{{ entry.topic }}">{{ entry.topic }}</a>
+        <a href="/blog/category/{{ entry.topic }}">{{ entry.topic }}</a>
     </li>
 {% endfor %}
 </ul>
