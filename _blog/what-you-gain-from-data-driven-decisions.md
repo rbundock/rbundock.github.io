@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "What do you gain from data-driven decisions"
+image: /assets/img/what-you-gain-from-data-driven-decisions.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 Nowadays, companies around the world implement different business strategies in order to gain a competitive advantage, however one of the most successful tactics is shifting from trusting your gut to analysing data when it comes to making important business decisions.
 
