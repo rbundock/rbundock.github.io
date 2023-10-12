@@ -1,8 +1,8 @@
 ---
 layout: story
 title:  "Data analysis and automated financial reporting bespoke software"
-date:   2023-01-21
 ---
+
 # Data analysis and automated financial reporting bespoke software
 
 ## Our client
