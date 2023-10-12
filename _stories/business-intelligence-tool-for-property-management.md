@@ -2,7 +2,6 @@
 layout: story
 title:  "Business Intelligence tool for property management"
 image: /assets/img/unnamed-4.png
-date:   2023-01-21
 categories: real estate
 ---
 
