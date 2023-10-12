@@ -2,6 +2,7 @@
 layout: post
 title:  "What will corporate portals look like in the future?"
 image: /assets/img/what-will-corporate-portals-look-like-in-the-future.jpg
+cateogry: web-development
 ---
 
 ![{{ page.title }}]({{ page.image }})
