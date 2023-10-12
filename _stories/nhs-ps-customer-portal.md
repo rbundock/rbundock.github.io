@@ -2,7 +2,6 @@
 layout: story
 title:  "NHS PS Customer Portal"
 image: /assets/img/NHS-PS-620x201-1.png
-date:   2023-01-21
 categories: Manufacturing
 ---
 
