@@ -1,8 +1,12 @@
 ---
 layout: story
 title:  "Business Intelligence tool for property management"
+image: /assets/img/unnamed-4.png
 date:   2023-01-21
+categories: real estate
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## Overview
 William Pears is one of the most significant property companies in the UK. In order to successfully manage not only thousands of properties but more importantly their own finances, they had to manually enter data into various spreadsheets. With time, they realised they required an innovative solution which would automate generating multiple reports regarding both their properties and lessees and thus enable them to gain greater control over their incomes and expenses. They asked HeadChannel to provide them with a business intelligence tool to easily organise data using different business parameters.
