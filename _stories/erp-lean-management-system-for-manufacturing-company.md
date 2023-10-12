@@ -6,7 +6,7 @@ date:   2023-01-21
 categories: Manufacturing
 ---
 
-## Why Excel spreadsheets could be limiting your company’s growth?
+# Why Excel spreadsheets could be limiting your company’s growth?
 
 ![{{ page.title }}]({{ page.image }})
 
