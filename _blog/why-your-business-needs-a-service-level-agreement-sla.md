@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "Why your business needs a service-level agreement (SLA)"
+image: /assets/img/sm_why-your-business-needs-a-service-level-agreement.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
+
 ## Expect the best. Prepare for the worst. Capitalise on what comes
 Although your business may take great care to ensure that every client transaction goes as smoothly as possible, unforeseen issues can come to the forefront. Should this happen, the simplest of tasks can quickly turn into a nightmare. Fortunately, there is a way to ensure that virtually any disaster with a client or project can be quickly addressed: have a service-level agreement (SLA).
 
