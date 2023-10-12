@@ -2,7 +2,9 @@
 layout: story
 title:  "How can you truly understand the burden of disease unless you know what it is like to live as a patient yourself?"
 date:   2023-01-21
+categories: Financial
 ---
+# How can you truly understand the burden of disease unless you know what it is like to live as a patient yourself?
 
 ## Our client
 Our client is an international organisation which deals with the trade of different metals across the globe and which manages its staff from their HQ in London.  
