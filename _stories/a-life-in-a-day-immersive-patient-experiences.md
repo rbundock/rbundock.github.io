@@ -6,7 +6,9 @@ categories: health
 ---
 
 ## Our client
+
 ![{{ page.title }}]({{ page.image }})
+
 The Method equips professionals from all sectors with a tool, cultivated by actors, directors and writers, which is used to unlock their potential by enacting behaviour change. It is based in experiential learning, emphasising a ‘learning-by-doing’ approach. Training is delivered through a set of modules, and this includes participation in workshops, coaching sessions and interactive events. These modules cover themes such as ‘influence and flex’, ‘impact and confidence’, and ‘values and personal brand’. The Method has partnered with an impressive array of clients from a range of sectors, including Unilever, AON, Network Rail, EE and Compare the Market. We are proud that they chose us to join them in creating a positive difference in the realm of healthcare.
 
 
