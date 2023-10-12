@@ -2,10 +2,8 @@
 layout: story
 title:  "Interactive Contract Management System"
 image: /assets/img/interactive-contract-management-system.jpg
-date:   2023-01-21
 categories: Membership Organisation
 ---
-
 
 # Our Client 
 
