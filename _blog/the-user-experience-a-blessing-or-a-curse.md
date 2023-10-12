@@ -2,6 +2,7 @@
 layout: post
 title: "The User Experience – a blessing or a curse"
 image: /assets/img/the-user-experience-a-blessing-or-a-curse.jpg
+category: business
 ---
 
 ![{{ page.title }}]({{ page.image }})

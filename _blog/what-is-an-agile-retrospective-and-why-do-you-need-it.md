@@ -2,6 +2,7 @@
 layout: post
 title:  "What is an agile retrospective and why do you need it?"
 image: /assets/img/what-is-an-agile-retrospective-and-why-do-you-need-it.jpg
+category: business
 ---
 
 ![{{ page.title }}]({{ page.image }})
