@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Why do we need software testing?"
+image: /assets/img/why-we-need-software-testing.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 Some of us follow recipes, some create new flavours. No matter in which group we are, we all taste our meal before serving it to our guests. It might be hard when it comes to baking, but once you try the taste of a proper dough, you are ready to go and start a bakery. This example can easily be reflected in every area of our life. We all test things before doing something, especially in business. That is why every company needs software testing.
  
