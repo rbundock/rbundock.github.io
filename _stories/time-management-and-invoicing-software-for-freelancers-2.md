@@ -1,7 +1,7 @@
 ---
 layout: story
 title:  "Time management and invoicing software for freelancers"
-image: /assets/img/my-class-depot-logo.png
+image: /assets/img/Screenshot 2023-10-12 at 16.24.02.png
 categories: Software Development, Professional Training and Coaching, Wellness and Fitness Services
 ---
 
