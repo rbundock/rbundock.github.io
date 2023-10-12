@@ -1,7 +1,6 @@
 ---
 layout: story
 title:  "How can you truly understand the burden of disease unless you know what it is like to live as a patient yourself?"
-date:   2023-01-21
 categories: Financial
 ---
 # How can you truly understand the burden of disease unless you know what it is like to live as a patient yourself?
