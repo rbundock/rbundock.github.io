@@ -5,7 +5,7 @@ image: /assets/img/the-method_logo.svg
 date:   2023-01-21
 categories: health
 ---
-## A Life In A Day: Immersive Patient Experiences
+# A Life In A Day: Immersive Patient Experiences
 
 ![{{ page.title }}]({{ page.image }})
 
@@ -31,7 +31,8 @@ A team at The Method carried out in-depth research into each disease that they w
 In order to leave a greater impression on app users, and create a more authentic lived experience of each condition, The Method wanted to make the app fully immersive and interactive. They wanted to create an app in which the user becomes the patient and truly experiences, instead of just learns, how an illness would impact your life at home and at work. 
 
 ## Our solution: the key features of ‘A Life in a Day’
-- **1. An immersive experience**
+
+ **1. An immersive experience**
 
 The ‘A Life in a Day’ app creates a unique and highly immersive experience that puts users into the shoes of the patient for 24 hours or more. This brings to life the physical, emotional and social impact of each condition with the use of a ‘medical kit’, interactive events and challenges, and role play.
 
@@ -64,7 +65,7 @@ Actors contact them by phone with a variety of stress-inducing dilemmas such as:
 - A ‘boss’ calling to discuss what will need to happen if the condition progresses
 - A ‘doctor’ calling with results of medical tests, and the different options for treatment
 
-- **2. Customised reporting**
+ **2. Customised reporting**
 
 ‘A Life in a Day’ sets out to improve empathy, so we found a way to track the involvement, progress, and performance of each user as well as groups of users.
 
@@ -72,13 +73,13 @@ While running the app, users must respond by making choices, entering data or ev
 
 Afterwards, reports can be customised to provide the desired insights that each client company sets out to investigate. These might include how the app users’ empathy levels change and how much they have learned. Companies can also gain important insights into which daily challenges turn out to be the toughest for patients. Meanwhile, user feedback can also be used to improve the app itself.
 
-- **3. Intuitive design**
+ **3. Intuitive design**
 
 The app was designed by the team at HeadChannel in such a way to make it possible for non-technical administrators to populate, update and edit each challenge. This empowers them to take control of its content and journeys without needing any programming skills or special training. The interactive challenges can be modified easily. The built-in Journey Creator allows staff to tailor templates effortlessly, clicking on timelines and adding specific challenges from a drop-down list, as well as adding links and changing the responses users receive for each challenge at the click of a button.
 
 The solution avoids many repetitive tasks and uses time-saving templates. What’s more, administrators can manage journeys, events and users from a single control panel. Changes can also be made ‘live’, allowing the team to adapt a journey and personalise responses in real time. The interface is also intuitive for users; the app can be up and running on their mobile phones in minutes.
 
-- **4. Global deployment**
+ **4. Global deployment**
 
 The brief was to create an application for a global audience with multiple users in multiple time-zones, requiring multiple languages. The Method wanted to capture the user data, but did not want a solution that required participants to be connected to the internet at all times – as this was not practical for users. What’s more, a client might suddenly require a new language to be added quickly, so The Method was keen to find a solution that would enable them to prepare and test this within the application without the need for a specialist developer.
 
@@ -90,7 +91,7 @@ We implemented a number of solutions to meet this requirement:
   
 We also decided to host the app using Microsoft Azure. This cloud deployment has enabled performance gains in different countries as well as a range of other benefits (see below).
 
-- **5. Security and data privacy**
+ **5. Security and data privacy**
 
 The app has been designed to meet international security standards around how medical content is exported/imported, and the way that user data is gathered, stored and shared.  Also, the admin panel uses permission levels to protect the system from misuse.
 
