@@ -6,6 +6,8 @@ date:   2023-01-21
 categories: real estate
 ---
 
+# Business Intelligence tool for property management
+
 ![{{ page.title }}]({{ page.image }})
 
 ## Overview
