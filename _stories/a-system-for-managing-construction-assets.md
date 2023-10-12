@@ -6,10 +6,10 @@ date:   2023-01-21
 ---
 
 # A system for managing contruction assets
+
+## Our client
+
 ![{{ page.title }}]({{ page.image }})
-
-
-# Our client
 
 The Process Innovation Factory is a data and analytics consulting startup that strives to support the innovation of their clients using cutting-edge, bespoke digital solutions. They work with medium and large organisations throughout all stages of their innovation process, from planning and strategizing to physically implementing the end-product. The Process Innovation Factory work in partnership with their clients to find the right solution to achieve their goals.
 
