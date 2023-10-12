@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Why pay for business analysis?"
+image: /assets/img/why-pay-for-business-analysis.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 The software development life cycle consists of several phases, the number of which may vary depending on the project development methodology chosen by the vendor. While it is clearly necessary to pay for the development itself, as its outcome is a workable software solution, many people are still surprised by the fact that other phases are also chargeable, especially when it comes to business analysis. After all, you are not receiving a visible product. 
 
