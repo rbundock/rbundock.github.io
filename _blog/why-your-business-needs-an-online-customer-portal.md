@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Why your business needs an online customer portal"
+image: /assets/img/why-your-business-needs-an-online-customer-portal.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})why-your-business-needs-an-online-customer-portal
 
 
 # Why your business needs an online customer portal
