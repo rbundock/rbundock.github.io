@@ -1,8 +1,15 @@
 ---
 layout: story
 title:  "Why Excel spreadsheets could be limiting your company’s growth?"
+image: /assets/img/Four04_Logo.svg
 date:   2023-01-21
+categories: Manufacturing
 ---
+
+## Why Excel spreadsheets could be limiting your company’s growth?
+
+![{{ page.title }}]({{ page.image }})
+
 Four04 is a privately owned company which supplies packaging materials to a range of industries, but specialises in the food sector and is one of the leading packaging producers in the UK. Customer service, innovation and social responsibility lie at the forefront of their business goals and they promise a professional and passionate service to all their customers. In order to fulfil these promises, Four04 recognises that it is important to have the right tools and technology.
 
 ## Better late than never. What did we have to work with?
