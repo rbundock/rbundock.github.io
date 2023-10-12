@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Which companies can benefit from recruitment software"
+image: /assets/img/which-companies-can-benefit-from-recruitment-software.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 According to Richard Branson, people are at the core of any successful business. The world-wide known businessman cannot be wrong, employees are in fact responsible for all the business operations and the overall performance, which is why it is best to pay close attention to who you hire. However, the hiring process may often be challenging, especially for companies such as event staffing agencies where the number of candidates and positions to fill is bigger than anywhere else. Luckily, recruitment software is here to simplify your business.
 
