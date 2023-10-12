@@ -1,7 +1,6 @@
 ---
 layout: story
 title:  "How to successfully incorporate UX and CX into your business, allowing both your business and that of your clients to benefit"
-date:   2023-01-21
 categories: Manufacturing
 ---
 
