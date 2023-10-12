@@ -1,8 +1,12 @@
 ---
 layout: story
 title:  "System for interviews and questionnaires for an advisory company"
+image: /assets/img/unnamed-5.png
 date:   2023-01-21
+categories: health
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## Overview
 **Access Partnership** is one of the leading consulting firms in the UK. They help various businesses from all around the globe grow by analysing global trends and thus identifying risks and opportunities they might create. Such a thorough analysis allows their customers to mitigate the risks and take advantage of the opportunities, which ensures continuous growth of a company.
