@@ -1,9 +1,14 @@
 ---
 layout: story
 title:  "Financial challenges facing the NHS"
+image: /assets/img/NHS.png
 date:   2023-01-21
-categories: NHS health
+categories: Health
 ---
+
+## Financial challenges facing the NHS
+
+![{{ page.title }}]({{ page.image }})
 
 ## How to fully understand the costs of the NHS
 Since the NHS was founded in 1948, its spending has increased annually by 4% on average in real terms. Its budget, however, has not increased in line with this. At the same time, demand for NHS services has continued to rise due to population growth, longer life expectancies, more complex illnesses arising and more treatments becoming available. As a result, the quality and standards of NHS services have fallen, with waiting times for A and E, hospital appointments, and treatments growing every year. 
