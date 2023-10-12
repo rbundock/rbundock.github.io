@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Why you should outsource your mobile app development"
-image: /assets/img/why-should-you-outsource-your-mobile-app.jpg
+title:  "Why you should outsource your software development to Poland"
+image: /assets/img/why-you-should-outsource-your-software-development-to-poland.jpg
 ---
 
 ![{{ page.title }}]({{ page.image }})
