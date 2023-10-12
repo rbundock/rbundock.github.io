@@ -3,10 +3,11 @@ layout: story
 title:  "How can you truly understand the burden of disease unless you know what it is like to live as a patient yourself?"
 date:   2023-01-21
 categories: health
-image: /assets/img/the-method_logo.svg
 ---
 
-![{{ page.title }}]({{ page.image }})why-your-business-needs-an-online-customer-portal
+![The Method Logo!](/assets/images/the-method_logo.svg)
+
+![{{ page.title }}]({{ page.image }})
 
 ## Our client
 The Method equips professionals from all sectors with a tool, cultivated by actors, directors and writers, which is used to unlock their potential by enacting behaviour change. It is based in experiential learning, emphasising a ‘learning-by-doing’ approach. Training is delivered through a set of modules, and this includes participation in workshops, coaching sessions and interactive events. These modules cover themes such as ‘influence and flex’, ‘impact and confidence’, and ‘values and personal brand’. The Method has partnered with an impressive array of clients from a range of sectors, including Unilever, AON, Network Rail, EE and Compare the Market. We are proud that they chose us to join them in creating a positive difference in the realm of healthcare.
