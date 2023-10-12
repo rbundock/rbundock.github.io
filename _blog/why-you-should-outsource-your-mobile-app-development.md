@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Why you should outsource your mobile app development"
+image: /assets/img/why-should-you-outsource-your-mobile-app.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 ## Six minefields you cannot ignore
 Mobile use is on the rise. So is the percentage of people who make purchases using their mobile devices. In fact, a recent survey suggested that 32% of UK smartphone users make monthly purchases on their cell phones. In order to take advantage of this growing market and open up a new revenue stream, businesses need to channel some of their budget and strategy into mobile app development.
