@@ -2,7 +2,6 @@
 layout: story
 title:  "System for interviews and questionnaires for an advisory company"
 image: /assets/img/unnamed-5.png
-date:   2023-01-21
 categories: education
 ---
 
