@@ -2,7 +2,6 @@
 layout: story
 title:  "Two custom software solutions and a complex analysis of business processes?"
 image: /assets/img/111.png
-date:   2023-01-21
 categories: Retail
 ---
 
