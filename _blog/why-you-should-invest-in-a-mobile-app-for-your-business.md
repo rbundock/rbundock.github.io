@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Why you should invest in a mobile app for your business"
+image: /assets/img/why-you-should-invest-in-a-mobile-app-for-your-business.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 The most critical asset to your company are your customers, so it is crucial to pay attention to the customer experience you provide. One way of doing so is to invest in user experience design and offer your customers a mobile application. According to Oracle, over 50% of young people claim they would neither buy a product from a company which offers a poor mobile app experience nor would they recommend such a company to their friends. Taking into consideration the fact that mobiles are nowadays more popular than PCs, how exactly can your company benefit from investing in a mobile application for your business?
 
