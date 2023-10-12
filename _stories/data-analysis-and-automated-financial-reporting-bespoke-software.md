@@ -3,6 +3,8 @@ layout: story
 title:  "Data analysis and automated financial reporting bespoke software"
 date:   2023-01-21
 ---
+# Data analysis and automated financial reporting bespoke software
+
 ## Our client
 Our client is a global organization dealing with the trade of metals across many industries around the world. 
 
