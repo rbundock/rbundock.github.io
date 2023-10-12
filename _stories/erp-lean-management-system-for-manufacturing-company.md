@@ -2,7 +2,6 @@
 layout: story
 title:  "Why Excel spreadsheets could be limiting your company’s growth?"
 image: /assets/img/Four04_Logo.svg
-date:   2023-01-21
 categories: Manufacturing
 ---
 
