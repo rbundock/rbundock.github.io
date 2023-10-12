@@ -4,6 +4,8 @@ title:  "A system for managing contruction assets"
 image: /assets/img/image_2021_08_11T13_22_37_079Z.png
 date:   2023-01-21
 ---
+
+# A system for managing contruction assets
 ![{{ page.title }}]({{ page.image }})
 
 
