@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "What is the Extreme Programming"
+image: /assets/img/what-is-the-extreme-programming.jpg
 ---
+
+![{{ page.title }}]({{ page.image }})
 
 Extreme Programming (XP) is an agile project methodology created by Kent Beck. It is a style of management that focuses on short releases with small features, and encourages frequent communication with customers in an iterative way. In many cases, extreme programming is used when a system is required to dynamically change its functions over the period of a few months. It is a successful methodology because it boosts customer satisfaction. During development, the most important component of XP is teamwork. Everyone is involved in the project: managers, developers, testers and customers must all be partners and form a good team. There are situations when a customer isn’t sure what they want, so changing requirements and potential solutions can always be discussed and considered. This allows customers to actively participate in product development. This is why communication is a vital aspect of extreme programming.
 
