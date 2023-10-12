@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Topics
+title: Categories
 ---
 
-<h1>Topics</h1>
+<h1>Categories</h1>
 <ul>
-{% for entry in site.topics %}
+{% for entry in site.category %}
     <li>    
         <a href="/blog/topics/{{ entry.topic }}">{{ entry.topic }}</a>
     </li>

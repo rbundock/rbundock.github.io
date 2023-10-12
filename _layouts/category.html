@@ -4,7 +4,7 @@
   <body>
     {% include nav.html %}
     <main>
-        <h1>Blog</h1>
+        <h1>Blogs</h1>
         <ul>
         {% assign bespoke_posts = site.blog | where: "category", page.topic %}
         {% for entry in bespoke_posts %}

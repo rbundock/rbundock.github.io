@@ -8,9 +8,9 @@ plugins:
 collections:
   clients:
     output: false
-  topics:
+  category:
     output: true
-    permalink: /blog/topics/:path/
+    permalink: /blog/category/:path/
   blog:
     output: true
     permalink: /blog/:path/
