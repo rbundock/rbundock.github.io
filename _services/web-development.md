@@ -1,6 +1,6 @@
 ---
 layout: service
-title: "Web Development"
+title: "Web development solutions in predictable packages"
 ---
 
 # Web development solutions in predictable packages
