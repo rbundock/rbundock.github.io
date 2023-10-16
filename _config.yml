@@ -20,6 +20,9 @@ collections:
   services:
     output: true
     permalink: /:path/
+  mobile-app-development:
+    output: true
+    permalink: /mobile-app-development/:path/
   stories: 
     output: true
     permalink: /stories/:path/
