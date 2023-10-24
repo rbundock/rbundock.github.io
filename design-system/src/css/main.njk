@@ -1,0 +1,28 @@
+---
+permalink: /css/main.css
+sitemapIgnore: true
+---
+{%- set css -%}
+  {% include '../_includes/css/utility/breakout-button.css' %}
+  {% include '../_includes/css/utility/reset.css' %}
+  {% include '../_includes/css/utility/wrapper.css' %}
+
+  {% include '../_includes/css/composition/grid.css' %}
+  {% include '../_includes/css/composition/stack.css' %}
+  {% include '../_includes/css/composition/flow.css' %}
+
+  {% include '../_includes/css/components/breakdown.css' %}
+  {% include '../_includes/css/components/button.css' %}
+  {% include '../_includes/css/components/card.css' %}
+  {% include '../_includes/css/components/hero.css' %}
+  {% include '../_includes/css/components/label.css' %}
+  {% include '../_includes/css/components/menu-toggle.css' %}
+  {% include '../_includes/css/components/nav.css' %}
+  {% include '../_includes/css/components/panel.css' %}
+
+  {% include '../_includes/css/global/site-footer.css' %}
+  {% include '../_includes/css/global/site-header.css' %}
+  {% include '../_includes/css/global/type.css' %}
+  {% include '../_includes/css/global/tokens.css' %}
+{%- endset -%}
+{{ css | cssmin | safe }}

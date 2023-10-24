@@ -1,0 +1,110 @@
+/* barlow-regular - latin */
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/barlow-v12-latin-regular.woff2') format('woff2');
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* barlow-900 - latin */
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 900;
+  src: url('/fonts/barlow-v12-latin-900.woff2') format('woff2');
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* barlow-900italic - latin */
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Barlow';
+  font-style: italic;
+  font-weight: 900;
+  src: url('/fonts/barlow-v12-latin-900italic.woff2') format('woff2');
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* urbanist-regular - latin */
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/urbanist-v15-latin-regular.woff2') format('woff2');
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* urbanist-700 - latin */
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/urbanist-v15-latin-700.woff2') format('woff2');
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: var(--text-400);
+  line-height: var(--leading-tight);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: var(--font-block);
+  font-weight: var(--font-bold);
+  text-transform: uppercase;
+  font-style: italic;
+  line-height: var(--leading-cosy);
+}
+
+h1 strong,
+h2 strong {
+  color: var(--panel-accent, var(--color-pink));
+}
+
+h1 {
+  font-size: var(--text-900);
+}
+
+h2 {
+  font-size: var(--text-800);
+}
+
+h3 {
+  font-size: var(--text-600);
+}
+
+h4 {
+  font-size: var(--text-500);
+}
+
+h5 {
+  font-size: var(--text-400);
+}
+
+a {
+  color: currentColor;
+}
+
+hr {
+  display: block;
+  width: 100%;
+  height: 1px;
+  border: none;
+  background: currentColor;
+  opacity: 0.1;
+}

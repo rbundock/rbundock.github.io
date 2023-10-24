@@ -1,0 +1,26 @@
+<section class="panel" data-theme="charcoal">
+  <div class="wrapper">
+    <div class="[ flow ] [ flow-space-700 ]">
+      <div class="[ grid ] [ gap-x-600 lg:grid-cols-2 ]">
+        <h2>Bespoke software specialists<strong>.</strong></h2>
+
+        <div class="[ flow ] [ flow-space-400 ]">
+          <p>Whether you are an SME or a blue-chip company, our development teams are here to support you in building either a long-term or a short-term IT roadmap specification to give your business the edge. We can guarantee that the software we build will not only be reliable, scalable and secure but also affordable.</p>
+        </div>
+      </div>
+
+      <hr>
+
+      <ul class="[ grid ] [ gap-600 lg:grid-cols-2 ]" role="list">
+        {% for i in range(0, 4) %}
+          <li class="[ breakdown ] [ flow ]">
+            <span class="breakdown__icon">{% include '../../../uploads/website.svg' %}</span>
+
+            <h3 class="text-400">Website management</h3>
+            <p>We create data-driven software solutions that deliver results quickly. In times of crisis, this is more important than ever. Our development methodology helps to frame the solution.</p>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,37 @@
+.site-header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: var(--size-400) 0;
+  z-index: 10;
+  color: var(--color-light);
+}
+
+.site-header__inner {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-header__logo {
+  display: block;
+  width: min(12rem, 30%);
+}
+
+.site-header__logo svg {
+  width: 100%;
+  height: auto;
+}
+
+.site-header__navigation {
+  font-size: var(--text-200);
+}
+
+.site-header[data-status='opened'] {
+  background: var(--color-charcoal);
+  color: var(--color-light);
+}
+
+.site-header[data-status='opened'] .site-header__navigation {
+  display: flex;
+}

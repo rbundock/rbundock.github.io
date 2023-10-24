@@ -1,0 +1,15 @@
+.panel {
+  position: relative;
+  padding: var(--size-900) 0;
+}
+
+.panel[data-theme="charcoal"] {
+  background: var(--color-charcoal);
+  color: var(--color-light);
+}
+
+.panel[data-theme="lime"] {
+  --panel-accent: var(--color-pink);
+
+  background: var(--color-lime);
+}

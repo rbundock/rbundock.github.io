@@ -1,0 +1,22 @@
+.nav {
+  font-family: var(--font-block);
+  font-weight: var(--font-black);
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+.nav li {
+  --flow-space: 0.25em;
+}
+
+.nav li a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25em;
+  text-decoration: none;
+}
+
+.nav li a svg {
+  height: 1.5em;
+  width: auto;
+}

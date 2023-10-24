@@ -1,0 +1,13 @@
+.breakdown {
+  --flow-space: var(--size-200);
+}
+
+.breakdown__icon {
+  display: block;
+  width: 1.5em;
+}
+
+.breakdown__icon svg {
+  width: 100%;
+  height: auto;
+}
