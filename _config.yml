@@ -28,7 +28,7 @@ collections:
     permalink: /stories/:path/
 
 exclude:
-  - .flat/
+  - flat/
 
 static_files:
-  - .flat/
+  - flat/
