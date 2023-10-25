@@ -4,6 +4,7 @@ description: Bookmark this to keep an eye on my project updates!
 
 include:
   - _design-system
+  - _design-system/_site  
 
 plugins:
   - jekyll-sitemap
