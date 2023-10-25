@@ -1,7 +1,7 @@
 .panel {
   position: relative;
   z-index: 1;
-  padding: var(--size-900) 0;
+  padding: var(--size-700) 0;
 }
 
 .panel h2 {
