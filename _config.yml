@@ -26,9 +26,3 @@ collections:
   stories: 
     output: true
     permalink: /stories/:path/
-
-exclude:
-  - flat/
-
-static_files:
-  - flat/
