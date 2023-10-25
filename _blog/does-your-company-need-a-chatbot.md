@@ -9,7 +9,7 @@ image: /assets/img/does-your-company-need-a-chatbot-1.jpg
 
 ## Take care of omnichannel communication with clients
 
-Connecting with your customers was probably a lot easier in the past. All you had to do was advertise in a newspaper and, once somebody noticed your offer, pick up the phone. Nowadays, there are multiple channels through which customers can engage with your company, including your website, mobile applications, e-mail and phone support, various social media channels and now, there are also chatbots. The latter has gained a lot of popularity throughout the last few years because, aside from building a recognisable brand, it is necessary to engage with your customers and provide them with unique customer experience to become a competitive player on the market, regardless of the industry. By offering all of the above channels, you give your customers a choice and thus increase the chance of gaining a new order. However, there is more than one reason why your company should nowadays pay particular attention to a chatbot.
+Connecting with your customers was probably a lot easier in the past. All you had to do was advertise in a newspaper and, once somebody noticed your offer, pick up the phone. Nowadays, there are multiple channels through which customers can engage with your company, including your website, mobile applications, e-mail and phone support, various social media channels, and chatbots. The latter has gained much popularity throughout the last few years because, aside from building a recognisable brand, it is necessary to engage with your customers and provide them with a unique customer experience to become a competitive player in the market, regardless of the industry. By offering all of the above channels, you give your customers a choice and thus increase the chance of gaining a new order. However, there is more than one reason why your company should nowadays pay particular attention to a chatbot.
 
 
 ## Like a human or just a robot?
@@ -19,9 +19,9 @@ Chatbot mimics your online interactions with customers and thus improves the cus
 
 ### There are two types of chatbots:
 
-- **Command Based Chatbot**
+- **Command-Based Chatbot**
   
-They rely only on a database of replies matched to a given question. They might provide more accurate responses, yet find it impossible to answer questions outside of the database.
+They rely only on a database of replies matched to a given question. They might provide more accurate responses yet find it impossible to answer questions outside of the database.
 
 - **Intelligent Chatbot**
 
@@ -41,7 +41,7 @@ A chatbot allows you to introduce automated answers to the most frequently asked
 
 
 - **Build a brand**
-When the process of acquiring a product or a service or merely finding information on your website takes too long, most visitors start looking at other companies. A powerful chatbot allows you to keep visitors on your website and shorten the ordering process at the same time. If your clients need a solution which requires minimum effort, a chatbot can help you stand out from the crowd and beat your competitors by providing an excellent user experience, and this makes engaging with your company much more straightforward.
+When the process of acquiring a product or a service or merely finding information on your website takes too long, most visitors start looking at other companies. A powerful chatbot allows you to keep visitors on your website and shorten the ordering process at the same time. Suppose your clients need a solution which requires minimum effort. In that case, a chatbot can help you stand out from the crowd and beat your competitors by providing an excellent user experience, and this makes engaging with your company much more straightforward.
 
 
 - **Save money**
@@ -49,11 +49,11 @@ Building a chatbot is not only cheaper than developing a mobile application or a
 
 
 - **Streamline business operations**
-Investing in a chatbot for your company is yet another way to automate various business operations which allow your human employees to increase their productivity. Even though dealing with customer requests is not a complicated process, it is often a highly time-consuming one. With a chatbot providing 24/7 customer support, your team can easily focus on different tasks, for example, completing new orders.
+Investing in a chatbot for your company is yet another way to automate various business operations, which allows your human employees to increase their productivity. Even though dealing with customer requests is not a complicated process, it is often a highly time-consuming one. With a chatbot providing 24/7 customer support, your team can easily focus on different tasks, for example, completing new orders.
 
 
 - **Improve user experience (make engaging easier)**
 A chatbot is excellent at answering both simple and complex questions, but it also streamlines the process of asking questions and gathering data. When looking for a specific service which requires further human interaction, a chatbot can easily collect and synchronise information. For example, we built a recruitment chatbot for one of the biggest staff management companies in the UK. The solution contains personal details from a candidate and helps them open an account where they can find temporary jobs matching their profiles.
 
 
-Every customer has different preferences when it comes to engaging with a company. Millennials tend to use mobile applications and chatbots more often than baby boomers who contact company representatives in a more traditional way that is via e-mail or phone. The best solution is to provide customers with access to each of these channels, which allows you to make sure every visitor quickly becomes a customer and, more importantly, a happy one. If you want to see how chatbots can improve your customer experience and boost your business, get in touch with us. Having years of experience in building tech solutions combined with AI, we will turn your idea into a reality.
+Every customer has different preferences when it comes to engaging with a company. Millennials tend to use mobile applications and chatbots more often than baby boomers, who contact company representatives in a more traditional way, that is, via e-mail or phone. The best solution is to provide customers with access to each of these channels, which allows you to make sure every visitor quickly becomes a customer and, more importantly, a happy one. If you want to see how chatbots can improve your customer experience and boost your business, get in touch with us. Having years of experience in building tech solutions combined with AI, we will turn your idea into a reality.
