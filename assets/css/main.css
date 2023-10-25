@@ -157,7 +157,7 @@ textarea {
     z-index: 1;
     padding: var(--size-500);
     border-radius: var(--rounded-3xl);
-    background: var(--color-charcoal) url(/img/card.svg) top right/40% auto no-repeat;
+    background: var(--color-charcoal) url(/assets/img/card.svg) top right/40% auto no-repeat;
     color: var(--color-light);
     font-size: var(--text-300);
     transition: .4s ease-in-out;
@@ -607,7 +607,7 @@ legend:not([class]) {
     font-family: Barlow;
     font-style: normal;
     font-weight: 400;
-    src: url(/fonts/barlow-v12-latin-regular.woff2) format('woff2')
+    src: url(/assets/fonts/barlow-v12-latin-regular.woff2) format('woff2')
 }
 
 @font-face {
@@ -615,7 +615,7 @@ legend:not([class]) {
     font-family: Barlow;
     font-style: normal;
     font-weight: 900;
-    src: url(/fonts/barlow-v12-latin-900.woff2) format('woff2')
+    src: url(/assets/fonts/barlow-v12-latin-900.woff2) format('woff2')
 }
 
 @font-face {
@@ -623,7 +623,7 @@ legend:not([class]) {
     font-family: Barlow;
     font-style: italic;
     font-weight: 900;
-    src: url(/fonts/barlow-v12-latin-900italic.woff2) format('woff2')
+    src: url(/assets/fonts/barlow-v12-latin-900italic.woff2) format('woff2')
 }
 
 @font-face {
@@ -631,7 +631,7 @@ legend:not([class]) {
     font-family: Urbanist;
     font-style: normal;
     font-weight: 400;
-    src: url(/fonts/urbanist-v15-latin-regular.woff2) format('woff2')
+    src: url(/assets/fonts/urbanist-v15-latin-regular.woff2) format('woff2')
 }
 
 @font-face {
@@ -639,7 +639,7 @@ legend:not([class]) {
     font-family: Urbanist;
     font-style: normal;
     font-weight: 700;
-    src: url(/fonts/urbanist-v15-latin-700.woff2) format('woff2')
+    src: url(/assets/fonts/urbanist-v15-latin-700.woff2) format('woff2')
 }
 
 body {
