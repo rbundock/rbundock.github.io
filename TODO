@@ -6,7 +6,11 @@ Rich
 - xCategories
 - Implement a linktree type of thing... for business cards. Give URLs to Emily. 
 - Social Open Graph tags
-- DEPLOY
+- Check console errors
+- Webmanifest icon-192 ? 
+
+
+DEPLOY
 - Remove the robots.txt
 - Remove this TODO File
 
