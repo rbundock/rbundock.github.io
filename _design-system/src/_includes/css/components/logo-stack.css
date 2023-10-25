@@ -1,0 +1,9 @@
+.logo-stack {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo-stack img {
+  height: 5rem;
+  width: auto;
+}

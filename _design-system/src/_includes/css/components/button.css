@@ -16,6 +16,7 @@
   transition: .4s ease-in-out;
   transition-property: background, color;
   cursor: pointer;
+  border: none;
 }
 
 .button:hover {

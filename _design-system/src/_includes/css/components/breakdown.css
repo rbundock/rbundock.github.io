@@ -3,7 +3,7 @@
 }
 
 .breakdown__icon {
-  display: block;
+  display: inline-block;
   width: 1.5em;
 }
 
