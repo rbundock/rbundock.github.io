@@ -2,7 +2,8 @@
 layout: story
 title:  "The University of Winchester case study"
 image: /assets/img/University_of_Winchester_logo-removebg-preview.png
-categories: Education
+categories:
+  - Education
 ---
 
 # The University of Winchester case study

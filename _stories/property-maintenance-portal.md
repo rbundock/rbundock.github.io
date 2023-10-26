@@ -2,7 +2,8 @@
 layout: story
 title:  "A property maintenance portal for real estate companies"
 image: /assets/img/unnamed-6.png
-categories: Real Estate 
+categories:
+  - Real Estate 
 ---
 
 # A property maintenance portal for real estate companies

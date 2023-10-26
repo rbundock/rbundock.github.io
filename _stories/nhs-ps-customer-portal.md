@@ -2,7 +2,8 @@
 layout: story
 title:  "NHS PS Customer Portal"
 image: /assets/img/NHS-PS-620x201-1.png
-categories: Manufacturing
+categories:
+  - Manufacturing
 ---
 
 # Our client

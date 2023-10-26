@@ -2,7 +2,8 @@
 layout: story
 title:  "Recruitment chatbot for event staffing"
 image: /assets/img/unnamed-3.png
-categories: Human Resources 
+categories:
+  - Human Resources 
 ---
 
 # Recruitment chatbot for event staffing

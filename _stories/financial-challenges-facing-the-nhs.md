@@ -2,7 +2,8 @@
 layout: story
 title:  "Financial challenges facing the NHS"
 image: /assets/img/NHS.png
-categories: Health
+categories:
+  - Health
 ---
 
 ## Financial challenges facing the NHS

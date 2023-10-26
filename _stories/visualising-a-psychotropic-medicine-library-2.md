@@ -2,7 +2,12 @@
 layout: story
 title:  "How to merge technology and medicine into one useful app."
 image: /assets/img/BAP_logo.jpg
-categories: Technology, Information Technology and Services, Health Care, Higher Education, Medical Practice
+categories:
+  - Technology
+  - Information Technology and Services
+  - Health Care
+  - Higher Education
+  - Medical Practice
 ---
 
 # How to merge technology and medicine into one useful app.

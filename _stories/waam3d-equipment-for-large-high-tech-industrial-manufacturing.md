@@ -2,7 +2,12 @@
 layout: story
 title:  "WAAM3D Equipment for Large High Tech Industrial Manufacturing "
 image: /assets/img/Screenshot_1.png
-categories: Manufacturing, Technology, Industrial Machinery Manufacturing, Engineering Services, Software Development
+categories:
+  - Manufacturing
+  - Technology
+  - Industrial Machinery Manufacturing
+  - Engineering Services
+  - Software Development
 ---
 
 # Our client

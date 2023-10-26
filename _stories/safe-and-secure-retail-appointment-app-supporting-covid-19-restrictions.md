@@ -2,7 +2,8 @@
 layout: story
 title:  "Helping high street stores in their reopening processes following the outbreak of the COVID-19 pandemic - By Appointment Only Ltd"
 image: /assets/img/by-appointment_LOGO.png
-categories: Human Resources
+categories:
+  - Human Resources
 ---
 
 # Helping high street stores in their reopening processes following the outbreak of the COVID-19 pandemic - By Appointment Only Ltd

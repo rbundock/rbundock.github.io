@@ -2,7 +2,8 @@
 layout: story
 title:  "CRM and student records systems integration for a college of further education"
 image: /assets/img/bedford-college-logo.jpg
-categories: education
+categories:
+  - Education
 ---
 
 # CRM and student records systems integration for a college of further education

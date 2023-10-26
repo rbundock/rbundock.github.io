@@ -2,7 +2,8 @@
 layout: story
 title:  "Inspection app for real estate companies"
 image: /assets/img/lets-inspect-logo.png
-categories: Real Estate
+categories:
+  - Real Estate
 ---
 
 # Inspection app for real estate companies

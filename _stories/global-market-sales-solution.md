@@ -1,7 +1,8 @@
 ---
 layout: story
 title:  "How to successfully incorporate UX and CX into your business, allowing both your business and that of your clients to benefit"
-categories: Manufacturing
+categories:
+  - Manufacturing
 ---
 
 # How to successfully incorporate UX and CX into your business, allowing both your business and that of your clients to benefit

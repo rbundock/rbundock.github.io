@@ -1,7 +1,8 @@
 ---
 layout: story
 title:  "How can you truly understand the burden of disease unless you know what it is like to live as a patient yourself?"
-categories: Financial
+categories:
+  - Financial
 ---
 # How can you truly understand the burden of disease unless you know what it is like to live as a patient yourself?
 

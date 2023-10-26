@@ -2,7 +2,8 @@
 layout: story
 title:  "Business Intelligence tool for property management"
 image: /assets/img/unnamed-4.png
-categories: real estate
+categories:
+  - Real Estate
 ---
 
 # Business Intelligence tool for property management
