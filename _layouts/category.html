@@ -1,22 +1,36 @@
 <!doctype html>
 <html lang="en">
-  {% include head.html %}
-  <body>
-    {% include nav.html %}
-    <main>
-        <h1>Blogs</h1>
-        <ul>
-        {% assign bespoke_posts = site.blog | where: "category", page.topic %}
-        {% for entry in bespoke_posts %}
-            <li>    
-            {% if entry.image and entry.image != "" %}
-                <img src="{{ entry.image }}" alt="{{ entry.title }}" />
-            {% endif %}
-                <a href="{{ entry.url }}">{{ entry.title }}</a>
+{% include head.html %}
+
+<body>
+  <main>
+    {% include components/panel_search.html %}
+    {% include header.html %}
+
+    {% include hero.html %}
+    <section class="panel">
+      <div class="wrapper">
+        <div class="[ flow ] [ flow-space-700 ]">
+
+          <ul>
+            {% assign bespoke_posts = site.blog | where: "category", page.topic %}
+            {% for entry in bespoke_posts %}
+            <li>
+              {% if entry.image and entry.image != "" %}
+              <img src="{{ entry.image }}" alt="{{ entry.title }}" />
+              {% endif %}
+              <a href="{{ entry.url }}">{{ entry.title }}</a>
             </li>
-        {% endfor %}
-        </ul>
-    </main>
+            {% endfor %}
+          </ul>
+
+        </div>
+      </div>
+      </div>
+    </section>
+
     {% include footer.html %}
-  </body>
+  </main>
+</body>
+
 </html>

@@ -1,9 +1,11 @@
 ---
-layout: default
-title: Categories
+layout: blogs
+title: Blog Categories
+image: /assets/uploads/story.jpg
+headline: The <strong>blog</strong>.
+headline_para: 
 ---
 
-<h1>Categories</h1>
 <ul>
 {% for entry in site.category %}
     <li>    
