@@ -18,9 +18,15 @@ The relationship between tables is made with columns of the same name. The name 
 
 In the presented example, we can see three tables, but only two are connected correctly. Note that Power BI not only uses column names to establish relationships. During the second stage of detecting relationships, Power BI checks the contents of the columns it found matching by name. Nevertheless, it doesn’t prevent all failures, as we will see below.
 
+![Table1](/assets/img/pbi_1_1.png)
+
 When displaying the relationships, it is clear that although the first relationship is correct, the second one is doubtful. In the case of a contact–company relationship, we have demonstrated that adding suffixes (here enclosed with braces) to a column name does not break correct relationships. It can sometimes be useful.
 
+![Table2](/assets/img/pbi_1_2.png)
+
 The employee–contact relationship is entirely wrong. We cannot really assume that when we store people’s names, that one won’t appear in some other set of data we intend to use. Here, the appearance of ‘Satya Nadella’ incurred a relationship between employees and contacts using the ‘Name’ column, which is highly unreliable if not completely undesirable.
+
+![Table3](/assets/img/pbi_1_3.png)
 
 
 ## Solution
