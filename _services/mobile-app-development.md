@@ -1,6 +1,6 @@
 ---
 layout: service
-title: "obile app development"
+title: "Mobile app development"
 ---
 
 # Mobile app development
