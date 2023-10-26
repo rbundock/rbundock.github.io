@@ -7,7 +7,12 @@
 
 <title>{{ pageTitle }}</title>
 <link rel="canonical" href="{{ currentUrl }}">
-<base href="https://rbundock.github.io/flat/">
+
+{% if env.node !== 'dev' %}
+  <base href="https://rbundock.github.io/flat/">
+{% else %}
+  <base href="/">
+{% endif %}
 
 <meta property="og:site_name" content="{{ siteTitle }}">
 <meta property="og:title" content="{{ pageTitle }}">
