@@ -3,6 +3,7 @@ layout: story
 title:  "How can you truly understand the burden of disease unless you know what it is like to live as a patient yourself?"
 image: /assets/img/the-method_logo.svg
 categories: health
+summary: The Method's app, A Life in a Day, simulates patients' experiences, enhancing healthcare empathy.
 ---
 
 ## Our client

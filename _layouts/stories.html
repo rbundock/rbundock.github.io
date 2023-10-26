@@ -20,9 +20,12 @@
                 <img src="{{ entry.image }}" alt="{{ entry.title }}" />
                 {% endif %}
               </div>
-              <span class="label">Trading</span>
+              {% for category in entry.category %}
+              <span class="label">{{ category }}</span>
+              {% endfor %}
               <h3 class="text-400"><a href="{{ entry.url }}" class="breakout-button">{{ entry.title }}</a></h3>
-
+              <p>{{ entry.summary }}
+              </p>
             </li>
             {% endfor %}
           </ul>
