@@ -15,7 +15,7 @@ This article presents a common pitfall when defining field names. Following the 
 ## Problem
 Power BI Desktop automatically detects an identity field. This is the field that identifies the row in the table. It does so by looking for the ‘ID’ phrase in the column name. Although a relationship won’t necessarily use this field, visualisations will apply defaults specific to an identity field. The default summarisation in the totals row will use the number of values (rows) when you might expect a sum or average, or no summarisation at all.
 
-![Table]({{pbi0_1.png}})
+![Table1](/assets/img/pbi0_1.png)
 
 The screenshot presents a table with three columns. All the columns contain the exact data for us to see the difference in their display in visualisations.
 
@@ -25,15 +25,15 @@ The screenshot presents a table with three columns. All the columns contain the 
   
 - **Usual column** (a column that does not contain the phrase ‘ID’)
 
-![Table2]({{pbi0_2.png}})  
+![Table2](/assets/img/pbi0_2.png)  
 
 We can display all three columns to see the difference right away. The value of the first two columns was counted, and the third was summed.
 
-![Table3]({{pbi0_3.png}})  
+![Table3](/assets/img/pbi0_3.png)  
 
 Here, we can see that the count summarisation has been chosen by default, where we didn’t intend this to be an identity column. It is even more of an issue for text columns.
 
-![Table3]({{pbi0_4.png}})  
+![Table3](/assets/img/pbi0_4.png)  
 
 The last column is summarised correctly.
 
