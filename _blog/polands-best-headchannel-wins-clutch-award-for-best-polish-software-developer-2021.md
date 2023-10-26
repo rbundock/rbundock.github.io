@@ -16,14 +16,14 @@ This is exciting news for us, especially since our clients played such an instru
 
 To extend our gratitude, our Strategy Director has a few words to say:
 
-“Thank you for this award. We are thrilled to have been recognised as one of the leading software development companies by Clutch. It is a great feeling of getting recognized for our hard work in the bespoke software development market. The biggest honour goes to the team who supported the company to attain its overwhelming success for the past few years.”
+“Thank you for this award. We are thrilled to have been recognised as one of the leading software development companies by Clutch. Getting recognised for our hard work in the bespoke software development market is a great feeling. The biggest honour goes to the team who supported the company to attain its overwhelming success for the past few years.”
 
  — Beata Green, Strategy Director at HeadChannel
 
-We are truly honoured to be recognised in this way, and we are proud to say that our success really does reflect our clients’ satisfaction. We are always grateful to receive positive feedback for the services we provide. Here’s one of the perfect scores we were given by a client:
+We are truly honoured to be recognised in this way, and we are proud to say that our success really does reflect our clients’ satisfaction. We are always grateful to receive positive feedback for the services we provide. 
 
 Visit our [Clutch page](https://clutch.co/profile/headchannel#summary) if you want to learn more about what our clients are saying about us.
 
-Aside from our latest milestone from Clutch, it is also a privilege for us to be featured as one of the best app developers in Poland by Visual Objects, a B2B agency portfolio site that connects service providers to clients in need. As we move forward, we are eager to show more of what we can do for you.
+Aside from our latest milestone from Clutch, it is also a privilege for us to be featured as one of the best app developers in Poland by Visual Objects. This B2B agency portfolio site connects service providers to clients in need. As we move forward, we are eager to show more of what we can do for you.
 
-If you have a project in mind, please do let us know. Reach out to us, we’d love to hear from you.
+If you have a project in mind, please do let us know. Reach out to us; we’d love to hear from you.
