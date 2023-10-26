@@ -31,7 +31,7 @@ module.exports = (eleventyConfig) => {
   return {
     dir: {
       input: '__design-system',
-      output: '__flat',
+      output: 'flat',
     },
     passthroughFileCopy: true,
   };
