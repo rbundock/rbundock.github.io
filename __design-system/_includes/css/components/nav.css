@@ -14,9 +14,28 @@
   align-items: center;
   gap: 0.25em;
   text-decoration: none;
+  transition: .2s ease-in-out color;
 }
 
-.nav li a svg {
-  height: 1.5em;
+.nav li svg {
+  height: 1.25em;
   width: auto;
+}
+
+.nav li button {
+  padding: 0.5em;
+  border: none;
+  background: var(--color-light);
+  cursor: pointer;
+  color: var(--color-charcoal);
+  border-radius: var(--rounded-full);
+}
+
+.nav li button svg {
+  height: 1em;
+  width: auto;
+}
+
+.nav li a:hover {
+  color: var(--color-lime);
 }

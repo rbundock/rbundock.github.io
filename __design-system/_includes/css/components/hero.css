@@ -9,6 +9,7 @@
   padding: calc(5rem + var(--size-900)) 0;
   color: var(--color-light);
   aspect-ratio: 16/9;
+  width: 100%;
 }
 
 .hero__background {

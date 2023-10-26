@@ -10,10 +10,20 @@
     <link rel="stylesheet" href="css/main.css">
 
     <script src="js/components/menu-toggle.js" type="module"></script>
+    <script src="js/components/search-panel.js" type="module"></script>
   </head>
   <body>
+    <!-- Search -->
+    {% include '../partials/global/search.njk' %}
+
+    <!-- Header -->
+    {% include '../partials/global/header.njk' %}
+
     <main>
       {{ content | safe }}
     </main>
+
+    <!-- Footer -->
+    {% include '../partials/global/footer.njk' %}
   </body>
 </html>

@@ -25,11 +25,17 @@
 
 .site-header__navigation {
   font-size: var(--text-200);
+  text-align: center;
+}
+
+.site-header__navigation>ul.nav>li>a {
+  padding: 0.5em 0;
 }
 
 .site-header[data-status='opened'] {
   background: var(--color-charcoal);
   color: var(--color-light);
+  border-bottom: 4px solid var(--color-lime);
 }
 
 .site-header[data-status='opened'] .site-header__navigation {
