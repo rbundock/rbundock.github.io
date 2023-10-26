@@ -6,7 +6,7 @@
   z-index: 1;
   padding: var(--size-500);
   border-radius: var(--rounded-3xl);
-  background: var(--color-charcoal) url('/img/card.svg') top right / 40% auto no-repeat;
+  background: var(--color-charcoal) url('../img/card.svg') top right / 40% auto no-repeat;
   color: var(--color-light);
   font-size: var(--text-300);
   transition: .4s ease-in-out;
