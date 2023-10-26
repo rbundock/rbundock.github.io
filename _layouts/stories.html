@@ -11,24 +11,23 @@
     <section class="panel">
       <div class="wrapper">
         <div class="[ flow ] [ flow-space-700 ]">
-          <div class="[ grid ] [ gap-x-600 lg:grid-cols-2 ]">
 
-            <ul class="[ grid ] [ lg:grid-cols-3 ]" role="list">
-              {% for entry in site.stories %}
-              <li class="[ card ] [ flow p-400 aspect-square ]">
-                <div class="card__background">
-                  {% if entry.image and entry.image != "" %}
-                  <img src="{{ entry.image }}" alt="{{ entry.title }}" />
-                  {% endif %}
-                </div>
-                <span class="label">Trading</span>
-                <h3 class="text-400"><a href="{{ entry.url }}" class="breakout-button">{{ entry.title }}</a></h3>
-                <p>A global organization dealing with the trade of metals across many industries around the world.
-                </p>
-              </li>
-              {% endfor %}
-            </ul>
-          </div>
+          <ul class="[ grid ] [ lg:grid-cols-3 ]" role="list">
+            {% for entry in site.stories %}
+            <li class="[ card ] [ flow p-400 aspect-square ]">
+              <div class="card__background">
+                {% if entry.image and entry.image != "" %}
+                <img src="{{ entry.image }}" alt="{{ entry.title }}" />
+                {% endif %}
+              </div>
+              <span class="label">Trading</span>
+              <h3 class="text-400"><a href="{{ entry.url }}" class="breakout-button">{{ entry.title }}</a></h3>
+              <p>A global organization dealing with the trade of metals across many industries around the world.
+              </p>
+            </li>
+            {% endfor %}
+          </ul>
+
         </div>
       </div>
       </div>
