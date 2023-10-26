@@ -1,16 +1,5 @@
 ---
-layout: default
+layout: blogs
 title: Blog
+image: /assets/uploads/story.jpg
 ---
-
-<h1>Blog</h1>
-<ul>
-{% for entry in site.blog %}
-    <li>    
-    {% if entry.image and entry.image != "" %}
-        <img src="{{ entry.image }}" alt="{{ entry.title }}" />
-    {% endif %}
-        <a href="{{ entry.url }}">{{ entry.title }}</a>
-    </li>
-{% endfor %}
-</ul>
