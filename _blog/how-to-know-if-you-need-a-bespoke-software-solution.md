@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "How to know if you need a bespoke software solution"
 image: /assets/img/when-you-need-a-bespoke-software-solution.jpg
 ---

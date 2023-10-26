@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Green design sustainability: avoiding future wastage"
 image: /assets/img/green-design-sustainability-avoiding-future-wastage.jpg
 ---

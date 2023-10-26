@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "The benefits of outsourcing your software project to Poland"
 image: /assets/img/the-benefits-of-outsourcing-your-software-project-to-poland.jpg
 ---

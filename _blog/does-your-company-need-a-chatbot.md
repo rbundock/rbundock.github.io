@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Does your company need a chatbot?"
 image: /assets/img/does-your-company-need-a-chatbot-1.jpg
 ---

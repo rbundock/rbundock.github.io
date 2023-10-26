@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "It’s time for Progressive Web Apps (PWA)"
 image: /assets/img/its-time-for-progressive-web-apps-pwa.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Take artificial intelligence home"
 image: /assets/img/FB_IMG_1591602157273.jpg
 ---

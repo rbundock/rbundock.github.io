@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Why you need Agile software development tools"
 image: /assets/img/why-you-need-agile-software-development-tools.jpg
 ---

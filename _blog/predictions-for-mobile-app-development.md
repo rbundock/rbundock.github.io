@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Predictions for mobile app development"
 image: /assets/img/predictions-for-mobile-app-development.jpg
 ---

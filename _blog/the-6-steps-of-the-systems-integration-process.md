@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "The 6 steps of the systems integration process"
 image: /assets/img/6-steps-of-system-integration-process.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Are hackers the good guys?"
 image: /assets/img/are-hackers-the-good-guys.jpg
 ---

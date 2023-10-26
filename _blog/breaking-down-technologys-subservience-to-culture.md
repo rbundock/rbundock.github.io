@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Breaking down technology’s subservience to culture"
 image: /assets/img/breaking-down-technologys-subservience-to-culture.jpg
 ---

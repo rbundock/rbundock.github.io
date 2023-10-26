@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "The benefits of using property management software"
 image: /assets/img/the-benefits-of-using-property-management-software.jpg
 ---

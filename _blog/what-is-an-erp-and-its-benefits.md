@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What is an ERP and its benefits"
 image: /assets/img/what-is-an-erp-and-its-benefits.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "HeadChannel named among Clutch’s Top 1000 Global Companies 2021"
 image: /assets/img/clutch-awards-2021.png
 ---

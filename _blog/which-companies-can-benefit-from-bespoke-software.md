@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Which companies can benefit from bespoke software"
 image: /assets/img/KANBAN_pexels-anthony-shkraba-5475757.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "The most common software bugs"
 image: /assets/img/the-most-common-software-bugs.png
 ---

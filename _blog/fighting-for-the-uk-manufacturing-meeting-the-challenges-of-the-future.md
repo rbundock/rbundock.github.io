@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Fighting for the UK manufacturing. Meeting the challenges of the future"
 image: /assets/img/fighting-for-the-uk-manufacturing-meeting-the-challenges-of-the-future.jpg
 ---

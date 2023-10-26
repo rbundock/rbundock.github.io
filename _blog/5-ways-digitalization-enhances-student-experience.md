@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "5 ways digitalization enhances the student experience"
 image: /assets/img/5-ways-digitalization-enhances-student-experience.jpg
 ---

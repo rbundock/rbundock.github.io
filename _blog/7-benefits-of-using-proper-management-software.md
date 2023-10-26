@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "7 benefits of using proper management software"
 image: /assets/img/7-benefits-of-using-property-management-software.jpg
 ---

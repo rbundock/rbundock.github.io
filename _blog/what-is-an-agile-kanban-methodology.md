@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What is an agile kanban methodology?"
 image: /assets/img/what-is-an-agile-kanban-methodology.jpg
 ---

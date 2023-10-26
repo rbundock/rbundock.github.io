@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "How to use business intelligence to drive sales"
 image: /assets/img/how-to-use-business-intelligence-to-drive-sales.jpg
 ---

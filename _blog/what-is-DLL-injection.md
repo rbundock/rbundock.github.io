@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What is ‘DLL injection’?"
 image: /assets/img/what-is-dll-injection-1.jpg
 ---

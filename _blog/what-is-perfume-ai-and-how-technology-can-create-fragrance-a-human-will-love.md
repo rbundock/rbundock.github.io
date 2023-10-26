@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What is perfume AI, and how technology can create fragrance a human will love?"
 image: /assets/img/what-is-perfume-ai-and-how-technology-can-create-fragrance-a-human-will-love.jpg
 ---

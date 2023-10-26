@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Why digital adoption is so important"
 image: /assets/img/why-digital-adoption-is-so-important.jpg
 ---

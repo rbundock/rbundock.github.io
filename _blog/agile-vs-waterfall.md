@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Agile vs. waterfall"
 image: /assets/img/agile-vs-waterfall.jpg
 ---

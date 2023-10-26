@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Healthcare trends connected with technology in 2021"
 ---
 

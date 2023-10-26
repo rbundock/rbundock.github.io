@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "3 reasons why businesses must stay technologically current"
 image: /assets/img/sm_3-reasons-why-businesses-must-stay-technologically-current.jpg
 ---

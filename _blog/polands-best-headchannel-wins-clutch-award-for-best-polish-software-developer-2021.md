@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Poland’s best: HeadChannel wins Clutch award for best Polish software developer 2021"
 image: /assets/img/polands-best-headchannel-wins-clutch-award-for-best-polish-software-developer-2021.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "How to improve your mobile app visibility"
 image: /assets/img/how-to-improve-your-mobile-app-visibility.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Why is it important to engage end-users in software development?"
 image: /assets/img/person-using-macbook-pro-on-person-s-lap-1181298-2048x1367.jpg
 ---

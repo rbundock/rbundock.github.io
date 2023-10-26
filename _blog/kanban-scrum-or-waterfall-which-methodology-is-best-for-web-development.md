@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Kanban, scrum or waterfall – which methodology is best for web development?"
 image: /assets/img/kanban-scrum-or-waterfall-which-methodology-is-best-for-web-development.jpg
 ---

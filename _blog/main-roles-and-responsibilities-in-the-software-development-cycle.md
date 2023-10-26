@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Main roles and responsibilities in the software development cycle"
 image: /assets/img/main-roles-and-responsibilities-in-the-software-development-cycle.jpg
 ---

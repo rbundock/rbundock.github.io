@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "New Product Introduction process (NPI)"
 image: /assets/img/new-product-introduction-process-npi.jpg
 ---

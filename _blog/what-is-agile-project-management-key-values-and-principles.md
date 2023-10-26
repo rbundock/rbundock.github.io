@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What is Agile project management? Key values and principles"
 image: /assets/img/what-is-agile-project-management-key-values-and-principles.jpg
 ---

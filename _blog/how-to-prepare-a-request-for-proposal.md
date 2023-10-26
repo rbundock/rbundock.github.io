@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "How to prepare a request for proposal"
 image: /assets/img/how-to-prepare-a-request-for-proposal.jpg
 ---

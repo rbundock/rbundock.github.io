@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "5 types of enterprise software solutions"
 image: /assets/img/5-types-of-enterprise-software-solution-1.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Automated vs. manual testing"
 image: /assets/img/automated-vs-manual-testing-1.jpg
 ---

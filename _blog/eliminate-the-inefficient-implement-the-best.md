@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Eliminate the inefficient, implement the best"
 image: /assets/img/how-technology-can-improve-construction-industry.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "4 signs your business needs systems integration"
 image: /assets/img/4-signs-your-business-needs-systems-integration.jpg
 ---

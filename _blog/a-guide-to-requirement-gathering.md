@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "A guide to requirement gathering"
 image: /assets/img/a-guide-to-requirement-gathering.jpg
 ---

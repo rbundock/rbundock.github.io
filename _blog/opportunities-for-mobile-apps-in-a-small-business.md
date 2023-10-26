@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Opportunities for mobile apps in a small business"
 image: /assets/img/opportunities-for-mobile-apps-in-small-business.jpg
 ---

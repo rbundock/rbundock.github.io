@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What is FaceID and how can we use it"
 image: /assets/img/pexels-rodnae-productions-5915239.jpg
 ---

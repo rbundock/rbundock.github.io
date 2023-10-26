@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Trends in business: Freemium"
 image: /assets/img/trends-in-business-freemium.jpg
 ---

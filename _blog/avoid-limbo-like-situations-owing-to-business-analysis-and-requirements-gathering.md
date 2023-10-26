@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Avoid limbo-like situations owing to business analysis and requirements gathering"
 image: /assets/img/business-analysis-and-requirements-gathering.jpg
 ---

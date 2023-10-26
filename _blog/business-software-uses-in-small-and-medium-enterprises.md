@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Business software uses in small and medium enterprises"
 image: /assets/img/challenges-facing-business.jpg
 ---

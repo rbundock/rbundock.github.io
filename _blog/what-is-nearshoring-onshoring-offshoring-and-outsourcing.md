@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What is nearshoring, onshoring, offshoring and outsourcing?"
 image: /assets/img/what-is-nearshoring-onshoring-offshoring-and-outsourcing.jpg
 ---

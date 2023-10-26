@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "The importance of considering failure"
 image: /assets/img/the-importance-of-considering-failure-1.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "8 benefits of bespoke software"
 image: /assets/img/8-benefits-of-bespoke-software.jpg
 ---

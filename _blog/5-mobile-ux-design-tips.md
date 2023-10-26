@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "5 mobile UX design tips"
 image: /assets/img/5-mobile-ux-design-tips.jpg
 ---

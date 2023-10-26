@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What is UX – a UX guide"
 image: /assets/img/what-is-ux-a-ux-guide.jpg
 ---

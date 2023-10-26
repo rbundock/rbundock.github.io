@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Best practice for how the UK’s tertiary education sector should approach digital transformation"
 image: /assets/img/beyond-covid-19-best-practice-for-how-uks-tertiary-education-sector-should-approach-digital-transformation.jpg
 ---

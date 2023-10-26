@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Why business analysis is important in software development"
 image: /assets/img/sm_why-business-analysis-is-important-in-software-development.jpg
 ---

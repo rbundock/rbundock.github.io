@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Rapid prosthetic socket design technique"
 image: /assets/img/rapid-prosthetic-socket-design-technique-1.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Why you should consider software maintenance"
 image: /assets/img/why-you-should-consider-software-maintenance.jpg
 ---

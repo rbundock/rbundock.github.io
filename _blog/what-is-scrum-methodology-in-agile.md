@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What is scrum methodology in agile?"
 image: /assets/img/what-is-scrum-methodology-in-agile.jpg
 ---

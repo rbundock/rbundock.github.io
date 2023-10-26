@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "How to prepare your business for digital transformation"
 image: /assets/img/person-using-silver-macbook-pro-1181467-2048x1367.jpg
 ---

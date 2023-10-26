@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Ensuring better quality through Agile testing practices"
 image: /assets/img/ensuring-better-quality-through-agile-testing-practices.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Increase workplace safety in post-pandemic times with AI"
 image: /assets/img/increase-workplace-safety-in-post-pandemic-times-with-ai.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Top benefits of using JIRA reporting and transparent processes of project management"
 image: /assets/img/top-benefits-of-using-jira-reporting-and-transparent-processes-of-project-management.jpg
 ---

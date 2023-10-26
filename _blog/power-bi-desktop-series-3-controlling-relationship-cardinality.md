@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Controlling relationship cardinality. Power BI desktop series"
 image: /assets/img/power-bi-desktop-series-3-controlling-relationship-cardinality.jpg
 ---

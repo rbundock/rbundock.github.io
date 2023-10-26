@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "7 key types of healthcare software"
 image: /assets/img/surgeons-performing-surgery-2324837-2048x1365.jpg
 ---

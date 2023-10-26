@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "The 6 steps of a bespoke software development process"
 image: /assets/img/photo-3_nearshoring_pexels-fauxels-3182772-2048x1365.jpg
 ---

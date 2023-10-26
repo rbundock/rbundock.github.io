@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What is AI in healthcare?"
 image: /assets/img/what-is-ai-in-healthcare.jpg
 ---

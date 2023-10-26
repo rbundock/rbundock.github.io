@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Has your business met cloud computing yet?"
 image: /assets/img/has-your-business-met-cloud-computing-yet.jpg
 ---

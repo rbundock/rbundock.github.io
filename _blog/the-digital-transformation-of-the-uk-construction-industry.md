@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "The digital transformation of the UK construction industry"
 image: /assets/img/the-digital-transformation-of-the-uk-construction-industry.jpg
 ---

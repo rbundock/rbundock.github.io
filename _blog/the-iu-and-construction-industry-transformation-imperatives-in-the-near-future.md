@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "The IU and construction industry transformation imperatives in the near future"
 image: /assets/img/the-iu-and-construction-industry-transformation-imperatives-in-the-near-future.jpg
 ---

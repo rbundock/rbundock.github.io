@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "System administrator job description"
 image: /assets/img/system-administrator-job-description.jpg
 ---

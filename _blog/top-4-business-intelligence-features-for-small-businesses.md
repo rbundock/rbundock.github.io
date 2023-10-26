@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Top 4 business intelligence features for small businesses"
 image: /assets/img/top-5-business-intelligence-features-for-small-businesses.jpg
 ---

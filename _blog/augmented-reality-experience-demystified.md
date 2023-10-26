@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Augmented Reality experience demystified"
 image: /assets/img/augmented-reality-experience-demystified.jpg
 ---

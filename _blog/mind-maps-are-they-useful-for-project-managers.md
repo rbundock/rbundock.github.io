@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Mind maps – are they useful for project managers?"
 image: /assets/img/mind-maps-are-they-useful-for-project-managers.jpg
 ---

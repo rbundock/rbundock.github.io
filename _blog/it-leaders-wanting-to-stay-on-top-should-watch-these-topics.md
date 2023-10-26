@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "IT leaders wanting to stay on top should watch these topics"
 image: /assets/img/it-leaders-wanting-to-stay-on-top-should-watch-these-topics.jpg
 ---

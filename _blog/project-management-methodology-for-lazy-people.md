@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: "Project management methodology for lazy people"
 image: /assets/img/project-management-methodology-for-lazy-people.jpg
 ---

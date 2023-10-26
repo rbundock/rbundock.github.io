@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "The spiral model of software development"
 image: /assets/img/the-spiral-model-of-software-development.jpg
 ---

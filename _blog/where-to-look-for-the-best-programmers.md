@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Where to look for the best programmers"
 image: /assets/img/where-to-look-for-the-best-programmers.jpg
 ---

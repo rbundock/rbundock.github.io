@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Which companies can benefit from inspection software"
 image: /assets/img/which-companies-can-benefit-from-inspection-software.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Small shift or a game-changing effect. Why does your company need a business analyst?"
 image: /assets/img/sm_why-your-company-needs-a-business-analyst.jpg
 ---

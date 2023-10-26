@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: "Time for the future of retail: how stores introduce touchless technology"
 image: /assets/img/time-for-the-future-of-retail-how-stores-introduce-touchless-technology.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "How to add value to your workflow"
 image: /assets/img/how-to-add-value-to-workflow.jpg
 ---

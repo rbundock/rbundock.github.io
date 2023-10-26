@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "HeadChannel supports small businesses across London and all of the United Kingdom"
 image: /assets/img/headchannel-supports-small-businesses-across-london-and-all-of-the-united-kingdom.jpg
 ---

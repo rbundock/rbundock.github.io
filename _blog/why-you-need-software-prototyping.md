@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Why do you need software prototyping?"
 image: /assets/img/why-you-need-software-prototyping.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "4 skills every software developer should have"
 image: /assets/img/4-skills-every-software-developer-should-have.jpg
 ---

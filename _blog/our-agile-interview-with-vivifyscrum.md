@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Our Agile interview with Vivifyscrum"
 image: /assets/img/our-agile-interview-with-vivifyscrum.jpg
 ---

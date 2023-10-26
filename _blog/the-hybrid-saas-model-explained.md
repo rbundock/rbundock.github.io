@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "The hybrid SaaS model explained"
 image: /assets/img/the-hybrid-saas-model-explained.jpg
 ---

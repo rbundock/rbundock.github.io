@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "How Big Data influences our lives"
 image: /assets/img/how-big-data-influences-our-lives.jpg
 ---

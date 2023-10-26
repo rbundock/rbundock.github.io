@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What do you gain from data-driven decisions"
 image: /assets/img/what-you-gain-from-data-driven-decisions.jpg
 ---

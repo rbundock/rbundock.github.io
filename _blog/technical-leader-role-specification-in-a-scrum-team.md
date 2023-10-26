@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Technical leader role specification in a scrum team"
 image: /assets/img/sm_7-reasons-why-software-development-projects-succeed-1.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Mobile cross-platform issues"
 image: /assets/img/mobile-cross-platform-issues.jpg
 ---

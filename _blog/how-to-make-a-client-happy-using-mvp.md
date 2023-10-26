@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "How to make a client happy using MVP"
 image: /assets/img/how-to-make-a-client-happy-using-mvp.jpg
 ---

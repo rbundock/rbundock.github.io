@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Bespoke software vs. off-the-shelf software"
 image: /assets/img/jira-2048x1365.jpg
 ---

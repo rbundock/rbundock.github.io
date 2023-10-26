@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "How does nanotechnology in medicine stand today?"
 image: /assets/img/nanotechnology-in-medicine-how-it-stands-today.jpg
 ---

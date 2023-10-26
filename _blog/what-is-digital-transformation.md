@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What is digital transformation?"
 image: /assets/img/what-is-digital-transformation-1.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Digital transformation trends in healthcare"
 image: /assets/img/pexels-artem-podrez-5716001.jpg
 ---

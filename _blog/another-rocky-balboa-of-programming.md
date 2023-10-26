@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Is Kanban another Rocky Balboa of programming?"
 image: /assets/img/another-rocky-balboa-of-programming-kotlin-wades-its-way-to-success-2.jpg
 ---

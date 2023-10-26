@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Why you should outsource your software development"
 image: /assets/img/why-should-you-outsource-your-mobile-app.jpg
 ---

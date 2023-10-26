@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Things to pay close attention to during business analysis"
 image: /assets/img/things-to-pay-close-attention-to-during-business-analysis.jpg
 ---

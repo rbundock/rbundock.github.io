@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "How physical security benefits the safety of your data"
 image: /assets/img/how-physical-security-benefits-the-safety-of-your-data.jpg
 ---

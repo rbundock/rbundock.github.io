@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Ideas for business mobile apps"
 image: /assets/img/ideas-for-business-mobile-apps.jpg
 ---

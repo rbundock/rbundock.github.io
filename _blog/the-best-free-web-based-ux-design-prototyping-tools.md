@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "The best free web-based UX design prototyping tools"
 image: /assets/img/the-best-free-web-based-ux-design-prototyping-tools.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "8 benefits of using recruitment software"
 image: /assets/img/8-benefits-of-using-recruitment-software.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Keep calm and get your cloud under control"
 image: /assets/img/214.jpg
 ---

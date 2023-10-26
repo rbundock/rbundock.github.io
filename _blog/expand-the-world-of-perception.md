@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Expand the world of perception"
 image: /assets/img/expand-the-world-of-perception.jpg
 ---

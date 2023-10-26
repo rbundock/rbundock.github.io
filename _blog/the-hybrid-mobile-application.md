@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "The hybrid mobile application"
 image: /assets/img/the-hybrid-mobile-application-1.jpg
 ---

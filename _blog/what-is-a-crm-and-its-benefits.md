@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What is a CRM and its benefits"
 image: /assets/img/what-is-a-crm-and-its-benefits.jpg
 ---

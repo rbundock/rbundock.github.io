@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "ERP software. What is it?"
 image: /assets/img/erp-software-meaning-what-is-it.jpg
 ---

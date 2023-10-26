@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Innovative childcare solutions"
 image: /assets/img/innovative-childcare-solutions.jpg
 ---

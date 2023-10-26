@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Opportunities in real-time apps"
 image: /assets/img/opportunities-in-real-time-apps.jpg
 ---

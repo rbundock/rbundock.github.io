@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Machine learning in banking"
 image: /assets/img/photo-3_rapid-development_pexels-hitesh-choudhary-340152.jpg
 ---

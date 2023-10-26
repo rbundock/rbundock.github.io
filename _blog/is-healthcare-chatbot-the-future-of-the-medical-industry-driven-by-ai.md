@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Is healthcare chatbot the future of the medical industry driven by AI?"
 image: /assets/img/is-healthcare-chatbot-the-future-of-the-medical-industry-driven-by-ai.jpg
 ---

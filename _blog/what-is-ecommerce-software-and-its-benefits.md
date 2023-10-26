@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What is ecommerce software and its benefits"
 image: /assets/img/what-is-ecommerce-software-and-its-benefits.jpg
 ---

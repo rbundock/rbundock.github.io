@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "How to prepare your employees for a new software adoption"
 image: /assets/img/how-to-prepare-your-employees-for-a-new-software-adoption.jpg
 ---

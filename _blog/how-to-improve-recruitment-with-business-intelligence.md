@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "How to improve recruitment with business intelligence"
 image: /assets/img/sm_how-to-improve-recruitment-with-business-intelligence.jpg
 ---

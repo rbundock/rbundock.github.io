@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "6 reasons why software development projects fail"
 image: /assets/img/6-reasons-why-software-development-projects-fail.jpg
 ---

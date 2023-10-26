@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Why your business needs an online customer portal"
 image: /assets/img/why-your-business-needs-an-online-customer-portal.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Why do we need software testing?"
 image: /assets/img/why-we-need-software-testing.jpg
 ---

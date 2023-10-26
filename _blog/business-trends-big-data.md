@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Business trends – Big Data"
 image: /assets/img/business-trends-big-data.jpg
 ---

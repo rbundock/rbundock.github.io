@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Why you should invest in a mobile app for your business"
 image: /assets/img/why-you-should-invest-in-a-mobile-app-for-your-business.jpg
 ---

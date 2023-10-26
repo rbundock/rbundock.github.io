@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Smartwatches in healthcare"
 image: /assets/img/smartwatches-in-healthcare.jpg
 ---

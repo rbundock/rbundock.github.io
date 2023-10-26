@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Understanding telehealth and telemedicine"
 image: /assets/img/understanding-telehealth-and-telemedicine.jpg
 ---

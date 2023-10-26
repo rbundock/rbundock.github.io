@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Establishing relationships. Power BI desktop series"
 image: /assets/img/power-bi-desktop-series-establishing-relationships.jpg
 ---

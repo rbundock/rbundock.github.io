@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Why pay for business analysis?"
 image: /assets/img/why-pay-for-business-analysis.jpg
 ---

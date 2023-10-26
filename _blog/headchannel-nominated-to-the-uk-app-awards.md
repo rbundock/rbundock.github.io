@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "HeadChannel nominated to the UK APP Awards"
 image: /assets/img/pexels-andrea-piacquadio-3770000.jpg
 ---

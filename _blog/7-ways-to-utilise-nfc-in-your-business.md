@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "7 ways to utilise NFC in your business"
 image: /assets/img/7-ways-to-utilise-nfc-in-your-business.jpg
 ---

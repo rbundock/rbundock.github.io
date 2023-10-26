@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+
+<body>
+  <main>
+    {% include components/panel_search.html %}
+    {% include header.html %}
+
+    {% include hero.html %}
+    <section class="panel" data-theme="charcoal">
+      <div class="wrapper">
+        <div class="[ flow ] [ flow-space-700 ]">
+
+          {{ content }}
+
+        </div>
+      </div>
+    </section>
+
+    {% include footer.html %}
+</body>
+
+</html>

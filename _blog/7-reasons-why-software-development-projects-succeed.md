@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "7 reasons why software development projects succeed"
 image: /assets/img/sm_7-reasons-why-software-development-projects-succeed.jpg
 ---

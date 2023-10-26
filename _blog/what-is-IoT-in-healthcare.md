@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What is IoT in healthcare?"
 image: /assets/img/what-is-iot-in-healthcare.jpg
 ---

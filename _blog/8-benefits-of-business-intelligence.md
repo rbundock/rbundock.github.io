@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "8 benefits of business intelligence"
 image: /assets/img/8-benefits-of-business-intelligence.jpg
 ---

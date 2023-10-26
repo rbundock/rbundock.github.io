@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Tips for designing and using icons on your website"
 image: /assets/img/tips-for-designing-and-using-icons-on-your-website-1.jpg
 ---

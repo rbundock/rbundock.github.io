@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "A construction software checklist will help you to make the right decision"
 image: /assets/img/are-you-looking-for-a-new-construction-software-1.jpg
 ---

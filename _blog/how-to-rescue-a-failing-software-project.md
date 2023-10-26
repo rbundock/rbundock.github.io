@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "How to rescue a failing software project"
 image: /assets/img/how-to-rescue-failing-software-project.jpg
 ---

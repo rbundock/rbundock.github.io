@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Don’t forget about UX in cross-platform designing"
 image: /assets/img/pexels-rodnae-productions-5915202.jpg
 ---

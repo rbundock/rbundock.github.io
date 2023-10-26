@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Post pandemic software solutions for the construction industry"
 image: /assets/img/post-pandemic-software-solutions-for-the-construction-industry.jpg
 ---

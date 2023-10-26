@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What makes a good test engineer?"
 image: /assets/img/sm_what-makes-a-good-test-engineer.jpg
 ---

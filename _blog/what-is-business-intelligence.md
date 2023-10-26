@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What is business intelligence?"
 image: /assets/img/background-hoto_agile-project-managementpexels-fauxels-3184325-2048x1365.jpg
 ---

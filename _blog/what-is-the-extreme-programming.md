@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What is the Extreme Programming"
 image: /assets/img/what-is-the-extreme-programming.jpg
 ---

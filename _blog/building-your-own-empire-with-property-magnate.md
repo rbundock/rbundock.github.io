@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Building your own empire with property magnate"
 image: /assets/img/building-your-own-empire-with-property-magnate.jpg
 category: mobile-app

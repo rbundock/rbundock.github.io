@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Top 5 features of an event management software"
 image: /assets/img/top-5-features-of-an-event-management-software-1.jpg
 ---

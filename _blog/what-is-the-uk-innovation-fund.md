@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What is the UK Innovation Fund?"
 image: /assets/img/UKI2s-innovate-uk.png
 ---

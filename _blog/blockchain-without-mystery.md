@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Blockchain without mystery"
 image: /assets/img/briefly-about-blockchain.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Which companies can benefit from property management software"
 image: /assets/img/engineers-in-workshop-3861960-2048x1366.jpg
 ---

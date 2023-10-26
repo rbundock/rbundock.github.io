@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Time and material vs. fixed price"
 image: /assets/img/sm_time-material-vs-fixed-price.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Benefits of outsourcing your IT project"
 image: /assets/img/pexels-andrea-piacquadio-3801701.jpg
 ---

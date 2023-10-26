@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Experience 2030: the future of customer experience is… Now!"
 image: /assets/img/experience-2030-the-future-of-customer-experience-is-now.jpg
 ---

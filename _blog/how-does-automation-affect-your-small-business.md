@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "How does automation affect your small business?"
 image: /assets/img/pexels-rodnae-productions-5921977.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Is the cost of software equal to its initial price?"
 image: /assets/img/is-the-cost-of-software-equal-to-its-initial-price.jpg
 ---

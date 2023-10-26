@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "3 types of software development companies you can outsource to"
 image: /assets/img/3-types-of-software-development-companies-you-can-outsource-to.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Why good business analysis is essential"
 image: /assets/img/key-reasons-for-good-business-analysis.jpg
 ---

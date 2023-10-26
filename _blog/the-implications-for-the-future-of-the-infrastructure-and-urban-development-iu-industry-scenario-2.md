@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "The implications for the future of the infrastructure and urban development (IU) industry: scenario 2"
 image: /assets/img/scenarios-and-implications-for-the-future-of-the-iu-industry-scenario-2-1.jpg
 ---

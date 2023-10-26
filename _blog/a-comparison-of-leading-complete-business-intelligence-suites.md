@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "A comparison of leading complete business intelligence suites"
 image: /assets/img/comparison-of-leading-complete-business-intelligence-suites.jpg
 ---

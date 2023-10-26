@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "How to keep your online business secured"
 image: /assets/img/how-to-keep-your-online-business-secured.jpg
 ---

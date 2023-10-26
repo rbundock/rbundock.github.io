@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "How small and medium businesses fared during the pandemic"
 image: /assets/img/how-small-and-medium-businesses-fared-during-the-pandemic.jpg
 ---

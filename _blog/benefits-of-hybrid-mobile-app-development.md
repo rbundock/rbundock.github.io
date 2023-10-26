@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Benefits of hybrid mobile app development"
 image: /assets/img/HeadChannel-2048x1365.jpg
 ---

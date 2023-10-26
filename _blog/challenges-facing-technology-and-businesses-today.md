@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Challenges facing technology and businesses today"
 image: /assets/img/challenges-facing-technology-and-businesses-today.jpg
 ---

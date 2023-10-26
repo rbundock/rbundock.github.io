@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: "What is a SCM and its benefits"
 category: bespoke-software 
 image: /assets/img/what-is-a-scm-and-its-benefits.jpg

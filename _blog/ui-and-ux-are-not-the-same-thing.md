@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "UI and UX are not the same thing"
 image: /assets/img/ui-and-ux-are-not-the-same-thing-1.jpg
 ---

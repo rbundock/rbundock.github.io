@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Team extension, managed services and fixed price projects. For whom, how much, when and why?"
 image: /assets/img/outsourcing-managed-teams.jpg
 ---

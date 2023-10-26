@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "5 business processes that you should automate today"
 image: /assets/img/5-business-processes-that-you-should-automate-today.jpg
 ---
