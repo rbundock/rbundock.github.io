@@ -2,7 +2,7 @@
 layout: blog
 title:  "5 problems that property management software can solve"
 image: /assets/img/5-problems-that-property-management-software-can-solve.jpg
-category: property-management
+categories: property-management
 ---
 
 ![{{ page.title }}]({{ page.image }})

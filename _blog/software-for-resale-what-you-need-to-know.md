@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Software for resale – what you need to know"
-category: bespoke-software 
+categories: bespoke-software 
 image: /assets/img/software-for-resale-what-you-need-to-know.jpg
 ---
 

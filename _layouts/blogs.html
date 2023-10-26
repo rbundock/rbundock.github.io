@@ -20,7 +20,7 @@
                 <img src="{{ entry.image }}" alt="{{ entry.title }}" />
                 {% endif %}
               </div>
-              {% for category in entry.category %}
+              {% for category in entry.categories %}
               <span class="label">{{ category }}</span>
               {% endfor %}
               <h3 class="text-400"><a href="{{ entry.url }}" class="breakout-button">{{ entry.title }}</a></h3>
