@@ -112,6 +112,7 @@
             // Instantiate the Posts class and fetch the initial set of posts
             const myPosts = new Posts();
             myPosts.fetch();
+            document.getElementById('search').focus();
 
             // Function to execute a search based on the value in the search input box
             function performSearch() {
