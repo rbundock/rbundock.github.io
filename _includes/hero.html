@@ -7,7 +7,7 @@
             <h1>{{ page.headline }}</h1>
             <p>{{ page.headline_para }}</p>
 
-            {{ if page.cta and page.cta != "" }}
+            {% if page.cta and page.cta != "" %}
             <div class="[ stack ] [ items-center ]">
                 <a href="/stories/" class="button">View All Stories</a>
 
@@ -16,7 +16,7 @@
                     <p class="text-200">Give us a call</p>
                 </div>
             </div>
-            {{ endif }}
+            {% endif %}
         </div>
     </div>
 </section>
