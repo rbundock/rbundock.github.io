@@ -1,10 +1,11 @@
 ---
 layout: blog
 title:  "4 signs your business needs systems integration"
-image: /assets/img/4-signs-your-business-needs-systems-integration.jpg
+image: /assets/img/note-thanun-GI10ZiPO_3w-unsplash.jpg
+summary: Digitalisation and software integration are essential for competitive businesses, enhancing productivity, customer reach, and efficiency, but require strategic implementation and expertise.
+category:
+  - Systems Integration
 ---
-
-![{{ page.title }}]({{ page.image }})
 
 Nowadays, digitalisation is an inevitable step for a business if it wants to remain competitive. More and more companies are using online platforms and software solutions to boost their productivity and thus improve their service. Also, it is a great way to reach more customers. However, buying a tool is insufficient – you must know how to use it.
 
