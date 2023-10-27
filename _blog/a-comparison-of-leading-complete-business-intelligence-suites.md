@@ -1,10 +1,11 @@
 ---
 layout: blog
 title:  "A comparison of leading complete business intelligence suites"
-image: /assets/img/comparison-of-leading-complete-business-intelligence-suites.jpg
+image: /assets/img/shridhar-gupta-dZxQn4VEv2M-unsplash.jpg
+summary: Effective use of Business Intelligence (BI) tools for data analysis can significantly enhance decision-making and efficiency in businesses.
+category:
+  - Business Intelligence
 ---
-
-![{{ page.title }}]({{ page.image }})
 
 ## Collecting data, transforming it into information, and knowing how to use it may bring your company great benefits
 As we grow older, we realise that running a company is nowhere near as easy as we once thought it would be. The success we all desire seems hard to achieve, especially nowadays when the technology running the world is continuously evolving, forcing us constantly to adapt and change our processes. That is why people often come up with unexpected solutions.
