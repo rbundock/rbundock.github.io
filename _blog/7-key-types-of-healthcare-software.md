@@ -1,7 +1,7 @@
 ---
 layout: blog
 title:  "7 key types of healthcare software"
-image: /assets/img/piron-guillaume-y5hQCIn1c6o-unsplash.jpg
+image: /assets/img/camilo-jimenez-vGu08RYjO-s-unsplash.jpg
 summary: Healthcare software offers vast benefits like streamlined management, accurate electronic records, patient portals, scheduling ease, efficient billing, and safer prescribing, enhancing patient care and operational efficiency.
 category:
   - Bespoke Software
