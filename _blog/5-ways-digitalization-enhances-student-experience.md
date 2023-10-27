@@ -1,7 +1,7 @@
 ---
 layout: blog
 title:  "5 ways digitalization enhances the student experience"
-image: /assets/img/5-ways-digitalization-enhances-student-experience.jpg
+image: /assets/img/joshua-hoehne-iggWDxHTAUQ-unsplash.jpg
 ---
 
 ![{{ page.title }}]({{ page.image }})
