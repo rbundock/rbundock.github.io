@@ -2,7 +2,7 @@
 layout: blog
 title:  "Automated vs. manual testing"
 image: /assets/img/thisisengineering-raeng-Hjez0AY_c4k-unsplash.jpg
-summary: Repetitive life and software testing parallel: Manual and automated testing in software reflect life's monotony, each with unique pros and cons, highlighting efficiency versus thoroughness.
+summary: Repetitive life and software testing parallel, Manual and automated testing in software reflect life's monotony, each with unique pros and cons, highlighting efficiency versus thoroughness.
 category:
   - Bespoke Software
 ---
