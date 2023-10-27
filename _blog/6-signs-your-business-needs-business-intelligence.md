@@ -1,7 +1,7 @@
 ---
 layout: blog
 title:  "6 signs your business needs business intelligence"
-image: /assets/img/couple-watching-movie-on-laptop-3912438-2048x1365.jpg
+image: /assets/img/charles-forerunner-3fPXt37X6UQ-unsplash.jpg
 ---
 
 ![{{ page.title }}]({{ page.image }})
