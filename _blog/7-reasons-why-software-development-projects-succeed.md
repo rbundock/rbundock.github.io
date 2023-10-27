@@ -2,7 +2,7 @@
 layout: blog
 title:  "7 reasons why software development projects succeed"
 image: /assets/img/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg
-summary: Shift focus from failure to success in software projects: clarify requirements, detail specifications, involve end-users, communicate internally, stay flexible, maintain transparency, and rigorously test for assured project triumph.
+summary: Shift focus from failure to success in software projects by clarifing requirements, detail specifications, involve end-users, communicate internally, stay flexible, maintain transparency, and rigorously test for assured project triumph.
 category:
   - Software Development
 ---
