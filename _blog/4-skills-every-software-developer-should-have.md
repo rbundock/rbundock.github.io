@@ -1,10 +1,11 @@
 ---
 layout: blog
 title:  "4 skills every software developer should have"
-image: /assets/img/4-skills-every-software-developer-should-have.jpg
+image: /assets/img/kevin-canlas-cFFEeHNZEqw-unsplash.jpg
+summary: Software industry growth, vital across sectors, demands skilled developers with data science, multiple programming languages, project management, and cybersecurity expertise for robust, efficient solutions.
+category:
+  - Bespoke Software
 ---
-
-![{{ page.title }}]({{ page.image }})
 
 The software industry is now one of the most rapidly developing industries, which will not change soon. Information technology is everywhere and is becoming increasingly important across all industries. Production lines are operated by robots that need to be programmed. To work the most efficiently, online stores need properly created websites and systems that manage orders, warehousing, etc. Stationery shops need similar software solutions that will help them manage their inventory. Huge international enterprises operate on complicated, integrated and comprehensive systems. These are just some examples of how software is essential in the current business world, but there are more. But who creates these software solutions?
 
