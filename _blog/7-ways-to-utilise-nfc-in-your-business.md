@@ -4,6 +4,11 @@ title:  "7 ways to utilise NFC in your business"
 image: /assets/img/jonas-leupe-0IVop5v4MMU-unsplash.jpg
 ---
 
+
+
+
+
+
 ## ‘Near Field Communications’ or NFC, is quickly becoming a valuable tool in business marketing strategies
 What is NFC? In short, NFC is a standards-based technology used to provide short-range, two-way communication between electronic devices. Still unclear? If you’ve ever seen or used the contactless credit card readers offered by some stores and restaurants as a payment method, you’ve already been exposed to NFC technology.
 
