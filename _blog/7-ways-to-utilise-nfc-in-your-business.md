@@ -3,6 +3,8 @@ layout: blog
 title:  "7 ways to utilise NFC in your business"
 image: /assets/img/jonas-leupe-0IVop5v4MMU-unsplash.jpg
 summary: NFC technology facilitates short-range communication between devices, offering diverse business applications including contactless payments, promotional content, product info, employee tracking, social media check-ins, efficient meetings, and password-free Wi-Fi access.
+category: 
+  - Systems Integration
 ---
 
 ## ‘Near Field Communications’ or NFC, is quickly becoming a valuable tool in business marketing strategies
