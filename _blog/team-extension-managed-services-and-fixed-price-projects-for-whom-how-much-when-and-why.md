@@ -30,14 +30,14 @@ Will outsourcing provide your company with cost savings? Proponents of this solu
 ## Who takes responsibility for delivery?
 When a project is outsourced, the client takes responsibility for delivering every part of the project. This includes project planning, analysis, documentation, UI/UX design, development, testing and project management. On the other hand, the supplier takes complete responsibility for delivering a fixed-price project. Lastly, in a managed teams project, the client manages the project planning, while the supplier manages the development of the project delivery. For all other aspects of delivery within a managed team project, the client or the supplier takes responsibility. This is decided between them.
 
-![Table](/assets/img/Screenshot 2023-10-27 at 10.16.37.png)
+![Table1](/assets/img/Screenshot 2023-10-27 at 10.16.37.png)
 
 *Depends on the size and make-up of the teams
 
 ## Who takes responsibility for costs?
 When a project uses a fixed price or managed teams model, the supplier takes responsibility for all costs. This includes the cost of recruitment, training, equipment, software licenses, salaries, absence and national insurance/tax/benefits. In contrast, the supplier only takes responsibility for the cost of recruitment, salaries and national insurance/tax/benefits within an outsourced project. The client deals with all other costs.
 
-![Table](/assets/img/Screenshot 2023-10-27 at 10.19.21.png)
+![Table2](/assets/img/Screenshot 2023-10-27 at 10.19.21.png)
 
 
 ## Advantages and disadvantages
@@ -49,4 +49,4 @@ A managed team project suits large and mid-size projects and regular deliveries.
 
 A fixed-price project suits a small-scale project and a one-off delivery style. The supplier deals with the project requirements, and the project development needs to be fixed instead of flexible. There is some client involvement in developing and delivering the project, but this involvement is not substantial.
 
-![Table](/assets/img/Screenshot 2023-10-27 at 10.20.45.png)
+![Table3](/assets/img/assets/img/Screenshot 2023-10-27 at 10.20.45.png)
