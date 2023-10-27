@@ -1,7 +1,7 @@
 ---
 layout: blog
 title:  "7 reasons why software development projects succeed"
-image: /assets/img/sm_7-reasons-why-software-development-projects-succeed.jpg
+image: /assets/img/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg
 ---
 
 ![{{ page.title }}]({{ page.image }})
