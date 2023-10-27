@@ -2,9 +2,10 @@
 layout: blog
 title:  "Is Kanban another Rocky Balboa of programming?"
 image: /assets/img/another-rocky-balboa-of-programming-kotlin-wades-its-way-to-success-2.jpg
+summary: Kotlin, a modern, expressive language compatible with Java, is ideal for mobile and server-side applications, offering easy Java migration, scalability, and robust tooling. Officially endorsed for Android, it's rising in popularity.
+category:
+  - Programming
 ---
-
-![{{ page.title }}]({{ page.image }})
 
 ## Kotlin wades its way to success
 Kotlin is a relatively young programming language. It’s great for creating mobile and server-side applications, enabling you to write concise and expressive code while maintaining full compatibility with existing Java technology-based stacks.
