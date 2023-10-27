@@ -2,9 +2,12 @@
 layout: blog
 title:  "3 types of software development companies you can outsource to"
 image: /assets/img/3-types-of-software-development-companies-you-can-outsource-to.jpg
+summary: Choosing the right software and outsourcing partner is crucial for business technology adaptation, each with unique advantages, costs, and capacities.
+category: 
+  - Bespoke Software
 ---
 
-![{{ page.title }}]({{ page.image }})
+
 
 There are several different types of software solutions that you can adapt to your business. It is you who should decide which one will be the most suitable. You can choose from ready-made software that needs only to be installed and used, or bespoke software tailored especially for your current needs. There is also a mixture of these two types and systems integration which can significantly increase your performance. As you can see there are many options, you can learn more about choosing the right software type for your business here.
 
