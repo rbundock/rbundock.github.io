@@ -1,10 +1,11 @@
 ---
 layout: blog
 title:  "A construction software checklist will help you to make the right decision"
-image: /assets/img/are-you-looking-for-a-new-construction-software-1.jpg
+image: /assets/img/nathan-waters-j7q-Z9DV3zw-unsplash.jpg
+summary: Choosing the right construction software is crucial for project efficiency, aligning tasks, and overcoming industry challenges post-lockdown.
+category:
+  - Construction Software
 ---
-
-![{{ page.title }}]({{ page.image }})
 
 ## Are you looking for new construction software?
 Many challenges lie ahead for the industry post-lockdown. Right from workforce availability, supply of raw materials, monitoring workers' health at the site are a few issues to name.
