@@ -1,0 +1,15 @@
+.btn_magenta {
+    display: inline-block;
+    border-radius: 62.4375rem;
+    padding: 1rem 1.5rem;
+    background: #000000;
+    font-family: "Barlow",sans-serif;
+    color: #ff46fa;
+    text-transform: uppercase;
+    line-height: 1.0625rem;
+    font-size: 1.0625rem;
+}
+
+.cta-btn {
+    padding: 0rem 0rem 1rem 0rem;
+}

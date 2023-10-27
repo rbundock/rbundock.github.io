@@ -4,11 +4,12 @@
 Rich
 - xSitemap
 - xCategories
-- Implement a linktree type of thing... for business cards. Give URLs to Emily. 
+- Implement a linktree type of thing... for business cards. xGive URLs to Emily. 
 - Social Open Graph tags
 - Check console errors
 - Webmanifest icon-192 ? 
 
+- Consolidate /assets/css/extras.css into main.css
 
 DEPLOY
 - Remove the robots.txt
