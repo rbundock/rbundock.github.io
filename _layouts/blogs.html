@@ -17,7 +17,7 @@
             <li class="[ card ] [ flow ]">
               <div class="card__background">
                 {% if entry.image and entry.image != "" %}
-                <img src="{{ entry.image }}" alt="{{ entry.title }}" />
+                <img src="{{ entry.image }}" alt="{{ entry.title }}" loading="lazy" />
                 {% endif %}
               </div>
               {% for category in entry.categories %}
