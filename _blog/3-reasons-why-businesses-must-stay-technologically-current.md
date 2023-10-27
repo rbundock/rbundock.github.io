@@ -1,7 +1,7 @@
 ---
 layout: blog
 title:  "3 reasons why businesses must stay technologically current"
-image: /assets/img/sm_3-reasons-why-businesses-must-stay-technologically-current.jpg
+image: /assets/img/marvin-meyer-SYTO3xs06fU-unsplash.jpg
 ---
 
 ![{{ page.title }}]({{ page.image }})
