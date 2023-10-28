@@ -4,7 +4,7 @@
 
     <div class="wrapper">
         <div class="[ flow ] [ max-w-[50ch] ]">
-            {% if page.headline != "" %}
+            {% if page.headline and page.headline != "" %}
             <h1>{{ page.headline }}</h1>
             <p>{{ page.headline_para }}</p>
             {% else %}
@@ -31,6 +31,6 @@
 page.title {{ page.title }}
 page.summary {{ page.summary }}
 page.headline {{ page.headline }}
-page.headline_para {{ page.headline }}
+page.headline_para {{ page.headline_para }}
 
 -->
