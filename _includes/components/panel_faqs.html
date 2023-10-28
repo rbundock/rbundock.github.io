@@ -1,10 +1,11 @@
+{% if page.faqs.size > 0 %}
 <section class="panel">
     <div class="wrapper">
         <div class="[ grid ] [ gap-x-600 lg:grid-cols-2 ]">
             <h2>Frequently Asked Questions<strong>.</strong></h2>
 
             <ul class="[ flow ] [ flow-space-400 ]" role="list">
-                {% for i in (0..page.faqs.size) %}
+                {% for i in (0..page.faqs.size-1) %}
                 <li>
                     <details class="flow">
                         <summary>{{ page.faqs[i] | markdownify }}</summary>
@@ -16,3 +17,4 @@
         </div>
     </div>
 </section>
+{% endif %}
