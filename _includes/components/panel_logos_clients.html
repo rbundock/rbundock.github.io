@@ -1,0 +1,13 @@
+<section class="panel" data-theme="charcoal">
+    <div class="wrapper">
+        <div class="[ flow ] [ flow-space-700 ]">
+            <ul class="[ grid ] [ lg:grid-cols-6 ]" role="list">
+                {% for entry in site.clients | limit: 6 %}
+                <li>
+                    <img src="{{ entry.logo }}" alt="{{ entry.title }} brand image" loading="lazy" width="120" height="120">
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</section>
