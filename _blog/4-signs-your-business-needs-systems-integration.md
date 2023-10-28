@@ -3,6 +3,8 @@ layout: blog
 title: "4 signs your business needs systems integration"
 image: /assets/img/note-thanun-GI10ZiPO_3w-unsplash.jpg
 summary: Digitalisation and software integration are essential for competitive businesses, enhancing productivity, customer reach, and efficiency, but require strategic implementation and expertise.
+headline: 4 signs your business needs systems integratio
+headline_para: Digitalisation and software integration are essential for competitive businesses, enhancing productivity, customer reach, and efficiency, but require strategic implementation and expertise.
 category:
   - Systems Integration
 ---
