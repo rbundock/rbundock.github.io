@@ -1,7 +1,10 @@
 ---
 layout: story
 title: "A system for managing contruction assets"
+summary: 
 image: /assets/img/image_2021_08_11T13_22_37_079Z.png
+headline: A system for managing contruction assets
+headline_para: Rockr app. a digital solution for construction asset management, centralizing information, enhancing collaboration, and using AI for efficient project handovers and accountability.
 ---
 # A system for managing contruction assets
 

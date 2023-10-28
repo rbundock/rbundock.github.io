@@ -12,8 +12,14 @@
     <meta property="og:site_name" content="Headchannel">
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://headchannel.co.uk/">
+    <meta property="og:url" content="https://headchannel.co.uk{{ page.url }}">
+    <meta property="og:description" content="{{ page.summary }}">
+    <meta property="og:image" content="https://headchannel.co.uk{{ page.image }}">
 
+    <!-- <meta name="robots" content="index, follow"> -->
+    <meta name="description" content="{{ page.summary }}">
+    <link rel="canonical" href="https://headchannel.co.uk{{ page.url }}">
+    
     <script>document.documentElement.classList.remove('no-js');</script>
 
     {% if page.layout and page.layout== "search" %}
