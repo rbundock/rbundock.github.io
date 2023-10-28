@@ -2,9 +2,9 @@
 layout: service
 title: "IT Strategy"
 faqs:
-  - "## What should an IT strategy include?"
-  - "## How do you develop an IT strategy?"
-  - "## What is the role of IT strategy in business?"
+  - "What should an IT strategy include?"
+  - "How do you develop an IT strategy?"
+  - "What is the role of IT strategy in business?"
 faqs-answers: 
   - "There is no one-size-fits all, but we believe a good IT strategy should include the following:
 * A set of principles: the things you won’t compromise on. For example, all future technology solutions will be based on open-source software.
