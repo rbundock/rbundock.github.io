@@ -1,28 +1,30 @@
-.btn_magenta {
-    display: inline-block;
-    border-radius: 62.4375rem;
-    padding: 1rem 1.5rem;
-    background: #000000;
-    font-family: "Barlow", sans-serif;
-    font-size: 17px;
-    font-weight: 400;
-    line-height: 17px;
-    text-align: start;
-    text-decoration-color: rgb(255, 70, 250);
-    text-decoration-line: none;
-    text-decoration-style: solid;
-    text-decoration-thickness: auto;
+.button_magenta {
+    display: inline-flex;
+    align-items: center;
+    gap: .25em;
+    background: var(--color-pink);
+    color: var(--color-lime);
+    border-radius: var(--rounded-full);
+    text-decoration: none;
+    padding: .75em 1em;
+    font-size: var(--text-300);
+    font-family: var(--font-block);
+    font-weight: var(--font-bold);
     text-transform: uppercase;
-    color: #ff46fa;
-    line-height: 1.0625rem;
-    font-size: 1.0625rem;
+    font-style: italic;
+    line-height: var(--leading-none);
+    transition: .4s ease-in-out;
+    transition-property: background, color;
+    cursor: pointer;
+    border: none
 }
 
 .cta-btn {
     padding: 0rem 0rem 1rem 0rem;
 }
 
-.btn_magenta:hover {
-    color: #000000;
-    background: #ff46fa;
+.button_magenta:hover {
+    color: var(--color-charcoal);
+    background: var(--color-pink);
 }
+
