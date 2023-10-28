@@ -3,7 +3,7 @@
     align-items: center;
     gap: .25em;
     background: var(--color-pink);
-    color: var(--color-lime);
+    color: var(--color-charcoal);
     border-radius: var(--rounded-full);
     text-decoration: none;
     padding: .75em 1em;
@@ -24,7 +24,7 @@
 }
 
 .button_magenta:hover {
-    color: var(--color-charcoal);
+    color: var(--color-lime);
     background: var(--color-pink);
 }
 
