@@ -18,7 +18,7 @@ faqs:
     - "Yes, we do! Our clients can count on us. We do both software support and software maintenance. Software support covers reactive work that keeps the digital platform going in the face of ‘breaking bugs’. Software maintenance includes optimization, error correction, deletion of discarded features and enhancement of existing features and then creating a mechanism for estimation, controlling and making further modifications."
   - 
     - "What technology do you use for software development?"
-     - "Some of the technologies we use, but we never shy away from learning new ones: nopCommerce, Smartsheer, Salesforce, Power BI, Qlik, Xamarin, React, Kafka, RabbitMQ, AWS, Redis, Python, Terraform, Kubernetes, Jenkins, GitHub, Bitbucket, Microsoft .NET, Microsoft .NET core, Microsoft Azure, Microsoft SQL Server, iOS, Android, Angular JS, HTML 5, Bootstrap, Selenium, JS, iQuery, Docker, Bucket, WPF"
+    - "Some of the technologies we use, but we never shy away from learning new ones: nopCommerce, Smartsheer, Salesforce, Power BI, Qlik, Xamarin, React, Kafka, RabbitMQ, AWS, Redis, Python, Terraform, Kubernetes, Jenkins, GitHub, Bitbucket, Microsoft .NET, Microsoft .NET core, Microsoft Azure, Microsoft SQL Server, iOS, Android, Angular JS, HTML 5, Bootstrap, Selenium, JS, iQuery, Docker, Bucket, WPF"
   - 
     - "Do you provide software testing services?"
     - "Yes, we do! Time to market matters, but time to profit is the real objective. For this reason, it is so important to be 100% sure that all applications are ready for release. QA testing allows us to verify if your software product is of the highest possible quality for your customers. It prevents unexpected issues arising with your software service or product."
