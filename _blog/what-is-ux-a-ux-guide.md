@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "What is UX – a UX guide"
+title: "What is UX – a UX guide"
 image: /assets/img/what-is-ux-a-ux-guide.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 

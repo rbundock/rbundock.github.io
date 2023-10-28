@@ -1,11 +1,10 @@
 ---
 layout: story
-title:  "Why Excel spreadsheets could be limiting your company’s growth?"
+title: "Why Excel spreadsheets could be limiting your company’s growth?"
 image: /assets/img/Four04_Logo.svg
 categories:
   - Manufacturing
 ---
-
 # Why Excel spreadsheets could be limiting your company’s growth?
 
 ![{{ page.title }}]({{ page.image }})

@@ -27,7 +27,6 @@ faqs:
     
     A good IT strategy ensures you’re using IT to best effect in your business. It helps you gain competitive advantage by improving or innovating in product and service delivery. And it means all stakeholders are aligned with and understand the role IT should play in the business."
 ---
-
 # Effective IT strategies to take your business forward
 A robust IT strategy is crucial to business growth. As digital technology plays a central role in so many organisations – both operationally and commercially – making sure it’s optimised to deliver value is just good sense. That’s where IT strategy comes in.
 

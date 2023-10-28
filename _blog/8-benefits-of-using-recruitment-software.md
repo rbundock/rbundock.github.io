@@ -1,12 +1,11 @@
 ---
 layout: blog
-title:  "8 benefits of using recruitment software"
+title: "8 benefits of using recruitment software"
 image: /assets/img/cytonn-photography-n95VMLxqM2I-unsplash.jpg
 summary: Recruitment software streamlines hiring processes, enhancing efficiency and candidate reach, essential for businesses in a dynamic job market.
 category:
   - Recruitment Software
 ---
-
 In an ever-evolving job market, recruitment is a continuous process. Both recruitment companies and HR departments are always looking for new talent. However, the growing need to identify and hire more and more qualified and experienced employees may significantly harm the efficiency of your business. Luckily, there is a solution suitable and accessible for every company: recruitment software.
 
 With recruitment software on board, your company can automate many hiring processes and thus spend time handling more challenging tasks. Not only does the automation save hours of work, but it also allows you to reach far more candidates and identify the right employees. If you would like to know what else recruitment software has to offer, keep on reading.

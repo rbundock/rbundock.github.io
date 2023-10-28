@@ -1,12 +1,11 @@
 ---
 layout: blog
-title:  "5 types of enterprise software solutions"
+title: "5 types of enterprise software solutions"
 image: /assets/img/diego-ph-fIq0tET6llw-unsplash.jpg
 summary: Enterprise software enhances business success by automating processes, improving efficiency, and fostering better communication, essential for modern organizational growth.
 category:
   - Bespoke Software
 ---
-
 There are several factors which contribute to the success of a company. Regardless of the industry, every business needs critical aspects such as unique ideas, efficient operations management and experienced employees to achieve their goals. Nowadays, automation is another crucial factor in a successful organisation. Automating multiple business processes performed manually allows companies to save hours of work by integrating core functions of their business and thus achieve more accurate results.
 
 Implementing an enterprise software solution tailored to your requirements is the most significant way to introduce automation to your business. This type of solution enables you and your employees to focus on challenging tasks which drive your company forward. If you want to know which type of enterprise software is for you, keep reading.

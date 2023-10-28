@@ -1,11 +1,10 @@
 ---
 layout: story
-title:  "Financial challenges facing the NHS"
+title: "Financial challenges facing the NHS"
 image: /assets/img/NHS.png
 categories:
   - Health
 ---
-
 ## Financial challenges facing the NHS
 
 ![{{ page.title }}]({{ page.image }})

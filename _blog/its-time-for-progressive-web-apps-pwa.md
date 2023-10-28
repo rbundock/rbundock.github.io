@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "It’s time for Progressive Web Apps (PWA)"
+title: "It’s time for Progressive Web Apps (PWA)"
 image: /assets/img/its-time-for-progressive-web-apps-pwa.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Numerous advantages of PWA

@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Business software uses in small and medium enterprises"
+title: "Business software uses in small and medium enterprises"
 image: /assets/img/challenges-facing-business.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 Business software refers to any type of software specific to business users to perform certain business functions. Business software allows companies to increase the productivity of employees, reduce operational costs and measure productivity.

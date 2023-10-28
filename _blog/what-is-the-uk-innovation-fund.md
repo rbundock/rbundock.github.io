@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "What is the UK Innovation Fund?"
+title: "What is the UK Innovation Fund?"
 image: /assets/img/UKI2s-innovate-uk.png
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 Much of our digital lives are stored electronically, such as on an iPhone or iPad, and it’s important to protect that information. In the same way that Touch ID revolutionized authentication using a fingerprint, Face ID revolutionizes authentication using facial recognition. Face ID provides an intuitive and secure authentication enabled by a state-of-the-art TrueDepth camera system with advanced technologies to accurately map the geometry of your face.

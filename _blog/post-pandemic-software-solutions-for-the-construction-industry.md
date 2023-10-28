@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Post pandemic software solutions for the construction industry"
+title: "Post pandemic software solutions for the construction industry"
 image: /assets/img/post-pandemic-software-solutions-for-the-construction-industry.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Touchless check-in/check-out from the construction site

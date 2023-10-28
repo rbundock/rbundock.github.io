@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "HeadChannel nominated to the UK APP Awards"
+title: "HeadChannel nominated to the UK APP Awards"
 image: /assets/img/pexels-andrea-piacquadio-3770000.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 The nominated application, designed by us together with the Method, puts its users for 24 hours in the shoes of someone with a severe illness, including Crohn’s disease, heart failure, cancer and other medical conditions.

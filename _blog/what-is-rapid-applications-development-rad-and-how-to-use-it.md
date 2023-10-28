@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "What is rapid applications development (RAD) and how to use it?"
+title: "What is rapid applications development (RAD) and how to use it?"
 image: /assets/img/what-is-rapid-applications-development-rad-and-how-to-use-it.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 

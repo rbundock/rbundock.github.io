@@ -1,6 +1,6 @@
 ---
 layout: story
-title:  "How to merge technology and medicine into one useful app."
+title: "How to merge technology and medicine into one useful app."
 image: /assets/img/BAP_logo.jpg
 categories:
   - Technology
@@ -9,7 +9,6 @@ categories:
   - Higher Education
   - Medical Practice
 ---
-
 # How to merge technology and medicine into one useful app.
 
 ![{{ page.title }}]({{ page.image }})

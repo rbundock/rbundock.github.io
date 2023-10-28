@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "How to choose the right software development company"
+title: "How to choose the right software development company"
 image: /assets/img/man-pointing-laptop-computer-2182981-2048x1397.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Follow the white rabbit

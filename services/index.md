@@ -2,7 +2,6 @@
 layout: default
 title: Services
 ---
-
 <h1>All Services Entries</h1>
 <ul>
 {% for entry in site.services %}

@@ -1,8 +1,7 @@
 ---
 layout: story
-title:  "Data analysis and automated financial reporting bespoke software"
+title: "Data analysis and automated financial reporting bespoke software"
 ---
-
 # Data analysis and automated financial reporting bespoke software
 
 ## Our client

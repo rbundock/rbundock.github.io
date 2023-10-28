@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Which companies can benefit from bespoke software"
+title: "Which companies can benefit from bespoke software"
 image: /assets/img/KANBAN_pexels-anthony-shkraba-5475757.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 With so many off-the-shelf software solutions dedicated to a wide variety of industries available on the market, having bespoke software designed and developed to meet the needs of your company may seem unreasonable. The reality, however, is quite the opposite. Customization is one of the most followed trends in the modern software industry. The reason for this is gaining the competitive advantage which ready-made software cannot offer.

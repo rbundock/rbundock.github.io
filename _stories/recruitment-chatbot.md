@@ -1,11 +1,10 @@
 ---
 layout: story
-title:  "Recruitment chatbot for event staffing"
+title: "Recruitment chatbot for event staffing"
 image: /assets/img/unnamed-3.png
 categories:
   - Human Resources 
 ---
-
 # Recruitment chatbot for event staffing
 
 ![{{ page.title }}]({{ page.image }})

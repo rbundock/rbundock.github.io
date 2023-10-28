@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Top benefits of using JIRA reporting and transparent processes of project management"
+title: "Top benefits of using JIRA reporting and transparent processes of project management"
 image: /assets/img/top-benefits-of-using-jira-reporting-and-transparent-processes-of-project-management.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Gaining trust by ensuring your project is visible and transparent

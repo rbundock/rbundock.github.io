@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Business trends – Big Data"
+title: "Business trends – Big Data"
 image: /assets/img/business-trends-big-data.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 The concept of Big Data has several definitions, mainly due to the fact that the term “large” is very subjective and inaccurate. Nevertheless, today, we come across this notion in almost every sector; the key here is to clarify what it means.

@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "The benefits of outsourcing your software project to Poland"
+title: "The benefits of outsourcing your software project to Poland"
 image: /assets/img/the-benefits-of-outsourcing-your-software-project-to-poland.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## 2020 Developers Survey does not lie

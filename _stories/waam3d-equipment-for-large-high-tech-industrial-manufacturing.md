@@ -1,6 +1,6 @@
 ---
 layout: story
-title:  "WAAM3D Equipment for Large High Tech Industrial Manufacturing "
+title: "WAAM3D Equipment for Large High Tech Industrial Manufacturing "
 image: /assets/img/Screenshot_1.png
 categories:
   - Manufacturing
@@ -9,7 +9,6 @@ categories:
   - Engineering Services
   - Software Development
 ---
-
 # Our client
 
 ![{{ page.title }}]({{ page.image }})

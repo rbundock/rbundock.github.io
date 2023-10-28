@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "How to choose the right customer support channel"
+title: "How to choose the right customer support channel"
 image: /assets/img/how-to-choose-the-right-customer-support-channel.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 

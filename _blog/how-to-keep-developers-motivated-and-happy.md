@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "How to keep developers motivated and happy"
+title: "How to keep developers motivated and happy"
 image: /assets/img/keeping-developers-motivated-and-happy.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Stay passionate

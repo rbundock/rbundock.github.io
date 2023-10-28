@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "How to prepare a request for proposal"
+title: "How to prepare a request for proposal"
 image: /assets/img/how-to-prepare-a-request-for-proposal.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## The "must" not only for the best

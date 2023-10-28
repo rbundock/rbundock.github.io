@@ -1,11 +1,10 @@
 ---
 layout: story
-title:  "Real estate mobile game for a gaming company"
+title: "Real estate mobile game for a gaming company"
 image: /assets/img/unnamed-7.png
 categories:
   - Real Estate 
 ---
-
 # Real estate mobile game for a gaming company
 
 ![{{ page.title }}]({{ page.image }})

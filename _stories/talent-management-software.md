@@ -1,11 +1,10 @@
 ---
 layout: story
-title:  "Talent management software for an event staffing company"
+title: "Talent management software for an event staffing company"
 image: /assets/img/unnamed-2.png
 categories: 
   - Human Resources 
 ---
-
 # Talent management software for an event staffing company
 
 ![{{ page.title }}]({{ page.image }})

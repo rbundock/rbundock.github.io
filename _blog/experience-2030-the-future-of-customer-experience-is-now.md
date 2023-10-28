@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Experience 2030: the future of customer experience is… Now!"
+title: "Experience 2030: the future of customer experience is… Now!"
 image: /assets/img/experience-2030-the-future-of-customer-experience-is-now.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Key findings for 2030

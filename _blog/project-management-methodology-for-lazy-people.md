@@ -3,7 +3,6 @@ layout: blog
 title: "Project management methodology for lazy people"
 image: /assets/img/project-management-methodology-for-lazy-people.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 “I will always choose a lazy person to do a difficult job because he will find an easy way to do it” – Bill Gates once said.

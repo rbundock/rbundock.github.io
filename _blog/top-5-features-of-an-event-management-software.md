@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Top 5 features of an event management software"
+title: "Top 5 features of an event management software"
 image: /assets/img/top-5-features-of-an-event-management-software-1.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 According to Capterra, nearly 40% of people were dissatisfied with their event management software because of a lack of features. For full functionality, your event management software should be tailored especially for your business and for specific events. At the same time, there are some features that should be a part of every event management software. [Bizzabo Blog](https://www.bizzabo.com/blog/event-marketing-statistics) communicates that the majority of marketers plan to invest more resources on events in the future. Below, you will find examples of why event management software is important.

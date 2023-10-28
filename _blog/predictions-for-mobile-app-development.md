@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Predictions for mobile app development"
+title: "Predictions for mobile app development"
 image: /assets/img/predictions-for-mobile-app-development.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 The fierce competition in the mobile space continues, and, as a result, developers continue to look for the next big thing. Indeed, all it takes is to leverage an emerging trend, and an app can quickly rise to superstardom. With the mobile development industry continuing its evolution, there’s no better time than now to share our predictions for the industry this year.

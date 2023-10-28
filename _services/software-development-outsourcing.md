@@ -2,7 +2,6 @@
 layout: service
 title: "Software development outsourcing"
 ---
-
 # Your one-stop software development outsourcing partner
 Why outsource software development? Perhaps you’ve identified a need for a new system, application or software. An off-the-shelf solution doesn’t give you what you need, and building it in-house is resource-hungry and requires skills you don’t have. Outsourcing your software development can be a time- and cost-effective solution.
 

@@ -1,5 +1,5 @@
 ---
-title:  "The University of Winchester"
+title: "The University of Winchester"
 testimonial: ""
 testimonial_actor: ""
 testimonial_position: ""

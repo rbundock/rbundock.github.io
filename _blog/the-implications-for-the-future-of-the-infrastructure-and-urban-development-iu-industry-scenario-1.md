@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "The implications for the future of the infrastructure and urban development (IU) industry: scenario 1"
+title: "The implications for the future of the infrastructure and urban development (IU) industry: scenario 1"
 image: /assets/img/scenarios-and-implications-for-the-future-of-the-iu-industry-scenario-1.png
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Building in a virtual world

@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Why you need Agile software development tools"
+title: "Why you need Agile software development tools"
 image: /assets/img/why-you-need-agile-software-development-tools.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 Remember Titanic? Who doesn’t! Beside telling one of the greatest love stories of our time, the movie reminds us of an extremely important metaphor — the one of an iceberg. You have most probably heard that only 10% of its volume is visible and the rest lies below the water. It works the same way in life, doesn’t it? Not everything that you see is what you get and that is exactly why you may sometimes need some help, that is also why software development teams working with the agile methodology may need some tools. Why? Time to find out below!

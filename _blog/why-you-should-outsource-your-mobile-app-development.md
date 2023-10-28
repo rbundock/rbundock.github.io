@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Why you should outsource your software development"
+title: "Why you should outsource your software development"
 image: /assets/img/why-should-you-outsource-your-mobile-app.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Six minefields you cannot ignore

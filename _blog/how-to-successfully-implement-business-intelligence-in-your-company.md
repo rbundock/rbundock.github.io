@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "How to successfully implement business intelligence in your company"
+title: "How to successfully implement business intelligence in your company"
 image: /assets/img/how-to-successfully-implement-business-intelligence-in-your-company.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Analyse, prioritise, implement

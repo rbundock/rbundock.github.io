@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "How feedback can benefit your company"
+title: "How feedback can benefit your company"
 image: /assets/img/how-feedback-can-benefit-your-company.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Psychology at business service

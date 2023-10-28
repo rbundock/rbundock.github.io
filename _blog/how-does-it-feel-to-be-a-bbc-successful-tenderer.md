@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "How does it feel to be a BBC successful tenderer?"
+title: "How does it feel to be a BBC successful tenderer?"
 image: /assets/img/how-does-it-feel-to-be-a-bbc-successful-tenderer.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 

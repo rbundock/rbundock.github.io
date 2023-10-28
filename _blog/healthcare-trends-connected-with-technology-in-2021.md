@@ -1,8 +1,7 @@
 ---
 layout: blog
-title:  "Healthcare trends connected with technology in 2021"
+title: "Healthcare trends connected with technology in 2021"
 ---
-
 The rapidly expanding field of digital transformation, alongside the need to deliver a safer and more accessible form of healthcare, has triggered a digital revolution in the healthcare industry. This article will review the latest healthcare trends in technology and software development.
 
 ## Genomics and Gene Editing

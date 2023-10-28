@@ -1,10 +1,9 @@
 ---
 layout: blog
-title:  "What is Jira and how can it benefit in your company?"
+title: "What is Jira and how can it benefit in your company?"
 image: /assets/img/what-is-jira-and-how-can-it-benefit-in-your-company.jpg
 categories: other
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## What is Jira?

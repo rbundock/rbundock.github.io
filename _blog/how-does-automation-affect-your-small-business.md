@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "How does automation affect your small business?"
+title: "How does automation affect your small business?"
 image: /assets/img/pexels-rodnae-productions-5921977.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Be more productive, be more effective

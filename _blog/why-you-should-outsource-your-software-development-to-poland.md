@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Why you should outsource your software development to Poland"
+title: "Why you should outsource your software development to Poland"
 image: /assets/img/why-you-should-outsource-your-software-development-to-poland.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Key factors that help to decide

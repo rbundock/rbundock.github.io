@@ -1,11 +1,10 @@
 ---
 layout: story
-title:  "Interactive Contract Management System"
+title: "Interactive Contract Management System"
 image: /assets/img/interactive-contract-management-system.jpg
 categories:
   - Membership Organisation
 ---
-
 # Our Client 
 
 ![{{ page.title }}]({{ page.image }})

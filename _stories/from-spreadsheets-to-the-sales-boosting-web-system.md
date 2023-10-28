@@ -1,11 +1,10 @@
 ---
 layout: story
-title:  "Two custom software solutions and a complex analysis of business processes?"
+title: "Two custom software solutions and a complex analysis of business processes?"
 image: /assets/img/111.png
 categories:
   - Retail
 ---
-
 # Two custom software solutions and a complex analysis of business processes?
 
 ![{{ page.title }}]({{ page.image }})

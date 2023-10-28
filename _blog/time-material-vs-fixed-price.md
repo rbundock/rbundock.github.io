@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Time and material vs. fixed price"
+title: "Time and material vs. fixed price"
 image: /assets/img/sm_time-material-vs-fixed-price.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 One of the greatest parts about acquiring bespoke software is that you get to keep a close eye over the process and provide input through most of the stages. 
 

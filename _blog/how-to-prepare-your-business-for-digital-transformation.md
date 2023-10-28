@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "How to prepare your business for digital transformation"
+title: "How to prepare your business for digital transformation"
 image: /assets/img/person-using-silver-macbook-pro-1181467-2048x1367.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Hope for the best and be prepared for the worst

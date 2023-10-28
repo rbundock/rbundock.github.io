@@ -1,9 +1,8 @@
 ---
 layout: story
-title:  "A system for managing contruction assets"
+title: "A system for managing contruction assets"
 image: /assets/img/image_2021_08_11T13_22_37_079Z.png
 ---
-
 # A system for managing contruction assets
 
 ## Our client

@@ -1,5 +1,5 @@
 ---
-title:  "JC Decaux"
+title: "JC Decaux"
 testimonial: ""
 testimonial_actor: ""
 testimonial_position: ""

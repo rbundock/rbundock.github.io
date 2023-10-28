@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "System administrator job description"
+title: "System administrator job description"
 image: /assets/img/system-administrator-job-description.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 System administrators play a critical role in the increasingly digitised business world we live in today. Their responsibility to maintain the smooth running of the IT systems of a business makes them a highly valued component of any business model. The rise of remote working, globalisation, and the greater adoption of technology means that businesses are now more reliant than ever on their IT systems. The successful running of these systems enables the business's success, so a staggering amount of trust is therefore invested in the system administrator role.

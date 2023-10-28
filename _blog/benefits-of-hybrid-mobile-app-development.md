@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Benefits of hybrid mobile app development"
+title: "Benefits of hybrid mobile app development"
 image: /assets/img/HeadChannel-2048x1365.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Over 75% of mobile apps will be hybrid by 2021

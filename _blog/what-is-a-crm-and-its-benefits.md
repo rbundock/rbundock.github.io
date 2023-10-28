@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "What is a CRM and its benefits"
+title: "What is a CRM and its benefits"
 image: /assets/img/what-is-a-crm-and-its-benefits.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 According to a sales optimization study conducted by CIO Insights, sales representatives spend only 33% of their time actively selling. The rest of their work time, they focus on other tasks of rather low value, such as preparing for a phone call with a customer and manually entering data into spreadsheets. Luckily, sales teams and sales departments can nowadays easily increase their productivity and their efficiency by automating various sales operations, which allows them to focus on moving their sales forward. All they need is a CRM software solution. What is it and why should you use it?

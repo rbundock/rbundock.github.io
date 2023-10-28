@@ -1,11 +1,10 @@
 ---
 layout: story
-title:  "An Interactive Digital Platform For Music "
+title: "An Interactive Digital Platform For Music "
 image: /assets/img/DacapoPrimaryMusiclogo.png
 categories:
   - Education
 ---
-
 # Our client
 
 ![{{ page.title }}]({{ page.image }})

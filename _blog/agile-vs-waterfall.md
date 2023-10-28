@@ -1,12 +1,11 @@
 ---
 layout: blog
-title:  "Agile vs. waterfall"
+title: "Agile vs. waterfall"
 image: /assets/img/adam-borkowski-nIKeL2gVMz4-unsplash.jpg
 summary: Choosing between Waterfall and Agile methodologies depends on project needs; Agile offers flexibility and continuous input, while Waterfall suits well-defined, stable projects. Hybrid approaches can offer a balance of both.
 category:
   - Software Development
 ---
-
 When looking for a software development company whom you would like to cooperate with, it is essential to go through their portfolio and read customer reviews to establish whether you will be able to build a strong relationship and communicate efficiently, which ensures the success of the project. It is also essential to determine which project management methodologies the organisation uses. This way, you can be sure their approach suits your requirements. Most companies follow the two most popular project management methodologies, which are Waterfall and Agile. Which one will work better for the development of your software?
  
 

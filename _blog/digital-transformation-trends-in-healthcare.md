@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Digital transformation trends in healthcare"
+title: "Digital transformation trends in healthcare"
 image: /assets/img/pexels-artem-podrez-5716001.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 

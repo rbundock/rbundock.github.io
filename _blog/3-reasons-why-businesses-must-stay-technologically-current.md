@@ -1,12 +1,11 @@
 ---
 layout: blog
-title:  "3 reasons why businesses must stay technologically current"
+title: "3 reasons why businesses must stay technologically current"
 image: /assets/img/marvin-meyer-SYTO3xs06fU-unsplash.jpg
 summary: Adapting to technology is crucial for business success, expanding customer bases, enhancing user experience, and improving employee productivity.
 category: 
   - Systems Integration
 ---
-
 More and more, success in business hinges on our ability to adapt to technology. Those unable to evolve suffer from stagnant growth and fall behind, unable to keep up. Simply because a business has a website doesn’t make it safe from peril, either. The speed and fluidity with which technology advances require that business owners do much more. Hiring a web designer is only the beginning if you want to take full advantage of what technology offers and use it to grow your business. Here are three critical reasons why it’s so important to stay ahead of trends in technology.
 
 

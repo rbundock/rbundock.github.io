@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "HeadChannel supports small businesses across London and all of the United Kingdom"
+title: "HeadChannel supports small businesses across London and all of the United Kingdom"
 image: /assets/img/headchannel-supports-small-businesses-across-london-and-all-of-the-united-kingdom.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 Here at HeadChannel, you know us as the leading software development firm in all of London and the United Kingdom. We’ve assisted clients large and small with everything from high-profile custom software development for multinational conglomerates to web development for a mom-and-pop shop on the corner in Notting Hill. Regardless of the client or the product, we give the same high-quality effort where our passion for design and development shines through.

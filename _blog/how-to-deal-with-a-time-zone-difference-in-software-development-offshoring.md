@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "How to deal with a time zone difference in software development offshoring"
+title: "How to deal with a time zone difference in software development offshoring"
 image: /assets/img/how-to-deal-with-time-zone-difference-in-software-development-offshoring.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Choose wisely

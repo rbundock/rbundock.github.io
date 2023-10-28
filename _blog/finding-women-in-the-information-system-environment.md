@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Finding women in the Information System environment"
+title: "Finding women in the Information System environment"
 image: /assets/img/finding-women-in-the-information-systems-environment.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 

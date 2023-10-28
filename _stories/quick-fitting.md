@@ -1,11 +1,10 @@
 ---
 layout: story
-title:  "Teeside University"
+title: "Teeside University"
 image: /assets/img/teesside-uniwersytet-logo-300x159-1.png
 categories:
   - Education
 ---
-
 # Our client
 
 ![{{ page.title }}]({{ page.image }})

@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Opportunities in real-time apps"
+title: "Opportunities in real-time apps"
 image: /assets/img/opportunities-in-real-time-apps.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Extraordinary data read and write speed

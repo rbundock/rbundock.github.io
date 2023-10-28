@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Team extension, managed services and fixed price projects. For whom, how much, when and why?"
+title: "Team extension, managed services and fixed price projects. For whom, how much, when and why?"
 image: /assets/img/outsourcing-managed-teams.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Outsourcing managed teams. Costs and conditions

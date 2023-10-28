@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "IT leaders wanting to stay on top should watch these topics"
+title: "IT leaders wanting to stay on top should watch these topics"
 image: /assets/img/it-leaders-wanting-to-stay-on-top-should-watch-these-topics.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 IT leaders are expected to keep abreast of the goings-on in the industry. But with so many new products, processes and theories being developed, it can be difficult to know what deserves their attention most. Here is a list of topics that commonly cause a buzz.

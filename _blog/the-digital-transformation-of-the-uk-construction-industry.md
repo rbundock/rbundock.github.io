@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "The digital transformation of the UK construction industry"
+title: "The digital transformation of the UK construction industry"
 image: /assets/img/the-digital-transformation-of-the-uk-construction-industry.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## The very best is yet to come

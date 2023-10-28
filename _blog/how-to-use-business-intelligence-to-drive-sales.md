@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "How to use business intelligence to drive sales"
+title: "How to use business intelligence to drive sales"
 image: /assets/img/how-to-use-business-intelligence-to-drive-sales.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Increase retention rate and drive up revenue

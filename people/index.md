@@ -2,7 +2,6 @@
 layout: default
 title: People
 ---
-
 <h1>People</h1>
 <ul>
 {% for entry in site.people %}

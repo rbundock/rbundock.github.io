@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Why you should consider software maintenance"
+title: "Why you should consider software maintenance"
 image: /assets/img/why-you-should-consider-software-maintenance.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 Nowadays, more and more companies are undergoing digital transformation in order to automate repetitive tasks and support their day-to-day business operations. One of the vital things which businesses should acquire in order to stay ahead of the competition is software, either bespoke or off-the-shelf. However, if they want to keep up with emerging technologies, they should remember that the process is continuous and that every software solution requires regular updates and improvements – which is why software maintenance is a must for every company. After all, the important thing about software, which was pointed out by Robert Glass, one of the most popular software engineers, is that 60% of software’s cost is maintenance and about 60% of the maintenance cost is an improvement. In this article, I discuss how software maintenance can improve the workflow of your company.

@@ -5,7 +5,6 @@ image: /assets/uploads/story.jpg
 headline: The <strong>blog</strong>.
 headline_para: 
 ---
-
 <ul>
 {% for entry in site.category %}
     <li>    

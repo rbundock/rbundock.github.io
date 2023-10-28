@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "What is digital transformation?"
+title: "What is digital transformation?"
 image: /assets/img/what-is-digital-transformation-1.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 The technology industry is constantly driving change, especially in the business world. It has become an endless race to have a competitive advantage. As the world faces new inventions, solutions, and technologies every month, the intensity of the race has become even greater.

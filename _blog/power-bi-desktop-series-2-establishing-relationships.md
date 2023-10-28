@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Establishing relationships. Power BI desktop series"
+title: "Establishing relationships. Power BI desktop series"
 image: /assets/img/power-bi-desktop-series-establishing-relationships.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## A short article about dealing with default relationships – Power BI

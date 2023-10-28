@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Eliminate the inefficient, implement the best"
+title: "Eliminate the inefficient, implement the best"
 image: /assets/img/how-technology-can-improve-construction-industry.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 As it stands, only 5.5% of construction professionals surveyed have full integration across all their software applications, 30% have no software integration whatsoever, and 36% have only 1 or 2 applications integrated.

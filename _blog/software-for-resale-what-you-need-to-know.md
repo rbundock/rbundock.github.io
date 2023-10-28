@@ -4,7 +4,6 @@ title: "Software for resale – what you need to know"
 categories: bespoke-software 
 image: /assets/img/software-for-resale-what-you-need-to-know.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 

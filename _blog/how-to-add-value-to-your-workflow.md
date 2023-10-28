@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "How to add value to your workflow"
+title: "How to add value to your workflow"
 image: /assets/img/how-to-add-value-to-workflow.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Enriching power of differences

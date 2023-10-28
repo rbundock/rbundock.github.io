@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Expand the world of perception"
+title: "Expand the world of perception"
 image: /assets/img/expand-the-world-of-perception.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## An overview of the new possibilities in iOS 13

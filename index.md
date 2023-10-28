@@ -23,5 +23,3 @@ faqs:
     - "Do you provide software testing services?"
     - "Yes, we do! Time to market matters, but time to profit is the real objective. For this reason, it is so important to be 100% sure that all applications are ready for release. QA testing allows us to verify if your software product is of the highest possible quality for your customers. It prevents unexpected issues arising with your software service or product."
 ---
-
-

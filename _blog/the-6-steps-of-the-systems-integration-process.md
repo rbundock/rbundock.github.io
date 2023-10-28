@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "The 6 steps of the systems integration process"
+title: "The 6 steps of the systems integration process"
 image: /assets/img/6-steps-of-system-integration-process.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
  
 When acquiring software, many companies buy only the components they need at that moment. This way may be cheaper and thus seem more profitable at the beginning, but it can very quickly become counterproductive. As your organisation evolves, you start using more independent tools, resulting in a productivity drop and inaccurate data analysis. Luckily, systems integration is here to save your business.

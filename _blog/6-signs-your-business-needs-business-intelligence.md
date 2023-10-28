@@ -1,12 +1,11 @@
 ---
 layout: blog
-title:  "6 signs your business needs business intelligence"
+title: "6 signs your business needs business intelligence"
 image: /assets/img/charles-forerunner-3fPXt37X6UQ-unsplash.jpg
 summary: Companies need business intelligence to efficiently analyze data, translating raw data into insights, overcoming limitations of spreadsheets, and staying ahead of competitors.
 category:
   - Business Intelligence
 ---
-
 To remain competitive, more and more companies are collecting data. It is a great way to gain a better understanding of your business and to estimate its future better. However, collecting data is not enough, and you must also analyse it. This process is rather complicated and often requires more advanced tools, such as business intelligence. Many factors indicate that you may be wasting the potential of your data. What follows are some of the most prominent ones.
 
 ## What is business intelligence?

@@ -1,12 +1,11 @@
 ---
 layout: blog
-title:  "Automated vs. manual testing"
+title: "Automated vs. manual testing"
 image: /assets/img/thisisengineering-raeng-Hjez0AY_c4k-unsplash.jpg
 summary: Repetitive life and software testing parallel, Manual and automated testing in software reflect life's monotony, each with unique pros and cons, highlighting efficiency versus thoroughness.
 category:
   - Bespoke Software
 ---
-
 “Everything is a copy of a copy of a copy”. 
 
 Even though Chuck Palahniuk was referring to insomnia while writing this famous quote, we can quickly see how it reflects the reality we live in. Saying this, we do not mean teenagers craving to look like their Instagram idols or manufacturers trying to sell fake Ray-Bans; we mean making the same cup of coffee at the exact same hour, taking the actual same bus to the exact same work. What we may not notice is that the process of automation has become a part of our lives. It works the same way when it comes to technology. How?

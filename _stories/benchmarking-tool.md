@@ -1,11 +1,10 @@
 ---
 layout: story
-title:  "System for interviews and questionnaires for an advisory company"
+title: "System for interviews and questionnaires for an advisory company"
 image: /assets/img/unnamed-5.png
 categories:
   - Education
 ---
-
 # System for interviews and questionnaires for an advisory company
 
 ![{{ page.title }}]({{ page.image }})

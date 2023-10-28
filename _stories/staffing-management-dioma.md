@@ -1,11 +1,10 @@
 ---
 layout: story
-title:  "Software integration with DIMONA for an event staffing company"
+title: "Software integration with DIMONA for an event staffing company"
 image: /assets/img/unnamed-3.png
 categories:
   - Human Resources
 ---
-
 # Software integration with DIMONA for an event staffing company
 
 ![{{ page.title }}]({{ page.image }})

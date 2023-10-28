@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Increase workplace safety in post-pandemic times with AI"
+title: "Increase workplace safety in post-pandemic times with AI"
 image: /assets/img/increase-workplace-safety-in-post-pandemic-times-with-ai.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## How to use AI to ensure your employees are wearing masks on the construction site

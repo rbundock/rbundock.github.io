@@ -1,11 +1,10 @@
 ---
 layout: story
-title:  "Reeson Care Homes"
+title: "Reeson Care Homes"
 image: /assets/img/logo.jpg
 categories:
   - Health
 ---
-
 # Reeson Care Homes
 
 ## Our client

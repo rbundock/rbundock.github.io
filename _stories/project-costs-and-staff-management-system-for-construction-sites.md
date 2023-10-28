@@ -1,9 +1,8 @@
 ---
 layout: story
-title:  "Project Costs And Staff Management System For Construction Sites"
+title: "Project Costs And Staff Management System For Construction Sites"
 image: /assets/img/Screenshot_16.png
 ---
-
 ## Our client
 
 ![{{ page.title }}]({{ page.image }})

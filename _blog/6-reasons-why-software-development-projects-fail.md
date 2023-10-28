@@ -1,12 +1,11 @@
 ---
 layout: blog
-title:  "6 reasons why software development projects fail"
+title: "6 reasons why software development projects fail"
 image: /assets/img/desola-lanre-ologun-vII7qKAk-9A-unsplash.jpg
 summary: Software projects often fail due to unclear requirements, unrealistic expectations, poor communication, no end-user involvement, lack of flexibility, and poor testing practices.
 category:
   - Software Development
 ---
-
 In 2011, a study examined why software development companies continue to struggle to provide their customers with software solutions that meet their requirements was conducted. A few years later, the results remain actual, with a surprising 75% of IT executives assuming their project may fail. Modern technology is used even in small corner shops, and automation speeds up the workflow of almost every company worldwide. Software development companies should thus know all the possible obstacles upfront to painlessly and effortlessly prevent each. It turns out that a lack of confidence or faith in the project is not the only factor leading software development projects to fail daily. What are the most common reasons why software projects fail?
 
 ## 1. Unclear requirements

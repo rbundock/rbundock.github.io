@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Why your business needs a service-level agreement (SLA)"
+title: "Why your business needs a service-level agreement (SLA)"
 image: /assets/img/sm_why-your-business-needs-a-service-level-agreement.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Expect the best. Prepare for the worst. Capitalise on what comes

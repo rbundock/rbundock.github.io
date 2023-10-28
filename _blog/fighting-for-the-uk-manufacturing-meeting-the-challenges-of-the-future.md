@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Fighting for the UK manufacturing. Meeting the challenges of the future"
+title: "Fighting for the UK manufacturing. Meeting the challenges of the future"
 image: /assets/img/fighting-for-the-uk-manufacturing-meeting-the-challenges-of-the-future.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## What is the future of UK manufacturing? What are currently the most vital challenges that British industry is facing? And finally – how can embracing technology come to the rescue and drive business growth?

@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Why do you need software prototyping?"
+title: "Why do you need software prototyping?"
 image: /assets/img/why-you-need-software-prototyping.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 After hearing about [prototyping](https://headchannel.co.uk/outsourcing-it/) most of us visualise examples such as NASA building a prototype of a new module of the International Space Station. Usually, we are not aware that prototyping is a widely used technique in a number of different industries and businesses, including [software development](https://headchannel.co.uk/white-label-software-development/). It is becoming an important part of IT contracts, which is good because prototyping has a number of important benefits.

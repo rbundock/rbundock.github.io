@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Ideas for business mobile apps"
+title: "Ideas for business mobile apps"
 image: /assets/img/ideas-for-business-mobile-apps.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## How not to lose the critical out-of-sight

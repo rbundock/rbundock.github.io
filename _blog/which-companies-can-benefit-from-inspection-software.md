@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Which companies can benefit from inspection software"
+title: "Which companies can benefit from inspection software"
 image: /assets/img/which-companies-can-benefit-from-inspection-software.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 One of the biggest challenges every company has to face on a daily basis is repetitive tasks. Regardless of the industry, employees often tend to stop paying close attention to the day-to-day operations they perform. This constantly growing inefficiency may lead to inaccurate results and thus an unexpected drop in sales. Luckily, modern technology offers automation which does not slow down the workflow of a company. Quite the opposite, it drives its productivity.

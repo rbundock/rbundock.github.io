@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Controlling relationship cardinality. Power BI desktop series"
+title: "Controlling relationship cardinality. Power BI desktop series"
 image: /assets/img/power-bi-desktop-series-3-controlling-relationship-cardinality.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## A short article on how to manage relationship cardinality. Power BI Desktop series.

@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Opportunities for mobile apps in a small business"
+title: "Opportunities for mobile apps in a small business"
 image: /assets/img/opportunities-for-mobile-apps-in-small-business.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 For any business, big or small, to survive in today’s marketplace, it’s essential to keep pace with marketing developments and consumer trends. The rise of the [mobile application](https://headchannel.co.uk/mobile-app-development) goes hand in hand with the rise of the smartphone. People literally eat, live and breathe through their devices these days. Consumers expect your business to be accessible, which means being available 24/7/365 days a year.

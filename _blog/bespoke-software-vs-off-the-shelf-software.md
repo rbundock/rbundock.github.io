@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Bespoke software vs. off-the-shelf software"
+title: "Bespoke software vs. off-the-shelf software"
 image: /assets/img/jira-2048x1365.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 

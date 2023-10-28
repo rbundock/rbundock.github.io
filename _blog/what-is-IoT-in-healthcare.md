@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "What is IoT in healthcare?"
+title: "What is IoT in healthcare?"
 image: /assets/img/what-is-iot-in-healthcare.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 # What is IoT in healthcare?

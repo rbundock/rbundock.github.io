@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Which companies can benefit from property management software"
+title: "Which companies can benefit from property management software"
 image: /assets/img/engineers-in-workshop-3861960-2048x1366.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 Over the past few years, the hospitality industry has been growing larger than ever. There is no doubt that travelling all over the world and moving houses is not only more popular but also much easier, which is exactly why hospitality companies might need a little extra help in order to remain competitive. Luckily, a bespoke software solution seems to be precisely what they need.

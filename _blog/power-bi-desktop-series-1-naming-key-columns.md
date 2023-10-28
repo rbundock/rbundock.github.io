@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Naming key columns. Power BI desktop series."
+title: "Naming key columns. Power BI desktop series."
 image: /assets/img/power-bi-desktop-series-naming-key-columns.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 

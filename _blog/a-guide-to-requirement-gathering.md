@@ -6,7 +6,6 @@ summary: Effective requirements gathering is crucial for project success, involv
 category:
   - Requirement Gathering
 ---
-
 “Knowledge is Power” may be an overused adage, but it remains as accurate today as when it was first used. Success in a project is directly proportional to the amount of information you have to work with. The more you know, the better prepared you can be. Gathering practical information is vital to your relationship with your clients, and it is essential in the trust-building process, especially early on. The more you know about the company you are working with, the better chance your relationship has of succeeding.
 
 To create a bespoke service or application for a company, it is vital to understand precisely how it operates and what makes it tick. This involves a dedicated process known as ‘requirements gathering’. Effectively, this is a term which describes the process of gathering a list of all the needs and requirements that the company has so that you, as their ‘helper’, can obtain all the relevant information needed to do your job correctly.

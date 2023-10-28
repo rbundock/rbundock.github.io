@@ -1,9 +1,8 @@
 ---
 layout: story
-title:  "Salesforce and Smartsheet systems integration for Smiley World"
+title: "Salesforce and Smartsheet systems integration for Smiley World"
 image: /assets/img/smiley-logo.jpg
 ---
-
 # Salesforce and Smartsheet systems integration for Smiley World
 
 ![{{ page.title }}]({{ page.image }})

@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "How software can improve your company culture"
+title: "How software can improve your company culture"
 image: /assets/img/hand-using-stylus-pen-for-touching-the-digital-tablet-screen-6336-2048x1365.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Do not trust stereotypes

@@ -2,7 +2,6 @@
 layout: service
 title: "Developing intuitive apps for the healthcare sector"
 ---
-
 # Developing intuitive apps for the healthcare sector
 Like so many sectors, healthcare has turned to digital to help its organisations improve business outcomes. As well as enhancing the quality of care and the overall patient experience.
 

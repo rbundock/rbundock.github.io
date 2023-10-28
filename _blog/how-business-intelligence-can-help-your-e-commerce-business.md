@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "How business intelligence can help your e-commerce business"
+title: "How business intelligence can help your e-commerce business"
 image: /assets/img/how-business-intelligence-can-help-your-e-commerce-business-1.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 ## Turn data into insights

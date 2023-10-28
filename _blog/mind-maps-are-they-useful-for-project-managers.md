@@ -1,9 +1,8 @@
 ---
 layout: blog
-title:  "Mind maps – are they useful for project managers?"
+title: "Mind maps – are they useful for project managers?"
 image: /assets/img/mind-maps-are-they-useful-for-project-managers.jpg
 ---
-
 ![{{ page.title }}]({{ page.image }})
 
 We all keep looking for more innovative and effective ways of managing our precious time. We all try to be creative, remember more and solve problems more effectively. We move towards more agile ways of managing projects. We try different online and offline tools to help us reach our goals or support us daily. We use the Pomodoro technique to manage our time and project planning and monitoring software to support project management. Still, very often, we spend much time trying to analyse complex problems and come up with solutions, too much time. Are we missing something? Why not try mind mapping in project management?
