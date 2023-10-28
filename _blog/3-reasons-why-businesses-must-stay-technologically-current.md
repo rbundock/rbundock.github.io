@@ -3,6 +3,8 @@ layout: blog
 title: "3 reasons why businesses must stay technologically current"
 image: /assets/img/marvin-meyer-SYTO3xs06fU-unsplash.jpg
 summary: Adapting to technology is crucial for business success, expanding customer bases, enhancing user experience, and improving employee productivity.
+headline: 3 reasons why businesses must stay technologically current
+headline_para: Adapting to technology is crucial for business success, expanding customer bases, enhancing user experience, and improving employee productivity.
 category: 
   - Systems Integration
 ---
