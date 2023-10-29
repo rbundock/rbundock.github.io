@@ -4,7 +4,6 @@
 
 <body>
   <main>
-    {% include components/panel_search.html %}
     {% include header.html %}
 
     {% include hero.html %}
@@ -12,8 +11,13 @@
       <div class="wrapper">
         <div class="[ flow ] [ flow-space-700 ]">
 
+          <!-- Extracting topic from the URL -->
+          {% assign url_parts = page.url | split: "/" %}
+          {% assign category_index = url_parts | index: "category" %}
+          {% assign topic = url_parts[category_index | plus: 1] %}
+
           <ul>
-            {% assign bespoke_posts = site.blog | where: "category", page.topic %}
+            {% assign bespoke_posts = site.blog | where: "category", topic %}
             {% for entry in bespoke_posts %}
             <li>
               {% if entry.image and entry.image != "" %}
