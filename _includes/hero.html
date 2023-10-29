@@ -23,7 +23,7 @@
 
                 {% if page.showcategories and page.showcategories != "" %}
                 {% for category in site.category %}
-                <a href="{{ category.topic }}" class="button">{{ category.topic }}</a>
+                <a href="/blog/category/{{ category.topic }}" class="button">{{ category.topic }}</a>
                 {% endfor %}
                 {% endif %}
             </div>
