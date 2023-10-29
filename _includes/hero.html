@@ -23,7 +23,12 @@
 
                 {% if page.showcategories and page.showcategories != "" %}
                 {% for category in site.category %}
-                <a href="/blog/category/{{ category.topic }}" class="button">{{ category.topic }}</a>
+                    {% assign category_url_part = "/blog/category/" | append: category.topic %}
+                    {% if page.url contains category_url_part %}
+                        <a href="{{ category_url_part }}" class="button highlighted">{{ category.topic }}</a>
+                    {% else %}
+                        <a href="{{ category_url_part }}" class="button">{{ category.topic }}</a>
+                    {% endif %}
                 {% endfor %}
                 {% endif %}
             </div>
@@ -39,5 +44,7 @@ page.headline {{ page.headline }}
 page.headline_para {{ page.headline_para }}
 page.cta {{ page.cta }}
 page.showcategories {{ page.showcategories }}
+
+page.url {{ page.url }}
 
 -->
