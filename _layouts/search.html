@@ -6,20 +6,18 @@
     <main>
         {% include header.html %}
         {% include components/panel_intro.html %}
-        <div>
-            <div>
-                <label for="search">Enter your search term:</label>
-                <input type="text" id="search">
-                <!-- <button onclick="performSearch()">Search</button> -->
-            </div>
-        </div>
 
         <section class="panel">
             <div class="wrapper">
                 <div class="[ flow ] [ flow-space-700 ]">
 
-                    <ul id="results" class="[ grid ] [ lg:grid-cols-3 ]" role="list">
-                    </ul>
+                    <div>
+                        <div>
+                            <label for="search">Enter your search term:</label>
+                            <input type="text" id="search">
+                            <!-- <button onclick="performSearch()">Search</button> -->
+                        </div>
+                    </div>
 
                 </div>
             </div>
