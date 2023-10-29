@@ -21,7 +21,7 @@
                 </div>
                 {% endif %}
 
-                {% if showcategories and showcategories != "" %}
+                {% if page.showcategories and page.showcategories != "" %}
                 {% for category in site.category %}
                 <a href="{{ category.topic }}" class="button">{{ category.topic }}</a>
                 {% endfor %}
@@ -38,6 +38,6 @@ page.summary {{ page.summary }}
 page.headline {{ page.headline }}
 page.headline_para {{ page.headline_para }}
 page.cta {{ page.cta }}
-showcategories {{ showcategories }}
+page.showcategories {{ page.showcategories }}
 
 -->
