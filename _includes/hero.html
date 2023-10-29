@@ -12,16 +12,21 @@
             <p>{{ page.summary }}</p>
             {% endif %}
 
-            {% if page.cta and page.cta != "" %}
             <div class="[ stack ] [ items-center ]">
+                {% if page.cta and page.cta != "" %}
                 <a href="/stories/" class="button">View All Stories</a>
-
                 <div>
                     <h2 class="text-200">Have a question?</h2>
                     <p class="text-200">Give us a call</p>
                 </div>
+                {% endif %}
+
+                {% if showcategories and showcategories != "" %}
+                {% for category in site.category %}
+                <a href="{{ category.topic }}" class="button">{{ category.topic }}</a>
+                {% foreach %}
+                {% %}
             </div>
-            {% endif %}
         </div>
     </div>
 </section>

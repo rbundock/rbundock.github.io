@@ -1,8 +1,13 @@
 <section class="panel">
     <div class="wrapper">
         <div class="[ flow ] [ max-w-[50ch] ]">
+            {% if page.headline and page.headline != "" %}
             <h1>{{ page.headline }}</h1>
             <p>{{ page.headline_para }}</p>
+            {% else %}
+            <h1>{{ page.title }}</h1>
+            <p>{{ page.summary }}</p>
+            {% endif %}
         </div>
     </div>
 </section>
