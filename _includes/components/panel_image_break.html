@@ -1,12 +1,8 @@
-{% if image_break_color and image_break_color != "" %}
-  {% assign theme_color = "data-theme='" + image_break_color + "'" %}
-{% endif %}
-<section class="panel" {{ theme_color }} data-overlap>
+<section class="panel" data-theme="{{ image_break_color }}" data-overlap>
   <div class="wrapper">
     <img src="/assets/uploads/hero-home.jpg" alt="" class="w-full h-auto rounded-3xl">
   </div>
 </section>
 <!--
 image_break_color {{ image_break_color }}
-theme_color {{ theme_color }}
 -->
