@@ -14,7 +14,8 @@
           <!-- Extracting topic from the URL -->
           {% assign url_parts = page.url | split: "/" %}
           {% assign category_index = url_parts | index: "category" %}
-          {% assign topic = url_parts[category_index | plus: 1] %}
+          {% assign next_index = category_index | plus: 1 %}
+          {% assign topic = url_parts[next_index] %}
 
           <ul>
             {% assign bespoke_posts = site.blog | where: "category", topic %}
