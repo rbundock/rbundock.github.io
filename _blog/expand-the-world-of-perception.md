@@ -1,9 +1,11 @@
 ---
 layout: blog
 title: "Expand the world of perception"
-image: /assets/img/expand-the-world-of-perception.jpg
+image: /assets/img/brendan-church-fwS_2pmObxI-unsplash.jpg
+summary: iOS 13 enhances AR capabilities with advanced tools, offering more realistic integration of virtual and real-world elements, encouraging innovative app development and user engagement.
+category:
+  - Augmented Reality
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## An overview of the new possibilities in iOS 13
 iOS devices have had access to Augmented reality (AR) for some time now. When Apple started integrating specialised chips inside iPhones and iPads, iOS appeared to be the best augmented reality platform of our time. Millions of iOS users gained the opportunity to experience the apps of the future. The increased developers’ tendencies to extend the apps beyond familiar interfaces to augmented ones that aim at blurring the border between the real and virtual worlds. Regardless of whether it is a game or a utility app, you can place 2D and 3D objects inside the user’s surroundings. The immersive experience gives the user an impression of operating inside the real world and stirs the imagination. It opens up a multitude of possibilities for creating apps that can be used both in a commercial or non-commercial way.
@@ -29,13 +31,13 @@ Every camera produces some grain. This is particularly visible in low-light cond
 ## People occlusion
 Augmented reality scenes involving real people pose a challenge. Identification of other objects behind and in front of the person is not easy. When we move, the situation is dynamic. Thanks to the enhanced-people detection and scene understanding, it is possible to track the movement automatically. Machine learning and depth estimation techniques here help a lot. Apple uses a specialised chip, Neural Engine, that is in charge of real-time movement detection. Consequently, it is unnecessary to prepare a green screen to facilitate scene arrangement.
 
-Face tracking
+## Face tracking
 In AR apps, some experiences require a user to look at their face or see the face when looking at the scene. You can also interact with the scene using your face. iOS enables you to track up to three faces simultaneously. Additionally, face tracking can be activated together with world tracking, which means that the app can use the front and back cameras at once. In this scenario, face traits are available to be represented in the scene displayed in front of the user. You can trigger the mimics of a virtual character in a similar way to Apple’s Memojis. Face tracking uses the True Depth camera found in the latest iOS devices. This gives access to the power behind the Face ID authentication mechanism, unlocking the device with just a glance.
 
 ## Collaborative sessions
 A lot of AR apps, especially gaming ones, are designed to engage more people at the same time. It may seem challenging to not only track every single player but also enable interaction between them and the scene. Even more complexity is added when the players exit the game scene and re-enter it after some time. After all, their features should remain the same. The iOS answer to these challenges is a collaborative session, which supports consistent live experiences of multiple people inside the visualised world. This shared-world setup provides a foundation to construct a genuinely interactive play, raising realism together with user involvement. People inside the world build standard world maps by exchanging information across a peer-to-peer network. The data is sent automatically in real-time from multiple people, not just two. Coordination is established for a fluid change of the person who controls the experience.
 
-## Coaching
+## Coaching
 AR brings new experiences, which is why users need some guidance on how to start using it, as well as assistance while setting up a game or getting back into the game after some time. For a beginner, it is not as easy to find a surface to place objects on or to detect image scales. iOS unifies this coaching with the help of an interface that is common to users and developers. The unification is that every iOS application can use the same training interface, so users get used to it, and developers have less work. This interface is a set of translucent elements displayed on the stage. The programmer can choose which of these ready elements to use. In no case does this resemble a user manual. The unquestionable advantage is that owing to the coaching overlay, you can set your own coaching goals, and automatically, they appear or disappear during an AR experience when necessary. With image scale detection, a printed image can be used as a base, whereby the virtual world will adjust to the estimated physical size of the image. Preparation of this stage usually begins with finding a reference surface for our virtual world. Often, a special picture board, also in various sizes, is provided. Not everyone has the same large table. iOS can assess the size of this surface and adequately scale the visualised virtual world on it.
 
 ## Composing
