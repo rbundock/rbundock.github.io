@@ -1,10 +1,11 @@
 ---
 layout: blog
 title: "How to choose the right customer support channel"
-image: /assets/img/how-to-choose-the-right-customer-support-channel.jpg
+image: /assets/img/petr-machacek-BeVGrXEktIk-unsplash.jpg
+summary: Effective customer service hinges on choosing the right channels based on team skills, customer preferences, and industry trends, integrating them with efficient software for optimal communication and management.
+category:
+  - Outsourcing
 ---
-![{{ page.title }}]({{ page.image }})
-
 
 ## To-be-or-not-to-be of business
 Customer service is highly important in today’s changing world. Customers need answers, and definitely, you must provide them. However, what changes is how you communicate with your customers. It can be done in two ways: via conventional channels or innovative ones. But which one is better?
