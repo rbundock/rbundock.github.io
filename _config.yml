@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: HC
+title: HeadChannel
 description: Bookmark this to keep an eye on my project updates!
 
 plugins:
@@ -27,3 +27,6 @@ collections:
   stories: 
     output: true
     permalink: /stories/:path/
+
+exclude: 
+  - /__design-system/

@@ -1,4 +1,4 @@
-<header class="site-header" data-type="{{ data_type }}">
+<header class="site-header" data-type="{{ include.data_type }}">
   <div class="wrapper">
     <div class="[ site-header__inner ] [ stack ]">
       <a href="/" class="site-header__logo">{% include svgs/logo_headchannel_dark.html %}</a>
@@ -7,5 +7,5 @@
   </div>
 </header>
 <!--
-data_type: {{ data_type }}
+data_type: {{ include.data_type }}
 -->
