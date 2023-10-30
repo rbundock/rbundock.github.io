@@ -1,9 +1,11 @@
 ---
 layout: blog
 title: "Benefits of hybrid mobile app development"
-image: /assets/img/HeadChannel-2048x1365.jpg
+image: /assets/img/benjamin-sow-CB4z0uTFSYg-unsplash.jpg
+summary: By 2021, over 75% of mobile apps are expected to be hybrid, offering cross-platform compatibility, cost-effectiveness, and offline functionality.
+category:
+  - Mobile Apps
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## Over 75% of mobile apps will be hybrid by 2021
 Currently, developers have three choices when it comes to developing a mobile application. They can go native and develop an app exclusively for use on a single platform. They can create a web app, a mobile-optimised web page that renders onto smaller screens. Lastly, they can develop a hybrid app, a single application for use across the whole range of mobile devices. Industry professionals predict that over 75% of mobile apps will be hybrid by 2021.
