@@ -25,9 +25,9 @@
                 {% for category in site.category %}
                     {% assign category_url_part = "/blog/category/" | append: category.topic %}
                     {% if page.url contains category_url_part %}
-                        <a href="{{ category_url_part }}" class="button highlighted">{{ category.topic }}</a>
+                        <a href="{{ category_url_part }}" class="button highlighted">{{ category.headline }}</a>
                     {% else %}
-                        <a href="{{ category_url_part }}" class="button">{{ category.topic }}</a>
+                        <a href="{{ category_url_part }}" class="button">{{ category.headline }}</a>
                     {% endif %}
                 {% endfor %}
                 {% endif %}
