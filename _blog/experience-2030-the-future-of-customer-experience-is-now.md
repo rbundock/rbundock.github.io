@@ -1,9 +1,11 @@
 ---
 layout: blog
 title: "Experience 2030: the future of customer experience is… Now!"
-image: /assets/img/experience-2030-the-future-of-customer-experience-is-now.jpg
+image: /assets/img/nathan-dumlao-66RxrYlPShI-unsplash.jpg
+summary: Post-COVID-19, customer service priority surges; digital services essential for personalized, responsive experiences influencing consumer loyalty and spending.
+category
+  - Outsourcing
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## Key findings for 2030
 “Experience 2030: The Future of Customer Experience is… Now!” was based on a cross-cultural study of 10,000 participants across Europe, the Middle East and Africa. It reveals a holistic and updated understanding of consumer buying habits and what those habits might look like in 2030. There are several stand-out discoveries from this report which indicate the ways in which Covid-19 might have created a new type of customer.
