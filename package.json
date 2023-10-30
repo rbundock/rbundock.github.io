@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "npm-run-all -p dev:*",
-    "dev:css": "NODE_ENV=production npx tailwindcss -o src/_includes/css/global/tokens.css --watch",
+    "dev:css": "NODE_ENV=production npx tailwindcss -o __design-system/_includes/css/global/tokens.css --watch",
     "dev:11ty": "NODE_ENV=dev eleventy --serve --incremental",
     "production": "npx eleventy"
   },

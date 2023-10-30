@@ -1,8 +1,19 @@
+.transform {
+  --tw-translate-x: 0;
+  --tw-translate-y: 0;
+  --tw-rotate: 0;
+  --tw-skew-x: 0;
+  --tw-skew-y: 0;
+  --tw-scale-x: 1;
+  --tw-scale-y: 1
+}
+
 :root {
   --color-pink: #FF46FA;
   --color-lime: #DAFF02;
   --color-light: #fff;
   --color-charcoal: #262626;
+  --size-0: 0;
   --size-200: clamp(0.31rem, calc(0.14rem + 0.85vw), 0.75rem);
   --size-300: clamp(0.69rem, calc(0.52rem + 0.85vw), 1.13rem);
   --size-400: clamp(1.00rem, calc(0.80rem + 0.98vw), 1.50rem);
@@ -56,6 +67,22 @@
   --rounded-full: 9999px
 }
 
+.relative {
+  position: relative
+}
+
+.mb-600 {
+  margin-bottom: clamp(2.00rem, calc(1.61rem + 1.95vw), 3.00rem)
+}
+
+.mb-900 {
+  margin-bottom: clamp(5.25rem, calc(3.79rem + 7.32vw), 9.00rem)
+}
+
+.mb-800 {
+  margin-bottom: clamp(3.94rem, calc(3.13rem + 4.02vw), 6.00rem)
+}
+
 .block {
   display: block
 }
@@ -104,6 +131,10 @@
   flex: 1 1 0%
 }
 
+.transform {
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))
+}
+
 .flex-col {
   flex-direction: column
 }
@@ -148,12 +179,39 @@
   background-color: rgb(255 70 250 / var(--tw-bg-opacity))
 }
 
+.bg-charcoal {
+  --tw-bg-opacity: 1;
+  background-color: rgb(38 38 38 / var(--tw-bg-opacity))
+}
+
 .p-400 {
   padding: clamp(1.00rem, calc(0.80rem + 0.98vw), 1.50rem)
 }
 
 .p-600 {
   padding: clamp(2.00rem, calc(1.61rem + 1.95vw), 3.00rem)
+}
+
+.py-400 {
+  padding-top: clamp(1.00rem, calc(0.80rem + 0.98vw), 1.50rem);
+  padding-bottom: clamp(1.00rem, calc(0.80rem + 0.98vw), 1.50rem)
+}
+
+.py-600 {
+  padding-top: clamp(2.00rem, calc(1.61rem + 1.95vw), 3.00rem);
+  padding-bottom: clamp(2.00rem, calc(1.61rem + 1.95vw), 3.00rem)
+}
+
+.pb-400 {
+  padding-bottom: clamp(1.00rem, calc(0.80rem + 0.98vw), 1.50rem)
+}
+
+.pt-900 {
+  padding-top: clamp(5.25rem, calc(3.79rem + 7.32vw), 9.00rem)
+}
+
+.pt-400 {
+  padding-top: clamp(1.00rem, calc(0.80rem + 0.98vw), 1.50rem)
 }
 
 .text-center {
@@ -199,6 +257,10 @@
   opacity: 0.6
 }
 
+.outline {
+  outline-style: solid
+}
+
 .flow-space-400 {
   --flow-space: clamp(1.00rem, calc(0.80rem + 0.98vw), 1.50rem)
 }
@@ -208,6 +270,10 @@
 }
 
 @media (min-width: 1024px) {
+  .lg\:mb-0 {
+    margin-bottom: 0
+  }
+
   .lg\:block {
     display: block
   }
@@ -235,5 +301,17 @@
 
   .lg\:flex-row {
     flex-direction: row
+  }
+
+  .lg\:items-center {
+    align-items: center
+  }
+
+  .lg\:p-600 {
+    padding: clamp(2.00rem, calc(1.61rem + 1.95vw), 3.00rem)
+  }
+
+  .lg\:p-700 {
+    padding: clamp(2.63rem, calc(1.89rem + 3.66vw), 4.50rem)
   }
 }

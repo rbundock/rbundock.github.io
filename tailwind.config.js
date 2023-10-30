@@ -45,6 +45,7 @@ module.exports = {
     },
     spacing: {
       /* @link https://utopia.fyi/space/calculator?c=320,21,1.2,1140,24,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+      0: '0',
       200: 'clamp(0.31rem, calc(0.14rem + 0.85vw), 0.75rem)',
       300: 'clamp(0.69rem, calc(0.52rem + 0.85vw), 1.13rem)',
       400: 'clamp(1.00rem, calc(0.80rem + 0.98vw), 1.50rem)',

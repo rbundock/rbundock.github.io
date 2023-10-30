@@ -5,11 +5,13 @@
   align-items: center;
   justify-content: center;
   position: relative;
-  z-index: -1;
-  padding: calc(5rem + var(--size-900)) 0;
+  z-index: 1;
   color: var(--color-light);
-  aspect-ratio: 16/9;
-  width: 100%;
+}
+
+.hero .wrapper {
+  position: relative;
+  padding: calc(5rem + var(--size-900)) 0;
 }
 
 .hero__background {
@@ -22,15 +24,39 @@
   object-fit: cover;
 }
 
-.hero__pattern {
+.hero__lines {
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
+  bottom: 0;
+  right: 0;
+  width: min(25%, 20rem);
   height: 100%;
   z-index: -1;
   object-fit: cover;
-  object-position: left center;
+  object-position: left bottom;
+}
+
+.hero .wrapper:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 30%;
+  width: 8rem;
+  height: 8rem;
+  transform: skew(-25deg);
+  background: var(--color-pink);
+  z-index: -1;
+}
+
+.hero .wrapper:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 10%;
+  width: 8rem;
+  height: 4rem;
+  transform: skew(-25deg);
+  background: var(--color-pink);
+  z-index: -1;
 }
 
 .hero h1 {

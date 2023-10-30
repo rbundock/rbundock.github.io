@@ -16,7 +16,6 @@ sitemapIgnore: true
   {% include '../_includes/css/global/site-footer.css' %}
   {% include '../_includes/css/global/site-header.css' %}
   {% include '../_includes/css/global/type.css' %}
-  {% include '../_includes/css/global/tokens.css' %}
 
   {% include '../_includes/css/components/breakdown.css' %}
   {% include '../_includes/css/components/button.css' %}
@@ -32,5 +31,7 @@ sitemapIgnore: true
   {% include '../_includes/css/components/quote.css' %}
   {% include '../_includes/css/components/search-panel.css' %}
   {% include '../_includes/css/components/slab.css' %}
+
+  {% include '../_includes/css/global/tokens.css' %}
 {%- endset -%}
 {{ css | cssmin | safe }}

@@ -3,9 +3,3 @@
   padding: var(--size-400);
   border: 4px solid var(--panel-accent);
 }
-
-@media (min-width: 1024px) {
-  .slab {
-    padding: var(--size-900);
-  }
-}

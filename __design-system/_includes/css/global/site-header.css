@@ -8,6 +8,11 @@
   color: var(--color-light);
 }
 
+.site-header[data-type="relative"] {
+  position: relative;
+  background: var(--color-charcoal);
+}
+
 .site-header__inner {
   align-items: center;
   justify-content: space-between;

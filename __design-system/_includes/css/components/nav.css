@@ -36,6 +36,6 @@
   width: auto;
 }
 
-.nav li a:hover {
+.nav li a:not(.button):hover {
   color: var(--color-lime);
 }

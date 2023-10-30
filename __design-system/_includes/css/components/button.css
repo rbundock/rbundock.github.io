@@ -16,7 +16,17 @@
   transition: .4s ease-in-out;
   transition-property: background, color;
   cursor: pointer;
-  border: none;
+  border: 2px solid var(--color-charcoal);
+}
+
+.button[data-theme="lime"] {
+  background: var(--color-lime);
+  color: var(--color-charcoal);
+}
+
+.button[data-style="outline"] {
+  background: none;
+  border: 2px solid currentColor;
 }
 
 .button:hover {
