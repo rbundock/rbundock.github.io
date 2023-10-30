@@ -1,9 +1,11 @@
 ---
 layout: blog
 title: "How to deal with a time zone difference in software development offshoring"
-image: /assets/img/how-to-deal-with-time-zone-difference-in-software-development-offshoring.jpg
+image: /assets/img/valentin-beauvais-yVUQlyRlJSw-unsplash.jpg
+summary: Outsourcing IT projects offers cost savings and skill diversification, but challenges like time zone differences require clear requirements, communication strategies, regular meetings, and trust in the team for successful collaboration.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## Choose wisely
 Companies are increasingly choosing to outsource their IT projects to different countries. It allows them to both save money since the development costs differ depending on the country and complete more projects as they can quickly gain new skills which their in-house team doesn’t possess. The list of advantages of outsourcing your IT projects is long. However, there are some disadvantages, too. One is the time zone difference when your company, the outsourced IT specialists and sometimes your clients live in three different time zones. It may often cause unwanted delays and problems with communication, which then lead to project failure. Luckily, there are ways to deal with a time zone difference in software development outsourcing and thus ensure a long-lasting partnership with the outsourced team.
