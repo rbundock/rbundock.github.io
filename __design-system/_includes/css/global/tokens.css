@@ -71,16 +71,8 @@
   position: relative
 }
 
-.mb-600 {
-  margin-bottom: clamp(2.00rem, calc(1.61rem + 1.95vw), 3.00rem)
-}
-
 .mb-900 {
   margin-bottom: clamp(5.25rem, calc(3.79rem + 7.32vw), 9.00rem)
-}
-
-.mb-800 {
-  margin-bottom: clamp(3.94rem, calc(3.13rem + 4.02vw), 6.00rem)
 }
 
 .block {
@@ -164,6 +156,11 @@
   border-radius: 1.5rem
 }
 
+.bg-charcoal {
+  --tw-bg-opacity: 1;
+  background-color: rgb(38 38 38 / var(--tw-bg-opacity))
+}
+
 .bg-light {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity))
@@ -177,11 +174,6 @@
 .bg-pink {
   --tw-bg-opacity: 1;
   background-color: rgb(255 70 250 / var(--tw-bg-opacity))
-}
-
-.bg-charcoal {
-  --tw-bg-opacity: 1;
-  background-color: rgb(38 38 38 / var(--tw-bg-opacity))
 }
 
 .p-400 {
@@ -200,18 +192,6 @@
 .py-600 {
   padding-top: clamp(2.00rem, calc(1.61rem + 1.95vw), 3.00rem);
   padding-bottom: clamp(2.00rem, calc(1.61rem + 1.95vw), 3.00rem)
-}
-
-.pb-400 {
-  padding-bottom: clamp(1.00rem, calc(0.80rem + 0.98vw), 1.50rem)
-}
-
-.pt-900 {
-  padding-top: clamp(5.25rem, calc(3.79rem + 7.32vw), 9.00rem)
-}
-
-.pt-400 {
-  padding-top: clamp(1.00rem, calc(0.80rem + 0.98vw), 1.50rem)
 }
 
 .text-center {
