@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="en-GB">
 {% include head.html %}
-<body>
-    <main>
-        {% assign data_type = "relative" %}
-        {% include header.html %}
-        {% include components/panel_intro.html %}
 
+<body>
+    {% assign data_type = "relative" %}
+    {% include header.html %}
+    <main>
+        {% include components/panel_intro.html %}
         <section class="panel">
             <div class="wrapper">
                 <div class="[ flow ] [ flow-space-700 ]">
@@ -16,9 +16,9 @@
                 </div>
             </div>
         </section>
-
-        {% include footer.html %}
     </main>
+    {% include footer.html %}
+
 </body>
 
 </html>

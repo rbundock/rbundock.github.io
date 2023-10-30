@@ -3,10 +3,8 @@
 {% include head.html %}
 
 <body>
+  {% include header.html %}
   <main>
-    {% include components/panel_search.html %}
-    {% include header.html %}
-
     {% include hero.html %}
     {% include components/panel_categories.html %}
     <section class="panel">
@@ -35,9 +33,9 @@
       </div>
 
     </section>
-
-    {% include footer.html %}
   </main>
+  {% include footer.html %}
+
 </body>
 
 </html>

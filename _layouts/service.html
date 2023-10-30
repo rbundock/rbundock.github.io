@@ -3,9 +3,8 @@
 {% include head.html %}
 
 <body>
+  {% include header.html %}
   <main>
-    {% include header.html %}
-
     {% include components/panel_intro.html %}
     <section class="panel">
       <div class="wrapper">
@@ -19,7 +18,8 @@
     </section>
 
     {% include components/panel_faqs.html %}
-    {% include footer.html %}
+  </main>
+  {% include footer.html %}
 </body>
 
 </html>

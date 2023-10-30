@@ -3,10 +3,8 @@
 {% include head.html %}
 
 <body>
+  {% include header.html %}
   <main>
-    {% include components/panel_search.html %}
-    {% include header.html %}
-
     {% include hero.html %}
     <section class="panel" data-theme="charcoal">
       <div class="wrapper">
@@ -21,8 +19,9 @@
     {% include components/panel_image_break.html %}
     {% assign panel_contact_color = "" %}
     {% include components/panel_contact.html %}
-    {% include footer.html %}
   </main>
+  {% include footer.html %}
+
 </body>
 
 </html>

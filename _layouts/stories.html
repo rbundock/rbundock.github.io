@@ -3,9 +3,9 @@
 {% include head.html %}
 
 <body>
-  <main>
-    {% include header.html %}
 
+  {% include header.html %}
+  <main>
     {% include hero.html %}
     <section class="panel">
       <div class="wrapper">
@@ -37,8 +37,9 @@
     {% include components/panel_image_break.html %}
     {% assign panel_contact_color = "charcoal" %}
     {% include components/panel_contact.html %}
-    {% include footer.html %}
   </main>
+  {% include footer.html %}
+
 </body>
 
 </html>

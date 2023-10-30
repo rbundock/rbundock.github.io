@@ -3,10 +3,8 @@
 {% include head.html %}
 
 <body>
+    {% include header.html %}
     <main>
-        {% include components/panel_search.html %}
-        {% include header.html %}
-
         <section class="panel" data-theme="charcoal">
             <div class="wrapper">
                 <div class="[ flow ] [ flow-space-700 ]">
@@ -15,11 +13,11 @@
 
                 </div>
             </div>
- 
-        </section>
 
-        {% include footer.html %}
+        </section>
     </main>
+    {% include footer.html %}
+
 </body>
 
 </html>

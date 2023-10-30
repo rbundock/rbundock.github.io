@@ -1,11 +1,10 @@
 <!doctype html>
 <html lang="en-GB">
 {% include head.html %}
-<body>
-  <main>
-    {% include components/panel_search.html %}
-    {% include header.html %}
 
+<body>
+  {% include header.html %}
+  <main>
     {% include hero.html %}
     {% include components/panel_specialists.html %}
     {% include components/panel_logos_clients.html %}
@@ -22,8 +21,9 @@
 
     {% assign panel_contact_color = "charcoal" %}
     {% include components/panel_contact.html %}
-    {% include footer.html %}
   </main>
+  {% include footer.html %}
+
 </body>
 
 </html>

@@ -3,10 +3,9 @@
 {% include head.html %}
 
 <body>
-  <main>
-    {% include components/panel_search.html %}
-    {% include header.html %}
 
+  {% include header.html %}
+  <main>
     {% include hero.html %}
     <section class="panel" data-theme="charcoal">
       <div class="wrapper">
@@ -17,9 +16,9 @@
         </div>
       </div>
     </section>
-
-    {% include footer.html %}
   </main>
+  {% include footer.html %}
+
 </body>
 
 </html>
