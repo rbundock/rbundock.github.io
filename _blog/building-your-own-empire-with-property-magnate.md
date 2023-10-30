@@ -1,11 +1,11 @@
 ---
 layout: blog
 title: "Building your own empire with property magnate"
-image: /assets/img/building-your-own-empire-with-property-magnate.jpg
-categories: mobile-app
+image: /assets/img/luca-bravo-inkyAxidFX8-unsplash.jpg
+summary: Property Magnate, a new virtual reality game, educates and entertains would-be property investors, using real-life property data for a realistic experience.
+category:
+  - Mobile App
 ---
-![{{ page.title }}]({{ page.image }})
-
 
 ## It is the ideal solution for would-be property tycoons
 Potential property tycoons can start building their empire thanks to a significant new app launched on iOS and Android via the Google Play Store and App Store.
