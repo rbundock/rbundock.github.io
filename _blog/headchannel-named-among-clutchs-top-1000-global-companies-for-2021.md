@@ -1,9 +1,11 @@
 ---
 layout: blog
 title: "HeadChannel named among Clutch’s Top 1000 Global Companies 2021"
-image: /assets/img/clutch-awards-2021.png
+image: /assets/img/logo-1000.jpeg
+summary: HeadChannel, recognized on Clutch's Global Top 1000, excels in developing business solutions, partnering closely with clients for digital transformation success.
+category:
+  - Business
 ---
-![{{ page.title }}]({{ page.image }})
 
 At HeadChannel, we apply our tried and tested software development process that builds solutions empowering your business. As your software development and [digital transformation](https://www.forbes.com/sites/forbestechcouncil/2021/11/10/why-digital-transformation-is-an-ongoing-journey/) partner, we are with you every step of the way – from initial planning to delivery and beyond. We have successfully entered into several partnerships with our clients, often taking shareholdings in the software products we have created for them. We are experts in developing business-oriented solutions, and we’ve been translating the needs and goals of our customers into reliable software.
 
