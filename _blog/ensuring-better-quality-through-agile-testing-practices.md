@@ -1,9 +1,11 @@
 ---
 layout: blog
 title: "Ensuring better quality through Agile testing practices"
-image: /assets/img/ensuring-better-quality-through-agile-testing-practices.jpg
+image: /assets/img/national-cancer-institute-tV-RX0beDp8-unsplash.jpg
+summary: Agile testing integrates continuous testing into development, fostering teamwork, improving communication, and allowing rapid bug fixes, enhancing software quality and efficiency.
+category:
+  - Systems Integration
 ---
-![{{ page.title }}]({{ page.image }})
 
 What is agile testing? How to do it right? Why is it becoming more and more valuable?
 
