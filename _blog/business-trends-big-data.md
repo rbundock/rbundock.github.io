@@ -1,9 +1,11 @@
 ---
 layout: blog
 title: "Business trends – Big Data"
-image: /assets/img/business-trends-big-data.jpg
+image: /assets/img/carlos-muza-hpjSkU2UYSU-unsplash.jpg
+summary: Big Data, broadly defined as data too large for traditional processing, varies in interpretation. It requires careful consideration before investing, assessing its relevance, costs, and potential benefits versus risks for each business.
+category:
+  - Business Trends
 ---
-![{{ page.title }}]({{ page.image }})
 
 The concept of Big Data has several definitions, mainly due to the fact that the term “large” is very subjective and inaccurate. Nevertheless, today, we come across this notion in almost every sector; the key here is to clarify what it means.
 
