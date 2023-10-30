@@ -1,10 +1,11 @@
 ---
 layout: blog
 title: "Fighting for the UK manufacturing. Meeting the challenges of the future"
-image: /assets/img/fighting-for-the-uk-manufacturing-meeting-the-challenges-of-the-future.jpg
+image: /assets/img/lenny-kuhne-jHZ70nRk7Ns-unsplash.jpg
+summary: UK manufacturing at a crossroads faces Brexit, COVID-19; embracing Industry 4.0 technologies crucial for growth, productivity, and competitiveness.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
-
 ## What is the future of UK manufacturing? What are currently the most vital challenges that British industry is facing? And finally – how can embracing technology come to the rescue and drive business growth?
 There is no doubt that the manufacturing sector in the UK stands at a crossroads, and that’s driven not only by the uncertainty of Brexit but also by the COVID-19 pandemic. However, The Fourth Industrial Revolution, or Industry 4.0 as it has come to be known, harnessing automation and other features delivered by technological innovation, brings promising opportunities to the table.
 
