@@ -1,9 +1,11 @@
 ---
 layout: blog
 title: "Has your business met cloud computing yet?"
-image: /assets/img/has-your-business-met-cloud-computing-yet.jpg
+image: /assets/img/an-tran-xa-X3YICs3s-unsplash.jpg
+summary: Cloud computing, offering SaaS, PaaS, and IaaS, revolutionizes data access and storage, enhancing flexibility and security for businesses and individuals.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 Being a kid is never easy. With all the homework they are expected to do every day, the tidying they are made to do at least once a week, all the things they are not allowed to drink as often as they wish, and now there is the Internet, which they desperately want to fit in with. We can only wonder what modern children would do if they were around fifteen years ago when you were left with nothing but a playground and the very first edition of the Sims being released. Do you or your children remember removing every program from your computer so that there would be enough space to install the game which has revolutionised the world of gaming? We do, and we know it would not have happened if cloud computing was on board.
  
