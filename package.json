@@ -13,8 +13,8 @@
     "production": "npx eleventy"
   },
   "blyth": {
-    "utilityOutputPath": "src/_includes/css/utility",
-    "compositionOutputPath": "src/_includes/css/composition"
+    "utilityOutputPath": "__design-system/_includes/css/utility",
+    "compositionOutputPath": "__design-system/_includes/css/composition"
   },
   "author": "Ryan Gittings",
   "license": "GPL-2.0 AND MIT",
