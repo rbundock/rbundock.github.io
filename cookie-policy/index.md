@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cookie Policy
+header_box: relative
 ---
 # Cookie Policy
 

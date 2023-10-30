@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Anti-Slavery Policy
+header_box: relative
 ---
 # Anti-Slavery and Human Trafficking Policy
 ## Our Commitment

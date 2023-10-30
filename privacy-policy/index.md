@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
+header_box: relative
 ---
 # PRIVACY NOTICE
 
