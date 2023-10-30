@@ -1,9 +1,11 @@
 ---
 layout: blog
 title: "How to improve recruitment with business intelligence"
-image: /assets/img/sm_how-to-improve-recruitment-with-business-intelligence.jpg
+image: /assets/img/cytonn-photography-n95VMLxqM2I-unsplash (1).jpg
+summary: Business intelligence tools enhance recruitment by enabling data-driven decisions, improving candidate attraction, reducing turnover, and increasing employee motivation and productivity.
+category:
+  - Business Intelligence 
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## Predict changes
 The 2018 Global Recruiting Trends report reveals that only 50% of talent professionals and hiring managers say that data is the top trend impacting how they hire. The number is surprisingly low, given that big data has tremendously impacted decision-making processes in various industries, including recruitment. Luckily, the number of recruiters using data in their work is growing, which is said to grow even more in the next few years. One of the greatest and simplest ways to gain easy access to real-time data is to implement business intelligence tools. Modern technologies allow for data analyses in larger volumes and at a higher speed. However, the most significant benefit is that these tools enable you to track changes and, more importantly, predict them. How can business intelligence help you improve the hiring processes in your company?
