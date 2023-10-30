@@ -2,8 +2,8 @@
 layout: blog
 title: "Experience 2030: the future of customer experience is… Now!"
 image: /assets/img/nathan-dumlao-66RxrYlPShI-unsplash.jpg
-summary: Post-COVID-19, customer service priority surges; digital services essential for personalized, responsive experiences influencing consumer loyalty and spending.
-category
+summary: Post coronavirus, customer service priority surges for digital services essential for personalized, responsive experiences influencing consumer loyalty and spending.
+category:
   - Outsourcing
 ---
 
