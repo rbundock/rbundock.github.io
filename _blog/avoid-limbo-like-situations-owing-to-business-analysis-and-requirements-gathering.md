@@ -1,9 +1,11 @@
 ---
 layout: blog
 title: "Avoid limbo-like situations owing to business analysis and requirements gathering"
-image: /assets/img/business-analysis-and-requirements-gathering.jpg
+image: /assets/img/tyler-franta-iusJ25iYu1c-unsplash.jpg
+summary: Ensure detailed requirement gathering for apps, involving identification, capturing, categorizing, recording, interpretation, and sign-off to prevent scope creep and align with client needs.
+category:
+  - Business Analysis
 ---
-![{{ page.title }}]({{ page.image }})
 
 
 ## Ensure requirements, secure details
