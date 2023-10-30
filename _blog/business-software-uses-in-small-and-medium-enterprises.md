@@ -1,9 +1,11 @@
 ---
 layout: blog
 title: "Business software uses in small and medium enterprises"
-image: /assets/img/challenges-facing-business.jpg
+image: /assets/img/annie-spratt-QckxruozjRg-unsplash.jpg
+summary: Business software enhances productivity, reduces costs, and measures performance, offering various solutions including SaaS, cloud computing, payroll/accounting, and HR management, crucial for data handling and decision-making.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 Business software refers to any type of software specific to business users to perform certain business functions. Business software allows companies to increase the productivity of employees, reduce operational costs and measure productivity.
 
