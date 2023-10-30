@@ -2,8 +2,10 @@
 layout: blog
 title: "Challenges of good project management"
 image: /assets/img/background-hoto_agile-project-managementpexels-fauxels-3184325-2048x1365.jpg
+summary: Effective outsourcing requires careful planning, prioritizing goals, defining deliverables, creating a detailed schedule, assessing risks, and presenting a comprehensive project plan with stakeholder collaboration.
+category:
+  - Project Management
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## How to plan a project
 When you decide to outsource your software development, you need to ask a couple of questions and decisions to make. You should decide what type of software you need and carefully choose your software development partner. If you have not decided yet, this article might help you decide when choosing the right software house. Project management is one of the factors you should take care of. Also, ask your future partner about the project plan, how they are going to create it, and what it will contain to ensure the whole project will be in good hands.
