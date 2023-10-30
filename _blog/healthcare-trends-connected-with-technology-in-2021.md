@@ -1,6 +1,10 @@
 ---
 layout: blog
 title: "Healthcare trends connected with technology in 2021"
+image: /assets/img/national-cancer-institute-rHfsPolwIgk-unsplash.jpg
+summary: Digital transformation in healthcare is revolutionizing patient care with telehealth, genomics, health apps, IoT, blockchain, AR/VR, and AI technologies.
+category:
+  - System Intergration 
 ---
 The rapidly expanding field of digital transformation, alongside the need to deliver a safer and more accessible form of healthcare, has triggered a digital revolution in the healthcare industry. This article will review the latest healthcare trends in technology and software development.
 
