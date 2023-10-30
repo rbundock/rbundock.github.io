@@ -1,9 +1,11 @@
 ---
 layout: blog
 title: "How does automation affect your small business?"
-image: /assets/img/pexels-rodnae-productions-5921977.jpg
+image: /assets/img/austin-distel-uPK2TbJlvMQ-unsplash.jpg
+summary: Automation in business enhances productivity and efficiency by streamlining tasks, reducing errors, and improving customer experience and decision-making processes.
+category:
+  - Outsourcing
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## Be more productive, be more effective
 When thinking of automation, many people see thousands of robots taking over our jobs and starting another era. However, this broad term can be nothing but beneficial to your company. Business process automation has been here for many years now and works well for all businesses, regardless of their size and industry. According to the 2019 Automation Report, one of many advantages of automation in the workplace is the possibility of becoming more productive, confirmed by over 80% of respondents. How exactly can automation affect your small business?
