@@ -1,9 +1,11 @@
 ---
 layout: blog
 title: "Blockchain without mystery"
-image: /assets/img/briefly-about-blockchain.jpg
+image: /assets/img/shubham-dhage-T9rKvI3N0NM-unsplash.jpg
+summary: Blockchain technology secures digital records and underpins diverse applications, from finance (like Bitcoin) to business operations, emphasizing transparency and security in multi-party transactions.
+category:
+  - System Intergration
 ---
-![{{ page.title }}]({{ page.image }})
 
 “Blocks”, otherwise known as a list of digital records, are secured by cryptography, creating a ledger of transactions; once verified, the record enters the chain and cannot be changed. Leading players in the blockchain world are the likes of IBM, Microsoft, and Intel, although there are many other high-profile companies with an ever-expanding interest in the technology.
 
