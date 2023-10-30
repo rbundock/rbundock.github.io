@@ -1,9 +1,11 @@
 ---
 layout: blog
 title: "Finding women in the Information System environment"
-image: /assets/img/finding-women-in-the-information-systems-environment.jpg
+image: /assets/img/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg
+summary: Close IT gender gap by networking, fostering inclusive culture, non-competitive environments, and focusing on challenges, not stereotypes, in recruitment.
+category:
+  - Systems Integration
 ---
-![{{ page.title }}]({{ page.image }})
 
 
 ## Ways to locate the talented female coders you seek
