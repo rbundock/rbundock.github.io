@@ -2,8 +2,10 @@
 layout: blog
 title: "How to choose the right software development company"
 image: /assets/img/man-pointing-laptop-computer-2182981-2048x1397.jpg
+summary: Selecting a software development company requires thorough research and consideration of methodology, technology expertise, partnership potential, business understanding, communication efficiency, and proven experience, aiming for a beneficial long-term relationship.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## Follow the white rabbit
 If you have decided to upgrade your software or acquire a new software solution, you have made the next step for better prosperity of your business. However, the process is not yet finished. It has, in fact, just started, but there is no need to be scared of changes. It is essential to make small steps, one after another. Begin with defining your needs and choosing the right software house. Before making that decision, you should determine your preferences and do the right amount of research. Please have in mind the requirements you seek in an IT company, your future relations and the software itself. There are a lot of software houses on the market using different management methods and technologies and are either focused on creating long-term relationships or just selling their product. When making the decision, it is essential to specify your requirements and highlight them with different candidates.
