@@ -1,9 +1,11 @@
 ---
 layout: blog
 title: "Challenges facing technology and businesses today"
-image: /assets/img/challenges-facing-technology-and-businesses-today.jpg
+image: /assets/img/nasa-Q1p7bh3SHj8-unsplash.jpg
+summary: In 2021, critical IT infrastructure and digital strategy advancements present both challenges and opportunities for businesses, including technology adoption, AI, agile IT, skills gap, outsourcing, cybersecurity, data protection, and social media strategy.
+category:
+  - Business
 ---
-![{{ page.title }}]({{ page.image }})
 
 In 2021, an organisation’s IT infrastructure and digital strategy are more critical than ever. Technology has provided countless benefits to companies around the world, and it continues to revolutionise the way we work today. To maximise these benefits, it is essential for businesses to pay attention to the challenges technology presents as well as the exciting opportunities it provides. These challenges include those associated with the adoption of new technology into a company, AI in the workplace, Agile IT infrastructure, outsourcing, data protection, cybersecurity and social media.
 
