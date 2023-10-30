@@ -38,6 +38,11 @@
           <p>We will respond to your enquiry within 24 hours.</p>
         </div>
   
+{% if panel_contact_color = "" %}
+{% assign panel_contact_form_color = "bg-charcoal text-light" %}
+{% assign panel_contact_form_button_color = "lime" %}
+{% endof %}
+
         <form class="[ slab ] [ flow ] [ p-600 bg-light text-charcoal ]">
           <div>
             <label for="name">First Name</label>
@@ -60,11 +65,13 @@
             <label for="terms" class="flex-1 text-200">I have read and understood the privacy policy and I am happy to send the message.*</label>
           </div>
   
-          <button type="submit" class="button">Submit Form</button>
+          <button type="submit" class="button" data-theme="{{ panel_contact_form_button_color }}">Submit Form</button>
         </form>
       </div>
     </div>
   </section>
   <!--
   panel_contact_color {{ panel_contact_color }}
+  panel_contact_form_color {{ panel_contact_form_color }}
+  panel_contact_form_button_color {{ panel_contact_form_button_color }}
   -->
