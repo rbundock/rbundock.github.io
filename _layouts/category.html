@@ -12,7 +12,7 @@
         <div class="[ flow ] [ flow-space-700 ]">
 
           <ul class="[ grid ] [ lg:grid-cols-2 ]" role="list">
-            {% assign bespoke_posts = site.blog | where: "category", page.topic %}
+            {% assign bespoke_posts = site.blog | where: "category", page.headline %}
             {% for entry in bespoke_posts %}
             <li class="[ card ] [ flow ]">
               <div class="card__background">
