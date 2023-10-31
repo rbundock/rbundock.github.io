@@ -4,7 +4,7 @@ title: "How software can improve your company culture"
 image: /assets/img/campaign-creators-gMsnXqILjp4-unsplash.jpg
 summary: Company culture, influenced by behaviors, values, and systems, is vital in the workplace. Effective software can enhance culture, collaboration, and efficiency, while reducing errors and costs, fostering a positive, productive environment.
 category:
-  - Bespoke Software
+  - Business
 ---
 
 ## Do not trust stereotypes
