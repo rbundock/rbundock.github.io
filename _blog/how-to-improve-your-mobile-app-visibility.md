@@ -2,9 +2,10 @@
 layout: blog
 title: "How to improve your mobile app visibility"
 image: /assets/img/how-to-improve-your-mobile-app-visibility.jpg
+summary: Developing a mobile app for business isn't just about task management- it's a tool for customer engagement and increasing visibility.
+category:
+  - Mobile Apps
 ---
-![{{ page.title }}]({{ page.image }})
-
 
 ## Tips and tricks
 When thinking about developing a mobile application for your business, the first thing that comes to mind may be management software to help with scheduling tasks or a business calendar, allowing you to keep track of progress. But mobile applications are so much more. They can be used in many ways to communicate with your customers or attract the attention of new ones. There are so many more ideas waiting to be reformed into working applications.
