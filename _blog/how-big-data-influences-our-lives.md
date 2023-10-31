@@ -4,7 +4,7 @@ title: "How Big Data influences our lives"
 image: /assets/img/adam-nowakowski-D4LDw5eXhgg-unsplash.jpg
 summary: IoT and Big Data, interconnected technologies, revolutionize information analysis, impacting everything from music preferences to healthcare and business operations.
 category:
-  - Data Influence 
+  - Business
 ---
 
 Have you ever noticed that while listening to music, your favourite song is repeated surprisingly often? Has it occurred to you that the videos that are recommended to you on YouTube have strangely a lot in common with the videos that you have already watched? You may be surprised to see how many things are connected to the Internet and how beneficial analysing it could be. What will surprise you even more is the fact that you do not have to do anything in order to do that. It is done for you – it has been and will be.
