@@ -4,7 +4,7 @@ title: "Breaking down technology’s subservience to culture"
 image: /assets/img/maxim-hopman-IayKLkmz6g0-unsplash.jpg
 summary: The 'chicken or egg dilemma' in technology versus culture highlights their intertwined influence- technology shapes society's behaviors and needs, while cultural and social factors drive technological adoption and innovation.
 category:
-  - Systems Integration
+  - Bespoke Software
 ---
 
 ## ‘Chicken or egg’ causality dilemma
