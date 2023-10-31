@@ -4,7 +4,7 @@ title: "How to keep developers motivated and happy"
 image: /assets/img/sigmund-Fa9b57hffnM-unsplash.jpg
 summary: To maintain passion and happiness, developers must navigate daily challenges, avoid failure triggers, and foster a supportive work environment.
 category:
-  - Bespoke Software 
+  - Business 
 ---
 
 ## Stay passionate
