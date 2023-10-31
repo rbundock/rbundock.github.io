@@ -3,7 +3,7 @@
         <nav aria-label="Filters navigation">
             <ul class="[ nav ] [ stack ] [ gap-200 ]" role="list">
                 {% for category in site.category %}
-                {% assign category_url_part = "/blog/category/" | append: category.topic %}
+                {% assign category_url_part = "/blog/category/" | append: category.topic | append: "/" %}
                 {% if page.url contains category_url_part %}
                 <li><a href="{{ category_url_part }}" class="button" data-theme="lime">{{ category.headline }}</a></li>
                 {% else %}
