@@ -4,7 +4,7 @@ title: "How to deal with a time zone difference in software development offshori
 image: /assets/img/valentin-beauvais-yVUQlyRlJSw-unsplash.jpg
 summary: Outsourcing IT projects offers cost savings and skill diversification, but challenges like time zone differences require clear requirements, communication strategies, regular meetings, and trust in the team for successful collaboration.
 category:
-  - Bespoke Software
+  - Outsourcing
 ---
 
 ## Choose wisely
