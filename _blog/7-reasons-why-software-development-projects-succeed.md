@@ -4,7 +4,7 @@ title: "7 reasons why software development projects succeed"
 image: /assets/img/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg
 summary: Shift focus from failure to success in software projects by clarifing requirements, detail specifications, involve end-users, communicate internally, stay flexible, maintain transparency, and rigorously test for assured project triumph.
 category:
-  - Software Development
+  - Bespoke Software
 ---
 ## Focusing on success instead of assuming failure upfront
 The number of articles discussing why software development projects fail has recently been growing, and you can find one on our blog as well. This should come as no surprise, given the research conducted by the Standish Group, which shows that over 30% of projects are anticipated to be closed before ever being completed, and over 50% of projects will cost twice as much as initially estimated. Whilst there has been a great deal of analysis focused on what makes a significant number of projects end in failure and how to overcome this problem, little has been said about shifting your mindset and concentrating on success instead of assuming failure upfront, which is why this article explains how to ensure project success in the first place.
