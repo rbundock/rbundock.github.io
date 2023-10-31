@@ -4,7 +4,7 @@ title: "Does your company need a chatbot?"
 image: /assets/img/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 summary: Chatbots enhance customer engagement and experience across industries, offering 24/7 support, automation, cost savings, and operational efficiency, catering to diverse customer preferences.
 category:
-  - Business Intelligence
+  - Business
 ---
 
 ## Take care of omnichannel communication with clients
