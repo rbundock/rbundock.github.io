@@ -12,7 +12,7 @@
         <div class="[ flow ] [ flow-space-700 ]">
 
           <ul class="[ grid ] [ lg:grid-cols-2 ]" role="list">
-            {% assign bespoke_posts = site.blog | where: "category", category.topic %}
+            {% assign bespoke_posts = site.blog | where: "category", page.topic %}
             {% for entry in bespoke_posts %}
             <li class="[ card ] [ flow ]">
               <div class="card__background">
@@ -30,7 +30,7 @@
             {% endfor %}
           </ul>
           <!--
-            category.topic: {{ topic }}
+            page.topic: {{ topic }}
             page.layout: {{ page.layout }}
           -->
 
