@@ -4,7 +4,7 @@ title: "Green design sustainability: avoiding future wastage"
 image: /assets/img/ben-black-r6wCtto743w-unsplash.jpg
 summary: Green design sustainability counters harmful trends through circular economy, eco-design, and innovative practices like modularity and disassembly for environmental protection.
 category:
-  - Business
+  - Bespoke Software
 ---
 
 
