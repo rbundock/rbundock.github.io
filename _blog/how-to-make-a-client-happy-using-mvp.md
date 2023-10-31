@@ -4,7 +4,7 @@ title: "How to make a client happy using MVP"
 image: /assets/img/christiann-koepke-dQyS2pMYtok-unsplash.jpg
 summary: MVP, or Minimum Viable Product, streamlines product development, balancing simplicity, functionality, and clarity to save time and reduce costs for both businesses and clients.
 category:
-  - Systems Integration
+  - Business
 ---
 
 ## Save time, save money
