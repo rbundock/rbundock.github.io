@@ -6,15 +6,13 @@
     {% include header.html %}
     <main>
         {% include components/panel_intro.html %}
-        <section class="panel">
-            <div class="wrapper">
-                <div class="[ flow ] [ flow-space-700 ]">
 
-                    {{ content }}
+        {% include components/panel_whatwedo.html %}
+        {% include components/panel_stats.html %}
+        {% include components/panel_awards.html %}
+        {% include components/panel_testimonial.html %}
 
-                </div>
-            </div>
-        </section>
+        {% include components/panel_contact.html %} 
     </main>
     {% include footer.html %}
 
