@@ -4,7 +4,7 @@ title: "5 mobile UX design tips"
 image: /assets/img/maxim-ilyahov-0aRycsfH57A-unsplash.jpg
 summary: Mobile UX design should prioritize user experience, emphasizing simplicity and speed to cater to on-the-go users and boost conversion rates.
 category:
-  - Bespoke Software
+  - Mobile Apps
 ---
 The user interface design of a mobile website or app should focus first on the user experience (UX). Not only because ease of use keeps visitors on your site longer but because the nature of mobile devices means that people use them while on the go. That means regular interruptions. However, a mobile UX design that emphasises speed and simplicity increases the odds that the consumer will be able to complete a CTA or other transaction process before switching his attention elsewhere. Here are five simple mobile design tips that will help maximise the user experience and help increase conversion rates.
 
