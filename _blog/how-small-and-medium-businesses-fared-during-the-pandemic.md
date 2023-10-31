@@ -4,7 +4,7 @@ title: "How small and medium businesses fared during the pandemic"
 image: /assets/img/yohann-libot-SX177tIQu7Q-unsplash.jpg
 summary: The pandemic significantly impacted SMBs, emphasizing the need for health, safety, and digital technology adoption. Salesforce's report shows SMBs resilient through technology, highlighting the importance of digital customer engagement and internal communication. Despite challenges, SMBs are optimistic, with a digital-forward approach key to future success.
 category:
-  - Business
+  - Bespoke Software
 ---
 ## Nothing could have prepared the world for the impact of a pandemic
 As the virus evolved to infect the human population, we should now adapt to the changes it caused.
