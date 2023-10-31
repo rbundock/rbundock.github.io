@@ -5,7 +5,8 @@
 <body>
   {% include header.html %}
   <main>
-    {% include hero.html %}
+    {% include components/panel_intro.html %}
+    {% include components/panel_categories.html %}
     <section class="panel">
       <div class="wrapper">
         <div class="[ flow ] [ flow-space-700 ]">
@@ -27,6 +28,12 @@
             </li>
             {% endfor %}
           </ul>
+          <!--
+            url_parts: {{ url_parts }}
+            category_index: {{ category_index }}
+            next_index: {{ next_index }}
+            topic: {{ topic }}
+          -->
 
         </div>
       </div>
