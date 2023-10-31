@@ -4,7 +4,7 @@ title: "Challenges of good project management"
 image: /assets/img/background-hoto_agile-project-managementpexels-fauxels-3184325-2048x1365.jpg
 summary: Effective outsourcing requires careful planning, prioritizing goals, defining deliverables, creating a detailed schedule, assessing risks, and presenting a comprehensive project plan with stakeholder collaboration.
 category:
-  - Project Management
+  - Business
 ---
 
 ## How to plan a project
