@@ -11,14 +11,21 @@
       <div class="wrapper">
         <div class="[ flow ] [ flow-space-700 ]">
 
-          <ul>
+          <ul class="[ grid ] [ lg:grid-cols-2 ]" role="list">
             {% assign bespoke_posts = site.blog | where: "category", category.topic %}
             {% for entry in bespoke_posts %}
-            <li>
-              {% if entry.image and entry.image != "" %}
-              <img src="{{ entry.image }}" alt="{{ entry.title }}" />
-              {% endif %}
-              <a href="{{ entry.url }}">{{ entry.title }}</a>
+            <li class="[ card ] [ flow ]">
+              <div class="card__background">
+                {% if entry.image and entry.image != "" %}
+                <img src="{{ entry.image }}" alt="{{ entry.title }}" loading="lazy" />
+                {% endif %}
+              </div>
+              {% for category in entry.categories %}
+              <span class="label">{{ category }}</span>
+              {% endfor %}
+              <h3 class="text-400"><a href="{{ entry.url }}" class="breakout-button">{{ entry.title }}</a></h3>
+              <p>{{ entry.summary }}
+              </p>
             </li>
             {% endfor %}
           </ul>
