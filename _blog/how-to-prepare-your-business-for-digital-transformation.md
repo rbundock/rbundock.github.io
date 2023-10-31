@@ -4,7 +4,7 @@ title: "How to prepare your business for digital transformation"
 image: /assets/img/person-using-silver-macbook-pro-1181467-2048x1367.jpg
 summary: Embrace digital transformation by analyzing business needs, selecting appropriate technologies, and training employees, ensuring your company stays competitive and meets evolving customer demands.
 category:
-  - Systems Integration
+  - Business
 ---
 
 ## Hope for the best and be prepared for the worst
