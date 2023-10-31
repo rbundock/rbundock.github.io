@@ -4,7 +4,7 @@ title: "Don’t forget about UX in cross-platform designing"
 image: /assets/img/pexels-rodnae-productions-5915202.jpg
 summary: Effective restaurant experiences and web app designs both rely on balancing visual appeal with user experience; excellent food and service, or a seamless and adaptable user interface, outweigh mere aesthetics.
 category:
-  - UX
+  - Web Development
 ---
 ## Appearances and experiences, though sometimes deceptive, matter
 
