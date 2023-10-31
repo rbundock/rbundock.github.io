@@ -1,9 +1,11 @@
 ---
 layout: blog
 title: "How to know if you need a bespoke software solution"
-image: /assets/img/when-you-need-a-bespoke-software-solution.jpg
+image: /assets/img/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg
+summary: Custom software, tailored to business needs, provides scalability and efficiency, outperforming generic off-the-shelf solutions in growth and adaptability.
+category:
+  - Bespoke Software 
 ---
-![{{ page.title }}]({{ page.image }})
 
 Off-the-shelf software has its place. It can be less expensive than bespoke software and takes less time to implement. However, much of what comes pre-packaged is never used. Also, there is a finite limit to canned software capabilities that can impede production and business growth. The lack of customisable options also inhibits the scalability in the long term.
 
