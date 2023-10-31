@@ -4,7 +4,7 @@ title: "How to add value to your workflow"
 image: /assets/img/campaign-creators---kQ4tBklJI-unsplash.jpg
 summary: Custom software, tailored to unique business needs, enhances workflow, productivity, and security, unlike general enterprise solutions which may not fit specific requirements or processes effectively.
 category:
-  - Bespoke Software 
+  - Business
 ---
 ## Enriching power of differences
 Businesses are different. This old truth leads to the conclusion that each company has its unique requirements when it comes to the workflow process. It means that a business often needs to find a cost-effective solution that can adapt to the individual needs of in-house business practices, effectively aid in implementing various projects, and create a positive and efficient UX experience for employees and customers.
