@@ -2,8 +2,10 @@
 layout: blog
 title: "How to prepare your employees for a new software adoption"
 image: /assets/img/how-to-prepare-your-employees-for-a-new-software-adoption.jpg
+summary: Implementing new software in an organization requires wise selection, employee engagement, clear communication, user testing, effective training, leadership by example, and making it fun, ensuring smooth adoption and enhanced productivity.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## Win comfort, productivity and efficiency
 Bringing new digital tools into your organisation can be highly beneficial, regardless of the industry. But often, it is a time and money-consuming process rather than just another task to complete. Defining what your company truly needs and finding the right vendor usually takes several months. Luckily, once the software goes live, its implementation and adoption should go smoothly. How difficult may it be to make your employees use the new software? It turns out that these last phases are often the most important ones as they determine whether the project is, in fact, thriving. Making your employees use the solution may result in a productivity drop if they do not see the reason behind the implementation and do not find it comfortable. It is thus essential to convince your employees that the software serves to help them. How can you prepare your employees for successful software adoption?
