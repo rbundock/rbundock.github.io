@@ -4,7 +4,7 @@ title: "Eliminate the inefficient, implement the best"
 image: /assets/img/thisisengineering-raeng-hoivM01c-vg-unsplash.jpg
 summary: Only 5.5% of construction professionals fully integrate their software, hindering productivity. Embracing bespoke, user-friendly digital solutions can significantly enhance efficiency and collaboration.
 category:
-  - Outsourcing
+  - Bespoke Software
 ---
 
 As it stands, only 5.5% of construction professionals surveyed have full integration across all their software applications, 30% have no software integration whatsoever, and 36% have only 1 or 2 applications integrated.
