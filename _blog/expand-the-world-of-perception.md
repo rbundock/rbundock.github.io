@@ -4,7 +4,7 @@ title: "Expand the world of perception"
 image: /assets/img/brendan-church-fwS_2pmObxI-unsplash.jpg
 summary: iOS 13 enhances AR capabilities with advanced tools, offering more realistic integration of virtual and real-world elements, encouraging innovative app development and user engagement.
 category:
-  - Augmented Reality
+  - Mobile Apps
 ---
 
 ## An overview of the new possibilities in iOS 13
