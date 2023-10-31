@@ -4,7 +4,7 @@ title: "How to keep your online business secured"
 image: /assets/img/alesia-kaz-VWcPlbHglYc-unsplash.jpg
 summary: Internet security protects data from theft and unauthorized access. Awareness, strong passwords, updated systems, and encryption safeguard businesses from increasing online threats.
 category:
-  - Systems Integration
+  - Business
 ---
 
 The Internet and technology, which are becoming increasingly popular and advanced, have created a large spectrum of possibilities for individuals and businesses. There are, however, two sides to every coin. Along with knowledge and entertainment comes danger, and ignoring that fact may lead to catastrophic results.
