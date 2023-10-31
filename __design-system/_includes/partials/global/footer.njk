@@ -4,9 +4,9 @@
 
   <div class="wrapper">
     <div class="flow">
-      <a href="/" class="site-footer__logo">{% include '../../../img/logo.svg' %}</a>
+      <a href="/" class="site-footer__logo" data-animate data-origin="bottom">{% include '../../../img/logo.svg' %}</a>
 
-      <nav class="site-footer__navigation">
+      <nav class="site-footer__navigation" data-animate data-origin="bottom" data-delay="200">
         <ul class="[ nav ] [ stack ] [ inline-flex flex-col lg:flex-row ]" role="list">
           <li><a href="/">Home</a></li>
           <li><a href="/">About</a></li>
@@ -17,18 +17,18 @@
         </ul>
       </nav>
 
-      <ul class="[ nav ] [ flow ]" role="list">
+      <ul class="[ nav ] [ flow ]" role="list" data-animate data-origin="bottom" data-delay="400">
         <li><a href="#">{% include '../../../img/icons/pin.svg' %} Fora, 71 Central Street, London EC1V 8AB, UK</a></li>
         <li><a href="#">{% include '../../../img/icons/pin.svg' %} Porcelanowa 23A1/205 40-246, Katowice, PL</a></li>
       </ul>
 
-      <ul class="[ nav ] [ stack ] [ opacity-60 inline-flex flex-col lg:flex-row ]" role="list">
+      <ul class="[ nav ] [ stack ] [ opacity-60 inline-flex flex-col lg:flex-row ]" role="list" data-animate data-origin="bottom" data-delay="600">
         <li><a href="/">Privacy</a></li>
         <li><a href="/">Cookies</a></li>
         <li><a href="/">Anti-Slavery</a></li>
       </ul>
 
-      <div>
+      <div data-animate data-origin="bottom" data-delay="800">
         <ul class="[ nav ] [ stack ] [ opacity-60 inline-flex flex-col lg:flex-row ]" role="list">
           <li><a href="/">{% include '../../../img/icons/facebook.svg' %}</a></li>
           <li><a href="/">{% include '../../../img/icons/x.svg' %}</a></li>
@@ -37,7 +37,7 @@
         </ul>
       </div>
 
-      <p class="opacity-60 mb-900 lg:mb-0">Copyright © 2023 HeadChannel Limited. All rights reserved.</p>
+      <p class="opacity-60 mb-900 lg:mb-0" data-animate data-origin="bottom" data-delay="1000">Copyright © 2023 HeadChannel Limited. All rights reserved.</p>
     </div>
   </div>
 </footer>

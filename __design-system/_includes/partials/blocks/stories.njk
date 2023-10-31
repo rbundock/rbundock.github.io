@@ -2,9 +2,9 @@
   <div class="wrapper">
     <div class="[ flow ] [ flow-space-700 ]">
       <div class="[ grid ] [ gap-x-600 lg:grid-cols-2 ]">
-        <h2>True Success stories<strong>.</strong></h2>
+        <h2 data-animate="">True Success stories<strong>.</strong></h2>
         
-        <div class="[ flow ] [ flow-space-400 ]">
+        <div class="[ flow ] [ flow-space-400 ]" data-animate data-origin="right">
           <p>We engage over 200 software experts across 3 continents and use data to make decisions enabling us to design incredible software delivered with pace and rigour.</p>
         </div>
       </div>
@@ -13,7 +13,8 @@
 
       <ul class="[ grid ] [ lg:grid-cols-3 ]" role="list">
         {% for i in range(0, 3) %}
-          <li class="[ card ] [ flow p-400 aspect-square ]">
+        <li data-animate data-origin="bottom" data-delay="{{ (i - 1) * 200 }}">
+          <div class="[ card ] [ flow p-400 aspect-square ]">
             <div class="card__background">
               <img src="uploads/hero-home.jpg" alt="">
             </div>
@@ -21,11 +22,12 @@
             <span class="label">Trading</span>
             <h3 class="text-400"><a href="#" class="breakout-button">Data analysis and automated financial reporting bespoke software</a></h3>
             <p>A global organization dealing with the trade of metals across many industries around the world.</p>
-          </li>
+          </div>
+        </li>
         {% endfor %}
       </ul>
 
-      <div class="text-center">
+      <div class="text-center" data-animate data-origin="bottom">
         <a href="#" class="button">View All Stories</a>
       </div>
     </div>

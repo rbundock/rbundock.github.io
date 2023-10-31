@@ -7,6 +7,7 @@
   position: relative;
   z-index: 1;
   color: var(--color-light);
+  overflow: hidden;
 }
 
 .hero:before {
@@ -35,39 +36,47 @@
   object-fit: cover;
 }
 
-.hero__lines {
+.hero__stripe {
   position: absolute;
-  bottom: 0;
-  right: 0;
-  width: min(25%, 20rem);
-  height: 100%;
-  z-index: -1;
-  object-fit: cover;
-  object-position: left bottom;
+
 }
 
-.hero .wrapper:before {
-  content: '';
+.hero__stripe {
   position: absolute;
+  transform: skew(-25deg);
+  z-index: -1;
+}
+
+.hero__stripe[data-position="top"] {
   top: 0;
   left: 30%;
   width: 8rem;
   height: 8rem;
-  transform: skew(-25deg);
   background: var(--color-pink);
-  z-index: -1;
 }
 
-.hero .wrapper:after {
-  content: '';
-  position: absolute;
+.hero__stripe[data-position="bottom"] {
   bottom: 0;
   left: 10%;
   width: 8rem;
   height: 4rem;
-  transform: skew(-25deg);
   background: var(--color-pink);
-  z-index: -1;
+}
+
+.hero__stripe[data-position="right-inner"] {
+  bottom: 0;
+  right: 0;
+  width: 10rem;
+  height: 40rem;
+  background: var(--color-lime);
+}
+
+.hero__stripe[data-position="right"] {
+  bottom: 0;
+  right: -4%;
+  width: 8rem;
+  height: 10rem;
+  background: var(--color-lime);
 }
 
 .hero h1 {

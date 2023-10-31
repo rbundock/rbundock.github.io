@@ -10,9 +10,10 @@
 
 .panel__pattern {
   position: absolute;
-  bottom: 0;
+  bottom: -20%;
   left: 0;
-  width: 50%;
+  width: 30%;
+  transform: rotate(-30deg);
 }
 
 .panel__pattern svg {
