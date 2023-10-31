@@ -4,7 +4,7 @@ title: "Experience 2030: the future of customer experience is… Now!"
 image: /assets/img/nathan-dumlao-66RxrYlPShI-unsplash.jpg
 summary: Post coronavirus, customer service priority surges for digital services essential for personalized, responsive experiences influencing consumer loyalty and spending.
 category:
-  - Outsourcing
+  - Bespoke Software
 ---
 
 ## Key findings for 2030
