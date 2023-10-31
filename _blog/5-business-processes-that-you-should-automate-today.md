@@ -4,7 +4,7 @@ title: "5 business processes that you should automate today"
 image: /assets/img/alesia-kaz-XLm6-fPwK5Q-unsplash.jpg
 summary: To stay competitive, companies should automate sales, customer service, expense tracking, packaging, and social media for efficiency and growth.
 category:
-  - Business Intelligence
+  - Business
 ---
 Your company needs to evolve all the time, and you need to lead it to success. Nowadays, the market and the whole working environment are changing rapidly, and to stay competitive, you should keep up the pace. Automating your processes should be one of your vital goals. It can help you increase efficiency and save time employees can use to get involved in crucial processes. Statistics are cruel, but you should know them to understand the problem better. [50% of sales](https://www.carlajohnson.co/) time is wasted on unproductive prospecting. [40% of productivity](https://www.wrike.com/blog/high-cost-of-multitasking-for-productivity/) is lost to task-switching. Reports are full of numbers and statistics, and you can see much work to do. These and many other problems can be solved by automating the processes in your company. Below are a few examples of processes you should automate in your company.
 
