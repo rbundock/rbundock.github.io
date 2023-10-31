@@ -4,7 +4,7 @@ title: "Digital transformation trends in healthcare"
 image: /assets/img/piron-guillaume-U4FyCp3-KzY-unsplash.jpg
 summary: Digital transformation in healthcare, through AI, telemedicine, AR&VR, and IoT wearables, enhances patient care, efficiency, and disease prevention, saving lives and improving health outcomes.
 category:
-  - Digital Transformation
+  - Business
 ---
 
 ## IT technologies could save lives
