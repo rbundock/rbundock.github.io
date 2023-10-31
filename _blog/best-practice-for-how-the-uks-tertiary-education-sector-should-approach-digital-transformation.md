@@ -4,7 +4,7 @@ title: "Best practice for how the UK’s tertiary education sector should approa
 image: /assets/img/kenny-eliason-1-aA2Fadydc-unsplash.jpg
 summary: Pandemic-induced digital transformation in UK tertiary education streamlines operations, but true change requires integrated IT systems, enhancing security, productivity, and decision-making.
 category:
-  - Digital Transformation
+  - Bespoke Software
 ---
 
 ## A catalyst for accelerated digital transformation
