@@ -2,8 +2,10 @@
 layout: blog
 title: "Machine learning in banking"
 image: /assets/img/photo-3_rapid-development_pexels-hitesh-choudhary-340152.jpg
+summary: Machine learning in banking enhances efficiency, fraud prevention, and personalized services, evolving from transaction analysis to customer-focused chatbots and investment research, ensuring banks stay competitive and secure.
+category:
+  - Business
 ---
-![{{ page.title }}]({{ page.image }})
 
 Over recent years, there has been a significant increase in the application of machine learning to improve the efficiency and management of many banking infrastructures and provide new opportunities. There are many different ways machine learning can be applied to banking, such as trading, real-time transaction analysis, anti-money laundering, personalised recommendations, credit application, chatbots and investment research.
 
