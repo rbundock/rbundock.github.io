@@ -3,9 +3,10 @@ layout: blog
 title: "Software for resale – what you need to know"
 categories: bespoke-software 
 image: /assets/img/software-for-resale-what-you-need-to-know.jpg
+summary: Switching from custom software to resale product software requires a new approach emphasizing flexibility, durability, and standardization, leading to higher initial development costs but offering benefits like recurring revenue and reduced business risk.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
-
 
 In today’s world, an increasing number of companies that develop customer-specific software have adapted, focusing instead on developing and selling product software. This approach has many benefits, such as recurring revenue and reducing business risk. 
 
