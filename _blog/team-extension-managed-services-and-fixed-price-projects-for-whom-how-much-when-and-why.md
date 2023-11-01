@@ -50,4 +50,3 @@ A managed team project suits large and mid-size projects and regular deliveries.
 
 A fixed-price project suits a small-scale project and a one-off delivery style. The supplier deals with the project requirements, and the project development needs to be fixed instead of flexible. There is some client involvement in developing and delivering the project, but this involvement is not substantial.
 
-![Table3](assets/img/Screenshot 2023-10-27 at 10.20.45.png)
