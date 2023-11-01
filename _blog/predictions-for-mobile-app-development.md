@@ -2,8 +2,10 @@
 layout: blog
 title: "Predictions for mobile app development"
 image: /assets/img/predictions-for-mobile-app-development.jpg
+summary: In 2023, mobile development will focus on enterprise apps, multi-purpose design for connected devices, engaging users through micro-moments, enhanced security measures, cloud-based app integration, website-app hybrid functionality, and leveraging app stores for comprehensive management solutions in the IoT-driven world.
+category:
+  - Mobile Apps
 ---
-![{{ page.title }}]({{ page.image }})
 
 The fierce competition in the mobile space continues, and, as a result, developers continue to look for the next big thing. Indeed, all it takes is to leverage an emerging trend, and an app can quickly rise to superstardom. With the mobile development industry continuing its evolution, there’s no better time than now to share our predictions for the industry this year.
 
