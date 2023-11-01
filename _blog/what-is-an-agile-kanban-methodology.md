@@ -2,9 +2,10 @@
 layout: blog
 title: "What is an agile kanban methodology?"
 image: /assets/img/what-is-an-agile-kanban-methodology.jpg
+summary: Kanban, originating from Agile, optimizes knowledge work and product design through organized team workload and customer expectation alignment. It evolved from Taiichi Ohno's manufacturing methods to Davis J. Anderson’s IT applications, focusing on continuous, incremental progress rather than Scrum's shorter cycles.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
-
 Kanban is a methodology that stems from the Agile family. Davis J. Anderson described Kanban as a method for defining, managing, and improving services that deliver knowledge work, such as professional services, creative endeavors, and the design of both physical and software products. Kanban focuses on providing services by organising a team’s workload, and ensuring that employees have everything they need to meet customers’ expectations.
 
 The Kanban method was created by Taiichi Ohno; a Japanese engineer and businessman, and one of the Toyota Production System’s fathers. This system was a precursor of “Lean manufacturing”. While the Kanban method was used in the manufacturing industry, it was reforged and applied to Davis J. Anderson’s IT world. His book “Kanban: Successfully Evolutionary Change for your Technology Business”, published in 2010, has been read widely to understand Kanban’s role in the software development cycle.
