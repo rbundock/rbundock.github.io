@@ -2,8 +2,10 @@
 layout: blog
 title: "Post pandemic software solutions for the construction industry"
 image: /assets/img/post-pandemic-software-solutions-for-the-construction-industry.jpg
+summary: Touchless check-in systems for construction sites ensure health and safety compliance, offering secure, QR-code-based entry with health screening, benefiting in time management and cost savings.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## Touchless check-in/check-out from the construction site
 As construction companies bring their employees together again and reopen construction sites, numerous calculations need to be made to provide an environment that will keep workers safe, healthy and productive. One area in particular that will need to be updated is the system employees use to check themselves in and out. Instead, a touchless system can be implemented to comply with health and safety, limit the spread of the virus and still retain employee information and data.
