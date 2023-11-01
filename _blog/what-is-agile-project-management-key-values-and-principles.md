@@ -2,8 +2,10 @@
 layout: blog
 title: "What is Agile project management? Key values and principles"
 image: /assets/img/what-is-agile-project-management-key-values-and-principles.jpg
+summary: Agile is a flexible, iterative project management approach emphasizing collaboration, customer involvement, and adaptability, contrasting traditional Waterfall methods.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 Agile is a project management method, developed to meet the needs of self-organizing and cross-functional teams working in close collaboration with their clients. Agile uses an adaptive and iterative approach that helps the development team produce better results, meet project objectives and, most importantly, provide value.
 
