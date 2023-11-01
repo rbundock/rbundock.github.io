@@ -2,8 +2,10 @@
 layout: blog
 title: "Technical leader role specification in a scrum team"
 image: /assets/img/sm_7-reasons-why-software-development-projects-succeed-1.jpg
+summary: Scrum, a popular agile methodology for improving work processes, emphasizes self-organizing, cross-functional teams without external control, enhancing productivity and team dynamics.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 Companies have always been searching for something that could improve the way they work, that would help them grow and develop quickly and smoothly. Throughout the years, we have managed to distinguish a few interesting methods called “agile methodologies”, one of which is definitely the most popular is called Scrum. Today, we will question its framework, but before we do, let us remind you what Scrum really is.
  
