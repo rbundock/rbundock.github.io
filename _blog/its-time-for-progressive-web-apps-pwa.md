@@ -2,8 +2,10 @@
 layout: blog
 title: "It’s time for Progressive Web Apps (PWA)"
 image: /assets/img/its-time-for-progressive-web-apps-pwa.jpg
+summary: PWAs offer app-like experiences on mobile devices, being cost-effective compared to native apps, and support offline use and device features.
+category:
+  - Mobile Apps
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## Numerous advantages of PWA
 Progressive Web Apps (PWA) are web-based, online applications with the characteristics of native apps for mobile devices. Their main strength lies in the ability to start up an application, system or website on a mobile device in a way that imitates running an app installed natively on the device. PWA applications often work almost identically to those installed from an app store. You do not always have to create an app from scratch as per PWA guidelines; instead, you can merely add elements from PWA rules to an already existing application.
@@ -19,5 +21,6 @@ If you have a web application written in web languages and a well-designed API o
 
 ## How can you quickly create a mobile application using the PWA concept?
 You must add two main elements to the web application: a manifest and a service worker. The manifest is a configuration file with a JSON structure, which is read by the browser, interpreted for PWA and used as PWA. In it, you specify which application icons will be used for each platform, the colours of the app loading screen, as well as other necessary elements such as the default orientation in which the application will start. Additionally, the service worker can store the basic app structure, our CSS and HTML used to display pages. Meanwhile, the service worker is a JavaScript file that supports the offline mode and ensures data synchronisation in situations without internet access.
+
 ## Development
 Adding a PWA to an application is a very useful solution if you just want to create a web application and not necessarily focus on mobile devices. PWAs are constantly being improved and increasingly more features can be developed on their basis. Web browsers are also getting better at supporting PWA capabilities, while market leaders in the IT field are more and more sympathetic to attempts at creating apps using PWA.
