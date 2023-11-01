@@ -2,8 +2,10 @@
 layout: blog
 title: "Is healthcare chatbot the future of the medical industry driven by AI?"
 image: /assets/img/is-healthcare-chatbot-the-future-of-the-medical-industry-driven-by-ai.jpg
+summary: During the COVID-19 pandemic, AI healthcare chatbots significantly eased healthcare workloads, offering flexibility, efficiency, and reliable information, with potential for broader future integration in healthcare systems.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 Chatbots have undergone a surge in demand during the COVID-19 pandemic to support healthcare services at a time of unprecedented pressure and stress. While most of these AI systems have been designed to focus on diagnosing and advising patients with symptoms of COVID-19, there are questions surrounding the potential for wider implementation of healthcare chatbots in the future of healthcare.
 
