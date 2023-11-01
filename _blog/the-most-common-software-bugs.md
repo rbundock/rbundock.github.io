@@ -18,7 +18,6 @@ This should be a factor which is considered while choosing your software develop
 ## Crash
 This is one of the most common and sometimes dangerous types of error that could occur. It is caused by a software solution, operating system, or program not working correctly and forcing itself to shut down. It may be caused by a software bug or sometimes a hardware device and can cause much damage. If the data is not protected or stored in the cloud, it may be lost after the crash due to a lack of opportunity to save the changes.
 
-
 ## Functional error
 On the whole, it is evident when software is built correctly because it will be fully functional. But if something is wrong and the software's behaviour varies from the expected, it is called a functional error. This is quite common and easy to spot during tests.
 
