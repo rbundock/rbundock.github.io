@@ -2,8 +2,10 @@
 layout: blog
 title: "Why good business analysis is essential"
 image: /assets/img/key-reasons-for-good-business-analysis.jpg
+summary: Business analysis is crucial in all companies for successful software projects, ensuring clarity, reducing rework, and enhancing communication for project success.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 When you hear the words Business Analyst, a big company with a complex hierarchical structure most probably comes to your mind. However, severe market demands challenge both small and big companies to meet the criteria of mess-free process management and facilitated communication. This can all be achieved through implementing strong business analysis skills.
 
