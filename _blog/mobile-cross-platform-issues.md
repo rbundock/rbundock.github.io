@@ -2,8 +2,10 @@
 layout: blog
 title: "Mobile cross-platform issues"
 image: /assets/img/mobile-cross-platform-issues.jpg
+summary: Native Development tailors software specifically for platforms like Android, optimizing performance, unlike web or hybrid apps, which face distribution and functionality challenges across different systems.
+category:
+  - Mobile Apps
 ---
-![{{ page.title }}]({{ page.image }})
 
 The definition of Native Development is building a software program on a particular platform, such as Android, making it indigenous to the platform. When an application is built for a specific platform, it works best on that platform. When you try to switch it from one operating system to another, problems arise.
 
