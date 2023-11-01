@@ -2,8 +2,11 @@
 layout: blog
 title: "Time and material vs. fixed price"
 image: /assets/img/sm_time-material-vs-fixed-price.jpg
+summary: Bespoke software offers control and customization, with options like fixed-price or time & material contracts to suit varied needs and budgets.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
+
 One of the greatest parts about acquiring bespoke software is that you get to keep a close eye over the process and provide input through most of the stages. 
 
 One of the first steps is providing the bespoke software development company with all the necessary information in regards to your vision of the product during the requirements gathering stage. After this, you can then participate in testing the beta environment during the development stage. By having greater control over the project, you can be certain that the outcome will be exactly as expected. You are also able to have a say on the pricing model. Your choice is dependent on both your requirements and your budget. Most companies offer the two most popular models which are fixed-price and time & material agreements.
