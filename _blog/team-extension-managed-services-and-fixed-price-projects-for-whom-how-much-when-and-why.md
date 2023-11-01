@@ -2,8 +2,10 @@
 layout: blog
 title: "Team extension, managed services and fixed price projects. For whom, how much, when and why?"
 image: /assets/img/outsourcing-managed-teams.jpg
+summary: In outsourcing managed teams, cost and conditions vary by contract type: team extension, managed services, and fixed price, each with specific responsibilities, costs, and project suitability.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## Outsourcing managed teams. Costs and conditions
 Nothing generates as much debate and apprehension as price negotiation. Development begins with the choice of software development contracting and pricing model that the supplier provides. So, let's take a closer look at 3 types of contracts in the software outsourcing world.
@@ -48,4 +50,4 @@ A managed team project suits large and mid-size projects and regular deliveries.
 
 A fixed-price project suits a small-scale project and a one-off delivery style. The supplier deals with the project requirements, and the project development needs to be fixed instead of flexible. There is some client involvement in developing and delivering the project, but this involvement is not substantial.
 
-![Table3](/assets/img/assets/img/Screenshot 2023-10-27 at 10.20.45.png)
+![Table3](assets/img/Screenshot 2023-10-27 at 10.20.45.png)
