@@ -2,8 +2,10 @@
 layout: blog
 title: "Opportunities in real-time apps"
 image: /assets/img/opportunities-in-real-time-apps.jpg
+summary: Real-time technology in applications offers incredibly fast data reading and writing, enabling instant updates without manual refresh, crucial in fields like stock trading, car sharing, live sports, chats, and gaming.
+category:
+  - Web Development
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## Extraordinary data read and write speed
 Real-Time technology has been developing very dynamically. Many large companies implement modern information transmission technologies to maximise the transmission rate. Application users are under the impression that data are read and written on the fly, very quickly, virtually unnoticed and in the background. In times when we need and demand speed from technology, “Real-Time” is worth our attention.
