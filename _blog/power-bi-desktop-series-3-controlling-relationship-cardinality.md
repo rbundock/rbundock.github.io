@@ -2,8 +2,10 @@
 layout: blog
 title: "Controlling relationship cardinality. Power BI desktop series"
 image: /assets/img/power-bi-desktop-series-3-controlling-relationship-cardinality.jpg
+summary: To manage relationship cardinality in Power BI Desktop, use sample data reflecting desired relationships, avoid default one-to-one relationships if possible, and utilize the model overview for verifying and adjusting relationships as needed.
+category:
+  - Business Intelligence
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## A short article on how to manage relationship cardinality. Power BI Desktop series.
 Power BI Desktop is the primary tool for building models that back visualisations and other analyses on top of user-defined data sets. Some defaults and conventions used during import and connecting the data might not be as obvious as expected from a visual tool.
