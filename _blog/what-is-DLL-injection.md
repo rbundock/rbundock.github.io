@@ -2,8 +2,10 @@
 layout: blog
 title: "What is ‘DLL injection’?"
 image: /assets/img/what-is-dll-injection-1.jpg
+summary: DLL Injection involves inserting code into another process's memory via DLLs, enabling tasks like reverse engineering and hot-patching.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 To understand DLL injection, we need to understand what the dynamic-link library is. DLL is a file that allows users to share code with other resources (programs) to perform specific tasks. It is an external library of functions, and it holds information that can be accessed by different types of software. Using DLL helps users to save memory, as it is only loaded when needed, and it can be used by multiple programs simultaneously.
 
