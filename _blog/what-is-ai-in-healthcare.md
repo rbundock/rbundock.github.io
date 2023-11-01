@@ -2,8 +2,10 @@
 layout: blog
 title: "What is AI in healthcare?"
 image: /assets/img/what-is-ai-in-healthcare.jpg
+summary: AI enhances healthcare through data analysis, improving diagnostics, drug discovery, personalized medicine, reducing unnecessary procedures, and increasing access to specialized care.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 Artificial intelligence (AI) is everywhere today. Applications of AI include banking, social media platforms, education, online shopping, and many other aspects of everyday life. What exactly is AI?
 
