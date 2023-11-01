@@ -2,8 +2,10 @@
 layout: blog
 title: "The spiral model of software development"
 image: /assets/img/the-spiral-model-of-software-development.jpg
+summary: The Spiral Model, blending waterfall and iterative methods, excels in managing risks and accommodating changes, ideal for large, complex projects.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 Out of the many models of the software development life cycle, the spiral model is one of the most effective models of development. This model combines both the waterfall and the iterative models. This is a risk-driven model which outlines a process that is to be followed to overcome a given risk thereby ensuring an efficient and full-proof development process.
 
