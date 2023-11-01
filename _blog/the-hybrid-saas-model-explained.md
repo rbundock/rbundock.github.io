@@ -2,9 +2,10 @@
 layout: blog
 title: "The hybrid SaaS model explained"
 image: /assets/img/the-hybrid-saas-model-explained.jpg
+summary: Hybrid SaaS blends cloud-based software with on-site applications, offering convenience, control, and security for businesses exploring cloud solutions.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
-
 
 With such importance being placed on cloud computing, there is no better time than now to define the hybrid SaaS model. However, first, it is important to determine what SaaS means in practice.
  
