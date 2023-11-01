@@ -2,9 +2,11 @@
 layout: blog
 title: "The 6 steps of the systems integration process"
 image: /assets/img/6-steps-of-system-integration-process.jpg
+summary: Acquiring individual software components initially seems cost-effective but can lead to inefficiency and data inaccuracy as a business evolves. Systems integration, though complex and time-consuming, offers a cohesive solution, enhancing productivity and data analysis by seamlessly connecting various subsystems.
+category:
+  - System Intergration
 ---
-![{{ page.title }}]({{ page.image }})
- 
+
 When acquiring software, many companies buy only the components they need at that moment. This way may be cheaper and thus seem more profitable at the beginning, but it can very quickly become counterproductive. As your organisation evolves, you start using more independent tools, resulting in a productivity drop and inaccurate data analysis. Luckily, systems integration is here to save your business.
 
 What surprises many entrepreneurs is how time-consuming and complicated the process of integrating various systems may be. They often prefer to acquire new off-the-shelf packages instead of putting their already existing subsystems together. However, this decision takes time, which employees must spend on understanding the new solution and valuable data.
