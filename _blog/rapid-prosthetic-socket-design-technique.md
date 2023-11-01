@@ -2,8 +2,10 @@
 layout: blog
 title: "Rapid prosthetic socket design technique"
 image: /assets/img/rapid-prosthetic-socket-design-technique-1.jpg
+summary: A consortium, including HeadChannel, receives Innovate UK funding for a 'Quick Fit' prosthetic solution, significantly reducing fitting time for lower limb amputees using innovative sensor technology and software, enhancing comfort and accessibility.
+category:
+  - Business
 ---
-![{{ page.title }}]({{ page.image }})
 
 Consortium secures Innovate UK funding to deliver a disruptive, ‘Quick Fit’ prosthetic fit solution for lower limb amputees.
 
