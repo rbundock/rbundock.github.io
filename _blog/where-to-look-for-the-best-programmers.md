@@ -2,8 +2,10 @@
 layout: blog
 title: "Where to look for the best programmers"
 image: /assets/img/where-to-look-for-the-best-programmers.jpg
+summary: HackerRank data reveals China leads in programming, outperforming US and India; rankings based on developer skills in various coding challenges.
+category:
+  - Business
 ---
-![{{ page.title }}]({{ page.image }})
 
 There are more than a few factors that make us think American programmers are the best in the entire world, one of them is called Bill Gates. It turns out that if programming were a category, the United States would not take home as many Olympic gold medals as usual. HackerRank, a platform gathering engineers from all around the globe, decided to examine their data to see which country is number one at programming.
 
