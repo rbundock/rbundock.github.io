@@ -2,8 +2,10 @@
 layout: blog
 title: "What is business intelligence?"
 image: /assets/img/background-hoto_agile-project-managementpexels-fauxels-3184325-2048x1365.jpg
+summary: Business intelligence tools transform data into insights, enhancing decision-making and efficiency, beneficial for businesses of all sizes, but not predictive.
+category:
+  - Business Intelligence 
 ---
-![{{ page.title }}]({{ page.image }})
 
 Nowadays, it is difficult to find a company that is not data-driven. Every business collects and analyses data to gain its competitive advantage. However, the process of gathering and then interpreting information manually is rather time-consuming and error-prone, which is why it is wiser to use a tool to perform the process automatically. The best and most popular solution is, business intelligence.
 
