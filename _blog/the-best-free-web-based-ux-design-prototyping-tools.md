@@ -2,8 +2,10 @@
 layout: blog
 title: "The best free web-based UX design prototyping tools"
 image: /assets/img/the-best-free-web-based-ux-design-prototyping-tools.jpg
+summary: Prototyping tools like Moqups, Quirktools, Wireframe, and Invision App streamline web design, enabling clear visualization of ideas, facilitating collaboration, and optimizing design processes, ultimately leading to more efficient and effective web development.
+category:
+  - Web Development
 ---
-![{{ page.title }}]({{ page.image }})
  
 A prototyping tool comes in handy when you want to achieve exceptional UX or if you want to work on designing your website. It is an excellent tool to show potential [web developers](https://headchannel.co.uk/mobile-app-development) what you want your website to look like. There are four very easy-to-use prototyping tools: Moqups, Quirktools, Wireframe, and Invision App. Each of these can potentially change how you work with your web designers and graphic teams. These tools should reduce costs and make the workload more accessible and faster for your teams.
 
