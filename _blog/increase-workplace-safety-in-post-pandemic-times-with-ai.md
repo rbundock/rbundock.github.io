@@ -2,8 +2,10 @@
 layout: blog
 title: "Increase workplace safety in post-pandemic times with AI"
 image: /assets/img/increase-workplace-safety-in-post-pandemic-times-with-ai.jpg
+summary: AI technology ensures mask compliance on construction sites by automating detection, offering real-time monitoring, enhancing safety, and boosting business prospects through adherence to health regulations.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## How to use AI to ensure your employees are wearing masks on the construction site
 Due to the ongoing pandemic, UK regulations – in alignment with many other countries – are increasingly enforcing the use of masks both in the public sphere and in many workplaces. This is particularly prevalent for those working in the construction industry. Face masks have emerged as a simple and effective strategy for minimising the spread of the virus and allowing business activities and work on construction sites to resume. However, consistently monitoring employees to check whether they are wearing face masks is difficult and time-consuming, putting a greater strain on company resources.
