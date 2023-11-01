@@ -2,8 +2,10 @@
 layout: blog
 title: "Is the cost of software equal to its initial price?"
 image: /assets/img/is-the-cost-of-software-equal-to-its-initial-price.jpg
+summary: In digital transformation, businesses must choose between bespoke or off-the-shelf software, considering long-term costs and tailored efficiency needs.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 The world is changing rapidly; digital transformation affects all aspects of life and surrounds us with new technologies, ideas and solutions. There is no other way than to just keep up the pace, change the stereotypical way of thinking and make a difference by yourself. It is especially important for businesses. Whether the business is big or small, local or international, the changes will be necessary sooner or later. It is very important when businessmen realise it is time to adopt new solutions and adapt to a new reality.
 
