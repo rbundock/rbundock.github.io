@@ -2,8 +2,10 @@
 layout: blog
 title: "The implications for the future of the infrastructure and urban development (IU) industry: scenario 3"
 image: /assets/img/scenarios-and-implications-for-the-future-of-the-iu-industry-scenario-3-1.jpg
+summary:  Global focus on sustainability transforms IU industry; emphasis on recycling, innovative materials, and tech for eco-friendly construction and maintenance.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## A green reboot
 In this scenario, the planet has been devastated due to diminishing natural resources and decades of turning a blind eye to climate change. Rather than letting the situation continue on a steep decline, various powerful countries formed a group with one sole intention: to promote sustainability and revitalise the environment. To achieve this goal, the group launched a global fund that finances sustainability education and research. They also impose strict environmental regulations worldwide – including taxes on waste, high CO2 emissions, and other harmful by-products.
