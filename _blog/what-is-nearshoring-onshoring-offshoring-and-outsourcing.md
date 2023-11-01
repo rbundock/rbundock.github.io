@@ -2,9 +2,10 @@
 layout: blog
 title: "What is nearshoring, onshoring, offshoring and outsourcing?"
 image: /assets/img/what-is-nearshoring-onshoring-offshoring-and-outsourcing.jpg
+summary: Nearshoring involves hiring nearby third-party services for cost efficiency and convenience, different from onshoring, offshoring, and broader outsourcing, benefiting from similar time zones, easier communication, and cultural alignment.
+category:
+  - Business
 ---
-![{{ page.title }}]({{ page.image }})
-
 
 Nearshoring is a business approach that involves third-party offering services from a completely different geographic area, comparatively closer to the company’s location. Nearshore takes place when a company chooses to transfer a portion of its work to a company or a group of companies that are less expensive and lie geographically nearer.
 
