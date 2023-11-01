@@ -2,12 +2,12 @@
 layout: blog
 title: "What is an agile retrospective and why do you need it?"
 image: /assets/img/what-is-an-agile-retrospective-and-why-do-you-need-it.jpg
-categories: business
+summary: An Agile retrospective, led by a Scrum Master or Project Manager, is a meeting after each Scrum Sprint, focusing on team collaboration, discussing project issues, and identifying improvements, fostering innovation and teamwork in software development.
+category:
+  - Business
 ---
-![{{ page.title }}]({{ page.image }})
 
-
-What is an agile retrospective? Who arranges it, when and what for?
+# What is an agile retrospective? Who arranges it, when and what for?
 
 According to PWC’s [20th CEO Survey](https://www.pwc.com/gx/en/issues/technology/emea-cloud-business-survey.html). , almost a quarter of CEOs singled out innovation as their top priority for 2017. I asked our Project Manager Paul Klich for his opinion.
 
