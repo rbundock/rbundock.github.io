@@ -2,10 +2,10 @@
 layout: blog
 title: "The implications for the future of the infrastructure and urban development (IU) industry: scenario 2"
 image: /assets/img/scenarios-and-implications-for-the-future-of-the-iu-industry-scenario-2-1.jpg
+summary: Future global crisis leads to private sector dominance in infrastructure, with a focus on efficient, modular construction and technology.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
-
-
 
 ## Factories run the world
 Picture this scenario: several decades from now, a global financial crisis strikes that surpasses the damage caused by the 2007-2008 economic downturn. Governments worldwide struggle with the huge debts incurred, and the situation opens the door for cybercriminals to increase their assaults on private and public data networks. Public trust is eroded as governments fail to solve these problems promptly.
