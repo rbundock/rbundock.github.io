@@ -2,8 +2,10 @@
 layout: blog
 title: "How does nanotechnology in medicine stand today?"
 image: /assets/img/nanotechnology-in-medicine-how-it-stands-today.jpg
+summary: Nanomedicine, leveraging nanoparticles for targeted drug delivery and disease treatment, has gained prominence, particularly for diseases like cancer, HIV, and diabetes. It allows for more precise treatment with minimal damage to healthy cells, early disease detection, and personalized therapies.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 Nanotechnology medicine has been around for decades. However, it has garnered more attention in the past few years. With new diseases getting discovered, the need for a better cure process became apparent. Nanomedicine addresses most diseases, even in their current form. With recent developments, medical experts expect a further breakthrough in the field.
 
