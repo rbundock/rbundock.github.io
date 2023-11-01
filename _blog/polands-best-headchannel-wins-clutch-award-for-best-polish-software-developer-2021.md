@@ -2,8 +2,10 @@
 layout: blog
 title: "Poland’s best: HeadChannel wins Clutch award for best Polish software developer 2021"
 image: /assets/img/polands-best-headchannel-wins-clutch-award-for-best-polish-software-developer-2021.jpg
+summary: HeadChannel, recognized by Clutch as a top Polish software developer, excels in creating bespoke software solutions, emphasizing utility and efficiency. Grateful for client support and positive feedback, the team celebrates their achievements and invites new projects.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 Big businesses often require integrated software solutions to streamline their processes, maintain productivity, and oversee their operations. Software development is not a minor project — it requires great skill and technical expertise to craft bespoke software for your company.
 
