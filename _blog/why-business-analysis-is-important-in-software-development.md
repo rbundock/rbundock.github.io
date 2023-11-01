@@ -2,8 +2,10 @@
 layout: blog
 title: "Why business analysis is important in software development"
 image: /assets/img/sm_why-business-analysis-is-important-in-software-development.jpg
+summary: Business analysts in software development ensure products meet needs, guiding projects and translating requirements, enhancing efficiency and reducing costs.
+category:
+  - Business
 ---
-![{{ page.title }}]({{ page.image }})
 
 Nowadays, it is much harder to find a company that does not use a software to run their business operations than one that does. The popularity of software solutions has led businesses to raise their expectations and to require their software solutions to do much more in a shorter period of time. This is exactly why throughout the years the role of a business analyst in a bespoke software development project has become inevitable.
 
