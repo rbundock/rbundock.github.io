@@ -2,8 +2,10 @@
 layout: blog
 title: "Ideas for business mobile apps"
 image: /assets/img/ideas-for-business-mobile-apps.jpg
+summary: Leveraging mobile apps increases business visibility and marketing reach, offering direct customer engagement, diverse functionalities, and cross-platform compatibility for broader audience appeal and increased respect.
+category:
+  - Mobile Apps
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## How not to lose the critical out-of-sight
 Have you ever wondered how some businesses seem to have more visibility than others regarding marketing channels? While you may suspect it's due to a big marketing budget, this couldn't be further from the truth.
