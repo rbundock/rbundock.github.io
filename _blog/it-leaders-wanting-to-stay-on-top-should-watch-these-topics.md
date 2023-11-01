@@ -2,8 +2,10 @@
 layout: blog
 title: "IT leaders wanting to stay on top should watch these topics"
 image: /assets/img/it-leaders-wanting-to-stay-on-top-should-watch-these-topics.jpg
+summary: IT leaders must track trends like cloud computing, SDN, SaaS, SDDC, IoT, big data, BYOD, and IPv6, alongside internal IT management practices.
+category:
+  - Business
 ---
-![{{ page.title }}]({{ page.image }})
 
 IT leaders are expected to keep abreast of the goings-on in the industry. But with so many new products, processes and theories being developed, it can be difficult to know what deserves their attention most. Here is a list of topics that commonly cause a buzz.
 
