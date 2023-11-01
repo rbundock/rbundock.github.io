@@ -58,6 +58,10 @@
   text-decoration: none;
 }
 
+.card[data-style="borderless"] {
+  border: none;
+}
+
 .card:hover {
   transform: scale(1.025);
 }

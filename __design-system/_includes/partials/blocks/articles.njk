@@ -1,0 +1,19 @@
+<section class="panel" data-theme="charcoal">
+  <div class="wrapper">
+    <ul class="[ grid ] [ lg:grid-cols-2 ]" role="list">
+      {% for i in range(0, 12) %}
+      <li data-animate data-origin="bottom" data-delay="{{ (i - 1) * 200 }}">
+        <div class="[ card ] [ flow p-400 aspect-video ]" data-style="borderless">
+          <div class="card__background">
+            <img src="uploads/hero-home.jpg" alt="">
+          </div>
+
+          <span class="label">Trading</span>
+          <h3 class="text-400"><a href="#" class="breakout-button">Data analysis and automated financial reporting bespoke software</a></h3>
+          <p>A global organization dealing with the trade of metals across many industries around the world.</p>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
