@@ -2,21 +2,19 @@
 layout: blog
 title: "Our Agile interview with Vivifyscrum"
 image: /assets/img/our-agile-interview-with-vivifyscrum.jpg
+summary: Kate Witko, PMO Manager at HeadChannel, discusses transitioning to Agile for a brokerage and manufacturing system project, facing challenges in team self-organization and client education.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 One of our Project Managers, Kate Witko has recently had an interview with brilliant [Vivifyscrum](https://www.vivifyscrum.com/) about the Agile methodology implemented in our company. They discussed the reasons why we turned Agile, the challenges we have met during this transition and the benefits coming from the methodology. You can find the full interview 
  
-
 This week’s Interview with Agilists features Kate Witko from [HeadChannel](https://headchannel.co.uk/), a London-based bespoke software development company. Kate is the PMO Manager at her company, splitting her time between the Project Management Office and individual projects.
  
-
 She is currently working on a project where she plays a dual role of Scrum Master and Project Manager. Besides her, the project involves 10 other people – business analyst, back-end and front-end developers, testers and a software architect.
  
-
 In fact, it’s best that you hear about the project from Kate herself.
  
-
 **Q: What kind of a project does your team work on?**
 
 A: My team is currently working on a project for a brokerage and manufacturing business. The aim of the project is to create an order processing system which would not only allow purchases, sales, and invoicing to be carried out by the customer services and accounts team within the client company, but also accommodate the handling of complaints and collections, auto creation of specification documents and stock monitoring.
