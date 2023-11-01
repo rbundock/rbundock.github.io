@@ -2,8 +2,10 @@
 layout: blog
 title: "Top 4 business intelligence features for small businesses"
 image: /assets/img/top-5-business-intelligence-features-for-small-businesses.jpg
+summary: Business intelligence software offers valuable insights through features like dashboards, KPIs, ad hoc queries, and interactive reports, enhancing business strategies.
+category:
+  - Business Intelligence 
 ---
-![{{ page.title }}]({{ page.image }})
 
 Nowadays, business intelligence is widely used in an increasing number of industries and in different types of companies and it can, without a doubt, also benefit your business. Knowledge is power and thanks to business intelligence software you can gain the most crucial data for your company and use it to form an advanced data-informed analysis that will help guide your business strategy.
 
