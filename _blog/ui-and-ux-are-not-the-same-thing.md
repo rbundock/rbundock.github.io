@@ -2,8 +2,10 @@
 layout: blog
 title: "UI and UX are not the same thing"
 image: /assets/img/ui-and-ux-are-not-the-same-thing-1.jpg
+summary: UI focuses on design aesthetics, while UX emphasizes usability and overall user interaction, both crucial for optimal website or software functionality.
+category:
+  - Web Development 
 ---
-![{{ page.title }}]({{ page.image }})
 
 If you are having your website or software developed, the term ‘design’ no longer provides a sufficient explanation. Technology has been evolving and this forces us to adapt to constantly growing expectations. That is why we increasingly hear of mysterious acronyms like UI and UX. But what do they mean? 
 
