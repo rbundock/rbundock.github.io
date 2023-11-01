@@ -2,8 +2,10 @@
 layout: blog
 title: "Tips for designing and using icons on your website"
 image: /assets/img/tips-for-designing-and-using-icons-on-your-website-1.jpg
+summary: Article discusses website icon trends, design tips, and usage principles, emphasizing simplicity, consistency, and compatibility for effective web interfaces.
+category:
+  - Web Developement
 ---
-![{{ page.title }}]({{ page.image }})
 
 This article puts forward major website icon trends and tips for designing good icons, as well as principles for using them on a website.
 
