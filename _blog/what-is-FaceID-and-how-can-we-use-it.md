@@ -2,12 +2,12 @@
 layout: blog
 title: "What is FaceID and how can we use it"
 image: /assets/img/pexels-rodnae-productions-5915239.jpg
+summary: Face ID uses advanced TrueDepth camera technology for secure, convenient authentication on iPhones and iPads, prioritizing privacy and accessibility.
+category:
+  - Business
 ---
-![{{ page.title }}]({{ page.image }})
-
 
 Much of our digital lives are stored electronically, such as on an iPhone or iPad, and it’s important to protect that information. In the same way that many biometric security technologies and Touch ID systems have revolutionized authentication using a fingerprint, Face ID does the same using facial recognition. Face ID provides an intuitive and secure authentication enabled by a state-of-the-art TrueDepth camera system with advanced technology to map the geometry of your face accurately.
-
 
 With a simple glance, Face ID securely unlocks your iPhone or iPad Pro. You can use it to authorize purchases from the iTunes Store, App Store, and Apple Books, and payments with Apple Pay. Developers can also allow you to use Face ID to sign into their apps. Apps that support Touch ID automatically support Face ID. Face ID is available on iPhone X and later and iPad Pro models with the A12X Bionic chip.
 
@@ -18,7 +18,6 @@ The technology that enables Face ID is some of the most advanced hardware and so
 Face ID automatically adapts to changes in your appearance, such as wearing cosmetic makeup or growing facial hair. If there is a more significant change in your appearance, like shaving a full beard, Face ID confirms your identity by using your passcode before it updates your face data. Face ID is designed to work with hats, scarves, glasses, contact lenses, and many sunglasses.
 
 Furthermore, it’s designed to work indoors, outdoors, and even in total darkness.
-
 
 To start using Face ID, you need to first enroll your face. You may do this during the initial set up process, or at a later time by going to Settings > Face ID & Passcode. To unlock your device using Face ID, simply glance at the phone screen. Face ID requires that the TrueDepth camera sees your face, whether your device is lying on a surface or you’re holding it in a natural position. The TrueDepth camera has a similar range of view as when you take a photo or make a FaceTime call with the front camera. Face ID works best when the device is arm’s length or less from your face (25-50 cm away from your face).
 
@@ -32,7 +31,6 @@ Security is important to all of us to protect information on our devices. Apple 
 The probability that a random person could look at your iPhone or iPad Pro and unlock it using Face ID is approximately 1 in 1,000,000 with a single enrolled appearance. As an additional protection, Face ID allows only five unsuccessful match attempts before a passcode is required. The statistical probability is different for twins and siblings that look like you and among children under the age of 13, because their distinct facial features may not have fully developed. If you’re concerned about this, Apple recommends using a passcode to authenticate.
 
 Face ID matches against depth information, which isn’t found in print or 2D digital photographs. It’s designed to protect against spoofing by masks or other techniques through the use of sophisticated anti-spoofing neural networks. Face ID is even attention-aware. It recognizes if your eyes are open and your attention is directed towards the device. This makes it more difficult for someone to unlock your device without your knowledge (such as when you are sleeping).
-
 
 To use Face ID, you must set up a passcode on your device. You must enter your passcode for additional security validation when:
 
