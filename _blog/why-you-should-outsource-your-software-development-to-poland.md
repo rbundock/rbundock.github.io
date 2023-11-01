@@ -2,8 +2,10 @@
 layout: blog
 title: "Why you should outsource your software development to Poland"
 image: /assets/img/why-you-should-outsource-your-software-development-to-poland.jpg
+summary: Outsourcing to Poland offers high-quality software solutions, effective communication, and cost-efficiency, making it a prime choice for IT partnerships.
+category:
+  - Outsourcing
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## Key factors that help to decide
 
