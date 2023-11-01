@@ -2,8 +2,10 @@
 layout: blog
 title: "What makes a good test engineer?"
 image: /assets/img/sm_what-makes-a-good-test-engineer.jpg
+summary: Successful software testing requires curiosity, analytical skills, effective communication, skepticism, and good time management—key traits for an exceptional test engineer.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 For a software development company to succeed, it takes more than a team of talented software engineers, more than a few experienced project managers, more than one or two trustworthy founders. In fact, it takes exceptional testers, who most probably are the most responsible people in the entire company as they make sure the product they deliver is — quite literally — flawless.  Many organisations do not expect their future employees to have both knowledge and experience in software testing, however, it very often takes a lot of effort to become a good test engineer as they need to meet very specific requirements. So, are you suitable for the job?
 
