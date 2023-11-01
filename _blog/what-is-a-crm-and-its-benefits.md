@@ -2,12 +2,13 @@
 layout: blog
 title: "What is a CRM and its benefits"
 image: /assets/img/what-is-a-crm-and-its-benefits.jpg
+summary: CRM software automates sales processes and customer interactions, enhancing lead management, communication, and forecasting, boosting sales and customer service efficiency.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 According to a sales optimization study conducted by CIO Insights, sales representatives spend only 33% of their time actively selling. The rest of their work time, they focus on other tasks of rather low value, such as preparing for a phone call with a customer and manually entering data into spreadsheets. Luckily, sales teams and sales departments can nowadays easily increase their productivity and their efficiency by automating various sales operations, which allows them to focus on moving their sales forward. All they need is a CRM software solution. What is it and why should you use it?
  
-
 ## What is a CRM
 A Customer Relationship Management software is a powerful tool which assists you in converting leads into customers. It is equipped with easy-to-use features which enable you to automate multiple business processes and focus on more challenging tasks. Collecting and thoroughly analysing customer information allows you to meet the exact needs of your customers in a shorter period of time and thus drive sales. If you are interested in other benefits of a customer relationship management system, continue reading.
  
