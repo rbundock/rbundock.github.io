@@ -2,8 +2,10 @@
 layout: blog
 title: "The implications for the future of the infrastructure and urban development (IU) industry: scenario 1"
 image: /assets/img/scenarios-and-implications-for-the-future-of-the-iu-industry-scenario-1.png
+summary: Technological advances in IU are creating a virtual world focused on residential and recreational spaces, necessitating digital transformation.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## Building in a virtual world
 Technology is continually changing the world. The likes of cloud technology, automation, and artificial intelligence (AI) already play an important role in various industries. As these and other technological advances become more refined, the more they fuel economic growth and replace the need for most forms of manual labour.
