@@ -2,8 +2,10 @@
 layout: blog
 title: "The IU and construction industry transformation imperatives in the near future"
 image: /assets/img/the-iu-and-construction-industry-transformation-imperatives-in-the-near-future.jpg
+summary: To adapt to challenges like urbanization and climate change, IU sector needs innovative tools, talent, and digitalization for future readiness.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 The world is rapidly changing, and everything can only work best for those who change. There are so many challenges that are confronting people daily. These challenges include climate change, resource scarcity and urbanisation. This is why sectors such as the Infrastructure and Urban Development (IU) industry must develop innovative ways to fight off some of these challenges. This is where tools such as construction estimate software can play a role.
 
