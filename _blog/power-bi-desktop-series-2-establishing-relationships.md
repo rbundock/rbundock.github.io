@@ -2,8 +2,10 @@
 layout: blog
 title: "Establishing relationships. Power BI desktop series"
 image: /assets/img/power-bi-desktop-series-establishing-relationships.jpg
+summary: In Power BI, use unique, clearly defined column names and suffixes for key columns to ensure correct, intentional table relationships, avoiding automatic, erroneous linkages based on common or vague names.
+category:
+  - Business Intelligence
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## A short article about dealing with default relationships – Power BI
 Power BI Desktop is the primary tool for building models that back visualisations and other analyses on top of user-defined data sets. Some defaults and conventions used during import and connecting the data might not be as apparent as expected from a visual tool.
