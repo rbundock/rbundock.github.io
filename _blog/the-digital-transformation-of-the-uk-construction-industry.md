@@ -2,8 +2,10 @@
 layout: blog
 title: "The digital transformation of the UK construction industry"
 image: /assets/img/the-digital-transformation-of-the-uk-construction-industry.jpg
+summary: UK construction faces challenges and opportunities in digital transformation, focusing on 5G, AR/VR, and connected construction for future resilience.
+category:
+  - Bespoke Software
 ---
-![{{ page.title }}]({{ page.image }})
 
 ## The very best is yet to come
 The Covid-19 pandemic, particularly the lockdown, has taken an undeniable toll on the UK construction industry. The Construction Products Association estimates that overall construction output could fall by as much as 25% in 2020. While travel restrictions have hit the aviation and transport industry the hardest, construction projects across the board have been paused, delayed or abandoned due to the government's stay-at-home guidance.
