@@ -42,6 +42,6 @@ To simplify the inspection process, LetsInspect offers the following features:
 - **Report automation** – reports concerning a specific property can be generated with a single click
 
 ## Project facts
-- **Team** – Developers 3, QA 1, BA 2, PM 1.
-- **Project management** – Waterfall.
-- **Technology** – ASP.NET MVC, Razor, jQuery, Entity Framework.
+- **Team** – Developers 3, QA 1, BA 2, PM 1
+- **Project management** – Waterfall
+- **Technology** – ASP.NET MVC, Razor, jQuery, Entity Framework
