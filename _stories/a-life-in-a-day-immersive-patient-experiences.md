@@ -143,6 +143,6 @@ See the video
 [Learn more about the app](https://alifeinaday.co.uk/)
 
 ## Project facts
-- **Team** – Developers 7 (Team Leader 1, iOS dev 1, Android dev 1, Backend dev 2, Frontend dev 2), UX Designer 1, QA 1, BA 1, PM 1.
-- **Project management** – Scrum for production and Kanban for maintenance.
-- **Technology** – .NET Framework, jQuery, Android SDK Java, iOS, AngularJS, HTML/CSS, SASS.
+- **Team** – Developers 7 (Team Leader 1, iOS dev 1, Android dev 1, Backend dev 2, Frontend dev 2), UX Designer 1, QA 1, BA 1, PM 1
+- **Project management** – Scrum for production and Kanban for maintenance
+- **Technology** – .NET Framework, jQuery, Android SDK Java, iOS, AngularJS, HTML/CSS, SASS
