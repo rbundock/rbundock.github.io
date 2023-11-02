@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "3 types of software development companies you can outsource to"
-image: /assets/img/3-types-of-software-development-companies-you-can-outsource-to.jpg
+image: /assets/img/henning-witzel-ukvgqriuOgo-unsplash.jpg
 summary: Choosing the right software and outsourcing partner is crucial for business technology adaptation, each with unique advantages, costs, and capacities.
 category: 
   - Outsourcing
