@@ -61,6 +61,6 @@ Seeing an increase in the popularity of property management companies, the **Ham
 The results of deploying such platform are an ever-growing trust among tenants who can now play an active role in the whole maintenance process, increased efficiency achieved by generating and analysing accurate reports and a general possibility of saving time due to automating most of business processes.
 
 ## Project facts
-- **Team** – Developers 2, QA 1, BA 1, PM 1.
-- **Project management** – Scrum for production and Kanban for maintenance.
-- **Technology** – Umbraco, ASP.NET MVC, ASP.NET Framework, MS SQL Server, CSS, HTML, jQuery, Bootstrap, Razor Views, Angular JS.
+- **Team** – Developers 2, QA 1, BA 1, PM 1
+- **Project management** – Scrum for production and Kanban for maintenance
+- **Technology** – Umbraco, ASP.NET MVC, ASP.NET Framework, MS SQL Server, CSS, HTML, jQuery, Bootstrap, Razor Views, Angular JS
