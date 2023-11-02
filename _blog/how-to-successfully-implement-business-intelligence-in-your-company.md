@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "How to successfully implement business intelligence in your company"
-image: /assets/img/how-to-successfully-implement-business-intelligence-in-your-company.jpg
+image: /assets/img/mike-kononov-lFv0V3_2H6s-unsplash.jpg
 summary: Implementing business intelligence effectively involves defining needs, preparing teams, taking incremental steps, simplifying solutions, ensuring clean data, and adapting flexibly for long-term benefits.
 category:
   - Business Intelligence 
