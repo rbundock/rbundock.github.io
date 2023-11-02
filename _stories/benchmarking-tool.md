@@ -45,6 +45,6 @@ With our benchmarking tool, Access Partnership is able to conduct questionnaires
 By creating universal questionnaires and generating reports with a single click, Access Partnership managed to standardise the way they approach their customers. Our benchmarking tool allows them to speed up the entire process of surveying a company and ensure a thorough analysis of the market and their business condition at the same time. Having developed an easy-to-use and yet powerful survey software, we are now looking forward to further cooperation with Access Partnership.
 
 ## Project facts
-- **Team** – Developers 3, QA 1, BA 1, PM 1.
-- **Project management** – Agile – Kanban.
-- **Technology** – ASP.NET MVC, Razor, jQuery, Entity framework.
+- **Team** – Developers 3, QA 1, BA 1, PM 1
+- **Project management** – Agile – Kanban
+- **Technology** – ASP.NET MVC, Razor, jQuery, Entity framework
