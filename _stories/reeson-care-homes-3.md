@@ -108,8 +108,6 @@ Significant changes are required not only to move from an offline work environme
 We designed and developed a web-based application to support Reeson Care Homes with running their business remotely by improving residents’ record management, supporting HR processes, increasing efficiency, and decreasing the number of human errors by reducing paperwork. The software has improved communication especially amongst managers working in different locations or fully remotely.
 
 ## Project facts
-- **Team** – Developers 4 (Team Lead and Architect 1, Backend dev 2, Frontend dev 1), QA 1, BA 1, PM 1.
-
-- **Project management** – Scrum for production and Kanban for maintenance.
-
-- **Technology** – Angular, HTML/CSS, ASP.NET Core, Entity Framework, Redis Cache, Metronic, SignalR.
+- **Team** – Developers 4 (Team Lead and Architect 1, Backend dev 2, Frontend dev 1), QA 1, BA 1, PM 1
+- **Project management** – Scrum for production and Kanban for maintenance
+- **Technology** – Angular, HTML/CSS, ASP.NET Core, Entity Framework, Redis Cache, Metronic, SignalR
