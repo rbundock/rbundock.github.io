@@ -1,9 +1,12 @@
 ---
 layout: story
-title: "How can you truly understand the burden of disease unless you know what it is like to live as a patient yourself?"
+title: "From Spreadsheets to HR Systems For An International Organisation"
+image: /assets/img/pavel-neznanov-w95Fb7EEcjE-unsplash.jpg
 categories:
   - Financial
+summary: Developed secure, scalable web app for efficient staff data management.
 ---
+
 # How can you truly understand the burden of disease unless you know what it is like to live as a patient yourself?
 
 ## Our client
