@@ -38,6 +38,6 @@ Introducing automation to their business, William Pears now gains:
 The business intelligence system allows William Pears to automatically generate an infinite variety of custom reports. Without the necessity of labour-intensive data manipulation required in Excel, the company saves up to 50 hours of work per report. Additionally, data visualisation enables them to analyse data from various perspectives and thus make more accurate long-term decisions.
 
 ## Project facts
-- **Team** – Developers 2 (Team Leader, mid dev), QA 1, BA 1, PM 1.
-- **Project management** – Scrum for production, Kanban for maintenance.
-- **Technology** – Orchard CMS, ASP.NET MVC, Qlik Sense, AngularJS.
+- **Team** – Developers 2 (Team Leader, mid dev), QA 1, BA 1, PM 1
+- **Project management** – Scrum for production, Kanban for maintenance
+- **Technology** – Orchard CMS, ASP.NET MVC, Qlik Sense, AngularJS
