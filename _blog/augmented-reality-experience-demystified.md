@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Augmented Reality experience demystified"
-image: /assets/img/sara-kurig-A2BIY-TUjuA-unsplash.jpg
+image: /assets/img/960x0.webp
 summary: The best practices in AR include- Device compatibility, screen size adaptation, AR's purpose, full-screen usage, minimal text, careful effects, interactive object limits, audio integration, static info display, scene exploration, user comfort, response speed, object scaling, collaborative scenes, and reality-virtual connection.
 category:
   - Mobile Apps
