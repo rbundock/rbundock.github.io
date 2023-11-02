@@ -72,6 +72,6 @@ Without a paper contract management system, IPA no longer have to store relevant
 Overall, we consider our work with IPA to be a success. Our bespoke Contract Bank solution effectively resolves all issues that IPA previously struggled with during their manual operations. Further, the Contract Bank enhances IPA’s work by streamlining their contract management process; transforming it into a centralised, efficient, organised and accessible system. 
 
 ## Project facts
-- **Team** – Developers 3 (Team Leader 1, Backend dev 1, Frontend dev 1), UX Designer 1, QA 1, BA 1, PM 1.
-- **Project management** – Waterfall for production.
+- **Team** – Developers 3 (Team Leader 1, Backend dev 1, Frontend dev 1), UX Designer 1, QA 1, BA 1, PM 1
+- **Project management** – Waterfall for production
 - **Technology** – .Net
