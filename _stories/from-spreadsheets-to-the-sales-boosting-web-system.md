@@ -70,6 +70,6 @@ Our partnership with the London Persian Rug Company has benefited the business i
 - Creating a hassle-free method of browsing products for clients
 
 ## Project facts
-- **Team** – Developers 5 (Team Leader, Full-stack dev, Mid backend dev, Junior backend dev 2), Architect 1, QA 1, BA 1, PM 1.
-- **Project management** – Waterfall for production and Kanban for maintenance.
-- **Technology** – NopCommerce, .Net Core & MVC, MS SQL Server, Razor views, jQuery, HTML, CSS, JavaScript.
+- **Team** – Developers 5 (Team Leader, Full-stack dev, Mid backend dev, Junior backend dev 2), Architect 1, QA 1, BA 1, PM 1
+- **Project management** – Waterfall for production and Kanban for maintenance
+- **Technology** – NopCommerce, .Net Core & MVC, MS SQL Server, Razor views, jQuery, HTML, CSS, JavaScript
