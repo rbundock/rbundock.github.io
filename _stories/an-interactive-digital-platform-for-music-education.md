@@ -46,6 +46,6 @@ We would love to continue our successful partnership with DaCapo and support the
 
 ## Project facts
 - **Team** –  Developers 4 (Team Leader 1, Front end 2, Backend dev 1), DevOps 1, QA 1,BA 2, PM 
-- **Project management** – Scrum for production.
-- **Technology for prototype** – Umbraco, Angular.
-- **Technology for final system** – Asp.Net Core, EntityFramework Core, MS SQL, Swagger, Quartz, Xamarin.Forms, Angular, Metronic, Bootstrap.
+- **Project management** – Scrum for production
+- **Technology for prototype** – Umbraco, Angular
+- **Technology for final system** – Asp.Net Core, EntityFramework Core, MS SQL, Swagger, Quartz, Xamarin.Forms, Angular, Metronic, Bootstrap
