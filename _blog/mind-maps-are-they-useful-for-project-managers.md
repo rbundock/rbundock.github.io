@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Mind maps – are they useful for project managers?"
-image: /assets/img/mind-maps-are-they-useful-for-project-managers.jpg
+image: /assets/img/husniati-salma-D4GYNaFaLjM-unsplash.jpg
 summary: Mind mapping, a non-linear, creative tool developed by Tony Buzan, enhances project management by aiding in organizing ideas, enhancing creativity, and illustrating project complexities effectively.
 category:
   - Business
