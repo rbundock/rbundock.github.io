@@ -71,6 +71,6 @@ The Rockr app has successfully met our clients’ requirements. We chose the bes
 - Digitised administrative tasks that improve project and team efficiency
 
 ## Project facts
-- **Team** – Developers 3 (Team Lead and Architect 1, Backend dev 1, Frontend dev 1), QA 1, BA 1, PM 1.
-- **Project management** – Scrum.
-- **Technology** – Asp.net Zero, Angular 10, .Net Core 3.1, Entity Framework Core, Redis, Quartz, MS SQL Server, Multitenancy, DDD.
+- **Team** – Developers 3 (Team Lead and Architect 1, Backend dev 1, Frontend dev 1), QA 1, BA 1, PM 1
+- **Project management** – Scrum
+- **Technology** – Asp.net Zero, Angular 10, .Net Core 3.1, Entity Framework Core, Redis, Quartz, MS SQL Server, Multitenancy, DDD
