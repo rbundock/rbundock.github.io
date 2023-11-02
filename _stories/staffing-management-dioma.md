@@ -78,6 +78,6 @@ We continue to have a rewarding partnership with the company and are looking to 
 **– Project director at the global business**
 
 ## Project facts
-- **Team** – Developers 3, QA 2, BA 2, PM 1.
-- **Project management** – Scrum.
-- **Technology** – ASP.NET, ITextSharp, Azure Web Jobs, AngularJS, CSS.
+- **Team** – Developers 3, QA 2, BA 2, PM 1
+- **Project management** – Scrum
+- **Technology** – ASP.NET, ITextSharp, Azure Web Jobs, AngularJS, CSS
