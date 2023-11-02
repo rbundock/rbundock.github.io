@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "How to use business intelligence to drive sales"
-image: /assets/img/how-to-use-business-intelligence-to-drive-sales.jpg
+image: /assets/img/arno-senoner-UhvEJosq-Zo-unsplash.jpg
 summary: Utilizing Business Intelligence (BI) enhances market understanding, customer insight, and decision-making, driving sales, improving service, and increasing retention for sustainable revenue growth.
 category:
   - Business Intelligence 
