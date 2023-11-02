@@ -1,13 +1,15 @@
 ---
 layout: story
 title: "Helping high street stores in their reopening processes following the outbreak of the COVID-19 pandemic - By Appointment Only Ltd"
-image: /assets/img/by-appointment_LOGO.png
+image: /assets/img/eric-rothermel-FoKO4DpXamQ-unsplash.jpg     
 categories:
   - Human Resources
+summary: Innovative App Aids High Street Store Reopenings Post-COVID-19.
 ---
+
 # Helping high street stores in their reopening processes following the outbreak of the COVID-19 pandemic - By Appointment Only Ltd
 
-![{{ page.title }}]({{ page.image }})
+![Table1](/assets/img/by-appointment_LOGO.png)
 
 Our client, By Appointment Only Ltd., was founded by Charles Smith and Adam Batten. Charles is an entrepreneur in the high-end hospitality sector, with most of his experience rooted in events. In 1992, he launched ‘At Your Service’ (AYS), the UK’s leading supplier of professional hospitality services. Adam joined AYS soon after as Innovation Director and Associate Director and together they founded and managed ‘Talistar’; a provider of consultative strategic planning for businesses. Together, they make a highly successful, professional and pioneering team and we were therefore delighted when they approached us to deliver an exciting new project together. 
 
