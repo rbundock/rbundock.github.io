@@ -1,13 +1,14 @@
 ---
 layout: story
 title: "Recruitment chatbot for event staffing"
-image: /assets/img/unnamed-3.png
+image: /assets/img/google-deepmind-ebMFfR2uuJ0-unsplash.jpg              
 categories:
-  - Human Resources 
+  - Human Resources
+summary: Talistar chatbot streamlines recruitment, enhancing candidate experience in UK, Europe.
 ---
 # Recruitment chatbot for event staffing
 
-![{{ page.title }}]({{ page.image }})
+![Table1](/assets/img/unnamed-3.png)
 
 ## Overview
 **Talistar** is a leading provider of talent management software throughout the UK and other European countries. We provided them with a state-of-the-art software solution which streamlines recruitment processes and makes hiring seasonal and temporary employees fast and easy. In order to remain competitive and answer the needs of modern organisations, they asked us to equip their platform with a chatbot. That way, they were able to speed up the recruitment process even more and to improve the candidate experience at the same time.
