@@ -59,6 +59,6 @@ Once our proposed system gained our client’s approval, we initiated the develo
 We successfully delivered our project on time, within the three months we were given, despite the Christmas break. The system met our client’s needs. It improved the efficiency and reliability of their staff management responsibilities. Crucially, it has allowed our clients to focus on their business, rather than wasting time on management issues.
 
 ## Project facts
-- **Team** – Developers 3 (Team Leader 1, Backend dev 1, Angular dev 1), DevOps 1, QA 1, BA 1, PM 1.
-- **Project management** – Scrum for production and Kanban for maintenance.
-- **Technology** – Asp.Net Core, EntityFramework Core, MS SQL, Angular, Metronic, Bootstrap, Duo Mobile.
+- **Team** – Developers 3 (Team Leader 1, Backend dev 1, Angular dev 1), DevOps 1, QA 1, BA 1, PM 1
+- **Project management** – Scrum for production and Kanban for maintenance
+- **Technology** – Asp.Net Core, EntityFramework Core, MS SQL, Angular, Metronic, Bootstrap, Duo Mobile
