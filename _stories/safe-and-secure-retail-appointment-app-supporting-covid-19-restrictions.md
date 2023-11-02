@@ -115,7 +115,5 @@ We feel privileged to have partnered with a fantastic client, and we are proud o
 
 ## Project facts
 - **Team** – Developers 4 (Team Leader 1, Xamarin 1, Backend dev 2), DevOps 1, QA 1,BA 1, PM 1
-
-- **Project management** – Scrum for production and Kanban for maintenance.
-
+- **Project management** – Scrum for production and Kanban for maintenance
 - **Technology** – Asp.Net Core, EntityFramework Core, MS SQL, Swagger, Quartz, Xamarin.Forms, Angular, Metronic, Bootstrap
