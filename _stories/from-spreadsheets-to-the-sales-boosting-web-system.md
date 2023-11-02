@@ -1,7 +1,7 @@
 ---
 layout: story
 title: "Two custom software solutions and a complex analysis of business processes?"
-image: /assets/img/pavel-neznanov-w95Fb7EEcjE-unsplash.jpg
+image: /assets/img/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg
 categories:
   - Retail
 summary: Custom software transforms rug company's data management and customer service.
