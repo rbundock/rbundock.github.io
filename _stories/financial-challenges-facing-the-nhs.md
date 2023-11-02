@@ -89,6 +89,6 @@ Our invoice validation tool has successfully transformed Pulse Informatics’ id
 We, therefore, consider our partnership with Pulse Informatics to be a success. Ultimately, this tool can be used to support the NHS to navigate the many and multifaceted pressures it faces and helps to improve the health value for each patient.
 
 ## Project facts
-- **Team** – Developers 2 (Fullstack dev 2), PM 1.
-- **Project management** – Waterfall.
-- **Technology** – .NET Framework.
+- **Team** – Developers 2 (Fullstack dev 2), PM 1
+- **Project management** – Waterfall
+- **Technology** – .NET Framework
