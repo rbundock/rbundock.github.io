@@ -1,13 +1,14 @@
 ---
 layout: story
 title: "Talent management software for an event staffing company"
-image: /assets/img/unnamed-2.png
+image: /assets/img/michael-afonso-z8Tul255kGg-unsplash.jpg
 categories: 
-  - Human Resources 
+  - Human Resources
+summary: Talistar's Talent Management Software Revolutionizes Event Staffing Industry. 
 ---
 # Talent management software for an event staffing company
 
-![{{ page.title }}]({{ page.image }})
+![Table1](/assets/img/unnamed-2.png)
 
 ## Overview
 **Talistar** is a leading provider of talent management software and strategic advice throughout the UK and European mainland and the **Astrix** platform, built especially for them, is a state-of-the-art recruitment software package that revolutionises the talent management industry. It offers a wide range of recruitment tools which enable businesses such as temporary employment agencies, hotels, restaurants and event management companies to streamline temporary staffing processes.
