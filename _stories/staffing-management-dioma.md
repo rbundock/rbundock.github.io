@@ -1,13 +1,15 @@
 ---
 layout: story
 title: "Software integration with DIMONA for an event staffing company"
-image: /assets/img/unnamed-3.png
+image: /assets/img/christina-wocintechchat-com-6Dv3pe-JnSg-unsplash.jpg
 categories:
   - Human Resources
+summary: Automation Streamlines Staff Declarations, Saving European Firm Time and Money.
 ---
+
 # Software integration with DIMONA for an event staffing company
 
-![{{ page.title }}]({{ page.image }})
+![Table1](/assets/img/unnamed-3.png)
 
 ## European company automates staff declarations and saves a fortune in admin
 We are helping a leading European enterprise to save hundreds of hours of valuable time every month — by streamlining and automating the way it complies with employment law.
