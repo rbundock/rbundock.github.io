@@ -75,6 +75,6 @@ Our system provides full transparency of resources, personnel and costs used thr
 Our platform has produced £50 million in cost savings. It automates multiple forms of data collection, sharing and processing. This increases efficiency and drives down administrative costs. Crucially, it allows our client to effectively plan and manage projects, track site activities in real-time, and swiftly adapt to changes when needed.
 
 ## Project facts
-- **Team** – Developers 3 (Team Lead and Architect 1, Backend dev 1, Frontend dev 2), QA 1, BA 1, PM 1.
-- **Project management** – Scrum.
+- **Team** – Developers 3 (Team Lead and Architect 1, Backend dev 1, Frontend dev 2), QA 1, BA 1, PM 1
+- **Project management** – Scrum
 - **Technology** – Asp.net Zero, Angular 10, ASP.NET Core Web API .Net Core 3.1, Entity Framework Core, MS SQL Server, Redis, Quartz, Multitenancy, DDD
