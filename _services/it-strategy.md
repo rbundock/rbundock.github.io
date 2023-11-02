@@ -1,6 +1,7 @@
 ---
 layout: service
 title: "IT Strategy"
+header_box: relative
 faqs:
   - 
     - "What should an IT strategy include?"
