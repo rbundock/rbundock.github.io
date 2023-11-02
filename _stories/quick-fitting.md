@@ -1,13 +1,15 @@
 ---
 layout: story
 title: "Teeside University"
-image: /assets/img/teesside-uniwersytet-logo-300x159-1.png
+image: /assets/img/inaki-del-olmo-NIJuEQw0RKg-unsplash.jpg            
 categories:
   - Education
+summary: Innovative collaboration enhances prosthetics with cutting-edge technology and software integration. 
 ---
+
 # Our client
 
-![{{ page.title }}]({{ page.image }})
+![Table1](/assets/img/teesside-uniwersytet-logo-300x159-1.png)
 
 ## Our team
 Our brilliant team provided expertise from the fields of healthcare, education and business to transform a great idea into a world-leading reality. 
