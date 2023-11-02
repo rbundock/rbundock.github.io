@@ -32,6 +32,6 @@ The chatbot we designed and developed for Talistar simplifies the registration p
 - **Comply with GDPR** – to meet the requirements of the new data protection regulation, a chatbot makes sure a candidate accepts the company’s terms and conditions.
 
 ## Project facts
-- **Team** – Developers 2 (Team Leader, mid dev), QA 1, BA 1, PM 1.
-- **Project management** – Scrum for production.
-- **Technology** – MS SQL Server, Azure SQL Server, Azure App Service, Azure Storage, Redis Cache, Azure Bot Service.
+- **Team** – Developers 2 (Team Leader, mid dev), QA 1, BA 1, PM 1
+- **Project management** – Scrum for production
+- **Technology** – MS SQL Server, Azure SQL Server, Azure App Service, Azure Storage, Redis Cache, Azure Bot Service
