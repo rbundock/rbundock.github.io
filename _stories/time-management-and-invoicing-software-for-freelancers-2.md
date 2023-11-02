@@ -7,20 +7,14 @@ categories:
   - Wellness and Fitness Services
 summary: Streamlined Freelancer Invoicing App Enhances Time and Finance Management. 
 ---
-
 # Time management and invoicing software for freelancers 
-
 ![Table1](/assets/img/Screenshot 2023-10-12 at 16.24.02.png)
-
 ## Overview
 Working as a freelancer instructor, it is often hard enough to manage your diary let alone having to keep track of which classes need to be invoiced. As an experienced instructor herself, our client, My Class Depot, spotted an opportunity to simplify the way freelancers do their administration and so improve their efficiency.
-
 Together with her, we designed and developed a responsive web app which enables freelancers to regain control of their classes and finances. Reminding them where they need to be next, prompting for class numbers and automatically generating and sending the relevant invoices at the month end.
-
 
 ## Functions
 To improve the productivity of instructors, regardless of industry, we equipped the web-based platform with the following features:
-
 - My profile – to save all the necessary personal information, including public liability insurance and first aid certificates, providing easy synchronisation with Google Calendar and PayPal accounts
 - Venues – to add and store details of each venue where classes take place, including the address, contact details and billing cycle
 - Classes – to add and store details of each class, including the day, time, teaching venue, type of class and pricing
@@ -30,7 +24,6 @@ To improve the productivity of instructors, regardless of industry, we equipped 
 
 ## Benefits
 With our intuitive and easy-to-use solution, freelancer instructors gain the following:
-
 - **Better control** – instructors can view past, present and future classes at each teaching venue in a convenient format which can be synchronised with Google calendar
 - **Accurate invoicing** – automatically submits invoices directly to the teaching venue at the end of the billing cycle, with a copy to the instructor, ensuring correct and prompt payment for the classes taught
 - **Renewal reminders** – generates automated reminders as public liability insurance and first aid certificates come up for renewal
