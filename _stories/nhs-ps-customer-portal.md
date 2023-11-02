@@ -50,14 +50,7 @@ We built a CD pipeline that published artefacts from the CI step on the selected
 Within the quality assurance area, we agreed a testing policy so that all test cases prepared for the project were stored in separate test plans divided into three groups. First of all, we had test plans per functionality or module to cover all user stories for this area. We also started creating test plans per sprint to ensure quality for the scope implemented during a sprint. And finally, we prepared core flow test plans – the set of test cases that cover the main business flow. The last group was split into core flow ‘must haves’ (test cases covering the paths necessary to work) and core flow ‘extended’ (test cases covering paths that are used more rarely, but also important). 
 
 ## Project facts
-- **Team** – Developers 8 (Team Leader 1, Solution Architect 1, Backend dev 2, Frontend dev 2, DevOps 2), UX/UI Designer 1, QA 2, BA 2, PM 1.
-- **Project management** – Scrum for production.
-
-## Technology
-**Technologies used**
-
-ABP.io framework – .NET 5, Angular 10, Jasmine, Karma, Entity Framework Core, MS SQL, Azure Cloud, Azure AD/B2C, Azure KeyVault, XUnit, Azure DevOps, SonarCloud,
-
-**Technologies planned**
-
-Azure Redis Cache, Azure Service Bus, Azure Functions, Azure Logic Apps
+- **Team** – Developers 8 (Team Leader 1, Solution Architect 1, Backend dev 2, Frontend dev 2, DevOps 2), UX/UI Designer 1, QA 2, BA 2, PM 1
+- **Project management** – Scrum for production
+- **Technology** - .NET 5, Angular 10, Jasmine, Karma, Entity Framework Core, MS SQL, Azure Cloud, Azure AD/B2C, Azure KeyVault, XUnit, Azure DevOps, SonarCloud
+- **Technologies planned** - Azure Redis Cache, Azure Service Bus, Azure Functions, Azure Logic Apps
