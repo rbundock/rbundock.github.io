@@ -44,6 +44,6 @@ The use of a cloud-based CRM system removes the need for software to be installe
 By integrating the University’s Mitel-based phone service with a Radius-CRM system, as well as developing a number of applications, HeadChannel was able to effectively meet the needs of the University, and help them to build an improved and effective telephone service. 
 
 ## Project facts
-- **Team** – Developers 5 (Team leader 1, Mid backend dev 3, Frontend developer 1), QA 1, BA 1, PM 1.
-- **Project management** – Waterfall.
-- **Technology** – central point of system is HRPI server. ASP.NET MVC application, VS, SQL Server, JDK, NetBeans, Softphone (Xlite/Ekiga), PacketSender.
+- **Team** – Developers 5 (Team leader 1, Mid backend dev 3, Frontend developer 1), QA 1, BA 1, PM 1
+- **Project management** – Waterfall
+- **Technology** – central point of system is HRPI server. ASP.NET MVC application, VS, SQL Server, JDK, NetBeans, Softphone (Xlite/Ekiga), PacketSender
