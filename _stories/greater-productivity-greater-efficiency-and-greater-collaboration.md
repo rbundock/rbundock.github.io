@@ -1,13 +1,15 @@
 ---
 layout: story
 title: "The University of Winchester case study"
-image: /assets/img/University_of_Winchester_logo-removebg-preview.png
+image: /assets/img/dom-fou-YRMWVcdyhmI-unsplash.jpg                              
 categories:
   - Education
+summary: Revamping Winchester University's phone system for enhanced efficiency and service.
 ---
+
 # The University of Winchester case study
 
-![{{ page.title }}]({{ page.image }})
+![Table1](/assets/img/University_of_Winchester_logo-removebg-preview.png)
 
 Every day, Universities receive a colossal number of phone calls from individuals ranging from students and staff members to marketing agencies and donors. It is crucial therefore, that the telephone systems of Universities are specially adapted to manage and deal with such a high number of calls in the most efficient and effective way possible; satisfying the caller, the call-centre staff, and the University.
 
