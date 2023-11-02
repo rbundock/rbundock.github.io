@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "4 skills every software developer should have"
-image: /assets/img/kevin-canlas-cFFEeHNZEqw-unsplash.jpg
+image: /assets/img/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg
 summary: Software industry growth, vital across sectors, demands skilled developers with data science, multiple programming languages, project management, and cybersecurity expertise for robust, efficient solutions.
 category:
   - Business
