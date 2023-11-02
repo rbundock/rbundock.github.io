@@ -1,7 +1,12 @@
 ---
 layout: story
 title: "Data analysis and automated financial reporting bespoke software"
+image: /assets/img/ahsanization-mJi2I9KJPQ8-unsplash.jpg
+categories:
+  - Data Analysis
+summary: Global metal trader's reporting system revolutionized, enhancing efficiency and data accuracy with automated, user-friendly financial analysis software.
 ---
+
 # Data analysis and automated financial reporting bespoke software
 
 ## Our client
