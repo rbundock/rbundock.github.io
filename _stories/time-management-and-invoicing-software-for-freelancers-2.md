@@ -1,15 +1,16 @@
 ---
 layout: story
 title: "Time management and invoicing software for freelancers"
-image: /assets/img/Screenshot 2023-10-12 at 16.24.02.png
+image: /assets/img/aron-visuals-BXOXnQ26B7o-unsplash.jpg
 categories:
   - Software Development
-  - Professional Training and Coaching
   - Wellness and Fitness Services
+summary: Streamlined Freelancer Invoicing App Enhances Time and Finance Management. 
 ---
+
 # Time management and invoicing software for freelancers 
 
-![{{ page.title }}]({{ page.image }})
+![Table1](/assets/img/Screenshot 2023-10-12 at 16.24.02.png)
 
 ## Overview
 Working as a freelancer instructor, it is often hard enough to manage your diary let alone having to keep track of which classes need to be invoiced. As an experienced instructor herself, our client, My Class Depot, spotted an opportunity to simplify the way freelancers do their administration and so improve their efficiency.
