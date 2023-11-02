@@ -32,6 +32,6 @@ In the case of Smiley World the ideal solution was to integrate two separate sys
 After the system’s integration Smileys World noticed a, previously predicted, reduction of errors. This may have an impact on the prosperity of the company and its future plans. With one integrated system it is also easier to manage the royalties worldwide in real-time and without any delays due to lack of integrity. Following the integration of the systems, Smiley World was considering implementing a bigger software solution created by Headchannel Ltd.
 
 ## Project facts
-- **Team** – Developers 4 (Backend dev 2, Frontend dev 2), UX Designer 1, QA 1, BA 1, PM 1.
-- **Project management** – Waterfall.
-- **Technology** – .Net Framework.
+- **Team** – Developers 4 (Backend dev 2, Frontend dev 2), UX Designer 1, QA 1, BA 1, PM 1
+- **Project management** – Waterfall
+- **Technology** – .Net Framework
