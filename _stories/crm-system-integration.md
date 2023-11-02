@@ -33,6 +33,6 @@ Systems integration is the ideal solution for organisations which cannot give up
 The college is now able to track with far greater accuracy the levels of interest and subsequent enrolment, fees paid and unpaid and the popularity of the various courses without having to worry about keeping the student records system updated as this is now handled automatically in the background. Following the implementation of this system, Bedford College is now considering growing the application and automating other processes such as SMS messaging.
 
 ## Project facts
-- **Team** – Developers 5 (Team leader 1, Mid backend dev 3, Frontend developer 1), QA 1, BA 1, PM 1.
-- **Project management** – Waterfall.
-- **Technology** – .Net Framework, REST API, Entity Framework, MS SQL Server, Autofac.
+- **Team** – Developers 5 (Team leader 1, Mid backend dev 3, Frontend developer 1), QA 1, BA 1, PM 1
+- **Project management** – Waterfall
+- **Technology** – .Net Framework, REST API, Entity Framework, MS SQL Server, Autofac
