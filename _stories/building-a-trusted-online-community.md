@@ -4,7 +4,7 @@ title: "A system for managing contruction assets"
 image: /assets/img/camilo-jimenez-qZenO_gQ7QA-unsplash.jpg
 categories:
   - Tech Innovation
-summary: Radio H-P: Fostering Online Community, Trust, and Innovation.
+summary: Radio H-P- Fostering Online Community, Trust, and Innovation.
 ---
 
 ## Our Client 
