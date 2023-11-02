@@ -1,14 +1,14 @@
 ---
 layout: story
 title: "A system for managing contruction assets"
+image: /assets/img/lukas-blazek-mcSDtbWXUZU-unsplash.jpg
+categories:
+  - Mobile Apps
 summary: Rockr app. a digital solution for construction asset management, centralizing information, enhancing collaboration, and using AI for efficient project handovers and accountability.
-image: /assets/img/image_2021_08_11T13_22_37_079Z.png
-headline: A system for managing contruction assets
-headline_para: Rockr app. a digital solution for construction asset management, centralizing information, enhancing collaboration, and using AI for efficient project handovers and accountability.
 ---
 
 ## Our client
-![{{ page.title }}]({{ page.image }})
+![Table1](/assets/img/image_2021_08_11T13_22_37_079Z.png)
 The Process Innovation Factory is a data and analytics consulting startup that strives to support the innovation of their clients using cutting-edge, bespoke digital solutions. They work with medium and large organisations throughout all stages of their innovation process, from planning and strategizing to physically implementing the end-product. The Process Innovation Factory work in partnership with their clients to find the right solution to achieve their goals.
 
 ## Our challenge
