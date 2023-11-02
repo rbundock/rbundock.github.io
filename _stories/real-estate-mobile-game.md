@@ -45,6 +45,6 @@ HeadChannel have been instrumental in launching the game both on time and on bud
 **David Harding, MANAGING DIRECTOR Tycoon Gaming**
 
 ## Project facts
-- **Team** – Developers 5 (Team Leader 1, iOS dev 1, Android dev 1, Mid devs 2), QA 2, BA 2, PM 1.
-- **Project management** – Scrum for production and Kanban for maintenance.
-- **Technology** – ASP.NET ZERO, .NET Framework, MS SQL Server, Android API, AngularJS.
+- **Team** – Developers 5 (Team Leader 1, iOS dev 1, Android dev 1, Mid devs 2), QA 2, BA 2, PM 1
+- **Project management** – Scrum for production and Kanban for maintenance
+- **Technology** – ASP.NET ZERO, .NET Framework, MS SQL Server, Android API, AngularJS
