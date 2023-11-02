@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Increase workplace safety in post-pandemic times with AI"
-image: /assets/img/increase-workplace-safety-in-post-pandemic-times-with-ai.jpg
+image: /assets/img/he-zhu-FN7pEVoDphc-unsplash.jpg
 summary: AI technology ensures mask compliance on construction sites by automating detection, offering real-time monitoring, enhancing safety, and boosting business prospects through adherence to health regulations.
 category:
   - Bespoke Software
