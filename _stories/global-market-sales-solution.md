@@ -1,10 +1,11 @@
 ---
 layout: story
 title: "How to successfully incorporate UX and CX into your business, allowing both your business and that of your clients to benefit"
+image: /assets/img/faizur-rehman-d7h4kZXmHhk-unsplash.jpg
 categories:
   - Manufacturing
+summary: Enhancing business solutions through integrated UX and CX design strategies.
 ---
-# How to successfully incorporate UX and CX into your business, allowing both your business and that of your clients to benefit
 
 User experience (UX) and customer experience (CX), both ultimately serve the same purpose. However, they were not designed to be randomly mixed and matched. This case study will reveal how to incorporate UX and CX into your business, allowing both your business and that of your clients to benefit.
 
