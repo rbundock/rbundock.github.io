@@ -24,6 +24,8 @@ Rich
 
 - Consolidate /assets/css/extras.css into main.css
 
+- Connect Hubspot forms.
+
 DEPLOY
 - Remove the robots.txt
 - Remove this TODO File

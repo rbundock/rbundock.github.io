@@ -2,17 +2,14 @@
 layout: story
 title: "How can you truly understand the burden of disease unless you know what it is like to live as a patient yourself?"
 image: /assets/img/william-hook-9e9PD9blAto-unsplash.jpg
+logo: /assets/img/the-method_logo.svg
+logo_alt: The Method
 categories:
   - Health
 summary: The Method's app, A Life in a Day, simulates patients' experiences, enhancing healthcare empathy.
 ---
 
-## Our client
-
-![Table1](/assets/img/the-method_logo.svg)
-
 The Method equips professionals from all sectors with a tool, cultivated by actors, directors and writers, which is used to unlock their potential by enacting behaviour change. It is based in experiential learning, emphasising a ‘learning-by-doing’ approach. Training is delivered through a set of modules, and this includes participation in workshops, coaching sessions and interactive events. These modules cover themes such as ‘influence and flex’, ‘impact and confidence’, and ‘values and personal brand’. The Method has partnered with an impressive array of clients from a range of sectors, including Unilever, AON, Network Rail, EE and Compare the Market. We are proud that they chose us to join them in creating a positive difference in the realm of healthcare.
-
 
 ## The inspiration
 The Method wanted to utilise our expertise in creating an app that promoted a greater awareness of the lived experience of individuals afflicted with certain illnesses. The result – ‘A Life in a Day‘ – would simulate how it would feel to spend 24 hours or more in the shoes of someone with a serious illness, including Crohn’s disease, heart failure, cancer and other medical conditions. It was initially developed as an in-house patient awareness programme for a global pharmaceutical company. The Method felt that this app would enhance the work of healthcare professionals, and transform patient outcomes by breeding a greater level of empathy and understanding. 
