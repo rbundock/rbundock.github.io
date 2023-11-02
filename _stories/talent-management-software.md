@@ -51,6 +51,6 @@ With our recruitment and talent management software, event staffing companies ar
 When Talistar asked us to redevelop their existing recruitment and talent management software the need for such solutions was greater than ever. Since that time we have managed to create a platform which enables people from all over Europe to find temporary employment and event staff companies to find temporary staff. The solution is currently available in Germany, Austria and the Netherlands with more countries soon to be added.
 
 ## Project facts
-- **Team** – Developers 16 (Team Lead 1, Backend dev 12, Frontend dev 2, Xamarin dev 1), UX Designer 2, Architect 1, QA 3, BA 4, PM 1.
-- **Project management** – Scrum for production and Kanban for maintenance.
-- **Technology** – AngularJS, HTML/CSS, SASS, Gulp, jQuery, ASP.NET MVC, .NET Framework, Entity Framework, Angular, Azure Web Jobs, Azure SQL Server, Azure App Service, Azure Storage, Redis Cache, Autofac, Xamarin.
+- **Team** – Developers 16 (Team Lead 1, Backend dev 12, Frontend dev 2, Xamarin dev 1), UX Designer 2, Architect 1, QA 3, BA 4, PM 1
+- **Project management** – Scrum for production and Kanban for maintenance
+- **Technology** – AngularJS, HTML/CSS, SASS, Gulp, jQuery, ASP.NET MVC, .NET Framework, Entity Framework, Angular, Azure Web Jobs, Azure SQL Server, Azure App Service, Azure Storage, Redis Cache, Autofac, Xamarin
