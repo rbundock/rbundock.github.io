@@ -39,6 +39,6 @@ With our intuitive and easy-to-use solution, freelancer instructors gain the fol
 Our client is a yoga teacher who was looking for a way to make working as a freelancer easier but couldn’t find any existing solutions that would do everything she wanted. So she decided to take things into her own hands and asked us to help her to create the system that she really wanted – quick and simple for freelancers to keep on top of their finances for work they have done. Now our powerful web-based platform is being used by more and more freelancers, especially fitness professionals, all over the UK.
 
 ## Project facts
-- **Team** – Developers 3 (Backend dev 2, Frontend 1), Designer 1, QA 1, BA 1, PM 1.
-- **Project management** – Scrum for production and Kanban for maintenance.
-- **Technology** – ASP.NET MVC, ITexsharp, AngularJS, CSS.
+- **Team** – Developers 3 (Backend dev 2, Frontend 1), Designer 1, QA 1, BA 1, PM 1
+- **Project management** – Scrum for production and Kanban for maintenance
+- **Technology** – ASP.NET MVC, ITexsharp, AngularJS, CSS
