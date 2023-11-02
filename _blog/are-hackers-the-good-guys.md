@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Are hackers the good guys?"
-image: /assets/img/are-hackers-the-good-guys.jpg
+image: /assets/img/clint-patterson-dYEuFB8KQJk-unsplash.jpg
 summary: Mr. Robot challenged perceptions, showing sympathy for hacker Elliot, played by Rami Malek. This series highlights the nuanced nature of hackers, differentiating ethical (white hats) from criminal (black hats), with some (grey hats) in between, blurring moral lines.
 category:
   - Business
