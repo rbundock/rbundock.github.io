@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Technical leader role specification in a scrum team"
-image: /assets/img/sm_7-reasons-why-software-development-projects-succeed-1.jpg
+image: /assets/img/adi-goldstein-EUsVwEOsblE-unsplash.jpg
 summary: Scrum, a popular agile methodology for improving work processes, emphasizes self-organizing, cross-functional teams without external control, enhancing productivity and team dynamics.
 category:
   - Bespoke Software
