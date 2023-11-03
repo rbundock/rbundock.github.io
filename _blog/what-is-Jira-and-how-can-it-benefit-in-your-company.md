@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "What is Jira and how can it benefit in your company?"
-image: /assets/img/what-is-jira-and-how-can-it-benefit-in-your-company.jpg
+image: /assets/img/istock_000015382653small-0d7eb96755347323e2e811e95b757d512c5352de-s1100-c50.jpg
 summary: Jira, evolving from a bug tracking tool to a versatile project management platform, excels in task organization, bug logging, and integrated testing, but faces challenges in isolated testing and requires consistent platform usage for optimal efficiency.
 category:
   - Other
