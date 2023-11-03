@@ -1,16 +1,16 @@
 ---
 layout: story
 title: "How to merge technology and medicine into one useful app."
-image: /assets/img/national-cancer-institute-byGTytEGjBo-unsplash.jpg       
+image: /assets/img/national-cancer-institute-byGTytEGjBo-unsplash.jpg    
+logo: /assets/img/BAP_logo.jpg
+logo_alt: BAP
 categories:
   - Information Technology and Services
   - Health Care
 summary: Innovative App Merges Tech and Medicine for Enhanced Medical Learning.
 ---
 
-# How to merge technology and medicine into one useful app.
-
-![Table1](/assets/img/BAP_logo.jpg)
+## How to merge technology and medicine into one useful app.
 
 Nowadays, it’s hard to imagine living without the crucial impact of new technologies. They represent a significant part of our everyday lives, improving and modernising nearly every industry that comes to mind. One of the essential mergers is undoubtedly that of technology and medicine. Thanks to the continuous implementation of advanced solutions, physicians can better focus on the core part of their challenging role – saving lives.
 
