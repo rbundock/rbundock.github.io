@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Post pandemic software solutions for the construction industry"
-image: /assets/img/post-pandemic-software-solutions-for-the-construction-industry.jpg
+image: /assets/img/c-dustin-91AQt9p4Mo8-unsplash.jpg
 summary: Touchless check-in systems for construction sites ensure health and safety compliance, offering secure, QR-code-based entry with health screening, benefiting in time management and cost savings.
 category:
   - Bespoke Software
