@@ -2,7 +2,7 @@
 layout: story
 title: "Recruitment chatbot for event staffing"
 image: /assets/img/google-deepmind-ebMFfR2uuJ0-unsplash.jpg
-logo: /assets/img/unnamed-3.png
+logo: /assets/img/Screenshot 2023-11-03 at 12.09.49.png
 logo_alt: MP
 categories:
   - Human Resources
