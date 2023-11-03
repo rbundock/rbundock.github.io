@@ -1,6 +1,6 @@
 ---
 layout: service
-title: "Building bespoke apps for businesses"
+title: "Business App Development"
 summary: 
 ---
 # Building bespoke apps for businesses

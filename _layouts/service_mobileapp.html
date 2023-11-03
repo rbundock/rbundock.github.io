@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en-GB">
+{% include head.html %}
+
+<body>
+  {% include header.html %}
+  <main>
+    {% include components/panel_intro.html %}
+    {% include components/panel_features.html %}
+    <section class="panel">
+      <div class="wrapper">
+        <div class="[ flow ] [ flow-space-700 ]">
+
+          {{ content }}
+
+        </div>
+      </div>
+
+    </section>
+    {% include components/panel_services_mobileapp.html %}
+
+    {% include components/panel_faqs.html %}
+  </main>
+  {% include footer.html %}
+</body>
+
+</html>
