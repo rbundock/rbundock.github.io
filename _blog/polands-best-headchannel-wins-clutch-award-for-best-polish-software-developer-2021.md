@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Poland’s best: HeadChannel wins Clutch award for best Polish software developer 2021"
-image: /assets/img/polands-best-headchannel-wins-clutch-award-for-best-polish-software-developer-2021.jpg
+image: /assets/img/arthur-chauvineau-Dn7P1U26ZkE-unsplash.jpg
 summary: HeadChannel, recognized by Clutch as a top Polish software developer, excels in creating bespoke software solutions, emphasizing utility and efficiency. Grateful for client support and positive feedback, the team celebrates their achievements and invites new projects.
 category:
   - Bespoke Software
