@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "What do you gain from data-driven decisions"
-image: /assets/img/what-you-gain-from-data-driven-decisions.jpg
+image: /assets/img/possessed-photography-tOjIx_NyzFo-unsplash.jpg
 summary: Companies gain competitive advantage by shifting from intuition to data-driven decision-making, leveraging business intelligence tools for insight and strategic agility.
 category:
   - Business
