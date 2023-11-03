@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Small shift or a game-changing effect. Why does your company need a business analyst?"
-image: /assets/img/sm_why-your-company-needs-a-business-analyst.jpg
+image: /assets/img/nicolas-comte-TqlOQKxIoms-unsplash.jpg
 summary: Incorporating a business analyst is crucial for successful projects, bridging the gap between clients and developers with key skills in communication, analysis, and technical understanding, enhancing team efficiency and project outcomes.
 category:
   - Business 
