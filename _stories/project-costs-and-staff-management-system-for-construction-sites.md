@@ -1,15 +1,13 @@
 ---
 layout: story
 title: "Project Costs And Staff Management System For Construction Sites"
-image: /assets/img/pedro-miranda-3QzMBrvCeyQ-unsplash.jpg      
+image: /assets/img/pedro-miranda-3QzMBrvCeyQ-unsplash.jpg
+logo: /assets/img/Screenshot_16.png
+logo_alt: DMRC and HS2
 categories:
   - Construction
 summary: DMRC Consulting's digital solution optimizes HS2's data management and efficiency.
 ---
-
-## Our client
-
-![Table1](/assets/img/Screenshot_16.png)
 
 DMRC Consulting is a data and analytics consulting startup that strives to support the innovation of their clients using cutting-edge, bespoke digital solutions. They work with medium and large organisations throughout all stages of their innovation processes, from planning and strategizing to physically implementing their end-products. DMRC work in partnership with their clients to find the right solutions to achieve their goals.
 
