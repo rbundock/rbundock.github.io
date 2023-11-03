@@ -2,14 +2,12 @@
 layout: story
 title: "WAAM3D Equipment for Large High Tech Industrial Manufacturing "
 image: /assets/img/josh-beech-tXJhAFVOHVk-unsplash.jpg
+logo: /assets/img/Screenshot_1.png
+logo_alt: WAAM
 categories:
   - Manufacturing
 summary: Revolutionizing WAAM3D Robotics with Real-Time Data Processing and UI.
 ---
-
-# Our client
-
-![Table1](/assets/img/Screenshot_1.png)
 
 WAAM3D was founded in 2018 to transform the research discoveries of Cranfield University into a commercial product. WAAM3D aimed to create a supply chain to enable the business development of a wire-based AM system; a robot featuring world-leading 3D printing functions. WAAM processes have been designed to accommodate large-scale engineering parts. The variety of processes available also means that WAAM3D have the flexibility of moulding their system around the needs of their clients. WAAM benefits their clients by reducing manufacturing times costs and waste, simplifying supply chains and removing fabrication. WAAM has the potential to benefit an impressive array of industries including aviation, defence, renewables and even space.
 
