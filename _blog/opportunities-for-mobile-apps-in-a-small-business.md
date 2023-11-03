@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Opportunities for mobile apps in a small business"
-image: /assets/img/opportunities-for-mobile-apps-in-small-business.jpg
+image: /assets/img/william-hook-9e9PD9blAto-unsplash.jpg
 summary: To thrive in today’s market, businesses must adopt mobile app technology, offering 24/7 accessibility and personalized customer engagement, balancing costs with innovative, hybrid app development.
 category:
   - Mobile Apps
