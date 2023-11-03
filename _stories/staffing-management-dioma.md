@@ -2,7 +2,7 @@
 layout: story
 title: "Software integration with DIMONA for an event staffing company"
 image: /assets/img/christina-wocintechchat-com-6Dv3pe-JnSg-unsplash.jpg
-logo: /assets/img/unnamed-3.png
+logo: /assets/img/Screenshot 2023-11-03 at 12.09.49.png
 logo_alt: MP
 categories:
   - Human Resources
