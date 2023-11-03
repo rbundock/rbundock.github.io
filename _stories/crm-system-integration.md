@@ -1,15 +1,13 @@
 ---
 layout: story
 title: "CRM and student records systems integration for a college of further education"
-image: /assets/img/cx-insight-YloghyfD7e8-unsplash.jpg                          
+image: /assets/img/cx-insight-YloghyfD7e8-unsplash.jpg
+logo: /assets/img/bedford-college-logo.jpg
+logo_alt: Bedford College  
 categories:
   - Education
 summary: Bedford College enhances efficiency with automated system, syncing student records across platforms, improving accuracy and productivity.
 ---
-
-# CRM and student records systems integration for a college of further education
-
-![Table1](/assets/img/bedford-college-logo.jpg)
 
 ## Overview
 On a daily basis, **Bedford College** manages the records of over 40,000 students, which they have gathered by manually entering information such as personal details and enrolled courses into the Tribal EBS student record system. Having recently taken the decision to use the Radius CRM to help with their marketing and enrolment processes they needed to be able to synchronise the records between the two systems in order, not only to avoid having to enter everything twice but also to ensure that both systems are kept fully up-to-date with minimal human intervention.
