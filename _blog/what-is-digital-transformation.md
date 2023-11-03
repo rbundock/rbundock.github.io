@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "What is digital transformation?"
-image: /assets/img/what-is-digital-transformation-1.jpg
+image: /assets/img/marius-masalar-CyFBmFEsytU-unsplash.jpg
 summary: Digital transformation, key for business competitiveness, involves adopting new technologies like AI, IoT, blockchain, and cloud computing, tailored to each unique business.
 category:
   - Business
