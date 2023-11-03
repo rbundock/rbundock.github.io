@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "The benefits of outsourcing your software project to Poland"
-image: /assets/img/the-benefits-of-outsourcing-your-software-project-to-poland.jpg
+image: /assets/img/victor-malyushev-Oirxgq5IyCI-unsplash.jpg
 summary: The 2020 Developer Survey highlights Poland's advanced software development scene, marked by experienced, young coders, gender diversity, and strong English skills, making it an ideal outsourcing destination for quality, cost-effective software solutions.
 category:
   - Outsourcing
