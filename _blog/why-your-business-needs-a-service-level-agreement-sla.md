@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Why your business needs a service-level agreement (SLA)"
-image: /assets/img/sm_why-your-business-needs-a-service-level-agreement.jpg
+image: /assets/img/service-level-agreement-featured-image.jpg
 summary: Service-level agreements (SLAs) outline service quality, responsibilities, and issue resolution processes, essential for smooth client transactions and accountability in business partnerships.
 category:
   - Business
