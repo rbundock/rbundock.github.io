@@ -6,6 +6,8 @@ headline: BESPOKE SOFTWARE DEVELOPMENT WITH A <strong>DIFFERENCE</strong>.
 headline_para: We engage over 200 software experts across 3 continents and use data to make decisions enabling us to design incredible software delivered with pace and rigour.
 image: /assets/uploads/hero-home.jpg
 cta: true
+cards_stories_headline: True Success stories<strong>.</strong>
+cards_stories_headline_para: We are particularly proud of these software solutions. Have a look at some of the best software products we have designed and developed with our clients.
 faqs:
   -
     - "What is bespoke software?"

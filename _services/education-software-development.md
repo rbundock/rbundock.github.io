@@ -8,6 +8,8 @@ headline_para: ""
 header_box: relative
 feature_headline: Education software development solutions for all types of educational institutions and businesses
 feature_headline_para: Institutions, schools, and public and commercial establishments all require efficient management to provide educational services at the top level and ensure the best business results. Software solutions in these categories offer users many benefits, from improved visibility and content distribution to analytics and better communication channels. We deliver digital education and training solutions you can trust.
+cards_stories_headline: Education Success stories<strong>.</strong>
+cards_stories_headline_para: Education software is a massive, all-encompassing term used to refer to any software designed for use in the education industry. However, it is no longer just being used in classrooms for learning purposes since the education industry relies on software solutions to run as efficiently as possible.
 features:
   - 
     - School management software
