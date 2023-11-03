@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Trends in business: Freemium"
-image: /assets/img/trends-in-business-freemium.jpg
+image: /assets/img/microsoft-edge-_eCnLJWQXMg-unsplash.jpg
 summary: Freemium model offers free basic services with paid premium features, effectively balancing user accessibility and revenue generation across diverse industries.
 category:
   - Business
