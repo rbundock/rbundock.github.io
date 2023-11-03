@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "The 6 steps of the systems integration process"
-image: /assets/img/6-steps-of-system-integration-process.jpg
+image: /assets/img/joshua-sortino-LqKhnDzSF-8-unsplash.jpg
 summary: Acquiring individual software components initially seems cost-effective but can lead to inefficiency and data inaccuracy as a business evolves. Systems integration, though complex and time-consuming, offers a cohesive solution, enhancing productivity and data analysis by seamlessly connecting various subsystems.
 category:
   - System Intergration
