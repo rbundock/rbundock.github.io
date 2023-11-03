@@ -2,13 +2,13 @@
 layout: story
 title: "Revolutionizing 'A Life in a Day': A Journey of Technological Resurgence and Collaborative Innovation"
 image: /assets/img/mohamed-nohassi-odxB5oIG_iA-unsplash.jpg
+logo: /assets/img/life.in.a.day.png
+logo_alt: Life In A Day
 categories:
   - Business Innovation
 summary: Transforming 'A Life in a Day' with Innovative Tech Solutions.
 ---
 
-## Our Client
-![Table1](/assets/img/life.in.a.day.png)
 ## Overview
 In the ever-evolving landscape of digital solutions, The Method company embarked on an ambitious journey to overhaul their flagship project, "A Life in a Day". Initiated in 2018 by Mark Doyle and John Keates, the project soon became a testament to the symbiotic relationship between The Method and its technical partners. Mark, the main liaison for The Method, has been integral in steering the project since its inception, ensuring its continuous development and maintenance.
 
