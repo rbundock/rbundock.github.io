@@ -1,8 +1,9 @@
 ---
-layout:  post
+layout: blog
 title: "Software migration"
-image: /assets/img/software-migration.jpg
-summary: Navigating software migration's challenges and complexities, this guide helps organisations efficiently update and enhance their software infrastructure.
+categories: bespoke-software 
+image: /assets/img/florian-hahn-tHbt8-7p4eM-unsplash.jpg
+summary: Switching from custom software to resale product software requires a new approach emphasizing flexibility, durability, and standardization, leading to higher initial development costs but offering benefits like recurring revenue and reduced business risk.
 category:
   - Bespoke Software
 ---
