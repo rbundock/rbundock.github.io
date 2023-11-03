@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "What is the UK Innovation Fund?"
-image: /assets/img/UKI2s-innovate-uk.png
+image: /assets/img/micheile-henderson-ZVprbBmT8QA-unsplash.jpg
 summary: Face ID on iPhone and iPad Pro uses the TrueDepth camera for secure facial recognition. It adapts to changes in appearance, works in various conditions, and protects privacy by encrypting data locally. 
 category:
   - Business
