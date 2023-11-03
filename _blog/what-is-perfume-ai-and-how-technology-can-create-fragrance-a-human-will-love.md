@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "What is perfume AI, and how technology can create fragrance a human will love?"
-image: /assets/img/what-is-perfume-ai-and-how-technology-can-create-fragrance-a-human-will-love.jpg
+image: /assets/img/yixian-zhao-q7iZCOXGOWY-unsplash.jpg
 summary: Historically, perfumes were used for seduction, status, and spiritual practices. Modern perfumery evolved in the 19th century, becoming a daily essential by the 1950s. Perfume AI, emerging in the 21st century, blends technology with traditional fragrance creation, revolutionizing the industry while preserving the perfumer's artistry.
 category:
   - Bespoke Software
