@@ -2,14 +2,12 @@
 layout: story
 title: "Two custom software solutions and a complex analysis of business processes?"
 image: /assets/img/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg
+logo: /assets/img/111.png
+logo_alt: London Persian
 categories:
   - Retail
 summary: Custom software transforms rug company's data management and customer service.
 ---
-
-# Two custom software solutions and a complex analysis of business processes?
-
-![Table1](/assets/img/111.png)
 
 The London Persian Rug Company is a reputable British business, renowned for their designer collections of antique, classic, contemporary, decorative and tribal carpets, rugs and runners. Their products are one-of-a-kind, and crafted from hand-spun wool, silk and cotton. The company strives to exceed customer expectations, delivering high-quality products with a matching high-quality service. They do this by getting to know the needs of each potential buyer, to support them in choosing a rug that is right for them. This is achieved by offering services such as measuring, home trial and a care and repair service.
 
