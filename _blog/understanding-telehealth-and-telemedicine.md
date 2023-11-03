@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Understanding telehealth and telemedicine"
-image: /assets/img/understanding-telehealth-and-telemedicine.jpg
+image: /assets/img/arseny-togulev-DE6rYp1nAho-unsplash.jpg
 summary: Telehealth encompasses both clinical and non-clinical remote healthcare, while telemedicine focuses specifically on remote clinical services via technology.
 category:
   - Bespoke Software
