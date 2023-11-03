@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Keep calm and get your cloud under control"
-image: /assets/img/214.jpg
+image: /assets/daoudi-aissa-Pe1Ol9oLc4o-unsplash.jpg
 summary: Effective cloud control hinges on understanding provider capabilities and honing in-house expertise, emphasizing security, data management, and tailored cloud solutions to prevent data loss and ensure compliance.
 category:
   - Bespoke Software
