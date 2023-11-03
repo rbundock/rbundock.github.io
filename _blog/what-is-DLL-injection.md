@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "What is ‘DLL injection’?"
-image: /assets/img/what-is-dll-injection-1.jpg
+image: /assets/img/sara-bakhshi-MfnX4XtGnvU-unsplash.jpg
 summary: DLL Injection involves inserting code into another process's memory via DLLs, enabling tasks like reverse engineering and hot-patching.
 category:
   - Bespoke Software
