@@ -1,7 +1,7 @@
 ---
 layout: service
 title: "Systems integration"
+description: 
+summary: Speed matters. Systems and apps integration, though sometimes challenging, is considered to be the most efficient way of bridging the gap between multisystem, often manual data management, and modern requirements of real-time communication that help to boost productivity. A well-planned and well-performed system or app integration has become a new source of competitive advantage.
 header_box: relative
 ---
-# Systems integration
-For your business to operate as efficiently as possible, it’s vital that all your systems work in harmony. If not, then even simple tasks can be time consuming and costly. System integration ensures all your team has access to the same up-to-date information, boosting productivity and profits.

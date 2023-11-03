@@ -1,7 +1,7 @@
 ---
 layout: service_mobileapp
 title: "Mobile app development"
+description: 
+summary: The mobile industry is growing, and rapidly changing the world of software development. Mobile apps are no longer just apps. Over time, they have become synonymous to prosperous and successful enterprises like Snapchat or Uber. Mobile visibility has become crucial if you want to win new customers. With us, you can build powerful, intuitive applications loved by large numbers of users.
 header_box: relative
 ---
-# Mobile app development
-In a world where mobile is the No.1 way to browse the Internet, it’s vital that your business has a web presence that is 'mobile-friendly' at the very least and, ideally, either a mobile optimised web application or a dedicated mobile app. Our mobile app development experts will turn your ideas into easy-to-use, stylish solutions that increase your mobile visibility on any platform.

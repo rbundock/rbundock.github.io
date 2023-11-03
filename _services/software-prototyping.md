@@ -1,9 +1,7 @@
 ---
 layout: service
 title: "Software prototyping"
+description: 
+summary: Prototyping is used to test various aspects of a solution. It allows you to identify unexpected user behaviour, and spot problems or gaps in a concept. At this stage, the goal is to create an experience and provoke a response. Creating prototypes is at the heart of turning an idea into a product. We ensure that all of our software is built with well-reviewed code, result-driven agile processes and well-designed practices, to deliver IT solutions that can grow with your business.
 header_box: relative
 ---
-# Software prototyping
-Time to market matters but time to profit is the real objective. Within 30 working days, you will validate your product idea and shorten the business cycle to create and deliver value to customers. Such an approach minimises not only the costs of software development but, first and foremost, the risk of future business failure.
-
-We take care of CX, UX and UI to deliver IT solutions that stand the test of time and grow with your business.

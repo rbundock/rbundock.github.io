@@ -1,7 +1,7 @@
 ---
 layout: service
-title: "White label software development"
+title: "Bespoke software development in London and other areas"
+description: 
+summary: Successful products or services do not happen by chance. They are the result of a well-thought-out, well-designed and data-informed business strategy strongly supported by dedicated software solutions. Well-designed bespoke systems or applications are those that keep things simple. They take account of your business processes, apply the best tools, and allow you to keep full control as you grow your company. Agile development methodology provides a framework for quality custom software solutions we’re building day to day for our clients.
 header_box: relative
 ---
-# White label software development
-Our code, your brand! White label software services allow companies to stay up-to-date with technology, have access to urgently needed skills or reduce costs and risks. With more than 15 years’ experience in software development we can deliver smart software solutions, provide comprehensive ongoing maintenance, give technological support and perform further development. We work on the back stage anonymously while letting you take all the credit of the developed solutions.
