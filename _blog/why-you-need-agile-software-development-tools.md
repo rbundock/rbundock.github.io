@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Why you need Agile software development tools"
-image: /assets/img/why-you-need-agile-software-development-tools.jpg
+image: /assets/img/austin-distel-gUIJ0YszPig-unsplash.jpg
 summary: Agile methodology in software development emphasizes adaptability and customer satisfaction, requiring tools for effective communication, identification, reporting, and analytics.
 category:
   - Bespoke Software
