@@ -2,14 +2,12 @@
 layout: story
 title: "A property maintenance portal for real estate companies"
 image: /assets/img/krakenimages-376KN_ISplE-unsplash.jpg
+logo: /assets/img/unnamed-6.png
+logo_alt: Hamways
 categories:
   - Real Estate
 summary: Orias- Streamlined property maintenance software enhancing real estate management efficiency.
 ---
-
-# A property maintenance portal for real estate companies
-
-![Table1](/assets/img/unnamed-6.png)
 
 ## Overview
 To improve communication between property managers, tenants and contractors, the **William Pears Group** found themselves in need of a system which would simplify the process of managing property repairs. Our team developed software to help the company to remain competitive in the property industry.
