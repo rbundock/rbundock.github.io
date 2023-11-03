@@ -1,5 +1,5 @@
 ---
-layout: service
+layout: service_mobileapp
 title: "Mobile app development"
 header_box: relative
 ---
