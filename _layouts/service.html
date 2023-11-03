@@ -8,18 +8,14 @@
     {% include components/panel_intro.html %}
     {% include components/panel_features.html %}
     {% include components/cards_stories.html %}
-    <section class="panel">
-      <div class="wrapper">
-        <div class="[ flow ] [ flow-space-700 ]">
-
-          {{ content }}
-
-        </div>
-      </div>
-
-    </section>
+    {% include components/panel_whatwedo.html %}
+    {% include components/panel_testimonial.html %}
+    {% include components/panel_stats.html %}
 
     {% include components/panel_faqs.html %}
+
+    {% assign panel_contact_color = "charcoal" %}
+    {% include components/panel_contact.html %}
   </main>
   {% include footer.html %}
 </body>
