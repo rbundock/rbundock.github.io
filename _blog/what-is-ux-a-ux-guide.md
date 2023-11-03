@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "What is UX – a UX guide"
-image: /assets/img/what-is-ux-a-ux-guide.jpg
+image: /assets/img/thought-catalog-505eectW54k-unsplash.jpg
 summary: UX design, an umbrella term encompassing Interaction Design, Information Architecture, and User Research, aims to enhance user satisfaction and loyalty through meaningful experiences.
 category:
   - Web Developement 
