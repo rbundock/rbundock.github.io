@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Why you should outsource your software development"
-image: /assets/img/why-should-you-outsource-your-mobile-app.jpg
+title: "Why you should outsource your mobile app development"
+image: /assets/img/Outsourcing01-scaled-2560x1280.jpg
 summary: For effective mobile app development, consider outsourcing for data collection, testing, expertise, cost-efficiency, ongoing support, and aligning with your vision.
 category:
   - Mobile Apps
