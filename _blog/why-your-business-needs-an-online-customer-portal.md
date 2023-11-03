@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Why your business needs an online customer portal"
-image: /assets/img/why-your-business-needs-an-online-customer-portal.jpg
+image: /assets/img/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg
 summary: In a rapidly evolving technological landscape, online customer portals are essential for self-service support, meeting customer expectations, and improving business efficiency.
 category:
   - Business
