@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "What is IoT in healthcare?"
-image: /assets/img/what-is-iot-in-healthcare.jpg
+image: /assets/img/national-cancer-institute-NFvdKIhxYlU-unsplash.jpg
 summary: IoT in healthcare integrates technology for data management, disease prevention, and real-time monitoring, enhancing patient care, emergency services, and resource management. It includes smart pills, emergency systems, home healthcare, medication services, portable devices, social networking, and telemedicine, facing challenges like data sensitivity and technological access disparities.
 category:
   - Bespoke Software
