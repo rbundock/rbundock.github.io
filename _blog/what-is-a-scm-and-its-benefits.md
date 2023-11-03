@@ -2,7 +2,7 @@
 layout: blog
 title: "What is a SCM and its benefits"
 categories: bespoke-software 
-image: /assets/img/what-is-a-scm-and-its-benefits.jpg
+image: /assets/img/jacques-dillies-jcav1COVvOc-unsplash.jpg
 summary: Supply chain management (SCM) software streamlines manufacturing by enhancing planning, procurement, production, distribution, and customer relations, reducing costs and increasing efficiency.
 category:
   - Bespoke Software
