@@ -1,15 +1,13 @@
 ---
 layout: story
 title: "Reeson Care Homes"
-image: /assets/img/vlad-sargu-ItphH2lGzuI-unsplash.jpg    
+image: /assets/img/vlad-sargu-ItphH2lGzuI-unsplash.jpg   
+logo: /assets/img/logo.jpg
+logo_alt: Reeson Care Homes
 categories:
   - Health
 summary: Reeson Care Homes digitalizes, streamlines processes, improving efficiency and remote management.
 ---
-
-## Our client 
-
-![Table1](/assets/img/logo.jpg)
 
 When times are hard, one way for any business to avoid getting into difficulty is to improve the business processes and introduce efficiencies. The outbreak of Covid created many problems for the care home industry and Reeson Care Homes saw how important it was to move away from paper-based administration to the online world of digital forms.
 
