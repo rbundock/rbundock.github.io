@@ -1,15 +1,13 @@
 ---
 layout: story
 title: "Why Excel spreadsheets could be limiting your company’s growth?"
-image: /assets/img/thisisengineering-raeng-ZPeXrWxOjRQ-unsplash.jpg                 
+image: /assets/img/thisisengineering-raeng-ZPeXrWxOjRQ-unsplash.jpg
+logo: /assets/img/Four04_Logo.svg
+logo_alt: Four04 
 categories:
   - Manufacturing
 summary: Excel's limitations hinder business growth; bespoke ERP solutions enable scalability and efficiency.
 ---
-
-# Why Excel spreadsheets could be limiting your company’s growth?
-
-![Table1](/assets/img/Four04_Logo.svg)
 
 Four04 is a privately owned company which supplies packaging materials to a range of industries, but specialises in the food sector and is one of the leading packaging producers in the UK. Customer service, innovation and social responsibility lie at the forefront of their business goals and they promise a professional and passionate service to all their customers. In order to fulfil these promises, Four04 recognises that it is important to have the right tools and technology.
 
