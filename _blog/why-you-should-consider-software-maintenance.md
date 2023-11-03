@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Why you should consider software maintenance"
-image: /assets/img/why-you-should-consider-software-maintenance.jpg
+image: /assets/img/christopher-gower-m_HRfLhgABo-unsplash.jpg
 summary: Software maintenance is crucial for businesses to ensure continuous operation, bug fixes, flexibility, updates, improved user experience, and data security.
 category:
   - Bespoke Software
