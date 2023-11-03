@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Which companies can benefit from bespoke software"
-image: /assets/img/KANBAN_pexels-anthony-shkraba-5475757.jpg
+image: /assets/img/thisisengineering-raeng-TAKGtohfURs-unsplash.jpg
 summary: Custom software caters to specific business needs, offering competitive advantages over generic solutions, popular in recruitment, hospitality, manufacturing, and healthcare industries.
 category:
   - Bespoke Software
