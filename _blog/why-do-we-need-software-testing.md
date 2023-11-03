@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Why do we need software testing?"
-image: /assets/img/why-we-need-software-testing.jpg
+image: /assets/img/sigmund-elHKkgom1VU-unsplash.jpg
 summary: Software testing is essential in business, ensuring products meet expectations and function across devices, ultimately safeguarding reputation and financial investments.
 category:
   - Bespoke Software
