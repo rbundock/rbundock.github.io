@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "What is scrum methodology in agile?"
-image: /assets/img/what-is-scrum-methodology-in-agile.jpg
+image: /assets/img/irfan-simsar-wxWulfjN-G0-unsplash.jpg
 summary: Scrum is an agile framework focused on team collaboration, adapting to change, and efficiently managing complex, dynamic IT projects.
 category:
   - Business
