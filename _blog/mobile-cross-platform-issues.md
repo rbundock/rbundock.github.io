@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Mobile cross-platform issues"
-image: /assets/img/mobile-cross-platform-issues.jpg
+image: /assets/img/igor-son-Nod1nQ0i5a0-unsplash.jpg
 summary: Native Development tailors software specifically for platforms like Android, optimizing performance, unlike web or hybrid apps, which face distribution and functionality challenges across different systems.
 category:
   - Mobile Apps
