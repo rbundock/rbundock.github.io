@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "What is rapid applications development (RAD) and how to use it?"
-image: /assets/img/what-is-rapid-applications-development-rad-and-how-to-use-it.jpg
+image: /assets/img/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg
 summary: Rapid Application Development (RAD) is a flexible, user-focused software development method emphasizing quick feedback and iterative prototyping to create customized applications efficiently. Ideal for tight deadlines and flexible budgets, it involves five key steps and brings several benefits like adaptability, reduced error rates, and enhanced customer satisfaction.
 category:
   - Bespoke Software
