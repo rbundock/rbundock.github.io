@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Main roles and responsibilities in the software development cycle"
-image: /assets/img/main-roles-and-responsibilities-in-the-software-development-cycle.jpg
+image: /assets/img/nareeta-martin-za2gMSfLmzU-unsplash.jpg
 summary: Effective software development hinges on a skilled, cross-functional team comprising roles like Product Owner, Business Analyst, Project Manager, UX Designer, Developer, Technical Lead, QA, and UAT specialists.
 category:
   - Bespoke Software
