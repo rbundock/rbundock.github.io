@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "What is FaceID and how can we use it"
-image: /assets/img/pexels-rodnae-productions-5915239.jpg
+image: /assets/img/szabo-viktor-8MU2zOaDU4M-unsplash.jpg
 summary: Face ID uses advanced TrueDepth camera technology for secure, convenient authentication on iPhones and iPads, prioritizing privacy and accessibility.
 category:
   - Business
