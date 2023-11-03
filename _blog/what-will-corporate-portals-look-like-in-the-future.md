@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "What will corporate portals look like in the future?"
-image: /assets/img/what-will-corporate-portals-look-like-in-the-future.jpg
+image: /assets/img/christopher-burns-dzejyfCAzIA-unsplash.jpg
 summary: Cloud-based systems foster a dynamic work environment, enabling remote access, seamless integration, cost efficiency, and are essential for future competitiveness.
 category:
   - Web Development
