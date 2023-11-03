@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Is the cost of software equal to its initial price?"
-image: /assets/img/is-the-cost-of-software-equal-to-its-initial-price.jpg
+image: /assets/img/shane-U_ekGjoIm_E-unsplash.jpg
 summary: In digital transformation, businesses must choose between bespoke or off-the-shelf software, considering long-term costs and tailored efficiency needs.
 category:
   - Bespoke Software
