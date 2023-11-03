@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "What is ecommerce software and its benefits"
-image: /assets/img/what-is-ecommerce-software-and-its-benefits.jpg
+image: /assets/img/anete-lusina-zwsHjakE_iI-unsplash.jpg
 summary: Ecommerce software streamlines online sales, integrating front and back-office systems for product, inventory, and order management, enhancing customer experience and business efficiency.
 category:
   - Bespoke Software
