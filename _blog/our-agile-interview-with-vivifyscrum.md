@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Our Agile interview with Vivifyscrum"
-image: /assets/img/our-agile-interview-with-vivifyscrum.jpg
+image: /assets/img/will-francis-ZDNyhmgkZlQ-unsplash.jpg
 summary: Kate Witko, PMO Manager at HeadChannel, discusses transitioning to Agile for a brokerage and manufacturing system project, facing challenges in team self-organization and client education.
 category:
   - Bespoke Software
