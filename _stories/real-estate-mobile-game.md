@@ -1,14 +1,13 @@
 ---
 layout: story
 title: "Real estate mobile game for a gaming company"
-image: /assets/img/maria-ziegler-jJnZg7vBfMs-unsplash.jpg       
+image: /assets/img/maria-ziegler-jJnZg7vBfMs-unsplash.jpg 
+logo: /assets/img/unnamed-7.png
+logo_alt: Property Magnate
 categories:
   - Real Estate
 summary: Mobile real estate game with realistic UK property development experience. 
 ---
-# Real estate mobile game for a gaming company
-
-![Table1](/assets/img/unnamed-7.png)
 
 Property Magnate is an up and coming mobile real estate game, available on both iOS and Android, that has been designed to emulate as closely as possible the real world of property development in the UK.
 
