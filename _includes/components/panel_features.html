@@ -15,10 +15,10 @@
                 {% for features in page.features %}
                 <li class="[ breakdown ] [ flow ]">
                     <span class="breakdown__icon">
-                        <img src="{{ faq[2] }}" alt=""/>
+                        <img src="{{ features[2] }}" alt=""/>
                     </span>
-                    <h3 class="text-400">{{ faq[0] | markdownify }}</h3>
-                    <p>{{ faq[1] | markdownify }}</p>
+                    <h3 class="text-400">{{ features[0] | markdownify }}</h3>
+                    <p>{{ features[1] | markdownify }}</p>
                     <div class="cta-btn">
                         <a class="button_magenta" href="https://meetings.hubspot.com/dpride">Book a consult</a>
                     </div>
@@ -29,3 +29,8 @@
         </div>
     </div>
 </section>
+<!-- 
+
+
+
+-->
