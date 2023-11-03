@@ -1,15 +1,13 @@
 ---
 layout: story
 title: "NHS PS Customer Portal"
-image: /assets/img/national-cancer-institute-L8tWZT4CcVQ-unsplash.jpg           
+image: /assets/img/national-cancer-institute-L8tWZT4CcVQ-unsplash.jpg   
+logo: /assets/img/NHS-PS-620x201-1.png
+logo_alt: NHS
 categories:
   - Manufacturing
 summary: NHS portal upgrade enhances customer interaction and process automation efficiency.
 ---
-
-# Our client
-
-![Table1](/assets/img/NHS-PS-620x201-1.png)
 
 We worked on delivering a system that would support NHS Property Services with handling their processes and communication with customers. By providing the Customer Portal we aimed to improve NHSPS customer services, give unlimited access to all required information, save time on automating processes and ensure direct contact with the customer centre team when it’s needed. 
 
