@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Project management methodology for lazy people"
-image: /assets/img/project-management-methodology-for-lazy-people.jpg
+image: /assets/img/gregory-pappas-rUc9hVE-L-E-unsplash.jpg
 summary: Bill Gates' view on laziness driving efficiency reflects in evolving technology and project management. Over decades, simplification, like Agile over Waterfall, emerged from this mindset. TDD exemplifies how 'lazy' approaches in software development can lead to streamlined, error-reducing practices, applicable across various fields.
 category:
   - Business 
