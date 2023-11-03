@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "What is a CRM and its benefits"
-image: /assets/img/what-is-a-crm-and-its-benefits.jpg
+image: /assets/img/gabriel-benois-qnWPjzewewA-unsplash.jpg
 summary: CRM software automates sales processes and customer interactions, enhancing lead management, communication, and forecasting, boosting sales and customer service efficiency.
 category:
   - Bespoke Software
