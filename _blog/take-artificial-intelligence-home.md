@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Take artificial intelligence home"
-image: /assets/img/FB_IMG_1591602157273.jpg
+image: /assets/img/possessed-photography-jIBMSMs4_kA-unsplash.jpg
 summary: Artificial Intelligence is rapidly advancing, integrating into daily life, enhancing convenience in gaming, art, virtual assistance, translation, and disease diagnosis, revolutionizing both leisure and healthcare.
 category:
   - Business 
