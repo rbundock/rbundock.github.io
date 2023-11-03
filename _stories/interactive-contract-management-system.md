@@ -1,15 +1,13 @@
 ---
 layout: story
 title: "Interactive Contract Management System"
-image: /assets/img/joe-yates-Cc4sToR2Oc0-unsplash.jpg            
+image: /assets/img/interactive-contract-management-system.jpg   
+logo: /assets/img/lets-inspect-logo.png
+logo_alt: IPA
 categories:
   - Membership Organisation
 summary: IPA's digital system transforms contract management for advertising practitioners. 
 ---
-
-# Our Client 
-
-![Table1](/assets/img/interactive-contract-management-system.jpg)
 
 ## Overview
 The Institute of Practitioners in Advertising (IPA) is a non-profit organisation that supports over 4000 UK-based advertising practitioners every year. They are responsible for setting the official procedures for the best practise standards of the UK advertising industry. Their area of expertise encompasses a diverse range of sectors including creative, healthcare and media. The IPA advises and promotes advertising agencies, and works hard to address their issues.
