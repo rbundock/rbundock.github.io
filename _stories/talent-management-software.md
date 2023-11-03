@@ -2,7 +2,7 @@
 layout: story
 title: "Talent management software for an event staffing company"
 image: /assets/img/michael-afonso-z8Tul255kGg-unsplash.jpg
-logo: /assets/img/unnamed-2.png
+logo: /assets/img/Screenshot 2023-11-03 at 12.09.49.png
 logo_alt: Talistar
 categories: 
   - Human Resources
