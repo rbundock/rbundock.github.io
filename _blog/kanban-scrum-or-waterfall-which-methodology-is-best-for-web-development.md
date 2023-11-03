@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Kanban, scrum or waterfall – which methodology is best for web development?"
-image: /assets/img/kanban-scrum-or-waterfall-which-methodology-is-best-for-web-development.jpg
+image: /assets/img/vladislav-babienko-KTpSVEcU0XU-unsplash.jpg
 summary: Choosing the right software development methodology depends on project scope, flexibility needs, and management preferences- Waterfall for fixed scopes, Scrum for adaptable projects, and Kanban for ongoing maintenance.
 category:
   - Business
