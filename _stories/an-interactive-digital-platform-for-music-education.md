@@ -1,15 +1,13 @@
 ---
 layout: story
 title: "An Interactive Digital Platform For Music "
-image: /assets/img/marius-masalar-rPOmLGwai2w-unsplash.jpg            
+image: /assets/img/marius-masalar-rPOmLGwai2w-unsplash.jpg 
+logo: /assets/img/DacapoPrimaryMusiclogo.png
+logo_alt: Dacapo Music
 categories:
   - Education
 summary: DaCapo transforms music education with digital tools, empowering UK schools and students amidst national curriculum challenges.
 ---
-
-# Our client
-
-![Table1](/assets/img/DacapoPrimaryMusiclogo.png)
 
 DaCapo began its journey as a Saturday School in 1991. It was formed by Jane Cutler and Michelle Groves to provide a small supportive space for music-enthusiasts to connect, enjoy and express their musical interest together. Today, it has grown into a program that teaches and harnesses musicality and musical appreciation across the country. DaCapo does this by drawing on Kodaly and Dalcoze techniques to connect music with the mind and body of students. The programme is taught by 100 expertly skilled and trained DaCapo instructors who have already made an impact in 50 schools across the UK so far. They seek to teach as well as equip other teachers with the skills and resources needed to develop musical ability among their students. These resources include songbooks, rhythm flashcards and instrumentalist books. In this way, DaCapo helps to promote opportunity and equality in the music education of the next generation. 
 
