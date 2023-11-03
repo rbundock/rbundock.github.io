@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "What is the Extreme Programming"
-image: /assets/img/what-is-the-extreme-programming.jpg
+image: /assets/img/mohammad-rahmani-8qEB0fTe9Vw-unsplash.jpg
 summary: Extreme Programming (XP) is a highly collaborative agile methodology emphasizing short releases, iterative development, and frequent customer interaction to accommodate dynamic project changes, thereby enhancing customer satisfaction through teamwork and key principles like communication and feedback.
 category:
   - Bespoke Software
