@@ -1,20 +1,15 @@
 ---
 layout: story
 title: "Inspection app for real estate companies"
-image: /assets/img/agence-olloweb-d9ILr-dbEdg-unsplash.jpg      
+image: /assets/img/agence-olloweb-d9ILr-dbEdg-unsplash.jpg 
+logo: /assets/img/lets-inspect-logo.png
+logo_alt: Lets Inspect
 categories:
   - Real Estate
 summary: Real estate inspection app streamlining processes, enhancing efficiency, cutting time.
 ---
 
-# Inspection app for real estate companies
-
-## Overview
-
-![Table1](/assets/img/lets-inspect-logo.png)
-
 LetsInspect is a flexible and customisable inspection application which makes carrying out an inspection fast and easy. The main aims of the app were to cut the inspection times whilst ensuring that nothing was missed, eliminate paperwork and, most importantly, significantly reduce the time taken to generate reports and fix any issues discovered as a result of the inspection. We equipped it with powerful tools which help to save time and boost efficiency.
-
 
 ## Functions
 To simplify the inspection process, LetsInspect offers the following features:
