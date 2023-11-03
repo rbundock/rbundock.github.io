@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Which companies can benefit from property management software"
-image: /assets/img/engineers-in-workshop-3861960-2048x1366.jpg
+image: /assets/img/origin.jpg
 summary: Bespoke property management software boosts hospitality industry productivity, simplifies operations, enhances customer experience, and helps businesses stay competitive.
 category:
   - Bespoke Software
