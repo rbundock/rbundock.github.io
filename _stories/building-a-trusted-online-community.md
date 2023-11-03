@@ -2,13 +2,12 @@
 layout: story
 title: "A system for managing contruction assets"
 image: /assets/img/camilo-jimenez-qZenO_gQ7QA-unsplash.jpg
+logo: /assets/img/Screenshot 2023-11-02 at 12.51.03.png
+logo_alt: Radio H-P
 categories:
   - Tech Innovation
 summary: Radio H-P- Fostering Online Community, Trust, and Innovation.
 ---
-
-## Our Client 
-![Table1](/assets/img/Screenshot 2023-11-02 at 12.51.03.png)
 
 ## Overview
 In the heart of the UK, a unique and inspiring project emerged in 2019 – Radio H-P Ltd., conceptualized by ex-British Army major Nigel Hadden-Patton and his wife. This project was not just another commercial venture; it was a beacon of hope and assistance for younger generations grappling with the challenges of modern life. Nigel, leveraging his army experience and values, and his son Harry Hadden-Patton, a prominent British actor, played pivotal roles in sculpting Radio H-P into a reliable online community.
