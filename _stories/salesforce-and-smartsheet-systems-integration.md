@@ -2,14 +2,12 @@
 layout: story
 title: "Salesforce and Smartsheet systems integration for Smiley World"
 image: /assets/img/javier-miranda-MrWOCGKFVDg-unsplash.jpg
+logo: /assets/img/smiley-logo.jpg
+logo_alt: Smiley
 categories:
   - Human Resources
 summary: Salesforce-Smartsheet Integration Streamlines Smiley World Operations.
 ---
-
-# Salesforce and Smartsheet systems integration for Smiley World
-
-![Table1](/assets/img/smiley-logo.jpg)
 
 ## Overview
 Smiley World (the owner of the Smiley brand) use a number of different systems to track the worldwide use of their brand and to manage the royalties generated. Two of those systems are the **Salesforce CRM** and an online project management and spreadsheet system called **Smartsheet** and these systems contain a large amount of common information. The staff of Smiley World are updating different parts of these systems on a daily basis and so needed a way to avoid both duplication of effort and errors caused by data being entered slightly differently in each system.
