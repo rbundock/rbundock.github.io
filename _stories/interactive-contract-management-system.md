@@ -6,7 +6,7 @@ logo: /assets/img/interactive-contract-management-system.jpg
 logo_alt: IPA
 categories:
   - Membership Organisation
-summary: IPA's digital system transforms contract management for advertising practitioners. 
+summary: IPA's digital system transforms contract management for advertising practitioners.
 ---
 
 ## Overview
