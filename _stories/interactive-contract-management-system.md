@@ -1,8 +1,8 @@
 ---
 layout: story
 title: "Interactive Contract Management System"
-image: /assets/img/interactive-contract-management-system.jpg   
-logo: /assets/img/lets-inspect-logo.png
+image: /assets/img/andre-benz-_T35CPjjSik-unsplash.jpg   
+logo: /assets/img/interactive-contract-management-system.jpg
 logo_alt: IPA
 categories:
   - Membership Organisation
